@@ -8,9 +8,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      deployments: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -26,7 +23,10 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: pages deploy public --project-name=theshoppersverdict --branch=main
+        env:
+          CF_EMAIL: glycdigital@gmail.com
+          CF_KEY: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          npx --yes wrangler@4.86.0 pages deploy public \
+            --project-name=theshoppersverdict \
+            --branch=main
