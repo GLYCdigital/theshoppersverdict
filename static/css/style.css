@@ -416,7 +416,111 @@ ul { list-style: none; }
 .product-card.placeholder h3 { font-size: 20px; margin-bottom: 8px; }
 
 
-/* Featured Picks (3-column) */
+
+/* Featured Picks — 3 columns x 3 product rows */
+.featured-picks {
+  padding: 48px 0;
+  background: var(--white);
+}
+.picks-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+.picks-overline {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--gold);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.picks-header .section-title {
+  font-size: 22px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+.picks-header .section-title::after { display: none; }
+.picks-subtitle {
+  font-size: 14px;
+  font-weight: 600;
+}
+.picks-subtitle a { color: var(--navy); }
+.picks-subtitle a:hover { color: var(--gold); }
+
+.picks-columns {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+.picks-col {
+  background: var(--off-white);
+  border-radius: var(--radius);
+  padding: 24px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.picks-col-title {
+  font-family: var(--font-heading);
+  font-size: 18px;
+  color: var(--navy);
+  text-align: center;
+  margin-bottom: 2px;
+}
+.picks-col-cat {
+  display: block;
+  text-align: center;
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--gold);
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+}
+
+.pick-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border-light);
+}
+.pick-row:last-child {
+  border-bottom: none;
+}
+.pick-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 4px;
+  background: var(--border-light);
+  flex-shrink: 0;
+}
+.pick-info {
+  flex: 1;
+  min-width: 0;
+}
+.pick-name {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--charcoal);
+  line-height: 1.3;
+  display: block;
+  margin-bottom: 4px;
+}
+.pick-name:hover { color: var(--gold); }
+.pick-prices {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.pick-original {
+  font-size: 12px;
+  color: var(--muted);
+  text-decoration: line-through;
+}
+.pick-sale {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--red);
+}
 .featured-picks {
   padding: 48px 0;
   background: var(--white);
