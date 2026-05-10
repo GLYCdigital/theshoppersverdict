@@ -1,15 +1,54 @@
 {{ define "main" }}
-<!-- Hero Banner -->
-<section class="hero-banner" style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('/images/hero-kitchen.jpg') center/cover no-repeat;">
+<!-- Hero Banner (weekly rotation) -->
+<section class="hero-banner" id="heroBanner" style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('/images/hero-kitchen.jpg') center/cover no-repeat;">
   <div class="container hero-banner-inner">
-    <div class="hero-banner-text">
-      <span class="hero-banner-label">FEATURED CATEGORY</span>
-      <h1>Kitchen Appliances</h1>
-      <p>The verdict on air fryers, knife sets, coffee makers, and everything your kitchen needs.</p>
-      <a href="/kitchen/" class="btn btn-gold">Shop Kitchen →</a>
+    <div class="hero-banner-text" id="heroText">
+      <span class="hero-banner-label" id="heroLabel">FEATURED CATEGORY</span>
+      <h1 id="heroTitle">Kitchen Appliances</h1>
+      <p id="heroDesc">The verdict on air fryers, knife sets, and everything your kitchen needs.</p>
+      <a href="/kitchen/" class="btn btn-gold" id="heroCTA">Shop Kitchen →</a>
     </div>
   </div>
 </section>
+
+<script>
+(function() {
+  var today = new Date();
+  var start = new Date(today.getFullYear(), 0, 1);
+  var weekNum = Math.ceil((((today - start) / 86400000) + start.getDay() + 1) / 7);
+  var rotation = weekNum % 3;
+  // 0 = Kitchen, 1 = Coffee, 2 = Home Office
+  var data = [
+    {
+      bg: '/images/hero-kitchen.jpg',
+      title: 'Kitchen Appliances',
+      desc: 'The verdict on air fryers, knife sets, and everything your kitchen needs.',
+      link: '/kitchen/',
+      cta: 'Shop Kitchen →'
+    },
+    {
+      bg: '/images/hero-coffee.jpg',
+      title: 'Coffee Gear',
+      desc: 'Honest verdicts on espresso machines, grinders, brewers, and more.',
+      link: '/coffee/',
+      cta: 'Shop Coffee →'
+    },
+    {
+      bg: '/images/hero-home-office.jpg',
+      title: 'Home Office',
+      desc: 'Verdicts on chairs, monitors, desks, and workspace essentials.',
+      link: '/home-office/',
+      cta: 'Shop Office →'
+    }
+  ];
+  var pick = data[rotation];
+  document.getElementById('heroBanner').style.background = 'linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url(' + pick.bg + ') center/cover no-repeat';
+  document.getElementById('heroTitle').textContent = pick.title;
+  document.getElementById('heroDesc').textContent = pick.desc;
+  document.getElementById('heroCTA').href = pick.link;
+  document.getElementById('heroCTA').textContent = pick.cta;
+})();
+</script>
 
 <!-- Categories Section -->
 <section class="categories-section">
