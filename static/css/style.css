@@ -146,7 +146,21 @@ ul { list-style: none; }
 .sub-header-white-inner {
   display: flex;
   align-items: center;
+  justify-content: center;
   height: 100%;
+}
+.promo-text {
+  font-size: 14px;
+  color: var(--charcoal);
+}
+.promo-text a {
+  color: var(--navy);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.promo-text a:hover {
+  color: var(--gold);
 }
 
 .nav-primary { margin-left: auto; }
