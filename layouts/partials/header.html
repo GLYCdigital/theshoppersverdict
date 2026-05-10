@@ -4,17 +4,9 @@
       <a href="/" class="logo">
         <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" width="138" height="138">
       </a>
-      <nav class="nav-primary" id="mainNav">
-        <ul>
-          {{ range .Site.Menus.main }}
-          <li><a href="{{ .URL }}"{{ if hasPrefix $.Page.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
-      </nav>
 
-      <button class="hamburger" id="hamburger" aria-label="Menu">
-        <span></span><span></span><span></span>
-      </button>
+
+
     </div>
   </header>
 
@@ -32,10 +24,3 @@
     </div>
   </div>
 </div>
-
-<script>
-document.getElementById('hamburger')?.addEventListener('click', function() {
-  document.getElementById('mainNav').classList.toggle('open');
-  this.classList.toggle('open');
-});
-</script>
