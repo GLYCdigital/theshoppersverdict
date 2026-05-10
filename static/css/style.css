@@ -523,19 +523,19 @@ ul { list-style: none; }
 .trust-badge-item span { font-size: 14px; color: var(--off-white); }
 
 /* Footer Main */
-.footer-main { background: var(--navy); color: var(--off-white); padding: 48px 0 32px; }
+.footer-main { background: #F7F5F0; padding: 48px 0 32px; }
 .footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1.5fr; gap: 32px; }
-.footer-tagline { font-family: var(--font-heading); font-size: 16px; color: var(--gold); margin-top: 12px; }
+.footer-tagline { font-family: var(--font-heading); font-size: 16px; color: var(--navy); margin-top: 12px; }
 .footer-desc { font-size: 13px; color: var(--muted); margin-top: 8px; max-width: 280px; line-height: 1.6; }
-.footer-col h4 { font-size: 14px; font-weight: 600; color: var(--gold); margin-bottom: 12px; }
+.footer-col h4 { font-size: 14px; font-weight: 600; color: var(--navy); margin-bottom: 12px; }
 .footer-col li { margin-bottom: 6px; }
-.footer-col a { font-size: 13px; color: var(--off-white); opacity: 0.8; transition: opacity var(--transition); }
+.footer-col a { font-size: 13px; color: var(--charcoal); opacity: 0.8; transition: opacity var(--transition); }
 .footer-col a:hover { opacity: 1; color: var(--gold); }
 .footer-newsletter p { font-size: 13px; margin-bottom: 10px; color: var(--muted); }
 .newsletter-form { display: flex; gap: 8px; }
 .newsletter-form input {
-  flex: 1; padding: 10px 12px; border: 1px solid rgba(255,255,255,0.2); border-radius: 4px;
-  background: rgba(255,255,255,0.05); color: var(--white); font-size: 13px; font-family: var(--font-body);
+  flex: 1; padding: 10px 12px; border: 1px solid var(--border-light); border-radius: 4px;
+  background: var(--white); color: var(--charcoal); font-size: 13px; font-family: var(--font-body);
 }
 .newsletter-form input::placeholder { color: var(--muted); }
 .newsletter-form input:focus { outline: none; border-color: var(--gold); }
