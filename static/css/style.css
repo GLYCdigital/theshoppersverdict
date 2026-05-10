@@ -40,7 +40,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 img { max-width: 100%; height: auto; display: block; }
-main { padding-top: 240px; } /* offset sticky stack: 120px header + 60px navy + 60px white */
+main { padding-top: 180px; } /* offset sticky stack: 120px header + 60px promo bar */
 a { color: inherit; text-decoration: none; }
 ul { list-style: none; }
 .container { max-width: var(--container); margin: 0 auto; padding: 0 24px; }
@@ -117,24 +117,23 @@ ul { list-style: none; }
 }
 .logo img { display: block; max-width: 100%; max-height: 100%; object-fit: contain; }
 
-/* Sub-header — Navy bar */
-.sub-header {
-  background: var(--navy);
-  height: 60px;
-}
-.sub-header-inner {
+/* Trust text on right of top header */
+.header-trust-text {
+  margin-left: auto;
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 36px;
-  height: 100%;
+  gap: 12px;
 }
-.sub-header-text {
-  font-size: 13px;
+.header-trust-text span {
+  font-size: 12px;
   font-weight: 500;
-  color: var(--off-white);
-  letter-spacing: 0.5px;
-  text-transform: uppercase;
+  color: var(--muted);
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+}
+.trust-divider {
+  color: var(--border-light);
+  font-weight: 300;
 }
 
 /* Sub-header — White bar */
