@@ -212,7 +212,7 @@ ul { list-style: none; }
   display: flex;
   align-items: center;
   gap: 28px;
-  margin-left: 32px;
+  margin-left: auto;
 }
 .navy-nav a {
   font-size: 13px;
