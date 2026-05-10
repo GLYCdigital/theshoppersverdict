@@ -1,24 +1,92 @@
 {{ define "main" }}
-{{ partial "hero.html" (dict "tagline" .Site.Params.tagline "subtitle" .Site.Params.description "cta_text" "See Our Top Picks →" "cta_url" "/kitchen/" "hero_image" "/images/hero-kitchen.jpg") }}
-{{ partial "trust-bar.html" . }}
+<!-- Hero Banner -->
+<section class="hero-banner" style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('/images/hero-kitchen.jpg') center/cover no-repeat;">
+  <div class="container hero-banner-inner">
+    <div class="hero-banner-text">
+      <span class="hero-banner-label">FEATURED CATEGORY</span>
+      <h1>Kitchen Appliances</h1>
+      <p>The verdict on air fryers, knife sets, coffee makers, and everything your kitchen needs.</p>
+      <a href="/kitchen/" class="btn btn-gold">Shop Kitchen →</a>
+    </div>
+  </div>
+</section>
 
-{{ partial "category-tiles.html" . }}
+<!-- Categories Section -->
+<section class="categories-section">
+  <div class="container">
+    <h2 class="section-title">Shop by Category</h2>
+    <div class="category-grid">
+      <a href="/kitchen/" class="category-card" style="background-image: url('/images/category-kitchen.jpg');">
+        <div class="category-card-overlay">
+          <h3>Kitchen</h3>
+          <span class="category-cta">Shop Now →</span>
+        </div>
+      </a>
+      <a href="/coffee/" class="category-card" style="background-image: url('/images/category-coffee.jpg');">
+        <div class="category-card-overlay">
+          <h3>Coffee</h3>
+          <span class="category-cta">Shop Now →</span>
+        </div>
+      </a>
+      <a href="/home-office/" class="category-card" style="background-image: url('/images/category-home-office.jpg');">
+        <div class="category-card-overlay">
+          <h3>Home Office</h3>
+          <span class="category-cta">Shop Now →</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
 
+<!-- Featured Verdicts -->
 {{ $pages := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office") }}
 {{ $featured := first 8 $pages }}
-{{ if $featured }}
-<section class="featured-verdicts">
+<section class="featured-section">
   <div class="container">
-    <h2 class="section-title">Featured Verdicts</h2>
-    <div class="review-grid">
-      {{ range $featured }}
-        {{ partial "review-card.html" . }}
+    <h2 class="section-title">Today's Favorites</h2>
+    <div class="product-grid">
+      {{ if $featured }}
+        {{ range $featured }}
+        <div class="product-card">
+          <div class="product-card-badge verdict-badge-mini">
+            <span class="verdict-score-mini">{{ .Params.verdict_score | default "9.0" }}</span>
+          </div>
+          <div class="product-card-body">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            {{ with .Params.amazon_rating }}
+            <div class="product-stars">
+              {{ $rating := . }}{{ $full := math.Floor $rating }}{{ $half := 0 }}
+              {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
+              {{ range seq 5 }}
+                {{ if le . $full }}<span class="star full">★</span>
+                {{ else if and (eq . (add $full 1)) (eq $half 1) }}<span class="star half">★</span>
+                {{ else }}<span class="star empty">★</span>
+                {{ end }}
+              {{ end }}
+              <span class="product-rating-text">({{ .Params.review_count | default 0 }})</span>
+            </div>
+            {{ end }}
+            <p class="product-excerpt">{{ .Summary | plainify | truncate 80 }}</p>
+            <div class="product-price-row">
+              <span class="product-tag verdict-tag">VERDICT</span>
+              <a href="{{ .RelPermalink }}" class="btn btn-sm btn-gold">Read →</a>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      {{ else }}
+        <div class="product-card placeholder">
+          <div class="product-card-body">
+            <h3>Reviews Coming Soon</h3>
+            <p>Our team is analyzing thousands of Amazon reviews. Check back soon for our verdicts.</p>
+          </div>
+        </div>
       {{ end }}
     </div>
   </div>
 </section>
-{{ end }}
 
+<!-- Why Trust Us -->
 <section class="about-snippet">
   <div class="container">
     <h2>Why Trust The Shopper's Verdict?</h2>

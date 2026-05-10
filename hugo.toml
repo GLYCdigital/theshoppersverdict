@@ -16,7 +16,7 @@ summaryLength = 25
   color_green = "#2D8A4E"
 
   [params.assets]
-    logo = "/images/logo-horizontal.png"
+    logo = "/images/logo-icon.png"
     logo_icon = "/images/favicon.png"
     og_image = "/images/og-social.jpg"
 

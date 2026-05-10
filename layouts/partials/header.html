@@ -1,20 +1,22 @@
 <header class="site-header">
   <div class="container header-inner">
     <a href="/" class="logo">
-      <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" height="28" width="auto">
+      <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" height="40" width="auto">
     </a>
     <nav class="nav-primary" id="mainNav">
       <ul>
         {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}"{{ if eq $.Page.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a></li>
+        <li><a href="{{ .URL }}"{{ if hasPrefix $.Page.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a></li>
         {{ end }}
       </ul>
     </nav>
     <div class="header-actions">
-      <button class="search-toggle" aria-label="Search" onclick="alert('Search coming soon')">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      </button>
-      <a href="/newsletter/" class="btn btn-outline btn-sm">Get the Verdict</a>
+      <a href="/" class="header-icon" aria-label="Search">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </a>
+      <a href="/newsletter/" class="header-icon" aria-label="Newsletter">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+      </a>
     </div>
     <button class="hamburger" id="hamburger" aria-label="Menu">
       <span></span><span></span><span></span>

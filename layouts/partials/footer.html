@@ -1,34 +1,66 @@
 <footer class="site-footer">
-  <div class="container footer-grid">
-    <div class="footer-brand">
-      <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" height="24" width="auto">
-      <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
-    </div>
-    <div class="footer-col">
-      <h4>Categories</h4>
-      <ul>
-        {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
-    <div class="footer-col">
-      <h4>Company</h4>
-      <ul>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/contact/">Contact</a></li>
-        <li><a href="/privacy-policy/">Privacy Policy</a></li>
-      </ul>
-    </div>
-    <div class="footer-col footer-newsletter">
-      <h4>Get the Verdict</h4>
-      <p>New reviews delivered to your inbox.</p>
-      <form class="newsletter-form" action="#" method="post">
-        <input type="email" placeholder="Your email" required>
-        <button type="submit" class="btn btn-gold">Subscribe</button>
-      </form>
+  <!-- Trust Badges -->
+  <div class="trust-badges">
+    <div class="container trust-badges-inner">
+      <div class="trust-badge-item">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23,6 13.5,15.5 8.5,10.5"/><polyline points="17,6 13.5,9.5"/><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/></svg>
+        <strong>Authoritative Verdicts</strong>
+        <span>Based on thousands of reviews</span>
+      </div>
+      <div class="trust-badge-item">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22,4 12,14.01 9,11.01"/></svg>
+        <strong>Unbiased Analysis</strong>
+        <span>No sponsored placements</span>
+      </div>
+      <div class="trust-badge-item">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+        <strong>Updated Weekly</strong>
+        <span>Fresh verdicts every week</span>
+      </div>
+      <div class="trust-badge-item">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+        <strong>100% Transparent</strong>
+        <span>Affiliate links disclosed</span>
+      </div>
     </div>
   </div>
+
+  <!-- Footer Main -->
+  <div class="footer-main">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" height="36" width="auto">
+        <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
+        <p class="footer-desc">{{ .Site.Params.description }}</p>
+      </div>
+      <div class="footer-col">
+        <h4>Categories</h4>
+        <ul>
+          {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        </ul>
+      </div>
+      <div class="footer-col footer-newsletter">
+        <h4>Get the Verdict</h4>
+        <p>New reviews delivered to your inbox.</p>
+        <form class="newsletter-form" action="#" method="post">
+          <input type="email" placeholder="Your email" required>
+          <button type="submit" class="btn btn-gold btn-sm">Subscribe</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer Bottom -->
   <div class="footer-bottom">
     <div class="container">
       <p class="affiliate-disclosure"><em>{{ .Site.Params.affiliate.disclosure }}</em></p>
