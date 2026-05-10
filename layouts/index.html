@@ -1,31 +1,4 @@
 {{ define "main" }}
-<!-- Categories Section -->
-<section class="categories-section">
-  <div class="container">
-    <h2 class="section-title">Shop by Category</h2>
-    <div class="category-grid">
-      <a href="/kitchen/" class="category-card" style="background-image: url('/images/category-kitchen.jpg');">
-        <div class="category-card-overlay">
-          <h3>Kitchen</h3>
-          <span class="category-cta">Shop Now →</span>
-        </div>
-      </a>
-      <a href="/coffee/" class="category-card" style="background-image: url('/images/category-coffee.jpg');">
-        <div class="category-card-overlay">
-          <h3>Coffee</h3>
-          <span class="category-cta">Shop Now →</span>
-        </div>
-      </a>
-      <a href="/home-office/" class="category-card" style="background-image: url('/images/category-home-office.jpg');">
-        <div class="category-card-overlay">
-          <h3>Home Office</h3>
-          <span class="category-cta">Shop Now →</span>
-        </div>
-      </a>
-    </div>
-  </div>
-</section>
-
 <!-- Hero Banner (weekly rotation) -->
 <section class="hero-banner" id="heroBanner" style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('/images/hero-kitchen.jpg') center/cover no-repeat;">
   <div class="container hero-banner-inner">
@@ -76,6 +49,33 @@
   document.getElementById('heroCTA').textContent = pick.cta;
 })();
 </script>
+
+<!-- Categories Section -->
+<section class="categories-section">
+  <div class="container">
+    <h2 class="section-title">Shop by Category</h2>
+    <div class="category-grid">
+      <a href="/kitchen/" class="category-card" style="background-image: url('/images/category-kitchen.jpg');">
+        <div class="category-card-overlay">
+          <h3>Kitchen</h3>
+          <span class="category-cta">Shop Now →</span>
+        </div>
+      </a>
+      <a href="/coffee/" class="category-card" style="background-image: url('/images/category-coffee.jpg');">
+        <div class="category-card-overlay">
+          <h3>Coffee</h3>
+          <span class="category-cta">Shop Now →</span>
+        </div>
+      </a>
+      <a href="/home-office/" class="category-card" style="background-image: url('/images/category-home-office.jpg');">
+        <div class="category-card-overlay">
+          <h3>Home Office</h3>
+          <span class="category-cta">Shop Now →</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
 
 <!-- Featured Verdicts -->
 {{ $pages := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office") }}
