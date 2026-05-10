@@ -35,23 +35,25 @@
         <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
         <p class="footer-desc">{{ .Site.Params.description }}</p>
       </div>
-      <div class="footer-col footer-newsletter">
-        <h4>Get the Verdict</h4>
-        <p>New reviews delivered to your inbox.</p>
-        <form class="newsletter-form" action="#" method="post">
-          <input type="email" placeholder="Your email" required>
-          <button type="submit" class="btn btn-gold btn-sm">Subscribe</button>
-        </form>
+      <div class="footer-mid">
+        <div class="footer-col footer-newsletter">
+          <h4>Get the Verdict</h4>
+          <p>New reviews delivered to your inbox.</p>
+          <form class="newsletter-form" action="#" method="post">
+            <input type="email" placeholder="Your email" required>
+            <button type="submit" class="btn btn-gold btn-sm">Subscribe</button>
+          </form>
+        </div>
+        <div class="footer-col">
+          <h4>Categories</h4>
+          <ul>
+            {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
       </div>
-      <div class="footer-col">
-        <h4>Categories</h4>
-        <ul>
-          {{ range .Site.Menus.main }}
-          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
-      </div>
-      <div class="footer-col">
+      <div class="footer-col footer-col-right">
         <h4>Company</h4>
         <ul>
           <li><a href="/about/">About</a></li>

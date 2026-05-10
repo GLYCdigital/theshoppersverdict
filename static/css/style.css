@@ -524,7 +524,15 @@ ul { list-style: none; }
 
 /* Footer Main */
 .footer-main { background: #F7F5F0; padding: 48px 0 32px; }
-.footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 24px; }
+.footer-grid { display: grid; grid-template-columns: 1.5fr 2fr 1fr; gap: 24px; }
+.footer-mid {
+  display: flex;
+  gap: 40px;
+  justify-content: space-between;
+}
+.footer-col-right {
+  text-align: right;
+}
 .footer-brand { align-self: flex-start; }
 .footer-logo-wrap {
   width: 180px;
