@@ -14,7 +14,34 @@
     </div>
   </header>
 
-  <div class="sub-header" style="height: 60px;"></div>
+  <div class="sub-header">
+    <div class="container sub-header-inner">
+      <div class="category-dropdown">
+        <button class="dropdown-toggle" id="catDropdown">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+          Browse Categories
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <ul class="dropdown-menu" id="catMenu">
+          <li><a href="/kitchen/">Kitchen</a></li>
+          <li><a href="/coffee/">Coffee</a></li>
+          <li><a href="/home-office/">Home Office</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+document.getElementById('catDropdown')?.addEventListener('click', function(e) {
+  e.stopPropagation();
+  document.getElementById('catMenu').classList.toggle('open');
+});
+document.addEventListener('click', function() {
+  document.getElementById('catMenu')?.classList.remove('open');
+});
+</script>
 
   <div class="sub-header-white">
     <div class="container sub-header-white-inner">
