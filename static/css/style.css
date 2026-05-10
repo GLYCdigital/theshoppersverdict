@@ -532,8 +532,8 @@ ul { list-style: none; }
 }
 .footer-brand { align-self: flex-start; }
 .footer-logo-wrap {
-  width: 120px;
-  height: 120px;
+  width: 180px;
+  height: 180px;
   display: flex;
   align-items: center;
   justify-content: center;
