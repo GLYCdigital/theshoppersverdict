@@ -1,0 +1,23 @@
+<article class="review-card">
+  <div class="verdict-badge">
+    <span class="verdict-score">{{ .Params.verdict_score | default "9.0" }}<span class="verdict-total">/10</span></span>
+  </div>
+  <h3 class="review-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ with .Params.amazon_rating }}
+  <div class="review-stars" aria-label="{{ . }} out of 5 stars">
+    {{ $rating := . }}
+    {{ $full := math.Floor $rating }}
+    {{ $half := 0 }}
+    {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
+    {{ range seq 5 }}
+      {{ if le . $full }}<span class="star full">★</span>
+      {{ else if and (eq . (add $full 1)) (eq $half 1) }}<span class="star half">★</span>
+      {{ else }}<span class="star empty">★</span>
+      {{ end }}
+    {{ end }}
+    <span class="rating-text">({{ $rating }}/5 from {{ .Params.review_count | default "N" }} reviews)</span>
+  </div>
+  {{ end }}
+  <p class="review-excerpt">{{ .Summary | plainify | truncate 120 }}</p>
+  <a href="{{ .RelPermalink }}" class="review-link">Read Full Verdict →</a>
+</article>

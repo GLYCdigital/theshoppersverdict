@@ -1,0 +1,58 @@
+baseURL = "https://theshoppersverdict.com"
+languageCode = "en-us"
+title = "The Shopper's Verdict"
+theme = ""
+enableRobotsTXT = true
+summaryLength = 25
+
+[params]
+  brand = "The Shopper's Verdict"
+  tagline = "The final word on what to buy."
+  description = "We read thousands of Amazon reviews so you don't have to. No fluff, just the verdict."
+  color_navy = "#1B1B2F"
+  color_gold = "#C9A84C"
+  color_offwhite = "#F5F3EF"
+  color_charcoal = "#1A1A2E"
+  color_muted = "#6B6B7A"
+  color_green = "#2D8A4E"
+
+  [params.assets]
+    logo = "/images/logo-horizontal.png"
+    logo_icon = "/images/logo-icon.png"
+    og_image = "/images/og-social.png"
+
+  [params.affiliate]
+    disclosure = "As an Amazon Associate, we earn from qualifying purchases. Our verdicts are based on real customer reviews, not affiliate commissions."
+    tag = "shoppersverdi-20"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  section = ["HTML", "RSS"]
+  home = ["HTML", "RSS"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name = "Kitchen"
+    url = "/kitchen/"
+    weight = 10
+  [[menu.main]]
+    name = "Coffee"
+    url = "/coffee/"
+    weight = 20
+  [[menu.main]]
+    name = "Home Office"
+    url = "/home-office/"
+    weight = 30
+
+[permalinks]
+  kitchen = "/kitchen/:slug/"
+  coffee = "/coffee/:slug/"
+  "home-office" = "/home-office/:slug/"

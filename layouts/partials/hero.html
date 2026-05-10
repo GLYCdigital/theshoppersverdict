@@ -1,0 +1,9 @@
+<section class="hero"{{ with .hero_image }} style="background-image: linear-gradient(135deg, rgba(27,27,47,0.92) 0%, rgba(27,27,47,0.7) 100%), url('{{ . | absURL }}');"{{ end }}>
+  <div class="container hero-inner">
+    <div class="hero-text">
+      <h1>{{ .tagline | default .Site.Params.tagline }}</h1>
+      <p class="hero-subtitle">{{ .subtitle | default .Site.Params.description }}</p>
+      <a href="{{ .cta_url | default "/kitchen/" }}" class="btn btn-gold btn-lg">{{ .cta_text | default "See Our Top Picks →" }}</a>
+    </div>
+  </div>
+</section>

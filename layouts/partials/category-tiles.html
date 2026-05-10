@@ -1,0 +1,20 @@
+<section class="categories">
+  <div class="container">
+    <h2 class="section-title">Shop by Category</h2>
+    <div class="category-grid">
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}" class="category-tile" style="background-image: url('/images/category-{{ .Name | urlize }}.jpg');">
+        <span class="category-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="4" y="2" width="16" height="20" rx="2"/>
+            <line x1="9" y1="6" x2="15" y2="6"/>
+            <line x1="9" y1="10" x2="15" y2="10"/>
+          </svg>
+        </span>
+        <span class="category-name">{{ .Name }}</span>
+        <span class="category-cta">Shop {{ .Name }} →</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>

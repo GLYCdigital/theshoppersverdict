@@ -1,0 +1,22 @@
+{{ with .Params.pros }}
+<div class="pros-cons-grid">
+  <div class="pros-box">
+    <h4>✅ PROS</h4>
+    <ul>
+      {{ range . }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
+{{ with .Params.cons }}
+  <div class="cons-box">
+    <h4>❌ CONS</h4>
+    <ul>
+      {{ range . }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}

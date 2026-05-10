@@ -1,0 +1,38 @@
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div class="footer-brand">
+      <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" height="24" width="auto">
+      <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
+    </div>
+    <div class="footer-col">
+      <h4>Categories</h4>
+      <ul>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+      </ul>
+    </div>
+    <div class="footer-col footer-newsletter">
+      <h4>Get the Verdict</h4>
+      <p>New reviews delivered to your inbox.</p>
+      <form class="newsletter-form" action="#" method="post">
+        <input type="email" placeholder="Your email" required>
+        <button type="submit" class="btn btn-gold">Subscribe</button>
+      </form>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <p class="affiliate-disclosure"><em>{{ .Site.Params.affiliate.disclosure }}</em></p>
+      <p class="copyright">&copy; {{ now.Format "2006" }} {{ .Site.Params.brand }}. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

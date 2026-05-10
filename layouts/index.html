@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ partial "hero.html" (dict "tagline" .Site.Params.tagline "subtitle" .Site.Params.description "cta_text" "See Our Top Picks →" "cta_url" "/kitchen/" "hero_image" "/images/hero-kitchen.jpg") }}
+{{ partial "trust-bar.html" . }}
+
+{{ partial "category-tiles.html" . }}
+
+{{ $pages := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office") }}
+{{ $featured := first 8 $pages }}
+{{ if $featured }}
+<section class="featured-verdicts">
+  <div class="container">
+    <h2 class="section-title">Featured Verdicts</h2>
+    <div class="review-grid">
+      {{ range $featured }}
+        {{ partial "review-card.html" . }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<section class="about-snippet">
+  <div class="container">
+    <h2>Why Trust The Shopper's Verdict?</h2>
+    <p>We don't test products in a lab for 20 minutes and call it a review. We analyze <strong>thousands of real Amazon customer reviews</strong> — the good, the bad, and the "broke after 6 months" — and distill them into clear, actionable verdicts. No sponsored placements, no affiliate bias, no fluff.</p>
+    <a href="/about/" class="btn btn-outline">Learn How We Review →</a>
+  </div>
+</section>
+{{ end }}

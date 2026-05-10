@@ -1,0 +1,62 @@
+{{ define "main" }}
+<article class="review-single">
+  <div class="container review-layout">
+    <div class="review-content">
+      <nav class="breadcrumb">
+        <a href="/">Home</a>
+        {{ with .CurrentSection }}<span>→</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+        <span>→</span> <span class="current">{{ .Title }}</span>
+      </nav>
+
+      <div class="review-header">
+        <div class="review-header-score">
+          <div class="verdict-badge large">
+            <span class="verdict-score">{{ .Params.verdict_score | default "9.0" }}<span class="verdict-total">/10</span></span>
+          </div>
+          {{ with .Params.amazon_rating }}
+          <div class="review-stars">
+            {{ $rating := . }}
+            {{ $full := math.Floor $rating }}
+            {{ $half := 0 }}
+            {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
+            {{ range seq 5 }}
+              {{ if le . $full }}<span class="star full">★</span>
+              {{ else if and (eq . (add $full 1)) (eq $half 1) }}<span class="star half">★</span>
+              {{ else }}<span class="star empty">★</span>
+              {{ end }}
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+        <div class="review-header-text">
+          <h1>{{ .Title }}</h1>
+          {{ with .Params.review_count }}
+          <p class="review-meta">Reviewed from {{ . }} Amazon customer reviews</p>
+          {{ end }}
+        </div>
+      </div>
+
+      {{ partial "pros-cons.html" . }}
+
+      <div class="review-body">
+        <h2>The Verdict</h2>
+        {{ .Content }}
+      </div>
+
+      <div class="review-cta-mobile">
+        <a href="{{ .Params.amazon_url | default "#" }}" class="btn btn-green btn-block" target="_blank" rel="nofollow sponsored">
+          🛒 Check Price on Amazon
+        </a>
+        {{ with .Params.budget_pick }}
+        <div class="alt-pick"><span class="alt-label">💡 BUDGET PICK</span> <a href="{{ .url }}">{{ .name }} →</a></div>
+        {{ end }}
+        {{ with .Params.top_pick }}
+        <div class="alt-pick"><span class="alt-label">🏆 TOP PICK</span> <a href="{{ .url }}">{{ .name }} →</a></div>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ partial "sidebar.html" . }}
+  </div>
+</article>
+{{ end }}
