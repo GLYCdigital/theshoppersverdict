@@ -527,7 +527,7 @@ ul { list-style: none; }
 .footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 2fr; gap: 12px; }
 .footer-right-group {
   display: flex;
-  gap: 40px;
+  gap: 80px;
   justify-content: flex-end;
 }
 .footer-brand { align-self: flex-start; }
