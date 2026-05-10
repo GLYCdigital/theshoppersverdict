@@ -1,7 +1,6 @@
 baseURL = "https://theshoppersverdict.com"
-languageCode = "en-us"
+locale = "en-US"
 title = "The Shopper's Verdict"
-theme = ""
 enableRobotsTXT = true
 summaryLength = 25
 
