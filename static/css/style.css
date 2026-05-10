@@ -214,7 +214,7 @@ ul { list-style: none; }
 .sub-header-white-inner {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   height: 100%;
 }
 .promo-text {
