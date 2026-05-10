@@ -64,7 +64,7 @@
   <div class="footer-bottom">
     <div class="container footer-bottom-inner">
       <p class="copyright">&copy; {{ now.Format "2006" }} {{ .Site.Params.brand }}. All rights reserved.</p>
-      <p class="affiliate-disclosure"><em>{{ replace .Site.Params.affiliate.disclosure ". " ".<br>" 1 }}</em></p>
+      <p class="affiliate-disclosure"><em>{{ replace .Site.Params.affiliate.disclosure ". " ".<br>" 1 | safeHTML }}</em></p>
     </div>
   </div>
 </footer>
