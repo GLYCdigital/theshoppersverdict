@@ -561,7 +561,7 @@ ul { list-style: none; }
    ========================================== */
 .about-snippet {
   padding: 64px 0;
-  background: var(--white);
+  background: #F7F5F0;
   text-align: center;
 }
 .about-snippet h2 {
