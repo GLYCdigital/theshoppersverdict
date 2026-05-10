@@ -531,7 +531,19 @@ ul { list-style: none; }
   justify-content: flex-end;
 }
 .footer-brand { align-self: flex-start; }
-.footer-brand img { display: block; }
+.footer-logo-wrap {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer-logo-wrap img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  display: block;
+}
 .footer-tagline { font-family: var(--font-heading); font-size: 16px; color: var(--navy); margin-top: 12px; }
 .footer-desc { font-size: 13px; color: var(--muted); margin-top: 8px; max-width: 280px; line-height: 1.6; }
 .footer-col h4 { font-size: 14px; font-weight: 600; color: var(--navy); margin-bottom: 12px; }

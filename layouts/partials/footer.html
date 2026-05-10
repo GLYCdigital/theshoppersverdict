@@ -29,7 +29,9 @@
   <div class="footer-main">
     <div class="container footer-grid">
       <div class="footer-brand">
-        <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" height="36" width="auto">
+        <div class="footer-logo-wrap">
+          <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}">
+        </div>
         <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
         <p class="footer-desc">{{ .Site.Params.description }}</p>
       </div>
