@@ -125,7 +125,7 @@ ul { list-style: none; }
   gap: 12px;
 }
 .header-trust-text span {
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 500;
   color: var(--muted);
   letter-spacing: 0.3px;
