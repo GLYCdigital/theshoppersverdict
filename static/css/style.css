@@ -177,7 +177,9 @@ ul { list-style: none; }
   top: calc(100% + 4px);
   left: 0;
   background: var(--white);
-  min-width: 220px;
+  min-width: 100%;
+  width: auto;
+  white-space: nowrap;
   border-radius: 6px;
   box-shadow: 0 8px 24px rgba(27,27,47,0.15);
   overflow: hidden;
