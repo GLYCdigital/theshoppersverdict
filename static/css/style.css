@@ -207,6 +207,25 @@ ul { list-style: none; }
   color: var(--gold);
 }
 
+/* Navy nav links */
+.navy-nav {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  margin-left: 32px;
+}
+.navy-nav a {
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(255,255,255,0.85);
+  letter-spacing: 0.5px;
+  transition: color var(--transition);
+  white-space: nowrap;
+}
+.navy-nav a:hover {
+  color: var(--gold);
+}
+
 /* Sub-header — White bar */
 .sub-header-white {
   background: var(--white);
