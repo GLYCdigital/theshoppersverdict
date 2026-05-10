@@ -40,7 +40,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 img { max-width: 100%; height: auto; display: block; }
-main { padding-top: 180px; } /* offset sticky header (120px + 60px) */
+main { padding-top: 240px; } /* offset sticky stack: 120px header + 60px navy + 60px white */
 a { color: inherit; text-decoration: none; }
 ul { list-style: none; }
 .container { max-width: var(--container); margin: 0 auto; padding: 0 24px; }
@@ -135,6 +135,18 @@ ul { list-style: none; }
   color: var(--off-white);
   letter-spacing: 0.5px;
   text-transform: uppercase;
+}
+
+/* Sub-header — White bar */
+.sub-header-white {
+  background: var(--white);
+  height: 60px;
+  border-bottom: 1px solid var(--border-light);
+}
+.sub-header-white-inner {
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 
 .nav-primary { margin-left: auto; }
