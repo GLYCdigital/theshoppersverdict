@@ -524,12 +524,7 @@ ul { list-style: none; }
 
 /* Footer Main */
 .footer-main { background: #F7F5F0; padding: 48px 0 32px; }
-.footer-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 32px; }
-.footer-links {
-  display: flex;
-  gap: 32px;
-  justify-content: flex-end;
-}
+.footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 24px; }
 .footer-brand { align-self: flex-start; }
 .footer-logo-wrap {
   width: 180px;
