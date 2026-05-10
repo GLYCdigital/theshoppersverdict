@@ -524,14 +524,11 @@ ul { list-style: none; }
 
 /* Footer Main */
 .footer-main { background: #F7F5F0; padding: 48px 0 32px; }
-.footer-grid { display: grid; grid-template-columns: 1.5fr 2fr 1fr; gap: 24px; }
-.footer-mid {
+.footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 2fr; gap: 24px; }
+.footer-right-group {
   display: flex;
   gap: 40px;
-  justify-content: space-between;
-}
-.footer-col-right {
-  text-align: right;
+  justify-content: flex-end;
 }
 .footer-brand { align-self: flex-start; }
 .footer-logo-wrap {
