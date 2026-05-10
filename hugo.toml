@@ -18,8 +18,8 @@ summaryLength = 25
 
   [params.assets]
     logo = "/images/logo-horizontal.png"
-    logo_icon = "/images/logo-icon.png"
-    og_image = "/images/og-social.png"
+    logo_icon = "/images/favicon.png"
+    og_image = "/images/og-social.jpg"
 
   [params.affiliate]
     disclosure = "As an Amazon Associate, we earn from qualifying purchases. Our verdicts are based on real customer reviews, not affiliate commissions."
