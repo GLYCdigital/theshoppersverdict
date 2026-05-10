@@ -39,16 +39,16 @@ summaryLength = 25
 
 [menu]
   [[menu.main]]
-    name = "Kitchen"
-    url = "/kitchen/"
+    name = "Blog"
+    url = "/blog/"
     weight = 10
   [[menu.main]]
-    name = "Coffee"
-    url = "/coffee/"
+    name = "About"
+    url = "/about/"
     weight = 20
   [[menu.main]]
-    name = "Home Office"
-    url = "/home-office/"
+    name = "Contact"
+    url = "/contact/"
     weight = 30
 
 [permalinks]
