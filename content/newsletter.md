@@ -23,5 +23,5 @@ Get the latest review summaries straight to your inbox. No spam, no fluff — ju
 ## What You'll Get
 
 - **Weekly roundups** — the best products we've reviewed
-- **Exclusive picks** — deals and discounts we find
+- **Exclusive picks** — top-rated products our readers love
 - **New category alerts** — when we expand to new niches
