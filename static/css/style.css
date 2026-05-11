@@ -474,6 +474,40 @@ ul { list-style: none; }
 }
 
 /* Card image area */
+.vc-image-link {
+  display: block;
+  text-decoration: none;
+}
+.vc-image-link-sm {
+  display: block;
+  text-decoration: none;
+}
+.vc-title-link {
+  color: var(--navy);
+  text-decoration: none;
+}
+.vc-title-link:hover {
+  color: var(--gold);
+}
+.vc-title-link-sm {
+  color: var(--navy);
+  text-decoration: none;
+}
+.vc-title-link-sm:hover {
+  color: var(--gold);
+}
+.vg-image-link {
+  display: block;
+  text-decoration: none;
+}
+.vg-title-link {
+  color: var(--navy);
+  text-decoration: none;
+}
+.vg-title-link:hover {
+  color: var(--gold);
+}
+
 .vc-image {
   width: 100%;
   aspect-ratio: 1 / 0.7;
