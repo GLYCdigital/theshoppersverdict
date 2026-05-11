@@ -3,7 +3,7 @@
   <div class="container category-hero-inner">
     <h1>{{ .Title }}</h1>
     {{ with .Params.description }}
-    <p class="category-desc">{{ . }}</p>
+    <p class="category-desc">{{ . | safeHTML }}</p>
     {{ end }}
   </div>
 </section>

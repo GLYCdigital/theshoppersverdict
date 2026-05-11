@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-description: "Have a question or a product you'd like us to review? We'd love to hear from you."
+description: "Have a question or a product you'd like us to review?<br>We'd love to hear from you."
 type: page
 ---
 
