@@ -521,6 +521,22 @@ ul { list-style: none; }
   justify-content: center;
   position: relative;
   margin-bottom: 12px;
+  overflow: hidden;
+}
+.vc-image-placeholder::after {
+  content: 'Product Image';
+  font-size: 13px;
+  color: var(--muted);
+  letter-spacing: 0.5px;
+}
+.vc-img-fill {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 .vc-image::after {
   content: 'Product Image';
@@ -538,8 +554,9 @@ ul { list-style: none; }
   justify-content: center;
   position: relative;
   margin-bottom: 8px;
+  overflow: hidden;
 }
-.vc-image-sm::after {
+.vc-image-sm-placeholder::after {
   content: 'Image';
   font-size: 11px;
   color: var(--muted);
@@ -663,8 +680,9 @@ ul { list-style: none; }
   justify-content: center;
   position: relative;
   margin-bottom: 10px;
+  overflow: hidden;
 }
-.vg-image::after {
+.vg-image-placeholder::after {
   content: 'Image';
   font-size: 11px;
   color: var(--muted);

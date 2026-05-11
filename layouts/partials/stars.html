@@ -1,0 +1,1 @@
+{{ $rating := . }}{{ $full := math.Floor $rating }}{{ $half := 0 }}{{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}{{ range seq 5 }}{{ if le . $full }}<span class="star full">★</span>{{ else if and (eq . (add $full 1)) (eq $half 1) }}<span class="star half">★</span>{{ else }}<span class="star empty">★</span>{{ end }}{{ end }}

@@ -1,4 +1,19 @@
 {{ define "main" }}
+{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office") }}
+{{ $newest := $all.ByDate.Reverse }}
+{{ $daily := first 10 $newest }}
+{{ $topScored := sort $daily ".Params.verdict_score" "desc" }}
+{{ $todayTop3 := first 3 $topScored }}
+{{ $todayFav3 := first 3 (after 3 $topScored) }}
+
+{{ $weekAgo := now.AddDate 0 0 -7 }}
+{{ $weekPages := where $all "Date" "ge" $weekAgo }}
+{{ $weekTop3 := first 3 (sort $weekPages ".Params.verdict_score" "desc") }}
+
+{{ $monthAgo := now.AddDate 0 0 -30 }}
+{{ $monthPages := where $all "Date" "ge" $monthAgo }}
+{{ $monthTop3 := first 3 (sort $monthPages ".Params.verdict_score" "desc") }}
+
 <!-- Hero Banner (weekly rotation) -->
 <section class="hero-banner" id="heroBanner" style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('/images/hero-kitchen.jpg') center/cover no-repeat;">
   <div class="container hero-banner-inner">
@@ -17,7 +32,6 @@
   var start = new Date(today.getFullYear(), 0, 1);
   var weekNum = Math.ceil((((today - start) / 86400000) + start.getDay() + 1) / 7);
   var rotation = weekNum % 3;
-  // 0 = Kitchen, 1 = Coffee, 2 = Home Office
   var data = [
     {
       bg: '/images/hero-kitchen.jpg',
@@ -50,298 +64,199 @@
 })();
 </script>
 
-<!-- Section 1: Verdict cards — 50-25-25 layout -->
+{{ if $daily }}
+<!-- Section 1: Verdict Row — top 4 newest reviews (50-25-25) -->
+{{ $row := first 4 $daily }}
+{{ $rowItems := len $row }}
 <section class="section-white verdict-row-section">
   <div class="container">
     <div class="verdict-row">
-      <!-- Column 1 (50%): Square card -->
+      <!-- Col 1 (50%): #1 newest -->
       <div class="vr-col vr-col-main">
+        {{ with index $row 0 }}
         <div class="verdict-card verdict-card-square">
-          <a href="/coffee/breville-barista-pro-espresso-machine/" class="vc-image-link">
-            <div class="vc-image">
-              <div class="vc-score">9.2</div>
+          <a href="{{ .RelPermalink }}" class="vc-image-link">
+            <div class="vc-image{{ if not .Params.amazon_image }} vc-image-placeholder{{ end }}">
+              <div class="vc-score">{{ .Params.verdict_score | default "9.0" }}</div>
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill">{{ end }}
             </div>
           </a>
           <div class="vc-body">
-            <span class="vc-category">Coffee</span>
-            <h3><a href="/coffee/breville-barista-pro-espresso-machine/" class="vc-title-link">Breville Barista Pro Espresso Machine</a></h3>
-            <div class="vc-stars">★★★★☆</div>
-            <p class="vc-summary">The verdict: best value espresso machine in its class.</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Column 2 (25%): Single tall card -->
-      <div class="vr-col vr-col-side">
-        <div class="verdict-card verdict-card-tall">
-          <a href="/coffee/" class="vc-image-link">
-            <div class="vc-image">
-              <div class="vc-score">8.8</div>
-            </div>
-          </a>
-          <div class="vc-body">
-            <span class="vc-category">Coffee</span>
-            <h3><a href="/coffee/" class="vc-title-link">Breville Bambino Plus</a></h3>
-            <div class="vc-stars">★★★★☆</div>
-            <p class="vc-summary">Compact espresso machine. Great for beginners.</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Column 3 (25%): Two stacked cards -->
-      <div class="vr-col vr-col-stack">
-        <div class="verdict-card verdict-card-half">
-          <a href="/kitchen/" class="vc-image-link-sm">
-            <div class="vc-image-sm">
-              <div class="vc-score-sm">9.0</div>
-            </div>
-          </a>
-          <div class="vc-body-sm">
-            <span class="vc-category">Kitchen</span>
-            <h4><a href="/kitchen/" class="vc-title-link-sm">Ninja Professional Blender</a></h4>
-            <div class="vc-stars-sm">★★★★☆</div>
-          </div>
-        </div>
-        <div class="verdict-card verdict-card-half">
-          <a href="/home-office/" class="vc-image-link-sm">
-            <div class="vc-image-sm">
-              <div class="vc-score-sm">9.1</div>
-            </div>
-          </a>
-          <div class="vc-body-sm">
-            <span class="vc-category">Home Office</span>
-            <h4><a href="/home-office/" class="vc-title-link-sm">Herman Miller Aeron</a></h4>
-            <div class="vc-stars-sm">★★★★★</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
-<!-- Section 2: Verdict grid — 3 columns x 2 rows -->
-<section class="section-white verdict-grid-section">
-  <div class="container">
-    <div class="verdict-grid">
-      <div class="vg-card">
-        <a href="/kitchen/" class="vg-image-link">
-          <div class="vg-image">
-            <div class="vg-score">9.2</div>
-          </div>
-        </a>
-        <div class="vg-body">
-          <span class="vg-category">Kitchen</span>
-          <h4><a href="/kitchen/" class="vg-title-link">Breville Barista Pro</a></h4>
-          <div class="vg-stars">★★★★☆</div>
-          <p class="vg-summary">Best value espresso machine with built-in grinder.</p>
-        </div>
-      </div>
-      <div class="vg-card">
-        <a href="/kitchen/" class="vg-image-link">
-          <div class="vg-image">
-            <div class="vg-score">9.0</div>
-          </div>
-        </a>
-        <div class="vg-body">
-          <span class="vg-category">Kitchen</span>
-          <h4><a href="/kitchen/" class="vg-title-link">Ninja Professional Blender</a></h4>
-          <div class="vg-stars">★★★★☆</div>
-          <p class="vg-summary">Powerful blending at an unbeatable price point.</p>
-        </div>
-      </div>
-      <div class="vg-card">
-        <a href="/kitchen/" class="vg-image-link">
-          <div class="vg-image">
-            <div class="vg-score">8.8</div>
-          </div>
-        </a>
-        <div class="vg-body">
-          <span class="vg-category">Kitchen</span>
-          <h4><a href="/kitchen/" class="vg-title-link">Cuisinart 14-Cup</a></h4>
-          <div class="vg-stars">★★★★☆</div>
-          <p class="vg-summary">Large capacity food processor for serious home cooks.</p>
-        </div>
-      </div>
-      <div class="vg-card">
-        <a href="/coffee/" class="vg-image-link">
-          <div class="vg-image">
-            <div class="vg-score">8.9</div>
-          </div>
-        </a>
-        <div class="vg-body">
-          <span class="vg-category">Coffee</span>
-          <h4><a href="/coffee/" class="vg-title-link">Fellow Stagg EKG</a></h4>
-          <div class="vg-stars">★★★★☆</div>
-          <p class="vg-summary">Precision pour-over kettle with variable temperature.</p>
-        </div>
-      </div>
-      <div class="vg-card">
-        <a href="/coffee/" class="vg-image-link">
-          <div class="vg-image">
-            <div class="vg-score">8.7</div>
-          </div>
-        </a>
-        <div class="vg-body">
-          <span class="vg-category">Coffee</span>
-          <h4><a href="/coffee/" class="vg-title-link">OXO Brew 9-Cup</a></h4>
-          <div class="vg-stars">★★★★☆</div>
-          <p class="vg-summary">Simple, reliable drip coffee maker for daily brewing.</p>
-        </div>
-      </div>
-      <div class="vg-card">
-        <a href="/home-office/" class="vg-image-link">
-          <div class="vg-image">
-            <div class="vg-score">9.1</div>
-          </div>
-        </a>
-        <div class="vg-body">
-          <span class="vg-category">Home Office</span>
-          <h4><a href="/home-office/" class="vg-title-link">Herman Miller Aeron</a></h4>
-          <div class="vg-stars">★★★★★</div>
-          <p class="vg-summary">Gold standard ergonomic chair for all-day comfort.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Featured Verdicts -->
-{{ $pages := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office") }}
-{{ $featured := first 8 $pages }}
-<section class="featured-section">
-  <div class="container">
-    <h2 class="section-title">Today's Favorites</h2>
-    <div class="product-grid">
-      {{ if $featured }}
-        {{ range $featured }}
-        <div class="product-card">
-          <div class="product-card-badge verdict-badge-mini">
-            <span class="verdict-score-mini">{{ .Params.verdict_score | default "9.0" }}</span>
-          </div>
-          <div class="product-card-body">
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            {{ with .Params.amazon_rating }}
-            <div class="product-stars">
-              {{ $rating := . }}{{ $full := math.Floor $rating }}{{ $half := 0 }}
-              {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
-              {{ range seq 5 }}
-                {{ if le . $full }}<span class="star full">★</span>
-                {{ else if and (eq . (add $full 1)) (eq $half 1) }}<span class="star half">★</span>
-                {{ else }}<span class="star empty">★</span>
-                {{ end }}
-              {{ end }}
-              <span class="product-rating-text">({{ $.Params.review_count | default 0 }})</span>
-            </div>
-            {{ end }}
-            <p class="product-excerpt">{{ .Summary | plainify | truncate 80 }}</p>
-            <div class="product-price-row">
-              <span class="product-tag verdict-tag">VERDICT</span>
-              <a href="{{ .RelPermalink }}" class="btn btn-sm btn-gold">Read →</a>
-            </div>
+            <span class="vc-category">{{ .CurrentSection.Title }}</span>
+            <h3><a href="{{ .RelPermalink }}" class="vc-title-link">{{ .Title }}</a></h3>
+            {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }}</div>{{ end }}
+            <p class="vc-summary">{{ .Summary | plainify | truncate 80 }}</p>
           </div>
         </div>
         {{ end }}
-      {{ else }}
-        <div class="product-card placeholder">
-          <div class="product-card-body">
-            <h3>Reviews Coming Soon</h3>
-            <p>Our team is analyzing thousands of Amazon reviews. Check back soon for our verdicts.</p>
+      </div>
+
+      {{ if ge $rowItems 2 }}
+      <!-- Col 2 (25%): #2 newest -->
+      <div class="vr-col vr-col-side">
+        {{ with index $row 1 }}
+        <div class="verdict-card verdict-card-tall">
+          <a href="{{ .RelPermalink }}" class="vc-image-link">
+            <div class="vc-image{{ if not .Params.amazon_image }} vc-image-placeholder{{ end }}">
+              <div class="vc-score">{{ .Params.verdict_score | default "9.0" }}</div>
+            </div>
+          </a>
+          <div class="vc-body">
+            <span class="vc-category">{{ .CurrentSection.Title }}</span>
+            <h3><a href="{{ .RelPermalink }}" class="vc-title-link">{{ .Title }}</a></h3>
+            {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }}</div>{{ end }}
+            <p class="vc-summary">{{ .Summary | plainify | truncate 60 }}</p>
           </div>
         </div>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <!-- Col 3 (25%): #3 and #4 newest stacked -->
+      <div class="vr-col vr-col-stack">
+        {{ if ge $rowItems 3 }}
+        {{ with index $row 2 }}
+        <div class="verdict-card verdict-card-half">
+          <a href="{{ .RelPermalink }}" class="vc-image-link-sm">
+            <div class="vc-image-sm{{ if not .Params.amazon_image }} vc-image-sm-placeholder{{ end }}">
+              <div class="vc-score-sm">{{ .Params.verdict_score | default "9.0" }}</div>
+            </div>
+          </a>
+          <div class="vc-body-sm">
+            <span class="vc-category">{{ .CurrentSection.Title }}</span>
+            <h4><a href="{{ .RelPermalink }}" class="vc-title-link-sm">{{ .Title }}</a></h4>
+            {{ with .Params.amazon_rating }}<div class="vc-stars-sm">{{ partial "stars.html" . }}</div>{{ end }}
+          </div>
+        </div>
+        {{ end }}
+        {{ end }}
+        {{ if ge $rowItems 4 }}
+        {{ with index $row 3 }}
+        <div class="verdict-card verdict-card-half">
+          <a href="{{ .RelPermalink }}" class="vc-image-link-sm">
+            <div class="vc-image-sm{{ if not .Params.amazon_image }} vc-image-sm-placeholder{{ end }}">
+              <div class="vc-score-sm">{{ .Params.verdict_score | default "9.0" }}</div>
+            </div>
+          </a>
+          <div class="vc-body-sm">
+            <span class="vc-category">{{ .CurrentSection.Title }}</span>
+            <h4><a href="{{ .RelPermalink }}" class="vc-title-link-sm">{{ .Title }}</a></h4>
+            {{ with .Params.amazon_rating }}<div class="vc-stars-sm">{{ partial "stars.html" . }}</div>{{ end }}
+          </div>
+        </div>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Section 2: Verdict Grid — next 6 newest (5-10) -->
+{{ $grid := first 6 (after 4 $daily) }}
+{{ if $grid }}
+<section class="section-white verdict-grid-section">
+  <div class="container">
+    <div class="verdict-grid">
+      {{ range $grid }}
+      <div class="vg-card">
+        <a href="{{ .RelPermalink }}" class="vg-image-link">
+          <div class="vg-image{{ if not .Params.amazon_image }} vg-image-placeholder{{ end }}">
+            <div class="vg-score">{{ .Params.verdict_score | default "9.0" }}</div>
+          </div>
+        </a>
+        <div class="vg-body">
+          <span class="vg-category">{{ .CurrentSection.Title }}</span>
+          <h4><a href="{{ .RelPermalink }}" class="vg-title-link">{{ .Title }}</a></h4>
+          {{ with .Params.amazon_rating }}<div class="vg-stars">{{ partial "stars.html" . }}</div>{{ end }}
+          <p class="vg-summary">{{ .Summary | plainify | truncate 80 }}</p>
+        </div>
+      </div>
       {{ end }}
     </div>
   </div>
 </section>
+{{ end }}
 
-<!-- Featured Picks — 3 columns x 3 product rows -->
+<!-- Featured Picks -->
 <section class="featured-picks">
   <div class="container">
     <div class="picks-header">
       <span class="picks-overline">TRUSTED REVIEWS</span>
       <h2 class="section-title">TOP RATED PRODUCTS</h2>
-      <p class="picks-subtitle">Curated from thousands of customer reviews</p>
     </div>
     <div class="picks-columns">
-      <!-- Column 1: TODAY'S TOP PICK -->
+      <!-- Col 1: TODAY'S TOP PICK — top 3 scored from the 10 -->
       <div class="picks-col">
         <span class="picks-col-badge">🏆 TODAY'S TOP PICK</span>
+        {{ range $todayTop3 }}
         <div class="pick-row">
-          <div class="pick-img"></div>
+          <a href="{{ .RelPermalink }}" class="pick-img-link">
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}"></div>
+          </a>
           <div class="pick-info">
-            <a href="/kitchen/" class="pick-name">Breville Barista Pro Espresso Machine</a>
-            <span class="pick-verdict">Verdict: 9.2/10 ★★★★☆</span>
+            <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
+            <span class="pick-verdict">Verdict: {{ .Params.verdict_score }}/10</span>
           </div>
         </div>
-        <div class="pick-row">
-          <div class="pick-img"></div>
-          <div class="pick-info">
-            <a href="/kitchen/" class="pick-name">Ninja Professional Plus Blender</a>
-            <span class="pick-verdict">Verdict: 9.0/10 ★★★★☆</span>
-          </div>
+        {{ else }}
+        <div class="pick-row" style="justify-content:center;padding:20px 0;">
+          <span class="pick-name" style="color:var(--muted);">No reviews yet</span>
         </div>
-        <div class="pick-row">
-          <div class="pick-img"></div>
-          <div class="pick-info">
-            <a href="/kitchen/" class="pick-name">Cuisinart 14-Cup Food Processor</a>
-            <span class="pick-verdict">Verdict: 8.8/10 ★★★★☆</span>
-          </div>
-        </div>
+        {{ end }}
       </div>
-      <!-- Column 2: BEST OF THE WEEK -->
+
+      <!-- Col 2: BEST OF THE WEEK — top 3 scored from last 7 days -->
       <div class="picks-col">
         <span class="picks-col-badge">⭐ BEST OF THE WEEK</span>
+        {{ range $weekTop3 }}
         <div class="pick-row">
-          <div class="pick-img"></div>
+          <a href="{{ .RelPermalink }}" class="pick-img-link">
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}"></div>
+          </a>
           <div class="pick-info">
-            <a href="/coffee/" class="pick-name">Breville Bambino Plus Espresso</a>
-            <span class="pick-verdict">Verdict: 9.1/10 ★★★★☆</span>
+            <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
+            <span class="pick-verdict">Verdict: {{ .Params.verdict_score }}/10</span>
           </div>
         </div>
-        <div class="pick-row">
-          <div class="pick-img"></div>
-          <div class="pick-info">
-            <a href="/coffee/" class="pick-name">Fellow Stagg EKG Pour-Over Kettle</a>
-            <span class="pick-verdict">Verdict: 8.9/10 ★★★★☆</span>
-          </div>
+        {{ else }}
+        <div class="pick-row" style="justify-content:center;padding:20px 0;">
+          <span class="pick-name" style="color:var(--muted);">No reviews this week</span>
         </div>
-        <div class="pick-row">
-          <div class="pick-img"></div>
-          <div class="pick-info">
-            <a href="/coffee/" class="pick-name">OXO Brew 9-Cup Coffee Maker</a>
-            <span class="pick-verdict">Verdict: 8.7/10 ★★★★☆</span>
-          </div>
-        </div>
+        {{ end }}
       </div>
-      <!-- Column 3: EDITOR'S FAVOURITE -->
+
+      <!-- Col 3: EDITOR'S FAVOURITE — top 3 scored from last 30 days -->
       <div class="picks-col">
         <span class="picks-col-badge">❤️ EDITOR'S FAVOURITE</span>
+        {{ range $monthTop3 }}
         <div class="pick-row">
-          <div class="pick-img"></div>
+          <a href="{{ .RelPermalink }}" class="pick-img-link">
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}"></div>
+          </a>
           <div class="pick-info">
-            <a href="/home-office/" class="pick-name">Herman Miller Aeron Chair</a>
-            <span class="pick-verdict">Verdict: 9.3/10 ★★★★★</span>
+            <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
+            <span class="pick-verdict">Verdict: {{ .Params.verdict_score }}/10</span>
           </div>
         </div>
-        <div class="pick-row">
-          <div class="pick-img"></div>
-          <div class="pick-info">
-            <a href="/home-office/" class="pick-name">Jarvis Standing Desk Frame</a>
-            <span class="pick-verdict">Verdict: 8.6/10 ★★★★☆</span>
-          </div>
+        {{ else }}
+        <div class="pick-row" style="justify-content:center;padding:20px 0;">
+          <span class="pick-name" style="color:var(--muted);">No reviews this month</span>
         </div>
-        <div class="pick-row">
-          <div class="pick-img"></div>
-          <div class="pick-info">
-            <a href="/home-office/" class="pick-name">Dell UltraSharp 27" 4K Monitor</a>
-            <span class="pick-verdict">Verdict: 9.0/10 ★★★★☆</span>
-          </div>
-        </div>
+        {{ end }}
       </div>
     </div>
   </div>
 </section>
+
+{{ else }}
+<!-- Placeholder when no reviews exist -->
+<section class="section-white" style="min-height:300px;display:flex;align-items:center;">
+  <div class="container" style="text-align:center;padding:60px 24px;">
+    <h2 style="font-family:var(--font-heading);font-size:24px;color:var(--navy);margin-bottom:12px;">Reviews Coming Soon</h2>
+    <p style="font-size:15px;color:var(--muted);max-width:500px;margin:0 auto;">We're analyzing thousands of Amazon reviews. Check back soon for our first verdicts.</p>
+  </div>
+</section>
+{{ end }}
 
 <!-- Why Trust Us -->
 <section class="about-snippet">
