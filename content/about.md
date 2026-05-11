@@ -28,7 +28,7 @@ Every product on our site goes through the same rigorous process:
 - **We don't take money for reviews.** Every product is evaluated on customer data alone.
 - **We disclose everything.** If a link earns us a commission, we say so. No hidden sponsorships.
 - **We cite our sources.** Every verdict is backed by real Amazon reviews you can verify.
-- **We update regularly.** Products change, manufacturers update, and returns pile up. We keep our verdicts current.
+- **We don't chase updates.** Each verdict is a snapshot based on customer reviews at the time of writing. Products change, and so will our coverage — with new verdicts on new products.
 
 ## Where We Stand
 
