@@ -429,22 +429,23 @@ ul { list-style: none; }
 .verdict-row-section {}
 .verdict-row {
   display: flex;
-  gap: 6px;
+  gap: 20px;
   align-items: stretch;
 }
 .vr-col {
   display: flex;
+  min-width: 0;
 }
 .vr-col-main {
-  flex: 2;
+  flex: 0 0 calc(50% - 20px);
 }
 .vr-col-side {
-  flex: 1;
+  flex: 0 0 calc(25% - 10px);
 }
 .vr-col-stack {
-  flex: 1;
+  flex: 0 0 calc(25% - 10px);
   flex-direction: column;
-  gap: 6px;
+  gap: 20px;
 }
 
 /* Base verdict card */
@@ -456,6 +457,8 @@ ul { list-style: none; }
   display: flex;
   flex-direction: column;
   padding: 20px;
+  min-width: 0;
+  width: 100%;
 }
 .verdict-card:hover {
   box-shadow: var(--shadow-md);
