@@ -756,25 +756,13 @@ ul { list-style: none; }
   overflow: hidden;
 }
 .vmc-col {
-  padding: 20px;
+  padding: 16px 20px;
   display: flex;
   flex-direction: column;
   border-right: 1px solid var(--border-light);
 }
 .vmc-col-last {
   border-right: none;
-}
-.vmc-col-badge {
-  display: block;
-  text-align: center;
-  font-size: 11px;
-  font-weight: 700;
-  color: var(--navy);
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  padding-bottom: 12px;
-  margin-bottom: 8px;
-  border-bottom: 2px solid var(--gold);
 }
 .vmc-col .pick-row:last-child {
   border-bottom: none;
