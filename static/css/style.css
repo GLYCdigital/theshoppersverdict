@@ -429,7 +429,7 @@ ul { list-style: none; }
 .verdict-row-section {}
 .verdict-row {
   display: flex;
-  gap: 12px;
+  gap: 6px;
   align-items: stretch;
 }
 .vr-col {
@@ -444,7 +444,7 @@ ul { list-style: none; }
 .vr-col-stack {
   flex: 1;
   flex-direction: column;
-  gap: 12px;
+  gap: 6px;
 }
 
 /* Base verdict card */
