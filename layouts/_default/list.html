@@ -8,17 +8,43 @@
   </div>
 </section>
 
-<section class="category-content">
+<section class="section-white verdict-grid-section">
   <div class="container">
-    <div class="category-toolbar">
-      <span class="result-count">{{ len .Pages }} verdicts</span>
-    </div>
-    <div class="review-grid">
+    <div class="verdict-grid">
       {{ range .Pages.ByTitle }}
-        {{ partial "review-card.html" . }}
+      <div class="vg-card">
+        <a href="{{ .RelPermalink }}" class="vg-image-link">
+          <div class="vg-image">
+            <div class="vg-score">{{ .Params.verdict_score | default "9.0" }}</div>
+          </div>
+        </a>
+        <div class="vg-body">
+          <span class="vg-category">{{ with .Params.category }}{{ . }}{{ else }}{{ .CurrentSection.Title }}{{ end }}</span>
+          <h4><a href="{{ .RelPermalink }}" class="vg-title-link">{{ .Title }}</a></h4>
+          {{ with .Params.amazon_rating }}
+          <div class="vg-stars">
+            {{ $rating := . }}{{ $full := math.Floor $rating }}{{ $half := 0 }}
+            {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
+            {{ range seq 5 }}
+              {{ if le . $full }}<span class="star full">★</span>
+              {{ else if and (eq . (add $full 1)) (eq $half 1) }}<span class="star half">★</span>
+              {{ else }}<span class="star empty">★</span>
+              {{ end }}
+            {{ end }}
+          </div>
+          {{ end }}
+          <p class="vg-summary">{{ .Summary | plainify | truncate 80 }}</p>
+        </div>
+      </div>
+      {{ else }}
+      <div class="vg-card" style="grid-column: 1 / -1; text-align: center; padding: 40px;">
+        <div class="vg-body">
+          <h4>Reviews Coming Soon</h4>
+          <p class="vg-summary">We're analyzing thousands of Amazon reviews. Check back soon for our verdicts.</p>
+        </div>
+      </div>
       {{ end }}
     </div>
-    {{ template "_internal/pagination.html" . }}
   </div>
 </section>
 {{ end }}
