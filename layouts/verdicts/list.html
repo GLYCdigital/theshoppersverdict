@@ -8,46 +8,86 @@
   </div>
 </section>
 
-{{ $all := where .Site.RegularPages "Section" "in" (slice "kitchen" "coffee" "home-office") }}
+{{ $all := (where .Site.RegularPages "Section" "in" (slice "kitchen" "coffee" "home-office")).ByDate.Reverse }}
+{{ $total := len $all }}
+{{ $perCol := div $total 3 }}
+{{ if gt (mod $total 3) 0 }}{{ $perCol = add $perCol 1 }}{{ end }}
+{{ $col1 := first $perCol $all }}
+{{ $col2 := first $perCol (after $perCol $all) }}
+{{ $col3 := after (mul $perCol 2) $all }}
+
 <section class="section-white">
   <div class="container">
-    <div class="verdicts-compact">
-      {{ range $all.ByDate.Reverse }}
-      <div class="vc-entry">
-        <a href="{{ .RelPermalink }}" class="vc-entry-image-link">
-          <div class="vc-entry-image{{ if not .Params.amazon_image }} vc-entry-image-placeholder{{ end }}">
-            {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
-          </div>
-        </a>
-        <div class="vc-entry-body">
-          <span class="vc-entry-category">{{ .CurrentSection.Title }}</span>
-          <h3><a href="{{ .RelPermalink }}" class="vc-entry-title-link">{{ .Title }}</a></h3>
-          <div class="vc-entry-meta">
-            {{ with .Params.verdict_score }}
-            <span class="vc-entry-score">{{ . }}</span>
-            {{ end }}
-            {{ with .Params.amazon_rating }}
-            <span class="vc-entry-stars">
-              {{ $rating := . }}{{ $full := math.Floor $rating }}{{ $half := 0 }}
-              {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
-              {{ range seq 5 }}
-                {{ if le . $full }}★{{ else if and (eq . (add $full 1)) (eq $half 1) }}★{{ else }}☆{{ end }}
-              {{ end }}
+    <div class="verdicts-master-card">
+      <div class="vmc-col">
+        <span class="vmc-col-badge">📋 ALL REVIEWS</span>
+        {{ range $col1 }}
+        <div class="pick-row">
+          <a href="{{ .RelPermalink }}" class="pick-img-link">
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+            </div>
+          </a>
+          <div class="pick-info">
+            <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
+            <span class="pick-verdict">
+              {{ with .Params.verdict_score }}{{ . }}/10{{ end }}
+              {{ with .Params.amazon_rating }} ★★★★☆{{ end }}
             </span>
-            {{ end }}
-            <time class="vc-entry-date">{{ .Date.Format "Jan 2, 2006" }}</time>
           </div>
-          <p class="vc-entry-summary">{{ .Summary | plainify | truncate 100 }}</p>
         </div>
-      </div>
-      {{ else }}
-      <div class="vc-entry vc-entry-placeholder">
-        <div class="vc-entry-body">
-          <h3>No Reviews Yet</h3>
-          <p class="vc-entry-summary">We haven't published any reviews yet. Check back soon.</p>
+        {{ else }}
+        <div class="pick-row" style="justify-content:center;padding:40px 0;">
+          <span class="pick-name" style="color:var(--muted);">No reviews yet</span>
         </div>
+        {{ end }}
       </div>
-      {{ end }}
+      <div class="vmc-col">
+        <span class="vmc-col-badge">📋 ALL REVIEWS</span>
+        {{ range $col2 }}
+        <div class="pick-row">
+          <a href="{{ .RelPermalink }}" class="pick-img-link">
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+            </div>
+          </a>
+          <div class="pick-info">
+            <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
+            <span class="pick-verdict">
+              {{ with .Params.verdict_score }}{{ . }}/10{{ end }}
+              {{ with .Params.amazon_rating }} ★★★★☆{{ end }}
+            </span>
+          </div>
+        </div>
+        {{ else }}
+        <div class="pick-row" style="justify-content:center;padding:40px 0;">
+          <span class="pick-name" style="color:var(--muted);">No reviews yet</span>
+        </div>
+        {{ end }}
+      </div>
+      <div class="vmc-col vmc-col-last">
+        <span class="vmc-col-badge">📋 ALL REVIEWS</span>
+        {{ range $col3 }}
+        <div class="pick-row">
+          <a href="{{ .RelPermalink }}" class="pick-img-link">
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+            </div>
+          </a>
+          <div class="pick-info">
+            <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
+            <span class="pick-verdict">
+              {{ with .Params.verdict_score }}{{ . }}/10{{ end }}
+              {{ with .Params.amazon_rating }} ★★★★☆{{ end }}
+            </span>
+          </div>
+        </div>
+        {{ else }}
+        <div class="pick-row" style="justify-content:center;padding:40px 0;">
+          <span class="pick-name" style="color:var(--muted);">No reviews yet</span>
+        </div>
+        {{ end }}
+      </div>
     </div>
   </div>
 </section>

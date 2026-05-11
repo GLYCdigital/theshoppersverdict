@@ -744,6 +744,42 @@ ul { list-style: none; }
 .picks-subtitle a { color: var(--navy); }
 .picks-subtitle a:hover { color: var(--gold); }
 
+/* ==========================================
+   VERDICTS MASTER CARD — 1 card, 3 columns, subtle dividers
+   ========================================== */
+.verdicts-master-card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background: var(--off-white);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+.vmc-col {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--border-light);
+}
+.vmc-col-last {
+  border-right: none;
+}
+.vmc-col-badge {
+  display: block;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--navy);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding-bottom: 12px;
+  margin-bottom: 8px;
+  border-bottom: 2px solid var(--gold);
+}
+.vmc-col .pick-row:last-child {
+  border-bottom: none;
+}
+
 .picks-columns {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -780,12 +816,32 @@ ul { list-style: none; }
 .pick-row:last-child {
   border-bottom: none;
 }
+.pick-img-link {
+  display: block;
+  text-decoration: none;
+  flex-shrink: 0;
+}
 .pick-img {
   width: 60px;
   height: 60px;
   border-radius: 4px;
   background: var(--border-light);
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.pick-img-placeholder::after {
+  content: '📷';
+  font-size: 16px;
+  color: var(--muted);
+}
+.pick-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 .pick-info {
   flex: 1;
