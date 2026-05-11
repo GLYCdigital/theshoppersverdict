@@ -1491,7 +1491,7 @@ ul { list-style: none; }
   .trust-divider { display: none; }
 
   .sub-header { height: auto; min-height: 50px; }
-  .sub-header-inner { padding: 6px 0; }
+  .sub-header-inner { padding: 10px 0; }
   .navy-nav { display: none; }
   .nav-hamburger { display: flex; flex-direction: column; gap: 4px; background: none; border: none; cursor: pointer; padding: 8px 10px; margin-right: auto; }
   .nav-hamburger span { display: block; width: 20px; height: 2px; background: var(--white); border-radius: 1px; }
