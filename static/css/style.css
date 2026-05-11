@@ -417,6 +417,135 @@ ul { list-style: none; }
 
 
 
+/* ==========================================
+   WHITE SECTIONS (below hero)
+   ========================================== */
+.section-white {
+  padding: 48px 0;
+  background: var(--white);
+}
+
+/* Daily Verdict Card — square, half-width */
+.daily-verdict-section {
+  padding: 48px 0;
+}
+.daily-verdict-wrap {
+  max-width: 50%;
+}
+.daily-verdict-card {
+  background: var(--off-white);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  flex-direction: column;
+}
+.daily-verdict-card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.dv-badge {
+  background: var(--gold);
+  color: var(--navy);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.dv-inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+}
+
+.dv-image {
+  width: 100%;
+  aspect-ratio: 1 / 0.75;
+  background: var(--border-light);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 16px;
+}
+.dv-image::after {
+  content: 'Product Image';
+  font-size: 13px;
+  color: var(--muted);
+  letter-spacing: 0.5px;
+}
+.dv-score {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--gold);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 18px;
+  font-weight: 700;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.dv-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.dv-category {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--gold);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.dv-body h3 {
+  font-family: var(--font-heading);
+  font-size: 20px;
+  color: var(--navy);
+  line-height: 1.3;
+}
+.dv-stars {
+  font-size: 14px;
+  color: var(--gold);
+}
+.dv-rating-text {
+  font-size: 12px;
+  color: var(--muted);
+  margin-left: 6px;
+}
+.dv-summary {
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.6;
+  flex: 1;
+}
+.dv-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border-light);
+}
+.dv-affiliate {
+  font-size: 10px;
+  color: var(--muted);
+  font-style: italic;
+}
+
 /* Featured Picks — 3 columns x 3 product rows */
 .featured-picks {
   padding: 48px 0;
