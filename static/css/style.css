@@ -429,22 +429,22 @@ ul { list-style: none; }
 .verdict-row-section {}
 .verdict-row {
   display: flex;
-  gap: 20px;
+  gap: 12px;
   align-items: stretch;
 }
 .vr-col {
   display: flex;
 }
 .vr-col-main {
-  flex: 0 0 calc(50% - 10px);
+  flex: 2;
 }
 .vr-col-side {
-  flex: 0 0 calc(25% - 10px);
+  flex: 1;
 }
 .vr-col-stack {
-  flex: 0 0 calc(25% - 10px);
+  flex: 1;
   flex-direction: column;
-  gap: 20px;
+  gap: 12px;
 }
 
 /* Base verdict card */
