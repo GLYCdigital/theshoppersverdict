@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="category-hero" style="background-color: var(--navy);">
+<section class="category-hero"{{ with .Params.hero_image }} style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('{{ . }}') center/cover no-repeat;"{{ else }} style="background-color: var(--navy);"{{ end }}>
   <div class="container category-hero-inner">
     <h1>{{ .Title }}</h1>
     {{ with .Params.description }}
