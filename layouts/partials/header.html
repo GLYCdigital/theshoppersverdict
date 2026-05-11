@@ -16,6 +16,18 @@
 
   <div class="sub-header">
     <div class="container sub-header-inner">
+      <button class="nav-hamburger" id="navHamburger" aria-label="Menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="mobile-nav-dropdown" id="mobileNav">
+        <a href="/">HOME</a>
+        <a href="/today/">TODAY</a>
+        <a href="/verdicts/">VERDICTS</a>
+        <a href="/about/">ABOUT US</a>
+        <a href="/contact/">CONTACT US</a>
+      </div>
       <div class="category-dropdown">
         <button class="dropdown-toggle" id="catDropdown">
           BROWSE CATEGORIES
@@ -51,5 +63,10 @@ document.getElementById('catDropdown')?.addEventListener('click', function(e) {
 });
 document.addEventListener('click', function() {
   document.getElementById('catMenu')?.classList.remove('open');
+  document.getElementById('mobileNav')?.classList.remove('open');
+});
+document.getElementById('navHamburger')?.addEventListener('click', function(e) {
+  e.stopPropagation();
+  document.getElementById('mobileNav').classList.toggle('open');
 });
 </script>

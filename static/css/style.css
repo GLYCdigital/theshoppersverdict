@@ -270,6 +270,9 @@ ul { list-style: none; }
 .header-icon { color: var(--muted); transition: color var(--transition); display: flex; }
 .header-icon:hover { color: var(--gold); }
 
+.nav-hamburger { display: none; }
+.mobile-nav-dropdown { display: none; }
+
 .hamburger { display: none; background: none; border: none; cursor: pointer; padding: 4px; margin-left: 8px; }
 .hamburger span { display: block; width: 22px; height: 2px; background: var(--charcoal); margin: 5px 0; transition: all var(--transition); }
 .hamburger.open span:nth-child(1) { transform: rotate(45deg) translate(5px, 5px); }
@@ -1488,11 +1491,39 @@ ul { list-style: none; }
   .trust-divider { display: none; }
 
   .sub-header { height: auto; min-height: 50px; }
-  .sub-header-inner { flex-wrap: wrap; padding: 8px 0; gap: 8px; justify-content: center; }
-  .category-dropdown { flex-shrink: 0; }
+  .sub-header-inner { padding: 6px 0; }
+  .navy-nav { display: none; }
+  .nav-hamburger { display: flex; flex-direction: column; gap: 4px; background: none; border: none; cursor: pointer; padding: 8px 10px; margin-right: auto; }
+  .nav-hamburger span { display: block; width: 20px; height: 2px; background: var(--white); border-radius: 1px; }
+  .category-dropdown { margin-left: auto; flex-shrink: 0; }
   .dropdown-toggle { padding: 8px 12px; font-size: 12px; }
-  .navy-nav { margin-left: 0; gap: 12px; flex-wrap: wrap; justify-content: center; }
-  .navy-nav a { font-size: 11px; }
+
+  .mobile-nav-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--navy);
+    min-width: 200px;
+    padding: 8px 0;
+    z-index: 200;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+  }
+  .mobile-nav-dropdown.open { display: block; }
+  .mobile-nav-dropdown a {
+    display: block;
+    padding: 12px 20px;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.85);
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    transition: background var(--transition);
+  }
+  .mobile-nav-dropdown a:hover {
+    background: rgba(255,255,255,0.1);
+    color: var(--gold);
+  }
 
   .sub-header-white { height: auto; min-height: 44px; padding: 8px 0; }
   .promo-text { font-size: 12px; text-align: center; padding: 0 8px; }
