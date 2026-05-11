@@ -1,7 +1,7 @@
 ---
 title: "Get the Verdict"
 description: "New reviews delivered to your inbox."
-layout: single
+type: page
 ---
 
 ## Never Miss a Verdict
