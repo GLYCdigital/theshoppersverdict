@@ -1360,6 +1360,7 @@ ul { list-style: none; }
 }
 .page-body {
   max-width: 760px;
+  margin: 0 auto;
   font-size: 16px;
   line-height: 1.8;
   color: var(--charcoal);
@@ -1399,6 +1400,17 @@ ul { list-style: none; }
 }
 .page-body strong {
   color: var(--navy);
+}
+
+.page-hero-image {
+  margin-top: 40px;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.page-hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 /* ==========================================
