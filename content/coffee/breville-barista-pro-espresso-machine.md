@@ -4,6 +4,7 @@ date: 2026-05-11
 verdict_score: 9.2
 review_count: 2843
 amazon_rating: 4.6
+amazon_image: ""
 amazon_url: "https://www.amazon.com/dp/B07YN32XQL/?tag=shoppersverdi-20"
 pros:
   - "Built-in conical burr grinder delivers fresh, consistent grounds every time"

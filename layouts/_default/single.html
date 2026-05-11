@@ -15,6 +15,16 @@
         {{ end }}
       </div>
 
+      {{ with .Params.amazon_image }}
+      <div class="review-image-card">
+        <img src="{{ . }}" alt="{{ $.Title }}" class="review-product-image">
+      </div>
+      {{ else }}
+      <div class="review-image-card review-image-placeholder">
+        <span>Product Image</span>
+      </div>
+      {{ end }}
+
       {{ partial "pros-cons.html" . }}
 
       <div class="review-body">

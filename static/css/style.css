@@ -1009,6 +1009,35 @@ ul { list-style: none; }
 .affiliate-disclosure { font-size: 11px; color: var(--muted); line-height: 1.6; max-width: 600px; text-align: right; }
 
 /* ==========================================
+   REVIEW IMAGE CARD
+   ========================================== */
+.review-image-card {
+  width: 100%;
+  margin-bottom: 24px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--off-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.review-image-placeholder {
+  aspect-ratio: 1 / 0.6;
+  background: var(--border-light);
+  color: var(--muted);
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.review-product-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+/* ==========================================
    RESPONSIVE
    ========================================== */
 @media (max-width: 992px) {
