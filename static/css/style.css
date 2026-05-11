@@ -1477,10 +1477,10 @@ ul { list-style: none; }
   /* Header */
   .site-header { height: auto; }
   .site-header { border-bottom: none; }
-  .header-inner { height: 100px; padding: 16px 16px 8px; gap: 12px; align-items: flex-start; }
-  .logo { width: 70px; height: 70px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; }
-  .logo img { width: 70px; height: 70px; object-fit: contain; display: block; }
-  .header-trust-text { gap: 4px; padding-top: 2px; }
+  .header-inner { height: 100px; padding: 8px 16px 4px; gap: 12px; align-items: flex-start; }
+  .logo { width: 88px; height: 88px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; }
+  .logo img { width: 88px; height: 88px; object-fit: contain; display: block; }
+  .header-trust-text { gap: 3px; padding-top: 6px; }
   .header-trust-text span { font-size: 11px; line-height: 1.2; }
   .sub-header { min-height: 50px; }
   .header-trust-text { flex-direction: column; align-items: flex-end; gap: 2px; }
