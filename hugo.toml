@@ -39,8 +39,8 @@ summaryLength = 25
 
 [menu]
   [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Verdicts"
+    url = "/verdicts/"
     weight = 10
   [[menu.main]]
     name = "About"

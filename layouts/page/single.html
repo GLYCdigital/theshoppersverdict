@@ -1,15 +1,15 @@
 {{ define "main" }}
+<section class="category-hero" style="background-color: var(--navy);">
+  <div class="container category-hero-inner">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="category-desc">{{ . }}</p>
+    {{ end }}
+  </div>
+</section>
+
 <article class="page-single">
   <div class="container">
-    <nav class="breadcrumb">
-      <a href="/">Home</a>
-      <span>→</span> <span class="current">{{ .Title }}</span>
-    </nav>
-
-    <header class="page-header">
-      <h1>{{ .Title }}</h1>
-    </header>
-
     <div class="page-body">
       {{ .Content }}
     </div>

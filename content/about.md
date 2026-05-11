@@ -1,6 +1,8 @@
 ---
 title: "About The Shopper's Verdict"
 description: "We read thousands of Amazon reviews so you don't have to. No fluff, just the verdict."
+type: page
+hero_image: "/images/og-social.jpg"
 ---
 
 ## Our Mission
