@@ -1345,6 +1345,63 @@ ul { list-style: none; }
 }
 
 /* ==========================================
+   PAGE TEMPLATE (About, Contact, etc.)
+   ========================================== */
+.page-single {
+  padding: 48px 0;
+}
+.page-header {
+  margin-bottom: 32px;
+}
+.page-header h1 {
+  font-family: var(--font-heading);
+  font-size: 32px;
+  color: var(--navy);
+}
+.page-body {
+  max-width: 760px;
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--charcoal);
+}
+.page-body h2 {
+  font-family: var(--font-heading);
+  font-size: 24px;
+  color: var(--navy);
+  margin-top: 36px;
+  margin-bottom: 12px;
+}
+.page-body h3 {
+  font-family: var(--font-heading);
+  font-size: 20px;
+  color: var(--navy);
+  margin-top: 28px;
+  margin-bottom: 8px;
+}
+.page-body p {
+  margin-bottom: 16px;
+}
+.page-body ul,
+.page-body ol {
+  margin-bottom: 16px;
+  padding-left: 24px;
+}
+.page-body li {
+  margin-bottom: 8px;
+}
+.page-body a {
+  color: var(--gold);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.page-body a:hover {
+  color: var(--navy);
+}
+.page-body strong {
+  color: var(--navy);
+}
+
+/* ==========================================
    REVIEW IMAGE CARD
    ========================================== */
 .review-image-card {

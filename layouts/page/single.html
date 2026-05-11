@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="page-single">
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a>
+      <span>→</span> <span class="current">{{ .Title }}</span>
+    </nav>
+
+    <header class="page-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="page-body">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+{{ end }}
