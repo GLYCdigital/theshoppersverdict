@@ -1,0 +1,54 @@
+{{ define "main" }}
+<section class="category-hero" style="background-color: var(--navy);">
+  <div class="container category-hero-inner">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="category-desc">{{ . }}</p>
+    {{ end }}
+  </div>
+</section>
+
+{{ $all := where .Site.RegularPages "Section" "in" (slice "kitchen" "coffee" "home-office") }}
+<section class="section-white">
+  <div class="container">
+    <div class="verdicts-compact">
+      {{ range $all.ByDate.Reverse }}
+      <div class="vc-entry">
+        <a href="{{ .RelPermalink }}" class="vc-entry-image-link">
+          <div class="vc-entry-image{{ if not .Params.amazon_image }} vc-entry-image-placeholder{{ end }}">
+            {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+          </div>
+        </a>
+        <div class="vc-entry-body">
+          <span class="vc-entry-category">{{ .CurrentSection.Title }}</span>
+          <h3><a href="{{ .RelPermalink }}" class="vc-entry-title-link">{{ .Title }}</a></h3>
+          <div class="vc-entry-meta">
+            {{ with .Params.verdict_score }}
+            <span class="vc-entry-score">{{ . }}</span>
+            {{ end }}
+            {{ with .Params.amazon_rating }}
+            <span class="vc-entry-stars">
+              {{ $rating := . }}{{ $full := math.Floor $rating }}{{ $half := 0 }}
+              {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
+              {{ range seq 5 }}
+                {{ if le . $full }}★{{ else if and (eq . (add $full 1)) (eq $half 1) }}★{{ else }}☆{{ end }}
+              {{ end }}
+            </span>
+            {{ end }}
+            <time class="vc-entry-date">{{ .Date.Format "Jan 2, 2006" }}</time>
+          </div>
+          <p class="vc-entry-summary">{{ .Summary | plainify | truncate 100 }}</p>
+        </div>
+      </div>
+      {{ else }}
+      <div class="vc-entry vc-entry-placeholder">
+        <div class="vc-entry-body">
+          <h3>No Reviews Yet</h3>
+          <p class="vc-entry-summary">We haven't published any reviews yet. Check back soon.</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
