@@ -1617,7 +1617,7 @@ ul { list-style: none; }
   .hero-banner { min-height: 240px; }
   .hero-banner h1 { font-size: 22px; }
   .hero-banner p { font-size: 13px; }
-  .sub-header-inner { flex-direction: column; gap: 6px; }
+  .sub-header-inner { flex-wrap: nowrap; }
   .navy-nav { gap: 8px; }
   .navy-nav a { font-size: 10px; }
   .category-hero-inner h1 { font-size: 22px; }
