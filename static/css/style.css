@@ -1476,12 +1476,12 @@ ul { list-style: none; }
 
   /* Header */
   .site-header { height: auto; }
-  .header-inner { height: 60px; padding: 0 16px; }
-  .logo { width: auto; height: 60px; }
-  .logo img { width: auto; height: 48px; }
-  .header-trust-text span { font-size: 12px; }
+  .header-inner { height: 70px; padding: 0 16px; gap: 12px; }
+  .logo { width: auto; height: 70px; }
+  .logo img { width: auto; height: 60px; }
+  .header-trust-text { flex-direction: column; align-items: flex-end; gap: 2px; }
+  .header-trust-text span { font-size: 11px; }
   .trust-divider { display: none; }
-  .header-trust-text { gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
 
   .sub-header { height: auto; min-height: 50px; }
   .sub-header-inner { flex-wrap: wrap; padding: 8px 0; gap: 8px; justify-content: center; }
