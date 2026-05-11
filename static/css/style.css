@@ -1479,7 +1479,9 @@ ul { list-style: none; }
   .header-inner { height: 60px; padding: 0 16px; }
   .logo { width: auto; height: 60px; }
   .logo img { width: auto; height: 48px; }
-  .header-trust-text { display: none; }
+  .header-trust-text span { font-size: 12px; }
+  .trust-divider { display: none; }
+  .header-trust-text { gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
 
   .sub-header { height: auto; min-height: 50px; }
   .sub-header-inner { flex-wrap: wrap; padding: 8px 0; gap: 8px; justify-content: center; }
