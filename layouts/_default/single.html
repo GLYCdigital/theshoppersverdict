@@ -48,20 +48,9 @@
     <aside class="review-sidebar">
       <div class="sidebar-card">
         <div class="verdict-badge-mini">
-          <span class="verdict-score-mini">{{ .Params.amazon_rating | default "4.5" }}</span>
+          
         </div>
-        {{ with .Params.amazon_rating }}
-        <div class="product-stars">
-          {{ $rating := . }}{{ $full := math.Floor $rating }}{{ $half := 0 }}
-          {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
-          {{ range seq 5 }}
-            {{ if le . $full }}<span class="star full">★</span>
-            {{ else if and (eq . (add $full 1)) (eq $half 1) }}<span class="star half">★</span>
-            {{ else }}<span class="star empty">★</span>
-            {{ end }}
-          {{ end }}
-        </div>
-        {{ end }}
+        {{ with .Params.amazon_rating }}<div class="product-stars">{{ partial "stars.html" . }} <span class="rating-lg">{{ . }}/5</span></div>{{ end }}
         <a href="{{ .Params.amazon_url | default "#" }}" class="btn btn-green btn-block" target="_blank" rel="nofollow sponsored">
           🛒 Check Price on Amazon
         </a>

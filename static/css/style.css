@@ -385,7 +385,7 @@ ul { list-style: none; }
 .product-card-body h3 a { color: var(--charcoal); }
 .product-card-body h3 a:hover { color: var(--gold); }
 
-.product-stars { display: flex; align-items: center; gap: 2px; flex-wrap: wrap; }
+.product-stars { display: flex; align-items: center; gap: 2px; flex-wrap: wrap; font-size: 18px; }
 .star { font-size: 14px; }
 .star.full { color: var(--gold); }
 .star.half { color: var(--gold); opacity: 0.6; }
@@ -639,6 +639,9 @@ ul { list-style: none; }
   font-size: 11px;
   color: var(--gold);
 }
+.rating-inline { font-size: 11px; color: var(--muted); margin-left: 4px; }
+.rating-inline-sm { font-size: 10px; color: var(--muted); margin-left: 3px; }
+.rating-lg { font-size: 14px; color: var(--muted); margin-left: 4px; font-weight: 600; }
 .vc-summary {
   font-size: 13px;
   color: var(--muted);

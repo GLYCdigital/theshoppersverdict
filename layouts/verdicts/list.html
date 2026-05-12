@@ -30,10 +30,7 @@
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
-            <span class="pick-verdict">
-              {{ with .Params.amazon_rating }}{{ . }}/5{{ end }}
-              {{ with .Params.amazon_rating }} ★★★★☆{{ end }}
-            </span>
+            <span class="pick-verdict">{{ partial "stars.html" .Params.amazon_rating }} {{ .Params.amazon_rating }}/5</span>
           </div>
         </div>
         {{ else }}
@@ -53,10 +50,7 @@
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
-            <span class="pick-verdict">
-              {{ with .Params.amazon_rating }}{{ . }}/5{{ end }}
-              {{ with .Params.amazon_rating }} ★★★★☆{{ end }}
-            </span>
+            <span class="pick-verdict">{{ partial "stars.html" .Params.amazon_rating }} {{ .Params.amazon_rating }}/5</span>
           </div>
         </div>
         {{ else }}
@@ -76,10 +70,7 @@
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
-            <span class="pick-verdict">
-              {{ with .Params.amazon_rating }}{{ . }}/5{{ end }}
-              {{ with .Params.amazon_rating }} ★★★★☆{{ end }}
-            </span>
+            <span class="pick-verdict">{{ partial "stars.html" .Params.amazon_rating }} {{ .Params.amazon_rating }}/5</span>
           </div>
         </div>
         {{ else }}

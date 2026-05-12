@@ -1,7 +1,5 @@
 <article class="review-card">
-  <div class="verdict-badge">
-    <span class="verdict-score">{{ .Params.amazon_rating | default "4.5" }}</span>
-  </div>
+  
   <h3 class="review-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.amazon_rating }}
   <div class="review-stars" aria-label="{{ . }} out of 5 stars">
@@ -15,7 +13,7 @@
       {{ else }}<span class="star empty">★</span>
       {{ end }}
     {{ end }}
-    <span class="rating-text">({{ $rating }}/5 from {{ .Params.review_count | default "N" }} reviews)</span>
+    <span class="rating-text">— {{ $rating }}/5 ({{ .Params.review_count | default "N" }} reviews)</span>
   </div>
   {{ end }}
   <p class="review-excerpt">{{ .Summary | plainify | truncate 120 }}</p>

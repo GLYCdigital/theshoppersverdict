@@ -15,25 +15,13 @@
       <div class="vg-card">
         <a href="{{ .RelPermalink }}" class="vg-image-link">
           <div class="vg-image{{ if not .Params.amazon_image }} vg-image-placeholder{{ end }}">
-            <div class="vg-score">{{ .Params.amazon_rating | default "4.5" }}</div>
             {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vg-img-fill">{{ end }}
           </div>
         </a>
         <div class="vg-body">
           <span class="vg-category">{{ with .Params.category }}{{ . }}{{ else }}{{ .CurrentSection.Title }}{{ end }}</span>
           <h4><a href="{{ .RelPermalink }}" class="vg-title-link">{{ .Title }}</a></h4>
-          {{ with .Params.amazon_rating }}
-          <div class="vg-stars">
-            {{ $rating := . }}{{ $full := math.Floor $rating }}{{ $half := 0 }}
-            {{ if gt (sub $rating $full) 0.3 }}{{ $half = 1 }}{{ end }}
-            {{ range seq 5 }}
-              {{ if le . $full }}<span class="star full">★</span>
-              {{ else if and (eq . (add $full 1)) (eq $half 1) }}<span class="star half">★</span>
-              {{ else }}<span class="star empty">★</span>
-              {{ end }}
-            {{ end }}
-          </div>
-          {{ end }}
+          {{ with .Params.amazon_rating }}<div class="vg-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
           <p class="vg-summary">{{ .Summary | plainify | truncate 80 }}</p>
         </div>
       </div>

@@ -77,14 +77,13 @@
         <div class="verdict-card verdict-card-square">
           <a href="{{ .RelPermalink }}" class="vc-image-link">
             <div class="vc-image{{ if not .Params.amazon_image }} vc-image-placeholder{{ end }}">
-              <div class="vc-score">{{ .Params.amazon_rating | default "4.5" }}</div>
               {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill">{{ end }}
             </div>
           </a>
           <div class="vc-body">
             <span class="vc-category">{{ .CurrentSection.Title }}</span>
             <h3><a href="{{ .RelPermalink }}" class="vc-title-link">{{ .Title }}</a></h3>
-            {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }}</div>{{ end }}
+            {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
             <p class="vc-summary">{{ .Summary | plainify | truncate 80 }}</p>
           </div>
         </div>
@@ -98,14 +97,13 @@
         <div class="verdict-card verdict-card-tall">
           <a href="{{ .RelPermalink }}" class="vc-image-link">
             <div class="vc-image{{ if not .Params.amazon_image }} vc-image-placeholder{{ end }}">
-              <div class="vc-score">{{ .Params.amazon_rating | default "4.5" }}</div>
               {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill">{{ end }}
             </div>
           </a>
           <div class="vc-body">
             <span class="vc-category">{{ .CurrentSection.Title }}</span>
             <h3><a href="{{ .RelPermalink }}" class="vc-title-link">{{ .Title }}</a></h3>
-            {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }}</div>{{ end }}
+            {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
             <p class="vc-summary">{{ .Summary | plainify | truncate 60 }}</p>
           </div>
         </div>
@@ -120,14 +118,13 @@
         <div class="verdict-card verdict-card-half">
           <a href="{{ .RelPermalink }}" class="vc-image-link-sm">
             <div class="vc-image-sm{{ if not .Params.amazon_image }} vc-image-sm-placeholder{{ end }}">
-              <div class="vc-score-sm">{{ .Params.amazon_rating | default "4.5" }}</div>
               {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill-sm">{{ end }}
             </div>
           </a>
           <div class="vc-body-sm">
             <span class="vc-category">{{ .CurrentSection.Title }}</span>
             <h4><a href="{{ .RelPermalink }}" class="vc-title-link-sm">{{ .Title }}</a></h4>
-            {{ with .Params.amazon_rating }}<div class="vc-stars-sm">{{ partial "stars.html" . }}</div>{{ end }}
+            {{ with .Params.amazon_rating }}<div class="vc-stars-sm">{{ partial "stars.html" . }} <span class="rating-inline-sm">{{ . }}/5</span></div>{{ end }}
           </div>
         </div>
         {{ end }}
@@ -137,14 +134,13 @@
         <div class="verdict-card verdict-card-half">
           <a href="{{ .RelPermalink }}" class="vc-image-link-sm">
             <div class="vc-image-sm{{ if not .Params.amazon_image }} vc-image-sm-placeholder{{ end }}">
-              <div class="vc-score-sm">{{ .Params.amazon_rating | default "4.5" }}</div>
               {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill-sm">{{ end }}
             </div>
           </a>
           <div class="vc-body-sm">
             <span class="vc-category">{{ .CurrentSection.Title }}</span>
             <h4><a href="{{ .RelPermalink }}" class="vc-title-link-sm">{{ .Title }}</a></h4>
-            {{ with .Params.amazon_rating }}<div class="vc-stars-sm">{{ partial "stars.html" . }}</div>{{ end }}
+            {{ with .Params.amazon_rating }}<div class="vc-stars-sm">{{ partial "stars.html" . }} <span class="rating-inline-sm">{{ . }}/5</span></div>{{ end }}
           </div>
         </div>
         {{ end }}
@@ -164,14 +160,13 @@
       <div class="vg-card">
         <a href="{{ .RelPermalink }}" class="vg-image-link">
           <div class="vg-image{{ if not .Params.amazon_image }} vg-image-placeholder{{ end }}">
-            <div class="vg-score">{{ .Params.amazon_rating | default "4.5" }}</div>
             {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vg-img-fill">{{ end }}
           </div>
         </a>
         <div class="vg-body">
           <span class="vg-category">{{ .CurrentSection.Title }}</span>
           <h4><a href="{{ .RelPermalink }}" class="vg-title-link">{{ .Title }}</a></h4>
-          {{ with .Params.amazon_rating }}<div class="vg-stars">{{ partial "stars.html" . }}</div>{{ end }}
+          {{ with .Params.amazon_rating }}<div class="vg-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
           <p class="vg-summary">{{ .Summary | plainify | truncate 80 }}</p>
         </div>
       </div>
@@ -201,7 +196,7 @@
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
-            <span class="pick-verdict">Verdict: {{ .Params.amazon_rating }}/5</span>
+            <span class="pick-verdict">{{ partial "stars.html" .Params.amazon_rating }} {{ .Params.amazon_rating }}/5</span>
           </div>
         </div>
         {{ else }}
@@ -223,7 +218,7 @@
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
-            <span class="pick-verdict">Verdict: {{ .Params.amazon_rating }}/5</span>
+            <span class="pick-verdict">{{ partial "stars.html" .Params.amazon_rating }} {{ .Params.amazon_rating }}/5</span>
           </div>
         </div>
         {{ else }}
@@ -245,7 +240,7 @@
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
-            <span class="pick-verdict">Verdict: {{ .Params.amazon_rating }}/5</span>
+            <span class="pick-verdict">{{ partial "stars.html" .Params.amazon_rating }} {{ .Params.amazon_rating }}/5</span>
           </div>
         </div>
         {{ else }}
