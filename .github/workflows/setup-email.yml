@@ -1,0 +1,42 @@
+name: Setup Cloudflare Email Routing
+on:
+  workflow_dispatch:
+
+jobs:
+  setup-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Email Routing
+        run: |
+          # 1. Enable Email Routing for the zone
+          curl -s -X POST "https://api.cloudflare.com/client/v4/zones" \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data '{}' > /dev/null
+
+          # Get zone ID for theshoppersverdict.com
+          ZONE_ID=$(curl -s -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            "https://api.cloudflare.com/client/v4/zones?name=theshoppersverdict.com" \
+            | python3 -c "import sys,json; print(json.load(sys.stdin)['result'][0]['id'])" 2>/dev/null)
+          
+          echo "Zone ID: $ZONE_ID"
+          
+          if [ -n "$ZONE_ID" ]; then
+            # Enable Email Routing
+            curl -s -X PATCH "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/email/routing" \
+              -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+              -H "Content-Type: application/json" \
+              -d '{"enabled":true}' | python3 -m json.tool
+            
+            # Add destination address (this sends a verification email)
+            curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/email/routing/destinations" \
+              -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+              -H "Content-Type: application/json" \
+              -d '{"email":"gemma@glycdigital.com","name":"Gemma"}' | python3 -m json.tool
+            
+            echo ""
+            echo "✅ Email Routing enabled. Verification email sent to gemma@glycdigital.com"
+            echo "   After verifying, add custom address contact@theshoppersverdict.com"
+          else
+            echo "❌ Could not find zone"
+          fi
