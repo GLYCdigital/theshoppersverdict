@@ -4,7 +4,7 @@ date: 2026-05-12
 review_count: 19303
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00006IV0Q/?tag=shoppersverdi-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61rUS9j-40L._AC_SL1500_.jpg"
 pros:
   - "All stainless steel construction — zero plastic touches your water or coffee"
   - "Coffee stays piping hot, not lukewarm like most drip machines"

@@ -4,7 +4,7 @@ date: 2026-05-12
 review_count: 12796
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3QZ7SNF/?tag=shoppersverdi-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81shIEM-H2L._AC_SL1500_.jpg"
 pros:
   - "Drain spout actually keeps the counter dry — sponges and brushes drip straight into the sink instead of pooling on the counter"
   - "Sturdy 304 stainless steel build with a clean look; stays put on the sink ledge without slipping or shifting"

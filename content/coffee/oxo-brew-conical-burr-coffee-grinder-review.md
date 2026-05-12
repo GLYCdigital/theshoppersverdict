@@ -4,7 +4,7 @@ date: 2026-05-12
 review_count: 22830
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CSKGLMM/?tag=shoppersverdi-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71DeUg8G7kS._AC_SL1500_.jpg"
 pros:
   - "Consistent conical burr grind across all settings, even after years of daily use"
   - "Quieter than most grinders at this price point"

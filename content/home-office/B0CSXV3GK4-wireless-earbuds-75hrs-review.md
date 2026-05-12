@@ -4,7 +4,7 @@ date: 2026-05-12
 review_count: 27403
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSXV3GK4/?tag=shoppersverdi-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71NMUHszF4L._AC_SL1500_.jpg"
 pros:
   - "Exceptional 75-hour battery life lives up to the claim for most users"
   - "Deep bass and clear sound quality for a sub-$40 pair"
