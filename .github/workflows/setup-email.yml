@@ -1,0 +1,26 @@
+name: Setup Email Routing
+on: workflow_dispatch
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          set +e
+          echo "=== Zone ==="
+          ZONE_RESP=$(curl -s -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            "https://api.cloudflare.com/client/v4/zones?name=theshoppersverdict.com")
+          ZONE_ID=$(echo "$ZONE_RESP" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d['result'][0]['id'])" 2>/dev/null || echo "FAIL")
+          echo "Zone ID: $ZONE_ID"
+          
+          if [ "$ZONE_ID" != "FAIL" ]; then
+            echo "=== Enable Email Routing ==="
+            curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/email/routing/enable" \
+              -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+              -H "Content-Type: application/json" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d)"
+            
+            echo "=== Add destination ==="
+            curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/email/routing/destinations" \
+              -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+              -H "Content-Type: application/json" \
+              -d '{"email":"gemma@glycdigital.com"}' | python3 -c "import sys,json; d=json.load(sys.stdin); print(d)"
+          fi
