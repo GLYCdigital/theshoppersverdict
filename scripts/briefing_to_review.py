@@ -87,7 +87,7 @@ def generate_hugo(data, category, asin):
     lines.append(f'verdict_score: 9.0')
     lines.append(f'review_count: {data["review_count"]}')
     lines.append(f'amazon_rating: {data["rating"]}')
-    lines.append(f'amazon_url: "https://www.amazon.com/dp/{asin}/?tag=shoppersverdi-20"')
+    lines.append(f'amazon_url: "https://www.amazon.com/dp/{asin}/?tag=tsvglyc-20"')
     lines.append(f'amazon_image: ""')
     
     if data["pros"]:

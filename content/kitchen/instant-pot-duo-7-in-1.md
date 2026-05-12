@@ -3,7 +3,7 @@ title: "Instant Pot Duo 7-in-1 Electric Pressure Cooker, 6 Quart"
 date: 2026-05-12
 review_count: 184264
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B00FLYWNYQ/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00FLYWNYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SL1500_.jpg"
 pros:
   - "Genuinely easy to use — sauté, pressure cook, and keep warm in one pot with minimal learning curve"

@@ -3,7 +3,7 @@ title: "Air Fryer Paper Liners Review: Do These 125-Pack Disposable Liners Actua
 date: 2026-05-12
 review_count: 31988
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710lcyAkSSL._AC_SL1500_.jpg"
 pros:
   - "Fits most square/rectangular air fryers like Ninja Foodi perfectly"

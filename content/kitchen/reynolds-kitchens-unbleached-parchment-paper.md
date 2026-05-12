@@ -3,7 +3,7 @@ title: "Reynolds Kitchens Unbleached Parchment Paper Roll"
 date: 2026-05-12
 review_count: 27552
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B07PFYT8MC/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B07PFYT8MC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fSQYVwU7L._AC_SL1500_.jpg"
 pros:
   - "Chlorine-free, unbleached parchment — cleaner for food contact"

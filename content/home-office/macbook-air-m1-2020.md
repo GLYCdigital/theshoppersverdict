@@ -3,7 +3,7 @@ title: "2020 Apple MacBook Air M1"
 date: 2026-05-12
 review_count: 13387
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B08N5KWB9H/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B08N5KWB9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TPda7cwUL._AC_SL1500_.jpg"
 pros:
   - "Stunning performance-to-price ratio — fastest laptop in its class at launch, still competitive years later"
