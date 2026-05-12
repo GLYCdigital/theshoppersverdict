@@ -14,8 +14,9 @@
       {{ range .Pages.ByTitle }}
       <div class="vg-card">
         <a href="{{ .RelPermalink }}" class="vg-image-link">
-          <div class="vg-image">
+          <div class="vg-image{{ if not .Params.amazon_image }} vg-image-placeholder{{ end }}">
             <div class="vg-score">{{ .Params.amazon_rating | default "4.5" }}</div>
+            {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vg-img-fill">{{ end }}
           </div>
         </a>
         <div class="vg-body">

@@ -99,6 +99,7 @@
           <a href="{{ .RelPermalink }}" class="vc-image-link">
             <div class="vc-image{{ if not .Params.amazon_image }} vc-image-placeholder{{ end }}">
               <div class="vc-score">{{ .Params.amazon_rating | default "4.5" }}</div>
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill">{{ end }}
             </div>
           </a>
           <div class="vc-body">
@@ -120,6 +121,7 @@
           <a href="{{ .RelPermalink }}" class="vc-image-link-sm">
             <div class="vc-image-sm{{ if not .Params.amazon_image }} vc-image-sm-placeholder{{ end }}">
               <div class="vc-score-sm">{{ .Params.amazon_rating | default "4.5" }}</div>
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill-sm">{{ end }}
             </div>
           </a>
           <div class="vc-body-sm">
@@ -136,6 +138,7 @@
           <a href="{{ .RelPermalink }}" class="vc-image-link-sm">
             <div class="vc-image-sm{{ if not .Params.amazon_image }} vc-image-sm-placeholder{{ end }}">
               <div class="vc-score-sm">{{ .Params.amazon_rating | default "4.5" }}</div>
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill-sm">{{ end }}
             </div>
           </a>
           <div class="vc-body-sm">
@@ -162,6 +165,7 @@
         <a href="{{ .RelPermalink }}" class="vg-image-link">
           <div class="vg-image{{ if not .Params.amazon_image }} vg-image-placeholder{{ end }}">
             <div class="vg-score">{{ .Params.amazon_rating | default "4.5" }}</div>
+            {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vg-img-fill">{{ end }}
           </div>
         </a>
         <div class="vg-body">
@@ -191,7 +195,9 @@
         {{ range $todayTop3 }}
         <div class="pick-row">
           <a href="{{ .RelPermalink }}" class="pick-img-link">
-            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}"></div>
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="pick-img-fill">{{ end }}
+            </div>
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
@@ -211,7 +217,9 @@
         {{ range $weekTop3 }}
         <div class="pick-row">
           <a href="{{ .RelPermalink }}" class="pick-img-link">
-            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}"></div>
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="pick-img-fill">{{ end }}
+            </div>
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
@@ -231,7 +239,9 @@
         {{ range $monthTop3 }}
         <div class="pick-row">
           <a href="{{ .RelPermalink }}" class="pick-img-link">
-            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}"></div>
+            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="pick-img-fill">{{ end }}
+            </div>
           </a>
           <div class="pick-info">
             <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
