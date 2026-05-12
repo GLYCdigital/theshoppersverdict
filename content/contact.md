@@ -14,4 +14,4 @@ We read every message. We can't promise a personal reply to every single one, bu
 
 **No sponsored review requests, please.** We don't accept payment for coverage. Every product on our site earns its place through customer data, not marketing budgets.
 
-We're working on setting up a contact address. For now, reach us through our social channels or Telegram.
+Drop us a line at **[gemma@glycdigital.com](mailto:gemma@glycdigital.com)** — we read every message.
