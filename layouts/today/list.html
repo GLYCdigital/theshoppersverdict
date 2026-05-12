@@ -18,7 +18,7 @@
       <div class="vg-card">
         <a href="{{ .RelPermalink }}" class="vg-image-link">
           <div class="vg-image{{ if not .Params.amazon_image }} vg-image-placeholder{{ end }}">
-            <div class="vg-score">{{ .Params.verdict_score | default "9.0" }}</div>
+            <div class="vg-score">{{ .Params.amazon_rating | default "4.5" }}</div>
           </div>
         </a>
         <div class="vg-body">

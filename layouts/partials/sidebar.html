@@ -1,7 +1,7 @@
 <aside class="review-sidebar">
   <div class="sidebar-card">
     <div class="verdict-badge large">
-      <span class="verdict-score">{{ .Params.verdict_score | default "9.0" }}<span class="verdict-total">/10</span></span>
+      <span class="verdict-score">{{ .Params.amazon_rating | default "4.5" }}<span class="verdict-total">/5</span></span>
     </div>
     {{ with .Params.amazon_rating }}
     <div class="review-stars centered">
