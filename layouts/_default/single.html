@@ -33,7 +33,7 @@
       </div>
 
       <div class="review-cta-mobile">
-        <a href="{{ .Params.amazon_url | default "#" }}" class="btn btn-green btn-block" target="_blank" rel="nofollow sponsored">
+        <a href="{{ .Params.amazon_url | default "#" }}" class="btn btn-green btn-block" target="_blank" rel="nofollow sponsored" data-umami-event="affiliate_click" data-umami-event-value="{{ .Title }}">
           🛒 Check Price on Amazon
         </a>
         {{ with .Params.budget_pick }}
@@ -51,7 +51,7 @@
           
         </div>
         {{ with .Params.amazon_rating }}<div class="product-stars">{{ partial "stars.html" . }} <span class="rating-lg">{{ . }}/5</span></div>{{ end }}
-        <a href="{{ .Params.amazon_url | default "#" }}" class="btn btn-green btn-block" target="_blank" rel="nofollow sponsored">
+        <a href="{{ .Params.amazon_url | default "#" }}" class="btn btn-green btn-block" target="_blank" rel="nofollow sponsored" data-umami-event="affiliate_click" data-umami-event-value="{{ .Title }}">
           🛒 Check Price on Amazon
         </a>
         {{ with .Params.budget_pick }}
