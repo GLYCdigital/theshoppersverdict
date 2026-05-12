@@ -1,7 +1,6 @@
 ---
 title: "Scotch Heavy Duty Shipping Packing Tape Review: Reliable, But the Dispensers Leave Room"
 date: 2026-05-12
-verdict_score: 4.3
 review_count: 107827
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000J07BRQ/?tag=shoppersverdi-20"

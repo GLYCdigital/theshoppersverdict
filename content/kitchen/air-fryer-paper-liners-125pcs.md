@@ -1,7 +1,6 @@
 ---
 title: "Air Fryer Paper Liners Review: Do These 125-Pack Disposable Liners Actually Save Time?"
 date: 2026-05-12
-verdict_score: 4.5
 review_count: 31988
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=shoppersverdi-20"

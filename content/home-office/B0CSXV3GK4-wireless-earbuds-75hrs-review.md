@@ -1,7 +1,6 @@
 ---
 title: "Wireless Earbuds 75hrs Review: Budget Battery Kings With Solid Sound"
 date: 2026-05-12
-verdict_score: 4.3
 review_count: 27403
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSXV3GK4/?tag=shoppersverdi-20"

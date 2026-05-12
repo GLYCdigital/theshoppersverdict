@@ -1,7 +1,6 @@
 ---
 title: "Presto 02811 Stainless Steel Electric Coffee Percolator Review"
 date: 2026-05-12
-verdict_score: 4.3
 review_count: 19303
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00006IV0Q/?tag=shoppersverdi-20"

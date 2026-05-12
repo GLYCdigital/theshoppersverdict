@@ -1,7 +1,6 @@
 ---
 title: "HP 67XL Black High-Yield Ink Cartridge Review - The Expensive Price of Reliability"
 date: 2026-05-12
-verdict_score: 3.5
 review_count: 53365
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08412PTS8/?tag=shoppersverdi-20"

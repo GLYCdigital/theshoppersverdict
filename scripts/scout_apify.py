@@ -62,6 +62,7 @@ def generate_briefing(asin, title, price, rating, review_count, image_url, revie
     lines.append(f'| Price | ${price} |' if price else '| Price | N/A |')
     if rating: lines.append(f'| Rating | {rating}/5 ⭐ |')
     if review_count: lines.append(f'| Reviews Analyzed | {review_count:,} total, {total} sampled |')
+    if image_url: lines.append(f'| Image | {image_url} |')
     lines.append('')
     
     if any(v > 0 for v in praise.values()):
@@ -129,10 +130,21 @@ def main():
     p = items[0].get('product', {})
     title = p.get('title', 'Unknown Product')
     price = p.get('price') or {}; price = price.get('value', None) if isinstance(price, dict) else None
-    rating = p.get('rating', {}).get('value', None)
+    # Apify returns stars as string like "4.7 out of 5 stars"
+    stars_raw = p.get('stars', '')
+    rating = None
+    if stars_raw:
+        m = re.search(r'([\d.]+)', stars_raw)
+        if m:
+            rating = float(m.group(1))
     review_count = p.get('reviewsCount', None)
-    images = p.get('images', [])
-    image_url = images[0] if images else None
+    # Apify returns images under highResolutionImages or thumbnailImage key
+    hi_res = p.get('highResolutionImages', [])
+    image_url = hi_res[0] if hi_res else None
+    if not image_url:
+        thumb = p.get('thumbnailImage', '')
+        if thumb:
+            image_url = thumb
     
     print(f'\n{"="*60}')
     print(f'📦 {title}')

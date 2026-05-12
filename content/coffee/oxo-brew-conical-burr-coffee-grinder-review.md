@@ -1,7 +1,6 @@
 ---
 title: "OXO Brew Conical Burr Coffee Grinder Review"
 date: 2026-05-12
-verdict_score: 4.2
 review_count: 22830
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CSKGLMM/?tag=shoppersverdi-20"

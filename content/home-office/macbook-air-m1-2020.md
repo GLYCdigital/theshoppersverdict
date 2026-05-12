@@ -1,7 +1,6 @@
 ---
 title: "2020 Apple MacBook Air M1"
 date: 2026-05-12
-verdict_score: 4.6
 review_count: 13387
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08N5KWB9H/?tag=shoppersverdi-20"

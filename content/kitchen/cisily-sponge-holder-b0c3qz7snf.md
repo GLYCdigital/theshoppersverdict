@@ -1,7 +1,6 @@
 ---
 title: "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with High Brush Holder, Kitchen Countertop Organizers and Storage Essentials, Rustproof 304 Stainless Steel (Black, 9.25″)"
 date: 2026-05-12
-verdict_score: 4.3
 review_count: 12796
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3QZ7SNF/?tag=shoppersverdi-20"

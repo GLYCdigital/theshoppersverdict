@@ -1,7 +1,6 @@
 ---
 title: "Zulay Kitchen Powerful Milk Frother Wand — Triple Whisk, Duracell Batteries Included"
 date: 2026-05-12
-verdict_score: 4.3
 review_count: 219000
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPXRJ2VY/?tag=shoppersverdi-20"

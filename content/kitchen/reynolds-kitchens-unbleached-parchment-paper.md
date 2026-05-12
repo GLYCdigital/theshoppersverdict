@@ -1,7 +1,6 @@
 ---
 title: "Reynolds Kitchens Unbleached Parchment Paper Roll"
 date: 2026-05-12
-verdict_score: 9.0
 review_count: 27552
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PFYT8MC/?tag=shoppersverdi-20"

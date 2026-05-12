@@ -1,7 +1,6 @@
 ---
 title: "TempPro TP19H Digital Meat Thermometer"
 date: 2026-05-12
-verdict_score: 4.3
 review_count: 54396
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07XXSYLL8/?tag=shoppersverdi-20"

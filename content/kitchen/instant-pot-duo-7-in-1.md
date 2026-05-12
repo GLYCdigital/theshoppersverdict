@@ -1,7 +1,6 @@
 ---
 title: "Instant Pot Duo 7-in-1 Electric Pressure Cooker, 6 Quart"
 date: 2026-05-12
-verdict_score: 4.5
 review_count: 184264
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00FLYWNYQ/?tag=shoppersverdi-20"

@@ -1,6 +1,6 @@
 <article class="review-card">
   <div class="verdict-badge">
-    <span class="verdict-score">{{ .Params.verdict_score | default "9.0" }}<span class="verdict-total">/10</span></span>
+    <span class="verdict-score">{{ .Params.amazon_rating | default "4.5" }}</span>
   </div>
   <h3 class="review-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   {{ with .Params.amazon_rating }}

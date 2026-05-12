@@ -48,7 +48,7 @@
     <aside class="review-sidebar">
       <div class="sidebar-card">
         <div class="verdict-badge-mini">
-          <span class="verdict-score-mini">{{ .Params.verdict_score | default "9.0" }}</span>
+          <span class="verdict-score-mini">{{ .Params.amazon_rating | default "4.5" }}</span>
         </div>
         {{ with .Params.amazon_rating }}
         <div class="product-stars">
