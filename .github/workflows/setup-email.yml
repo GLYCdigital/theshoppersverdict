@@ -24,3 +24,11 @@ jobs:
               -H "Content-Type: application/json" \
               -d '{"email":"gemma@glycdigital.com"}' | python3 -c "import sys,json; d=json.load(sys.stdin); print(d)"
           fi
+
+  send-newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send newsletter
+        run: |
+          python3 scripts/send_newsletter.py
