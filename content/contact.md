@@ -14,4 +14,4 @@ We read every message. We can't promise a personal reply to every single one, bu
 
 **No sponsored review requests, please.** We don't accept payment for coverage. Every product on our site earns its place through customer data, not marketing budgets.
 
-Drop us a line at **[gemma@glycdigital.com](mailto:gemma@glycdigital.com)** — we read every message.
+Drop us a line at **[contact@theshoppersverdict.com](mailto:contact@theshoppersverdict.com)** — we read every message.
