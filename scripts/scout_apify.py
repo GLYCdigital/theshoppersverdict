@@ -129,14 +129,18 @@ def main():
     
     p = items[0].get('product', {})
     title = p.get('title', 'Unknown Product')
-    price = p.get('price') or {}; price = price.get('value', None) if isinstance(price, dict) else None
-    # Apify returns stars as string like "4.7 out of 5 stars"
+    # Apify price may be dict {value: ...} or direct int/float
+    price_val = p.get('price')
+    if isinstance(price_val, dict):
+        price = price_val.get('value')
+    elif isinstance(price_val, (int, float)):
+        price = float(price_val)
+    else:
+        price = None
+    # Stars may be string "4.7 out of 5 stars" or direct float 4.7
     stars_raw = p.get('stars', '')
-    rating = None
-    if stars_raw:
-        m = re.search(r'([\d.]+)', stars_raw)
-        if m:
-            rating = float(m.group(1))
+    if stars_raw is None: stars_raw = ''
+    rating = float(str(stars_raw).split()[0]) if stars_raw else None
     review_count = p.get('reviewsCount', None)
     # Apify returns images under highResolutionImages or thumbnailImage key
     hi_res = p.get('highResolutionImages', [])

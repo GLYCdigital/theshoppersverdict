@@ -8,9 +8,9 @@ type: page
 
 Get the latest review summaries straight to your inbox. No spam, no fluff — just the verdict.
 
-<form class="newsletter-form newsletter-full" action="#" method="post">
-  <input type="text" placeholder="Your name" required>
-  <input type="email" placeholder="Your email address" required>
+<form class="newsletter-form newsletter-full" action="/subscribe" method="POST">
+  <input type="text" name="name" placeholder="Your first name">
+  <input type="email" name="email" placeholder="Your email address" required>
   <button type="submit" class="btn btn-gold btn-lg">Subscribe to the Verdict</button>
 </form>
 
