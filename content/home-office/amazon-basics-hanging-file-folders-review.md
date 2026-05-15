@@ -10,7 +10,7 @@ pros:
   - "Vibrant, consistent colors that make filing visually pleasant"
   - "Includes adjustable tabs and label inserts for custom organization"
   - "Exceptional value at $12.97 for a 25-pack vs. office supply store pricing"
-  - "Letter-sized 8.5x11" fits standard filing cabinets and boxes perfectly"
+  - "Letter-sized 8.5x11 inch fits standard filing cabinets and boxes perfectly"
 cons:
   - "Tabs can be slightly fiddly to install compared to pre-labeled options"
   - "Some users prefer a heavier-duty rod for high-volume filing"
