@@ -3,6 +3,7 @@ title: "Baker's Signature Air Fryer Paper Liners 120-Pack Review"
 seo_title: "Air Fryer Liners Review — 120-Pack Disposable | TSV"
 meta_description: "Baker's Signature air fryer paper liners make cleanup effortless. Read our review of these 120-pack parchment liners and whether they affect crispiness."
 date: 2026-05-16
+price: 11.99
 slug: "air-fryer-paper-liners-120pcs-review"
 review_count: 24510
 amazon_rating: 4.6

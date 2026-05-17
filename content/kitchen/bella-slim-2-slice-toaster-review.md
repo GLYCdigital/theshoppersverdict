@@ -3,6 +3,7 @@ title: "bella 2 Slice Slim Toaster, 6 Setting, Oatmilk Review"
 seo_title: "bella Slim Toaster Review — 2 Slice Compact Design | TSV"
 meta_description: "bella 2 slice slim toaster saves counter space with a compact design. Read our review of this oatmilk toaster for small kitchens, RVs, and dorms."
 date: 2026-05-16
+price: 24.98
 slug: "bella-slim-2-slice-toaster-review"
 review_count: 15523
 amazon_rating: 4.2

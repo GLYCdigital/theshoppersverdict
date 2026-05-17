@@ -3,6 +3,7 @@ title: "Owala Star Wars FreeSip Bottle Review: Darth Vader Edition Hydration"
 seo_title: "Owala FreeSip Bottle Review — Insulated Water Bottle | TSV"
 meta_description: "Owala Star Wars FreeSip bottle keeps drinks cold all day with a dual-drink spout. Read our review of this Darth Vader insulated water bottle."
 date: 2026-05-17
+price: 27.99
 slug: "owala-star-wars-freesip-bottle-review"
 review_count: 14469
 amazon_rating: 4.7

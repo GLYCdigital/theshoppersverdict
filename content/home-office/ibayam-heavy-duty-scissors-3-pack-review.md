@@ -19,6 +19,7 @@ faq:
   - question: "What can you cut with iBayam heavy duty scissors?"
     answer: "These general-purpose scissors handle paper, cardstock, fabric, tape, light cardboard, and packaging materials. They're straight-blade only and not designed for precision craft work."
 date: 2026-05-16
+price: 9.99
 review_count: 85889
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07YDDX4JL/?tag=tsvglyc-20"

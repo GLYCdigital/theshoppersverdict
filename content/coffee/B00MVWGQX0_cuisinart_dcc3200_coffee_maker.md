@@ -19,6 +19,7 @@ faq:
   - question: "Does the Cuisinart DCC-3200 burn coffee?"
     answer: "No. The PerfecTemp system and adjustable warmer plate keep coffee at optimal temperature without burning it, even after the pot has been sitting for a while."
 date: 2026-05-17
+price: 89.95
 review_count: 43350
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20"

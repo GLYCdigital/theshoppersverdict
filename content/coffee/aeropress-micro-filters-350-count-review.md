@@ -19,6 +19,7 @@ faq:
   - question: "Are AeroPress micro-filters durable?"
     answer: "Yes, these filters are designed to withstand AeroPress pressure without tearing. They fit the chamber perfectly and almost never break through during pressing."
 date: 2026-05-16
+price: 9.94
 review_count: 12571
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000LTOCSG/?tag=tsvglyc-20"

@@ -19,6 +19,7 @@ faq:
   - question: "How durable are Sony MDREX15LP earbuds?"
     answer: "Build quality is inconsistent — some users report their pairs lasting years while others experience failure within weeks. The long cable design helps prevent fraying at the jack connection point."
 date: 2026-05-15
+price: 9.99
 review_count: 10006
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00Q6P4CMA/?tag=tsvglyc-20"

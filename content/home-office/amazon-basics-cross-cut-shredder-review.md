@@ -19,6 +19,7 @@ faq:
   - question: "Is the Amazon Basics shredder noisy?"
     answer: "Yes, the cross-cut mechanism makes this louder than strip-cut shredders. It's not ideal for shared workspaces but works well for home offices."
 date: 2026-05-16
+price: 35.83
 review_count: 75213
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C6LZ8S34/?tag=tsvglyc-20"

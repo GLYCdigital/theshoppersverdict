@@ -19,6 +19,7 @@ faq:
   - question: "What sizes do Amazon Basics hanging file folders come in?"
     answer: "The Amazon Basics hanging file folders are standard letter size (8.5x11 inches), designed to fit most filing cabinets, file boxes, and desk drawers."
 date: 2026-05-15
+price: 12.97
 review_count: 126055
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00V5DG6IQ/?tag=tsvglyc-20"

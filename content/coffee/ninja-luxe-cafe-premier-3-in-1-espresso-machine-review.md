@@ -19,6 +19,7 @@ faq:
   - question: "Can you steam milk and pull a shot at the same time?"
     answer: "No, the single boiler design means you can't steam and brew simultaneously. For home use this rarely matters, but serving multiple people requires a bit more planning."
 date: 2026-05-15
+price: 599.00
 review_count: 2172
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D45PK5V4/?tag=tsvglyc-20"

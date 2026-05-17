@@ -19,6 +19,7 @@ faq:
   - question: "Are the Soundcore Q20i headphones comfortable for long sessions?"
     answer: "The ear pads are plush but can get warm during extended wear. Some users report their ears getting hot quickly, so consider this if you have sensory sensitivities."
 date: 2026-05-17
+price: 39.99
 review_count: 63317
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C3HCD34R/?tag=tsvglyc-20"

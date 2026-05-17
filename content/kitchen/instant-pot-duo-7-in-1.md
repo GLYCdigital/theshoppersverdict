@@ -19,6 +19,7 @@ faq:
   - question: "What size Instant Pot is best for a family?"
     answer: "The 6-quart size is the most popular — big enough for a whole chicken or weekly meal prep, yet compact enough to live on the counter."
 date: 2026-05-12
+price: 109.99
 review_count: 184264
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00FLYWNYQ/?tag=tsvglyc-20"

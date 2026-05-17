@@ -4,7 +4,6 @@
 {{ $daily := first 10 $newest }}
 {{ $topScored := sort $daily ".Params.amazon_rating" "desc" }}
 {{ $todayTop3 := first 3 $topScored }}
-{{ $todayFav3 := first 3 (after 3 $topScored) }}
 
 {{ $weekAgo := now.AddDate 0 0 -7 }}
 {{ $weekPages := where $all "Date" "ge" $weekAgo }}
@@ -12,7 +11,8 @@
 
 {{ $monthAgo := now.AddDate 0 0 -30 }}
 {{ $monthPages := where $all "Date" "ge" $monthAgo }}
-{{ $monthTop3 := first 3 (sort $monthPages ".Params.amazon_rating" "desc") }}
+{{ $monthPriced := where $monthPages ".Params.price" "ne" nil }}
+{{ $monthTop3 := first 3 (sort $monthPriced ".Params.price" "desc") }}
 
 <!-- Hero Banner (weekly rotation) -->
 <section class="hero-banner" id="heroBanner" style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('/images/hero-kitchen.jpg') center/cover no-repeat;">

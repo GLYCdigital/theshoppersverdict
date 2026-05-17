@@ -3,6 +3,7 @@ title: "TempPro TP19H Digital Meat Thermometer"
 seo_title: "TempPro TP19H Review — Fast Digital Meat Thermometer | TSV"
 meta_description: "TempPro TP19H instant read thermometer delivers accurate temps in 3-4 seconds. Read our review of this affordable digital meat thermometer for BBQ and kitchen."
 date: 2026-05-12
+price: 13.99
 slug: "temppro-tp19h-digital-meat-thermometer-review"
 review_count: 54396
 amazon_rating: 4.6

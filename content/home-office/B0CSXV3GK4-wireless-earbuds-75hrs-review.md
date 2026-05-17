@@ -19,6 +19,7 @@ faq:
   - question: "Do these earbuds have active noise cancellation?"
     answer: "No, they have ENC for microphone call noise reduction. There's no ambient sound passthrough or ANC — you'll be cut off from surroundings when wearing them."
 date: 2026-05-12
+price: 39.99
 review_count: 27403
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSXV3GK4/?tag=tsvglyc-20"

@@ -19,6 +19,7 @@ faq:
   - question: "Is the DecoBrothers pod holder well made?"
     answer: "With tempered glass construction and a sturdy frame, reviewers consistently praise its build quality. It feels premium and adds an elegant touch to any kitchen."
 date: 2026-05-15
+price: 29.97
 review_count: 35254
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00YNPKZNU/?tag=tsvglyc-20"

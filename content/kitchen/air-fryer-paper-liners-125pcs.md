@@ -3,6 +3,7 @@ title: "Air Fryer Paper Liners Review: Do These 125-Pack Disposable Liners Actua
 seo_title: "Air Fryer Liners Review — 125-Pack Disposable | TSV"
 meta_description: "Air fryer paper liners save cleanup time at 8 cents each. Read our review of these 125-pack disposable parchment liners for Ninja and square air fryers."
 date: 2026-05-12
+price: 9.99
 slug: "air-fryer-paper-liners-125pcs-review"
 review_count: 31988
 amazon_rating: 4.5

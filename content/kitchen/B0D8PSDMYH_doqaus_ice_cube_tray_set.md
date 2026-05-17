@@ -3,6 +3,7 @@ title: "DOQAUS Ice Cube Tray Set Review: The Complete Solution When Your Ice Mak
 seo_title: "DOQAUS Ice Tray Set Review — Silicone Tray Kit | TSV"
 meta_description: "DOQAUS ice cube tray set includes trays, storage bin, and scoop for a complete ice system. Read our review of these silicone ice trays for your freezer."
 date: 2026-05-17
+price: 13.99
 slug: "doqaus-ice-cube-tray-set-review"
 review_count: 12639
 amazon_rating: 4.5

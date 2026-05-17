@@ -19,6 +19,7 @@ faq:
   - question: "Can Homaxy dish cloths be used with bleach?"
     answer: "No — bleach can cause the cotton dye to turn greenish or grey. Avoid bleach to keep the colors vibrant."
 date: 2026-05-15
+price: 9.99
 review_count: 40225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07WMQP4SF/?tag=tsvglyc-20"

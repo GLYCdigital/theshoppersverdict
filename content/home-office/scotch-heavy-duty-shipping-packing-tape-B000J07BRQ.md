@@ -19,6 +19,7 @@ faq:
   - question: "How much does Scotch packing tape cost?"
     answer: "A 6-pack of Scotch heavy duty shipping packing tape with built-in dispensers costs under $12, offering solid value for home moving and occasional shipping needs."
 date: 2026-05-12
+price: 11.99
 review_count: 107827
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000J07BRQ/?tag=tsvglyc-20"

@@ -19,6 +19,7 @@ faq:
   - question: "Does the Aothia desk pad come with a warranty?"
     answer: "Yes, it includes a lifetime warranty when registered via the included QR code. That's remarkable for an $8.99 desk pad and shows manufacturer confidence."
 date: 2026-05-17
+price: 8.99
 review_count: 77004
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B086BLQZ5L/?tag=tsvglyc-20"

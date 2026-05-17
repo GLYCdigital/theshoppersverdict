@@ -19,6 +19,7 @@ faq:
   - question: "Is HP Instant Ink a better deal than buying the 67XL cartridge?"
     answer: "For regular printers, HP Instant Ink subscription makes more financial sense than buying individual 67XL cartridges at $35.89 each, especially given the low page yield."
 date: 2026-05-12
+price: 35.89
 review_count: 53365
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08412PTS8/?tag=tsvglyc-20"

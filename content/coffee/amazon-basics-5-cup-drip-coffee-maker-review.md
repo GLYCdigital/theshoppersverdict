@@ -19,6 +19,7 @@ faq:
   - question: "How many cups does the Amazon Basics coffee maker actually make?"
     answer: "The 5-cup capacity uses standard 5-oz coffee cups, so you get about 2 standard mugs or 1 very large mug. It's best for 1-2 people."
 date: 2026-05-15
+price: 19.94
 review_count: 1261
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9QFRJMX/?tag=tsvglyc-20"

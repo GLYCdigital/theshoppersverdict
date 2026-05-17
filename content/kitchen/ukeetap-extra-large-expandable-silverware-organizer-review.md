@@ -19,6 +19,7 @@ faq:
   - question: "Can the Ukeetap organizer hold cooking utensils too?"
     answer: "Yes — the deep compartments are spacious enough for a full flatware set plus cooking utensils like spatulas and tongs."
 date: 2026-05-15
+price: 9.99
 review_count: 5543
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F2TB2MMP/?tag=tsvglyc-20"

@@ -19,6 +19,7 @@ faq:
   - question: "How does percolator coffee taste compared to drip?"
     answer: "Percolator coffee stays piping hot and many users report it tastes better than drip machines. The all-metal construction and high brewing temperature produce a clean, rich flavor."
 date: 2026-05-12
+price: 76.85
 review_count: 19303
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00006IV0Q/?tag=tsvglyc-20"

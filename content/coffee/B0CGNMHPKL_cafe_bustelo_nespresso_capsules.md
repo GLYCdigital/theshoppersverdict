@@ -19,6 +19,7 @@ faq:
   - question: "Are Café Bustelo pods cheaper than Nespresso brand?"
     answer: "Yes, at about $0.62 per capsule (40-pack for $24.98), Café Bustelo pods cost substantially less than Nespresso-branded alternatives while delivering comparable bold flavor."
 date: 2026-05-17
+price: 24.98
 review_count: 1751
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGNMHPKL/?tag=tsvglyc-20"

@@ -19,6 +19,7 @@ faq:
   - question: "Does the OXO Brew grinder have a static problem?"
     answer: "Yes, the plastic catch basket generates static that makes grounds cling to the sides. It's manageable but can be messy when pouring into a filter."
 date: 2026-05-12
+price: 109.95
 review_count: 22830
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CSKGLMM/?tag=tsvglyc-20"

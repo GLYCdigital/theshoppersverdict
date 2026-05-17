@@ -19,6 +19,7 @@ faq:
   - question: "Is the YETI Rambler worth the higher price?"
     answer: "At $28, it costs double most tumblers, but owners report 5+ years of daily use with zero issues — making it a long-term investment in durability and insulation."
 date: 2026-05-16
+price: 28.00
 review_count: 145878
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F9ZXFN2J/?tag=tsvglyc-20"

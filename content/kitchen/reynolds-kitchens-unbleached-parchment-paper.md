@@ -19,6 +19,7 @@ faq:
   - question: "How long does a 45-foot roll of parchment paper last?"
     answer: "For casual bakers, it lasts several months. For daily bakers, expect to reorder monthly. The 12-inch width fits standard home sheet pans well."
 date: 2026-05-12
+price: 3.39
 review_count: 27552
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PFYT8MC/?tag=tsvglyc-20"

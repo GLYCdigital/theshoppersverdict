@@ -19,6 +19,7 @@ faq:
   - question: "Do Sharpie markers bleed through paper?"
     answer: "Yes, Sharpie permanent marker ink can bleed through thin paper. It's best suited for cardboard, shipping labels, and other thicker surfaces rather than notebook paper or stationery."
 date: 2026-05-16
+price: 8.99
 review_count: 44828
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00006IFHD/?tag=tsvglyc-20"

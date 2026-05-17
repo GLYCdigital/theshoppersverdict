@@ -19,6 +19,7 @@ faq:
   - question: "Can the M1 MacBook Air run Windows?"
     answer: "No, the M1 MacBook Air does not support Boot Camp for native Windows. Windows can be run through virtualization software like Parallels, but performance takes a noticeable hit compared to native."
 date: 2026-05-12
+price: 999.00
 review_count: 13387
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08N5KWB9H/?tag=tsvglyc-20"

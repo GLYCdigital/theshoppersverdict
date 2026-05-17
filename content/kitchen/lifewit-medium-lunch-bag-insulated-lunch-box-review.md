@@ -19,6 +19,7 @@ faq:
   - question: "Does the Lifewit lunch bag come with a shoulder strap?"
     answer: "No — it has sturdy top handles for hand carrying but no shoulder strap. The handles are comfortable for short to medium walks."
 date: 2026-05-15
+price: 7.98
 review_count: 58436
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B56CHMSC/?tag=tsvglyc-20"

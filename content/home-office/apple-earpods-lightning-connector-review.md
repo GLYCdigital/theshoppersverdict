@@ -19,6 +19,7 @@ faq:
   - question: "Do Apple EarPods have noise cancellation?"
     answer: "No, Apple EarPods have an open-back design with no active noise cancellation or passive isolation. You'll hear ambient noise, and sound leaks out."
 date: 2026-05-16
+price: 15.98
 review_count: 15710
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7FVQ1ZB/?tag=tsvglyc-20"

@@ -19,6 +19,7 @@ faq:
   - question: "Can the Socomi table runner be used outdoors?"
     answer: "It is lightweight and may blow away in wind — best for indoor use unless weighed down with tape or decor."
 date: 2026-05-16
+price: 8.99
 review_count: 6815
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B2P4P2R4/?tag=tsvglyc-20"

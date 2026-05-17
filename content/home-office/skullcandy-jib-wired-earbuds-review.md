@@ -19,6 +19,7 @@ faq:
   - question: "What devices work with Skullcandy Jib earbuds?"
     answer: "Skullcandy Jib earbuds use a standard 3.5mm connector, compatible with phones, laptops, tablets, gaming handhelds, Nintendo Switch, PS4/PS5 controllers, and airplane entertainment systems."
 date: 2026-05-16
+price: 8.88
 review_count: 20138
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B075F6TB7F/?tag=tsvglyc-20"

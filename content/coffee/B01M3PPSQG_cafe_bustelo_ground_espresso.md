@@ -19,6 +19,7 @@ faq:
   - question: "Is Café Bustelo worth the price?"
     answer: "At under $20 for a 36-ounce canister, Café Bustelo offers excellent value. It delivers premium dark roast flavor at a fraction of the cost of specialty coffee brands."
 date: 2026-05-17
+price: 14.99
 review_count: 9097
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01M3PPSQG/?tag=tsvglyc-20"

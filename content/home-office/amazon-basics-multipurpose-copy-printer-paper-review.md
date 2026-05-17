@@ -19,6 +19,7 @@ faq:
   - question: "What brightness level is Amazon Basics copy paper?"
     answer: "Amazon Basics multipurpose copy paper has a 92 brightness rating, which produces clean, professional-looking text that's suitable for most office documents and schoolwork."
 date: 2026-05-15
+price: 6.97
 review_count: 219605
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01FV0F8H8/?tag=tsvglyc-20"

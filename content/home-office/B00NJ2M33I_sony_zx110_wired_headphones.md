@@ -19,6 +19,7 @@ faq:
   - question: "How durable are the Sony MDR-ZX110 headphones?"
     answer: "The build is plastic but the thick cable is surprisingly durable. One reviewer's daughter used a pair through an entire school year and brought them home in great condition."
 date: 2026-05-17
+price: 14.88
 review_count: 96105
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00NJ2M33I/?tag=tsvglyc-20"

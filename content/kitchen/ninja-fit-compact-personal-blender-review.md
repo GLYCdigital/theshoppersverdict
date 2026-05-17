@@ -19,6 +19,7 @@ faq:
   - question: "Is the Ninja Fit blender easy to clean?"
     answer: "The cup must be rinsed immediately after use since the blade assembly is built in. It is especially easy for users with hand mobility issues."
 date: 2026-05-15
+price: 54.99
 review_count: 41708
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01FHOWYA2/?tag=tsvglyc-20"

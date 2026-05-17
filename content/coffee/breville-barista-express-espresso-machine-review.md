@@ -19,6 +19,7 @@ faq:
   - question: "Is the Breville Barista Express good for beginners?"
     answer: "Yes, despite having more controls than pod machines, the integrated tamper and grind-and-dose mechanism make it approachable. Most users pull drinkable shots on their first try."
 date: 2026-05-16
+price: 677.99
 review_count: 27471
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00CH9QWOU/?tag=tsvglyc-20"

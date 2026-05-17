@@ -19,6 +19,7 @@ faq:
   - question: "What surfaces do appliance sliders work on?"
     answer: "They work well on hard, smooth surfaces including granite, tile, laminate, and hardwood. Textured countertops may reduce glide performance."
 date: 2026-05-16
+price: 8.98
 review_count: 1116
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKNPMD37/?tag=tsvglyc-20"

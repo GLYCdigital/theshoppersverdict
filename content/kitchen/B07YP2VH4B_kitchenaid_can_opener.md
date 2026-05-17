@@ -3,6 +3,7 @@ title: "KitchenAid Classic Can Opener Review: The $13 Tool That Lasts a Decade"
 seo_title: "KitchenAid Can Opener Review — Durable Manual Tool | TSV"
 meta_description: "KitchenAid Classic Can Opener delivers razor-sharp cutting and lasts a decade. Read our review of this $13 manual can opener built to last."
 date: 2026-05-17
+price: 13.69
 slug: "kitchenaid-classic-can-opener-review"
 review_count: 90153
 amazon_rating: 4.6

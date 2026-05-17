@@ -19,6 +19,7 @@ faq:
   - question: "Is this maintenance kit worth the cost?"
     answer: "At $13.49 for three months of supplies, this kit is cheap insurance against a $100+ brewer replacement. The taste improvement after descaling is immediate and noticeable."
 date: 2026-05-16
+price: 13.49
 review_count: 37794
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07V3946XL/?tag=tsvglyc-20"

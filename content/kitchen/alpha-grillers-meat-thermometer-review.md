@@ -3,6 +3,7 @@ title: "Alpha Grillers Meat Thermometer Digital Instant Read Review"
 seo_title: "Alpha Grillers Thermometer Review — Instant Read | TSV"
 meta_description: "Alpha Grillers instant read meat thermometer delivers accurate temps in 2-3 seconds. Read our review of this 4.8-star digital thermometer for grilling."
 date: 2026-05-16
+price: 12.97
 slug: "alpha-grillers-meat-thermometer-review"
 review_count: 88627
 amazon_rating: 4.8

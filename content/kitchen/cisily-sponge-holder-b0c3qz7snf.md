@@ -3,6 +3,7 @@ title: "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with High Br
 seo_title: "Cisily Sponge Holder Review — Sink Caddy Organizer | TSV"
 meta_description: "Cisily sponge holder keeps kitchen sponges dry with a drain spout. Read our review of this 304 stainless steel sink caddy for countertop organization."
 date: 2026-05-12
+price: 13.99
 slug: "cisily-sponge-holder-review"
 review_count: 12796
 amazon_rating: 4.5

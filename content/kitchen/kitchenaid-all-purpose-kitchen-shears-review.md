@@ -19,6 +19,7 @@ faq:
   - question: "Are KitchenAid shears good value for the price?"
     answer: "At $7.59 with a 4.8-star rating from 70,000+ reviews, these are one of the best value kitchen shears available — sharp, comfortable, and durable."
 date: 2026-05-16
+price: 7.59
 review_count: 70845
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20"

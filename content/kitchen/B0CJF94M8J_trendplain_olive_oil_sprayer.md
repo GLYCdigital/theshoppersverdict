@@ -3,6 +3,7 @@ title: "TrendPlain Olive Oil Sprayer Review: Two Functions, One Smart Bottle"
 seo_title: "TrendPlain Oil Sprayer Review — 2-in-1 Kitchen Tool | TSV"
 meta_description: "TrendPlain 2-in-1 olive oil sprayer combines spray and pour in one bottle. Read our review of this kitchen oil sprayer for air frying and roasting."
 date: 2026-05-17
+price: 7.99
 slug: "trendplain-olive-oil-sprayer-review"
 review_count: 39232
 amazon_rating: 4.6

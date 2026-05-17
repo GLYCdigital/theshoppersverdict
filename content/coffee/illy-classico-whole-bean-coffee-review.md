@@ -19,6 +19,7 @@ faq:
   - question: "Is illy Classico good for espresso?"
     answer: "Yes, illy Classico whole beans are excellent for espresso. The medium roast profile produces a balanced shot with rich crema and no harsh bitterness."
 date: 2026-05-16
+price: 89.94
 review_count: 6307
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07HRVYPJ7/?tag=tsvglyc-20"

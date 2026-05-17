@@ -19,6 +19,7 @@ faq:
   - question: "What if my Zulay frother doesn't work out of the box?"
     answer: "Some units arrive with finicky battery contacts. Try reseating the batteries or gently bending the contact tabs. Zulay's customer service is excellent and sends replacements same-day if needed."
 date: 2026-05-12
+price: 18.99
 review_count: 219000
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPXRJ2VY/?tag=tsvglyc-20"

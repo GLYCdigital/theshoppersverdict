@@ -19,6 +19,7 @@ faq:
   - question: "Can the AeroPress make more than one cup at a time?"
     answer: "The AeroPress is a single-serve brewer. For multiple cups, you'll need to make them back-to-back, which takes about 2 minutes per cup."
 date: 2026-05-16
+price: 31.96
 review_count: 25866
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0047BIWSK/?tag=tsvglyc-20"

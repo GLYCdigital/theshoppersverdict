@@ -19,6 +19,7 @@ faq:
   - question: "How long does the YARRAMATE sprayer last?"
     answer: "The glass bottle is durable, but the spray mechanism may need replacement after a few months of regular use — replacement pump heads are available."
 date: 2026-05-16
+price: 8.79
 review_count: 43947
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP4XY9QC/?tag=tsvglyc-20"

@@ -19,6 +19,7 @@ faq:
   - question: "How do you apply EZlifego double sided tape for best results?"
     answer: "For best results, clean the surface thoroughly with alcohol, ensure it's completely dry, and apply the tape at room temperature. The tape performs best on smooth, non-porous surfaces."
 date: 2026-05-16
+price: 9.99
 review_count: 128788
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07VNSXY31/?tag=tsvglyc-20"
