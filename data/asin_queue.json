@@ -1,9 +1,5 @@
 {
   "kitchen": [
-    "B0B3JRPB9L",
-    "B07YP2VH4B",
-    "B0CJF94M8J",
-    "B0D8PSDMYH",
     "B0D6C6GS58",
     "B0BZYCJK89",
     "B0DF472VMZ",
@@ -16,9 +12,6 @@
     "B09JNRXJD6"
   ],
   "coffee": [
-    "B0CGNMHPKL",
-    "B00MVWGQX0",
-    "B01M3PPSQG",
     "B0DVD67F76",
     "B01F3896DA",
     "B0FCBPBBL4",
@@ -26,9 +19,6 @@
     "B08DBVYJPZ"
   ],
   "home-office": [
-    "B00NJ2M33I",
-    "B0C3HCD34R",
-    "B086BLQZ5L",
     "B07R8D1RHS",
     "B0GBZ91WFP",
     "B0C8PR4W22",
@@ -75,6 +65,16 @@
     "B07VNSXY31",
     "B07YDDX4JL",
     "B075F6TB7F",
-    "B0CP4XY9QC"
+    "B0CP4XY9QC",
+    "B0B3JRPB9L",
+    "B07YP2VH4B",
+    "B0CJF94M8J",
+    "B0CGNMHPKL",
+    "B00MVWGQX0",
+    "B01M3PPSQG",
+    "B00NJ2M33I",
+    "B0C3HCD34R",
+    "B086BLQZ5L",
+    "B0D8PSDMYH"
   ]
 }
