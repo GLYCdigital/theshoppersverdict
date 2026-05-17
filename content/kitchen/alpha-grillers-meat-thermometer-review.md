@@ -6,7 +6,7 @@ date: 2026-05-16
 slug: "alpha-grillers-meat-thermometer-review"
 review_count: 88627
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B00S93EQUK/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00S93EQUK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bpKKv68-L._AC_SL1500_.jpg"
 image_alt: "Alpha Grillers digital instant read meat thermometer with magnetic back and backlit display"
 keywords:

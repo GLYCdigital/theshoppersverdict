@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 43947
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B0CP4XY9QC/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0CP4XY9QC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZjnwrH7iL._AC_SL1500_.jpg"
 pros:
   - "Fine, even mist that coats food without pooling — perfect for air frying and salads"

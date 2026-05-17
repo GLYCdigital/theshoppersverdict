@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 6815
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B0B2P4P2R4/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0B2P4P2R4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rnDkuAHzL._AC_SL1200_.jpg"
 pros:
   - "Beautiful, vibrant colors that look better in person than in photos"

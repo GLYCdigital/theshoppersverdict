@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 40225
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B07WMQP4SF/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B07WMQP4SF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YlKeBDwML._AC_SL1500_.jpg"
 pros:
   - "Highly absorbent waffle weave fabric soaks up spills and dries dishes quickly"

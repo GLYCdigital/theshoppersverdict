@@ -21,7 +21,7 @@ faq:
 date: 2026-05-17
 review_count: 43350
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B00MVWGQX0/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71io+Gh4ApL._AC_SL1500_.jpg"
 pros:
   - "Excellent brew temperature control with adjustable carafe warmer"

@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 41708
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B01FHOWYA2/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B01FHOWYA2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710oNE8RCjL._AC_SL1500_.jpg"
 pros:
   - "Compact footprint that doesn't dominate counter space"

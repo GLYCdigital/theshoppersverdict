@@ -21,7 +21,7 @@ faq:
 date: 2026-05-17
 review_count: 9097
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B01M3PPSQG/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B01M3PPSQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G+uU0k9sL._SL1500_.jpg"
 pros:
   - "Bold, rich, full-bodied flavor with an incredible aroma"

@@ -6,7 +6,7 @@ date: 2026-05-16
 slug: "bella-slim-2-slice-toaster-review"
 review_count: 15523
 amazon_rating: 4.2
-amazon_url: "https://www.amazon.com/dp/B0CYJBB2JQ/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0CYJBB2JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zZ0tSkfHL._AC_SL1500_.jpg"
 image_alt: "bella 2 slice slim toaster in oatmilk color with compact design for small kitchens"
 keywords:

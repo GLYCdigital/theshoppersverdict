@@ -6,7 +6,7 @@ date: 2026-05-17
 slug: "doqaus-ice-cube-tray-set-review"
 review_count: 12639
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0D8PSDMYH/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0D8PSDMYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NNkHyvrjL._AC_SL1500_.jpg"
 image_alt: "DOQAUS 4-pack silicone ice cube tray set with storage bin and scoop for freezer organization"
 keywords:

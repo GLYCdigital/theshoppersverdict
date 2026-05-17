@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 1261
 amazon_rating: 4.2
-amazon_url: "https://www.amazon.com/dp/B0D9QFRJMX/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0D9QFRJMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VPt3SUBoL._AC_SL1500_.jpg"
 pros:
   - "Incredible value at under $20 — cheapest decent drip brewer on the market"

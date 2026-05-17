@@ -6,7 +6,7 @@ date: 2026-05-17
 slug: "owala-star-wars-freesip-bottle-review"
 review_count: 14469
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B0B3JRPB9L/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0B3JRPB9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31w4Guc313L._AC_SL1080_.jpg"
 image_alt: "Owala FreeSip Star Wars Darth Vader insulated water bottle with dual-drink spout"
 keywords:

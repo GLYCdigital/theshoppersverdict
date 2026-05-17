@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 219605
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B01FV0F8H8/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B01FV0F8H8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gOCTFCCwL._AC_SL1500_.jpg"
 pros:
   - "Jam-free performance across multiple printer types — inkjet, laser, and multifunction"

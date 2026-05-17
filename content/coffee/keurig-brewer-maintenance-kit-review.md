@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 37794
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B07V3946XL/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B07V3946XL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61k2l+gretL._AC_SL1500_.jpg"
 pros:
   - "Everything needed for three months of maintenance in one box — no guesswork"

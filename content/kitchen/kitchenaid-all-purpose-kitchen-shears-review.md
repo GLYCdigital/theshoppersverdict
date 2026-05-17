@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 70845
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B07PZF3QS3/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Byq+vTy1L._AC_SL1500_.jpg"
 pros:
   - "Sharp out of the box — cuts through poultry, herbs, packaging, and twine with no resistance"

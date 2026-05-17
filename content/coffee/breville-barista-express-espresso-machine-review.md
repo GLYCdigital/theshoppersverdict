@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 27471
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B00CH9QWOU/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00CH9QWOU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BvCt6eAFL._SL1500_.jpg"
 pros:
   - "Built-in conical burr grinder with 30 grind settings — fresh grounds every shot"

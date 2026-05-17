@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 44828
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B00006IFHD/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00006IFHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wGuZOL1fL._AC_SL1500_.jpg"
 pros:
   - "Writes on virtually everything — paper, plastic, metal, glass, fabric"

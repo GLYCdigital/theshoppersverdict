@@ -21,7 +21,7 @@ faq:
 date: 2026-05-17
 review_count: 96105
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B00NJ2M33I/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00NJ2M33I/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41CiQ7hR31L._AC_SL1000_.jpg"
 pros:
   - "Surprisingly clear and crisp audio with balanced bass at an incredible price"

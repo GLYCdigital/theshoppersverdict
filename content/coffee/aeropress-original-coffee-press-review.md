@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 25866
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0047BIWSK/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0047BIWSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u3sW4Vx4L._AC_SL1500_.jpg"
 pros:
   - "Simple to use and even simpler to clean — rinse and done in seconds"

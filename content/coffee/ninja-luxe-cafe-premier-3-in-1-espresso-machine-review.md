@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 2172
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B0D45PK5V4/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0D45PK5V4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D9GtphxuL._AC_SL1500_.jpg"
 pros:
   - "Three-in-one functionality: espresso, drip coffee, and rapid cold brew in a single machine"

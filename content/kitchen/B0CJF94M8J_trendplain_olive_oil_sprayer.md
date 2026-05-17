@@ -6,7 +6,7 @@ date: 2026-05-17
 slug: "trendplain-olive-oil-sprayer-review"
 review_count: 39232
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0CJF94M8J/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0CJF94M8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716HuBmcRsL._AC_SL1500_.jpg"
 image_alt: "TrendPlain 2-in-1 olive oil sprayer with spray nozzle and pour spout in one glass bottle"
 keywords:

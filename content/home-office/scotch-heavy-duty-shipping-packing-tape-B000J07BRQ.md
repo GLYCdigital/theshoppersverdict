@@ -21,7 +21,7 @@ faq:
 date: 2026-05-12
 review_count: 107827
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B000J07BRQ/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B000J07BRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817GKjo-ufL._SL1500_.jpg"
 pros:
   - "Built-in dispenser on every roll makes cutting quick and clean"

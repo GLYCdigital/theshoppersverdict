@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 58436
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0B56CHMSC/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0B56CHMSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tf1kD9PBL._AC_SL1500_.jpg"
 pros:
   - "Excellent temperature retention — keeps food cold (or warm) for hours with an ice pack"

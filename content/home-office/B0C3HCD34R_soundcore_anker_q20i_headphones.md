@@ -21,7 +21,7 @@ faq:
 date: 2026-05-17
 review_count: 63317
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0C3HCD34R/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0C3HCD34R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CnDMbXZzL._AC_SL1200_.jpg"
 pros:
   - "Excellent hybrid ANC that rivals headphones three times the price"

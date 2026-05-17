@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 20138
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B075F6TB7F/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B075F6TB7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg"
 pros:
   - "Incredible value at $8.88 — sound quality that rivals budget earbuds at double the price"

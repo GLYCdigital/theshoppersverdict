@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 6307
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B07HRVYPJ7/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B07HRVYPJ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZFPup5lBL._SL1500_.jpg"
 pros:
   - "Consistently smooth flavor profile with zero bitterness — rich, never harsh"

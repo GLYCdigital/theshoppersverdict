@@ -21,7 +21,7 @@ faq:
 date: 2026-05-17
 review_count: 1751
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B0CGNMHPKL/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0CGNMHPKL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714aBcxNVmL._SL1500_.jpg"
 pros:
   - "Rich, bold espresso with authentic Café Bustelo flavor in pod form"

@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 126055
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B00V5DG6IQ/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00V5DG6IQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Yc24w0wJL._AC_SL1500_.jpg"
 pros:
   - "Sturdy construction that holds up well in daily office use"

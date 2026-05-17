@@ -22,7 +22,7 @@ summaryLength = 25
 
   [params.affiliate]
     disclosure = "As an Amazon Associate, we earn from qualifying purchases. Our verdicts are based on real customer reviews, not affiliate commissions."
-    tag = "shoppersverdi-20"
+    tag = "tsvglyc-20"
 
 [markup]
   [markup.goldmark]

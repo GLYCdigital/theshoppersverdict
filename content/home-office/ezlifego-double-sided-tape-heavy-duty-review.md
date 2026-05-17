@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 128788
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B07VNSXY31/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B07VNSXY31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GY6lixaLL._SL1500_.jpg"
 pros:
   - "Nano clear design is nearly invisible — perfect for mounting without ugly tape lines"

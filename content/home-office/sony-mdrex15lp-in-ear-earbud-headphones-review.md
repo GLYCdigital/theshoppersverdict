@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 10006
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B00Q6P4CMA/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00Q6P4CMA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/413REOi5bJL._AC_SL1200_.jpg"
 pros:
   - "Exceptional value at $9.99 — clear sound with solid bass for the price"

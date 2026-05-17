@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 75213
 amazon_rating: 4.3
-amazon_url: "https://www.amazon.com/dp/B0C6LZ8S34/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0C6LZ8S34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719njn2SJ1L._AC_SL1500_.jpg"
 pros:
   - "Cross-cut shredding provides real security — confetti-like particles, not strips"

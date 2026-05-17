@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 1116
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B0DKNPMD37/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0DKNPMD37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rnTcrDKpL._AC_SL1500_.jpg"
 pros:
   - "Easy 5-minute installation — peel, stick, and move — no tools required"

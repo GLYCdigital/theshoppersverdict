@@ -6,7 +6,7 @@ date: 2026-05-17
 slug: "kitchenaid-classic-can-opener-review"
 review_count: 90153
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B07YP2VH4B/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B07YP2VH4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yO+bt+mqL._AC_SL1500_.jpg"
 image_alt: "KitchenAid Classic Can Opener with stainless steel cutting wheel and ergonomic handles"
 keywords:

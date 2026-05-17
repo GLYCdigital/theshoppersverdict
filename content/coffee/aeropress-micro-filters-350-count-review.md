@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 12571
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B000LTOCSG/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B000LTOCSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ijZw-aWGL._AC_SL1450_.jpg"
 pros:
   - "350 filters in a single box — nearly a year's supply for daily users"

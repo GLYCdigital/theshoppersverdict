@@ -6,7 +6,7 @@ date: 2026-05-12
 slug: "cisily-sponge-holder-review"
 review_count: 12796
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0C3QZ7SNF/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0C3QZ7SNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81shIEM-H2L._AC_SL1500_.jpg"
 image_alt: "Cisily 304 stainless steel sponge holder for kitchen sink with drain spout and brush holder"
 keywords:

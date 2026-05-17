@@ -21,7 +21,7 @@ faq:
 date: 2026-05-12
 review_count: 53365
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B08412PTS8/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B08412PTS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HHyV8DV-L._AC_SL1500_.jpg"
 pros:
   - "Genuine HP ink works reliably with printer sensors and Instant Ink programs"

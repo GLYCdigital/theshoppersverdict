@@ -21,7 +21,7 @@ faq:
 date: 2026-05-16
 review_count: 15710
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0D7FVQ1ZB/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0D7FVQ1ZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/317e4B+yU6L._AC_SL1024_.jpg"
 pros:
   - "Classic Apple quality — reliable, comfortable, and well-built"

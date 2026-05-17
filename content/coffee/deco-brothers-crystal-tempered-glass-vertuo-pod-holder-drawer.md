@@ -21,7 +21,7 @@ faq:
 date: 2026-05-15
 review_count: 35254
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B00YNPKZNU/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B00YNPKZNU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91NW+BixqML._AC_SL1500_.jpg"
 pros:
   - "Tempered glass construction feels sturdy and premium, not flimsy"

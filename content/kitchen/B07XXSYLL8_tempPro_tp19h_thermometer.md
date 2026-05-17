@@ -6,7 +6,7 @@ date: 2026-05-12
 slug: "temppro-tp19h-digital-meat-thermometer-review"
 review_count: 54396
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B07XXSYLL8/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B07XXSYLL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GAhr0v1hL._AC_SL1500_.jpg"
 image_alt: "TempPro TP19H digital meat thermometer with foldable probe and backlit display"
 keywords:

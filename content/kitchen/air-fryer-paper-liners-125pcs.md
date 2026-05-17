@@ -6,7 +6,7 @@ date: 2026-05-12
 slug: "air-fryer-paper-liners-125pcs-review"
 review_count: 31988
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710lcyAkSSL._AC_SL1500_.jpg"
 image_alt: "125-pack disposable air fryer paper liners for easy kitchen cleanup"
 keywords:

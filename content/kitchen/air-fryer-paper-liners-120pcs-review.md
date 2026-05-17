@@ -6,7 +6,7 @@ date: 2026-05-16
 slug: "air-fryer-paper-liners-120pcs-review"
 review_count: 24510
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0C6Y8NYK1/?tag=shoppersverdi-20"
+amazon_url: "https://www.amazon.com/dp/B0C6Y8NYK1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b6E1JVs-L._AC_SL1500_.jpg"
 image_alt: "Baker's Signature air fryer paper liners in a 120-pack for easy basket cleanup"
 keywords:
