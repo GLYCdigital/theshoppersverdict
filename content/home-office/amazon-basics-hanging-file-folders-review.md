@@ -1,9 +1,27 @@
 ---
 title: "Amazon Basics Hanging File Folders Review: Organization Made Affordable"
+seo_title: "File Folders 25-Pack at $13 Review | The Shopper's Verdict"
+meta_description: "Amazon Basics hanging file folders review: Sturdy 25-pack with tabs at $12.97. 126K+ users rate these 4.7 stars for home office organization."
+slug: "amazon-basics-hanging-file-folders-review"
+image_alt: "Amazon Basics hanging file folders 25-pack in assorted colors for home office filing"
+keywords:
+  - "Amazon Basics hanging file folders"
+  - "hanging file folders review"
+  - "budget file folders"
+  - "office organization"
+  - "file folder 25-pack"
+verdict_score: 4.5
+faq:
+  - question: "Are Amazon Basics hanging file folders good quality?"
+    answer: "Yes, with a 4.7-star average from over 126,000 reviews, Amazon Basics hanging file folders offer excellent quality at a budget price. Users praise the sturdy construction, vibrant colors, and included adjustable tabs."
+  - question: "How much do Amazon Basics hanging file folders cost?"
+    answer: "A 25-pack of Amazon Basics hanging file folders costs $12.97, which works out to roughly 52 cents per folder. This is significantly cheaper than office supply store alternatives."
+  - question: "What sizes do Amazon Basics hanging file folders come in?"
+    answer: "The Amazon Basics hanging file folders are standard letter size (8.5x11 inches), designed to fit most filing cabinets, file boxes, and desk drawers."
 date: 2026-05-15
 review_count: 126055
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B00V5DG6IQ/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B00V5DG6IQ/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Yc24w0wJL._AC_SL1500_.jpg"
 pros:
   - "Sturdy construction that holds up well in daily office use"

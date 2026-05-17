@@ -1,9 +1,27 @@
 ---
 title: "Amazon Basics 8-Sheet Cross Cut Paper Shredder Review: Mighty Midget with Growing Pains"
+seo_title: "Amazon Basics Shredder — Cross-Cut | The Shopper's Verdict"
+meta_description: "Secure cross-cut shredding at $35.83. Read our Amazon Basics 8-sheet shredder review — 4.3 stars from 75,213 users for home office security."
+slug: "amazon-basics-cross-cut-shredder-review"
+image_alt: "Amazon Basics 8-sheet cross cut paper shredder with confetti-level security particles and compact desk footprint"
+keywords:
+  - "Amazon Basics paper shredder"
+  - "cross cut shredder"
+  - "8-sheet shredder review"
+  - "Amazon Basics shredder"
+  - "home office shredder"
+verdict_score: 4.2
+faq:
+  - question: "Does the Amazon Basics shredder produce secure confetti-cut particles?"
+    answer: "Yes, the cross-cut mechanism produces small confetti-like particles that are genuinely secure — a significant upgrade from strip-cut machines that leave documents in long ribbons."
+  - question: "What is the sheet capacity of this shredder?"
+    answer: "The 8-sheet capacity is accurate in real-world use. Stack eight pages, feed them in, and the cross-cut mechanism handles them reliably."
+  - question: "Is the Amazon Basics shredder noisy?"
+    answer: "Yes, the cross-cut mechanism makes this louder than strip-cut shredders. It's not ideal for shared workspaces but works well for home offices."
 date: 2026-05-16
 review_count: 75213
 amazon_rating: 4.3
-amazon_url: "https://www.amazon.com/dp/B0C6LZ8S34/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B0C6LZ8S34/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/719njn2SJ1L._AC_SL1500_.jpg"
 pros:
   - "Cross-cut shredding provides real security — confetti-like particles, not strips"

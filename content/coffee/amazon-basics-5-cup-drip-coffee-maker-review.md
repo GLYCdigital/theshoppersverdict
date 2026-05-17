@@ -1,9 +1,27 @@
 ---
 title: "Amazon Basics 5 Cup Drip Coffee Maker Review: Budget Brewing That Actually Works"
+seo_title: "Amazon Basics 5-Cup — Budget Coffee Maker | TSV"
+meta_description: "Read our Amazon Basics 5-cup drip coffee maker review. 1200+ ratings at 4.2 stars. Under $20 with reusable filter. See pros, cons, and verdict."
+slug: "amazon-basics-5-cup-coffee-maker-review"
+image_alt: "Amazon Basics 5-cup drip coffee maker with reusable filter on kitchen counter"
+keywords:
+  - "Amazon Basics coffee maker review"
+  - "cheap drip coffee maker"
+  - "budget coffee brewer"
+  - "small coffee machine under $20"
+  - "compact drip coffee maker"
+verdict_score: 4.2
+faq:
+  - question: "Is the Amazon Basics coffee maker good quality?"
+    answer: "For under $20, the Amazon Basics 5-cup coffee maker delivers reliable, consistent brewing with decent coffee quality. It's a solid budget choice that punches above its weight class."
+  - question: "Does the Amazon Basics coffee maker use paper filters?"
+    answer: "No, it comes with a built-in reusable mesh filter, saving you money on ongoing paper filter purchases. A measuring spoon is also included."
+  - question: "How many cups does the Amazon Basics coffee maker actually make?"
+    answer: "The 5-cup capacity uses standard 5-oz coffee cups, so you get about 2 standard mugs or 1 very large mug. It's best for 1-2 people."
 date: 2026-05-15
 review_count: 1261
 amazon_rating: 4.2
-amazon_url: "https://www.amazon.com/dp/B0D9QFRJMX/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B0D9QFRJMX/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VPt3SUBoL._AC_SL1500_.jpg"
 pros:
   - "Incredible value at under $20 — cheapest decent drip brewer on the market"

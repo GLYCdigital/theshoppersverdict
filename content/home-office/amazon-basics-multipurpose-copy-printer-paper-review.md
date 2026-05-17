@@ -1,9 +1,27 @@
 ---
 title: "Amazon Basics Multipurpose Copy Printer Paper Review: The Reliable Workhorse"
+seo_title: "Copy Paper — 219K at 4.8 Stars | The Shopper's Verdict"
+meta_description: "Amazon Basics copy paper review: 20 lb 92 brightness at 1.4¢ per sheet. 219K+ reviews rate this office paper 4.8 stars for reliable printing."
+slug: "amazon-basics-multipurpose-copy-printer-paper-review"
+image_alt: "Amazon Basics multipurpose copy printer paper ream for home office printing"
+keywords:
+  - "Amazon Basics copy paper"
+  - "multipurpose printer paper"
+  - "budget office paper"
+  - "20 lb copy paper"
+  - "printer paper review"
+verdict_score: 4.8
+faq:
+  - question: "Is Amazon Basics copy paper good for laser printers?"
+    answer: "Yes, Amazon Basics multipurpose copy paper is designed for both inkjet and laser printers. With a 20 lb weight and 92 brightness rating, it feeds smoothly and produces clean, crisp text without jams."
+  - question: "How much does Amazon Basics copy paper cost per sheet?"
+    answer: "At $6.97 per ream (500 sheets), Amazon Basics copy paper costs approximately 1.4 cents per sheet, making it one of the most affordable options available."
+  - question: "What brightness level is Amazon Basics copy paper?"
+    answer: "Amazon Basics multipurpose copy paper has a 92 brightness rating, which produces clean, professional-looking text that's suitable for most office documents and schoolwork."
 date: 2026-05-15
 review_count: 219605
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B01FV0F8H8/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B01FV0F8H8/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gOCTFCCwL._AC_SL1500_.jpg"
 pros:
   - "Jam-free performance across multiple printer types — inkjet, laser, and multifunction"

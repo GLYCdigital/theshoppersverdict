@@ -1,9 +1,27 @@
 ---
 title: "OXO Brew Conical Burr Coffee Grinder Review"
+seo_title: "OXO Burr Grinder — Consistent Grinds | TSV"
+meta_description: "Consistent conical burr grinding at 15 settings. Read our OXO Brew coffee grinder review — 4.4 stars from 22,830 users at $109.95."
+slug: "oxo-brew-conical-burr-coffee-grinder-review"
+image_alt: "OXO Brew Conical Burr Coffee Grinder with 15 grind settings and one-touch timed operation"
+keywords:
+  - "OXO Brew conical burr grinder"
+  - "OXO coffee grinder"
+  - "burr coffee grinder review"
+  - "best coffee grinder under $150"
+  - "OXO Brew grinder review"
+verdict_score: 4.2
+faq:
+  - question: "Is the OXO Brew conical burr grinder good for espresso?"
+    answer: "Yes, it grinds fine enough for espresso across its 15 settings. Long-term users report consistent performance even after years of daily use."
+  - question: "How does the OXO grinder compare to blade grinders?"
+    answer: "The conical burr design produces far more consistent grounds than blade grinders, which results in better extraction and more flavorful coffee."
+  - question: "Does the OXO Brew grinder have a static problem?"
+    answer: "Yes, the plastic catch basket generates static that makes grounds cling to the sides. It's manageable but can be messy when pouring into a filter."
 date: 2026-05-12
 review_count: 22830
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B07CSKGLMM/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B07CSKGLMM/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DeUg8G7kS._AC_SL1500_.jpg"
 pros:
   - "Consistent conical burr grind across all settings, even after years of daily use"

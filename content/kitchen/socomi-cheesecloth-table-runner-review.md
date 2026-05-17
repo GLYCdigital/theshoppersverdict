@@ -1,9 +1,27 @@
 ---
 title: "Socomi Pink Cheesecloth Table Runner Summer Boho 120 inch Review"
+seo_title: "Socomi Cheesecloth Runner Review — Boho Table Décor"
+meta_description: "Our Socomi cheesecloth table runner review — stunning colors, soft drape, and a 120-inch length make this the best boho table runner under $10."
+slug: "socomi-cheesecloth-table-runner-review"
+image_alt: "Socomi pink cheesecloth table runner in boho style on dining table"
+keywords:
+  - "Socomi cheesecloth table runner"
+  - "boho table runner"
+  - "cheesecloth table decor"
+  - "pink table runner"
+  - "affordable wedding table runner"
+verdict_score: 4.8
+faq:
+  - question: "Is the Socomi cheesecloth table runner see-through?"
+    answer: "Yes — the fabric is semi-sheer, so the table surface is visible underneath. This works well for decor but not for hiding table finishes."
+  - question: "Does the Socomi table runner need ironing?"
+    answer: "Yes — it arrives with fold lines from packaging and requires ironing or steaming before use for the best look."
+  - question: "Can the Socomi table runner be used outdoors?"
+    answer: "It is lightweight and may blow away in wind — best for indoor use unless weighed down with tape or decor."
 date: 2026-05-16
 review_count: 6815
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B0B2P4P2R4/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B0B2P4P2R4/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rnDkuAHzL._AC_SL1200_.jpg"
 pros:
   - "Beautiful, vibrant colors that look better in person than in photos"

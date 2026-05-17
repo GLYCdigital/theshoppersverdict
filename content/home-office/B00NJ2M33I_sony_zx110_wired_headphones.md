@@ -1,9 +1,27 @@
 ---
 title: "Sony MDR-ZX110 Wired Headphones Review: $15 of Legendary Audio"
+seo_title: "Sony MDR-ZX110 — Budget Headphones | TSV"
+meta_description: "Great sound for just $15. Read our Sony MDR-ZX110 wired headphones review — 4.5 stars from 96,105 users. Budget audio done right."
+slug: "sony-mdr-zx110-wired-headphones-review"
+image_alt: "Sony MDR-ZX110 wired headphones with foldable design and thick durable cable for everyday listening"
+keywords:
+  - "Sony MDR-ZX110 headphones"
+  - "Sony MDR-ZX110 review"
+  - "budget wired headphones"
+  - "Sony headphones under $20"
+  - "wired headphones for school"
+verdict_score: 4.4
+faq:
+  - question: "Are the Sony MDR-ZX110 headphones comfortable for long wear?"
+    answer: "Yes, they are lightweight and comfortable for extended wear, even with glasses. The on-ear pads work well for most head shapes and sizes."
+  - question: "Do these Sony headphones have a microphone?"
+    answer: "No, the Sony MDR-ZX110 are pure wired headphones without a microphone, inline remote or Bluetooth — just plug in and listen."
+  - question: "How durable are the Sony MDR-ZX110 headphones?"
+    answer: "The build is plastic but the thick cable is surprisingly durable. One reviewer's daughter used a pair through an entire school year and brought them home in great condition."
 date: 2026-05-17
 review_count: 96105
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B00NJ2M33I/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B00NJ2M33I/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/41CiQ7hR31L._AC_SL1000_.jpg"
 pros:
   - "Surprisingly clear and crisp audio with balanced bass at an incredible price"

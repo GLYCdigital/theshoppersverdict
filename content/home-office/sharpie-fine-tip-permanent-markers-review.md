@@ -1,9 +1,27 @@
 ---
 title: "Sharpie Fine Point Permanent Markers Review: The Undisputed King of Markers"
+seo_title: "Sharpie Markers 12-Pack — $9 | The Shopper's Verdict"
+meta_description: "Read our Sharpie fine point permanent markers review. 12-pack at $8.99 with 4.8 stars from 44K+ reviews. Bold black ink that writes on virtually any surface."
+slug: "sharpie-fine-tip-permanent-markers-review"
+image_alt: "Sharpie fine point permanent black markers 12-pack for labeling and office use"
+keywords:
+  - "Sharpie permanent markers"
+  - "fine point markers"
+  - "permanent marker review"
+  - "black markers for office"
+  - "labeling markers"
+verdict_score: 4.8
+faq:
+  - question: "Can Sharpie markers write on plastic and glass?"
+    answer: "Yes, Sharpie fine point permanent markers write on virtually every surface including paper, plastic, metal, glass, fabric, and rubber. The ink chemistry bonds with non-porous surfaces that cheaper markers can't handle."
+  - question: "How long does a Sharpie marker last?"
+    answer: "Sharpie markers last indefinitely as long as the cap is snapped shut after use. Leaving the cap off for more than an hour will cause the marker to dry out."
+  - question: "Do Sharpie markers bleed through paper?"
+    answer: "Yes, Sharpie permanent marker ink can bleed through thin paper. It's best suited for cardboard, shipping labels, and other thicker surfaces rather than notebook paper or stationery."
 date: 2026-05-16
 review_count: 44828
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B00006IFHD/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B00006IFHD/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wGuZOL1fL._AC_SL1500_.jpg"
 pros:
   - "Writes on virtually everything — paper, plastic, metal, glass, fabric"

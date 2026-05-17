@@ -1,9 +1,27 @@
 ---
 title: "Appliance Casters Furniture Sliders 8pcs Review: Move Heavy Kitchen Gear With One Finger"
+seo_title: "Appliance Casters — Move Heavy Gear Easily | TSV"
+meta_description: "Read our Appliance Casters furniture sliders review. 1100+ ratings at 4.4 stars. Move heavy coffee makers with one finger. 5-min install."
+slug: "appliance-casters-sliders-review"
+image_alt: "Appliance casters furniture sliders 8-pack installed under coffee maker on countertop"
+keywords:
+  - "appliance sliders review"
+  - "furniture casters for countertop"
+  - "move heavy kitchen appliances easily"
+  - "counter protector sliders"
+  - "appliance moving casters"
+verdict_score: 4.4
+faq:
+  - question: "How do you install Appliance Casters sliders?"
+    answer: "Installation takes about 5 minutes. Clean the bottom of your appliance, peel the backing, and stick the caster in place. No tools required."
+  - question: "Do appliance sliders damage countertops?"
+    answer: "No, the sliders actually protect countertops from scratches by letting you slide appliances instead of dragging them across the surface."
+  - question: "What surfaces do appliance sliders work on?"
+    answer: "They work well on hard, smooth surfaces including granite, tile, laminate, and hardwood. Textured countertops may reduce glide performance."
 date: 2026-05-16
 review_count: 1116
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B0DKNPMD37/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B0DKNPMD37/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rnTcrDKpL._AC_SL1500_.jpg"
 pros:
   - "Easy 5-minute installation — peel, stick, and move — no tools required"

@@ -1,9 +1,21 @@
 ---
 title: "KitchenAid Classic Can Opener Review: The $13 Tool That Lasts a Decade"
+seo_title: "KitchenAid Can Opener Review — Durable Manual Tool | TSV"
+meta_description: "KitchenAid Classic Can Opener delivers razor-sharp cutting and lasts a decade. Read our review of this $13 manual can opener built to last."
 date: 2026-05-17
+slug: "kitchenaid-classic-can-opener-review"
 review_count: 90153
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B07YP2VH4B/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B07YP2VH4B/?tag=shoppersverdi-20"
+amazon_image: "https://m.media-amazon.com/images/I/51yO+bt+mqL._AC_SL1500_.jpg"
+image_alt: "KitchenAid Classic Can Opener with stainless steel cutting wheel and ergonomic handles"
+keywords:
+  - "KitchenAid can opener"
+  - "manual can opener"
+  - "best can opener"
+  - "durable kitchen tools"
+  - "buy it for life can opener"
+pros:
 amazon_image: "https://m.media-amazon.com/images/I/51yO+bt+mqL._AC_SL1500_.jpg"
 pros:
   - "Razor-sharp stainless steel cutting wheel glides smoothly through lids"
@@ -15,6 +27,14 @@ cons:
   - "Must be hand washed and dried — dishwasher exposure causes rust"
   - "Larger and heavier than most manual can openers"
   - "Lid edges can still be sharp; handle with care"
+verdict_score: 4.5
+faq:
+  - question: "Is the KitchenAid Classic Can Opener dishwasher safe?"
+    answer: "No, the KitchenAid Classic Can Opener must be hand washed and dried immediately. Dishwasher exposure will cause rust and damage the cutting mechanism."
+  - question: "How long does the KitchenAid can opener last?"
+    answer: "Thousands of reviewers report 10+ years of daily use from this manual can opener. The stainless steel cutting wheel stays sharp and the ergonomic design remains comfortable."
+  - question: "Is the KitchenAid Classic Can Opener worth buying?"
+    answer: "At $13.69 with over 90,000 positive reviews, this is one of the best can openers you can buy. It cuts smoothly, feels solid, and doubles as a bottle opener."
 ---
 
 The KitchenAid Classic Can Opener is one of those products where the reviews tell an almost unbelievable story: thousands of users reporting a decade of flawless service from a $13 kitchen tool. With over 90,000 reviews and a 4.6-star average, the consensus is overwhelming.

@@ -1,9 +1,27 @@
 ---
 title: "Sony MDREX15LP In-Ear Earbud Headphones Review"
+seo_title: "Sony MDREX15LP — In-Ear at $10 | The Shopper's Verdict"
+meta_description: "Read our Sony MDREX15LP in-ear earbud headphones review. Clear sound and durable cable at $9.99 with 4.4 stars from 10K+ reviews. Perfect budget backup earbuds."
+slug: "sony-mdrex15lp-in-ear-earbud-headphones-review"
+image_alt: "Sony MDREX15LP in-ear earbud headphones with long durable cable and 3.5mm jack"
+keywords:
+  - "Sony MDREX15LP earbuds"
+  - "in-ear headphones review"
+  - "budget earbuds"
+  - "Sony wired earbuds"
+  - "3.5mm headphones"
+verdict_score: 4.3
+faq:
+  - question: "Are Sony MDREX15LP earbuds good for gaming?"
+    answer: "Yes, Sony MDREX15LP earbuds work well for retro console gaming, VR headsets, and handheld gaming devices thanks to their long cable and clear sound with a good level of bass."
+  - question: "Do Sony MDREX15LP earbuds have a microphone?"
+    answer: "No, the Sony MDREX15LP earbuds are pure audio earbuds with no inline microphone or remote. For calls and playback control, you'll need to use your device directly."
+  - question: "How durable are Sony MDREX15LP earbuds?"
+    answer: "Build quality is inconsistent — some users report their pairs lasting years while others experience failure within weeks. The long cable design helps prevent fraying at the jack connection point."
 date: 2026-05-15
 review_count: 10006
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B00Q6P4CMA/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B00Q6P4CMA/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/413REOi5bJL._AC_SL1200_.jpg"
 pros:
   - "Exceptional value at $9.99 — clear sound with solid bass for the price"

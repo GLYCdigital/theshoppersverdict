@@ -1,9 +1,27 @@
 ---
 title: "Cuisinart DCC-3200 PerfecTemp Coffee Maker Review: 14 Cups of Consistent Heat"
+seo_title: "Cuisinart DCC-3200 — Temp Control Coffee Maker | TSV"
+meta_description: "Read our Cuisinart DCC-3200 PerfecTemp coffee maker review. Over 43K ratings confirm excellent temperature control. See pros, cons, and our verdict."
+slug: "cuisinart-dcc-3200-coffee-maker-review"
+image_alt: "Cuisinart DCC-3200 PerfecTemp 14-cup programmable drip coffee maker on kitchen counter"
+keywords:
+  - "Cuisinart DCC-3200 review"
+  - "best drip coffee maker"
+  - "programmable coffee maker with temperature control"
+  - "14-cup coffee machine"
+  - "PerfecTemp coffee brewer"
+verdict_score: 4.4
+faq:
+  - question: "Is the Cuisinart DCC-3200 worth buying?"
+    answer: "Yes, the Cuisinart DCC-3200 PerfecTemp coffee maker is one of the best-reviewed drip brewers on Amazon with over 43,000 ratings and a 4.5-star average. Its adjustable temperature control and brew strength settings deliver excellent coffee."
+  - question: "How long does the Cuisinart DCC-3200 take to brew a full pot?"
+    answer: "A full 14-cup pot takes about 15 minutes. The slower drip cycle produces better flavor extraction, making it a feature rather than a drawback for quality-focused brewers."
+  - question: "Does the Cuisinart DCC-3200 burn coffee?"
+    answer: "No. The PerfecTemp system and adjustable warmer plate keep coffee at optimal temperature without burning it, even after the pot has been sitting for a while."
 date: 2026-05-17
 review_count: 43350
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B00MVWGQX0/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/71io+Gh4ApL._AC_SL1500_.jpg"
 pros:
   - "Excellent brew temperature control with adjustable carafe warmer"

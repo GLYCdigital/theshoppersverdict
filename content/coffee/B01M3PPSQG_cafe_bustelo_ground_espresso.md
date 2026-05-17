@@ -1,9 +1,27 @@
 ---
 title: "Café Bustelo Espresso Ground Coffee Review: The Dark Roast Staple That Never Quits"
+seo_title: "Café Bustelo — Bold Dark Roast Ground Coffee | TSV"
+meta_description: "Read our Café Bustelo espresso ground coffee review. 9K+ ratings, 4.8 stars. Bold dark roast with rich flavor. See pros, cons, and verdict."
+slug: "cafe-bustelo-ground-espresso-review"
+image_alt: "Café Bustelo dark roast espresso ground coffee 36-ounce canister on countertop"
+keywords:
+  - "Café Bustelo review"
+  - "best dark roast ground coffee"
+  - "espresso ground coffee"
+  - "Cuban coffee brand"
+  - "affordable dark roast coffee"
+verdict_score: 4.7
+faq:
+  - question: "Is Café Bustelo good for espresso?"
+    answer: "Yes, Café Bustelo dark roast ground coffee is excellent for espresso, stovetop moka pots, and drip brewers. The fine grind and bold flavor produce a rich crema when brewed properly."
+  - question: "How does Café Bustelo compare to other dark roasts?"
+    answer: "Café Bustelo is smoother and less bitter than many grocery store dark roasts. Its full-bodied flavor and consistent quality across every canister make it a top choice for daily espresso drinkers."
+  - question: "Is Café Bustelo worth the price?"
+    answer: "At under $20 for a 36-ounce canister, Café Bustelo offers excellent value. It delivers premium dark roast flavor at a fraction of the cost of specialty coffee brands."
 date: 2026-05-17
 review_count: 9097
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B01M3PPSQG/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B01M3PPSQG/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G+uU0k9sL._SL1500_.jpg"
 pros:
   - "Bold, rich, full-bodied flavor with an incredible aroma"

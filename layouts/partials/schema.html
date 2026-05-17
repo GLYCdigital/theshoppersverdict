@@ -1,0 +1,47 @@
+{{ if and (not .IsHome) .Params.amazon_rating }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": {{ .Title | jsonify }},
+  {{ with .Params.amazon_image }}"image": {{ . | absURL | jsonify }},{{ end }}
+  {{ with .Params.meta_description }}"description": {{ . | jsonify }},{{ end }}
+  {{ with .Params.amazon_rating }}
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": {{ . | jsonify }},
+    "bestRating": "5",
+    "worstRating": "1",
+    {{ with $.Params.review_count }}"ratingCount": {{ . | jsonify }}{{ end }}
+  },
+  {{ end }}
+  {{ with .Params.amazon_url }}"offers": {
+    "@type": "Offer",
+    "url": {{ . | jsonify }},
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Amazon.com"
+    }
+  },
+  {{ end }}
+  "review": {
+    "@type": "Review",
+    {{ with .Params.verdict_score }}"reviewRating": {
+      "@type": "Rating",
+      "ratingValue": {{ . | jsonify }},
+      "bestRating": "5"
+    },{{ end }}
+    "author": {
+      "@type": "Organization",
+      "name": "The Shopper's Verdict"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Shopper's Verdict"
+    }
+  }
+}
+</script>
+{{ end }}

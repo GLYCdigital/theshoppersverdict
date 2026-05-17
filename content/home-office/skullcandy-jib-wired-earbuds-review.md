@@ -1,9 +1,27 @@
 ---
 title: "Skullcandy Jib Wired Earbuds Review: $8.88 of Genuine Surprise"
+seo_title: "Skullcandy Jib — $8.88 Earbuds | The Shopper's Verdict"
+meta_description: "Read our Skullcandy Jib wired earbuds review. Surprisingly good sound for $8.88 with 4.4 stars from 20K+ reviews. The best budget backup earbuds you can buy."
+slug: "skullcandy-jib-wired-earbuds-review"
+image_alt: "Skullcandy Jib wired earbuds with 3.5mm connector and inline microphone"
+keywords:
+  - "Skullcandy Jib earbuds"
+  - "wired earbuds review"
+  - "budget earbuds"
+  - "cheap headphones"
+  - "3.5mm earbuds"
+verdict_score: 4.4
+faq:
+  - question: "Are Skullcandy Jib wired earbuds good for working out?"
+    answer: "No, Skullcandy Jib wired earbuds are not sweatproof. Moisture traveling down the wire can mute the microphone. They're best for indoor use such as commuting, office work, and casual listening."
+  - question: "Do Skullcandy Jib earbuds have volume controls?"
+    answer: "The standard Skullcandy Jib model has an inline microphone and play/pause controls but lacks dedicated volume buttons. Volume must be adjusted from the connected device."
+  - question: "What devices work with Skullcandy Jib earbuds?"
+    answer: "Skullcandy Jib earbuds use a standard 3.5mm connector, compatible with phones, laptops, tablets, gaming handhelds, Nintendo Switch, PS4/PS5 controllers, and airplane entertainment systems."
 date: 2026-05-16
 review_count: 20138
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B075F6TB7F/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B075F6TB7F/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg"
 pros:
   - "Incredible value at $8.88 — sound quality that rivals budget earbuds at double the price"

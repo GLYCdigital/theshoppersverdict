@@ -1,9 +1,27 @@
 ---
 title: "illy Classico Whole Bean Coffee Review: 6-Pack Medium Roast"
+seo_title: "illy Classico — Premium Medium Roast Beans | TSV"
+meta_description: "Read our illy Classico whole bean coffee review. 6300+ ratings at 4.6 stars. Zero bitterness, orange and cocoa notes. Premium Italian coffee."
+slug: "illy-classico-whole-bean-coffee-review"
+image_alt: "illy Classico medium roast whole bean coffee 6-pack pressurized canisters"
+keywords:
+  - "illy Classico coffee review"
+  - "best whole bean coffee"
+  - "Italian premium coffee"
+  - "medium roast coffee beans"
+  - "illy coffee 6-pack"
+verdict_score: 4.6
+faq:
+  - question: "Is illy Classico coffee worth the premium price?"
+    answer: "Yes, for daily drinkers who value consistency and zero bitterness, illy Classico delivers exceptional quality. The pressurized canisters keep beans fresh longer than bagged coffee."
+  - question: "What does illy Classico coffee taste like?"
+    answer: "Illy Classico is a smooth medium roast with subtle notes of orange and cocoa. It's balanced, never bitter, and works well across espresso, drip, pour-over, and French press."
+  - question: "Is illy Classico good for espresso?"
+    answer: "Yes, illy Classico whole beans are excellent for espresso. The medium roast profile produces a balanced shot with rich crema and no harsh bitterness."
 date: 2026-05-16
 review_count: 6307
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B07HRVYPJ7/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B07HRVYPJ7/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZFPup5lBL._SL1500_.jpg"
 pros:
   - "Consistently smooth flavor profile with zero bitterness — rich, never harsh"

@@ -1,9 +1,27 @@
 ---
 title: "2020 Apple MacBook Air M1"
+seo_title: "MacBook Air M1 — Still Worth It? | The Shopper's Verdict"
+meta_description: "Read our Apple MacBook Air M1 review. Fanless design, all-day battery, and 4.7 stars from 13K+ reviews. Find out if this 2020 classic is still worth buying."
+slug: "macbook-air-m1-review"
+image_alt: "2020 Apple MacBook Air M1 laptop with Retina display and fanless design"
+keywords:
+  - "MacBook Air M1"
+  - "Apple M1 laptop"
+  - "MacBook Air review"
+  - "best budget laptop"
+  - "Apple Silicon laptop"
+verdict_score: 4.6
+faq:
+  - question: "Is the M1 MacBook Air still worth buying?"
+    answer: "Yes, the M1 MacBook Air remains an excellent value for students, writers, and casual creators. It offers fast performance, silent fanless operation, and all-day battery life at a budget-friendly price."
+  - question: "How many ports does the M1 MacBook Air have?"
+    answer: "The M1 MacBook Air has only two Thunderbolt ports. With one typically used for charging, you're left with a single port for accessories, so a dongle or hub is recommended."
+  - question: "Can the M1 MacBook Air run Windows?"
+    answer: "No, the M1 MacBook Air does not support Boot Camp for native Windows. Windows can be run through virtualization software like Parallels, but performance takes a noticeable hit compared to native."
 date: 2026-05-12
 review_count: 13387
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B08N5KWB9H/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B08N5KWB9H/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TPda7cwUL._AC_SL1500_.jpg"
 pros:
   - "Stunning performance-to-price ratio — fastest laptop in its class at launch, still competitive years later"

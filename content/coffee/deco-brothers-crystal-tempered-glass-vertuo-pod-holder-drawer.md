@@ -1,9 +1,27 @@
 ---
 title: "DecoBrothers Crystal Tempered Glass Vertuo Pod Holder Drawer Review"
+seo_title: "DecoBrothers — Vertuo Pod Glass Drawer | TSV"
+meta_description: "Read our DecoBrothers Vertuo pod holder drawer review. 35K+ ratings at 4.7 stars. Holds 24 pods under your Nespresso machine. Pros, cons, verdict."
+slug: "deco-brothers-vertuo-pod-holder-drawer-review"
+image_alt: "DecoBrothers crystal tempered glass Vertuo pod holder drawer under Nespresso machine"
+keywords:
+  - "DecoBrothers pod holder review"
+  - "Nespresso Vertuo pod organizer"
+  - "coffee pod storage drawer"
+  - "countertop pod holder"
+  - "Nespresso accessories"
+verdict_score: 4.7
+faq:
+  - question: "How many pods does the DecoBrothers holder fit?"
+    answer: "The drawer holds up to 24 large Vertuo pods or 48 small Original Line capsules, providing plenty of capacity without taking up extra counter space."
+  - question: "Does the pod holder fit under Nespresso machines?"
+    answer: "Yes, it's designed to slide directly beneath your Nespresso machine, using otherwise wasted space. The machine sits on top while pods are stored in the drawer below."
+  - question: "Is the DecoBrothers pod holder well made?"
+    answer: "With tempered glass construction and a sturdy frame, reviewers consistently praise its build quality. It feels premium and adds an elegant touch to any kitchen."
 date: 2026-05-15
 review_count: 35254
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B00YNPKZNU/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B00YNPKZNU/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/91NW+BixqML._AC_SL1500_.jpg"
 pros:
   - "Tempered glass construction feels sturdy and premium, not flimsy"

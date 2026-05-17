@@ -1,9 +1,27 @@
 ---
 title: "KitchenAid All Purpose Kitchen Shears with Protective Sheath Review"
+seo_title: "KitchenAid Shears Review — Best Budget Kitchen Scissors"
+meta_description: "Our KitchenAid all purpose kitchen shears review — sharp stainless steel blades, comfortable grip, and a protective sheath for under $8."
+slug: "kitchenaid-all-purpose-kitchen-shears-review"
+image_alt: "KitchenAid all purpose kitchen shears with protective sheath on kitchen counter"
+keywords:
+  - "KitchenAid kitchen shears review"
+  - "best kitchen scissors"
+  - "KitchenAid shears"
+  - "kitchen shears under $10"
+  - "all purpose kitchen shears"
+verdict_score: 4.8
+faq:
+  - question: "Are KitchenAid kitchen shears dishwasher safe?"
+    answer: "They can go in the dishwasher, but the riveted design means food particles can accumulate at the pivot — hand washing is recommended for thorough cleaning."
+  - question: "Can KitchenAid kitchen shears cut through poultry bones?"
+    answer: "Yes — the sharp stainless steel blades with micro-serrations handle poultry, herbs, twine, and packaging with ease."
+  - question: "Are KitchenAid shears good value for the price?"
+    answer: "At $7.59 with a 4.8-star rating from 70,000+ reviews, these are one of the best value kitchen shears available — sharp, comfortable, and durable."
 date: 2026-05-16
 review_count: 70845
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B07PZF3QS3/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Byq+vTy1L._AC_SL1500_.jpg"
 pros:
   - "Sharp out of the box — cuts through poultry, herbs, packaging, and twine with no resistance"

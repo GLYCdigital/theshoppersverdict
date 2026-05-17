@@ -1,9 +1,27 @@
 ---
 title: "Presto 02811 Stainless Steel Electric Coffee Percolator Review"
+seo_title: "Presto Percolator — Stainless Steel Brew | TSV"
+meta_description: "No plastic, just pure stainless steel. Read our Presto 02811 electric percolator review — 4.5 stars from 19,303 coffee lovers at under $80."
+slug: "presto-02811-electric-coffee-percolator-review"
+image_alt: "Presto 02811 stainless steel electric coffee percolator with no plastic components touching the brew"
+keywords:
+  - "Presto 02811 coffee percolator"
+  - "stainless steel coffee percolator"
+  - "electric percolator review"
+  - "Presto percolator"
+  - "no plastic coffee maker"
+verdict_score: 4.5
+faq:
+  - question: "How long should I brew coffee in a Presto percolator?"
+    answer: "Brew time is the key to great percolator coffee. Too long produces bitter, over-extracted coffee while a shorter cycle yields smooth results. Experiment with timing to dial in your preference."
+  - question: "Does the Presto 02811 use plastic components?"
+    answer: "No, the Presto 02811 is all stainless steel — water goes through stainless tubing and baskets with zero plastic touching your coffee, eliminating any plastic aftertaste."
+  - question: "How does percolator coffee taste compared to drip?"
+    answer: "Percolator coffee stays piping hot and many users report it tastes better than drip machines. The all-metal construction and high brewing temperature produce a clean, rich flavor."
 date: 2026-05-12
 review_count: 19303
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B00006IV0Q/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B00006IV0Q/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rUS9j-40L._AC_SL1500_.jpg"
 pros:
   - "All stainless steel construction — zero plastic touches your water or coffee"

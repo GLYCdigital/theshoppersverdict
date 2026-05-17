@@ -1,9 +1,21 @@
 ---
 title: "Air Fryer Paper Liners Review: Do These 125-Pack Disposable Liners Actually Save Time?"
+seo_title: "Air Fryer Liners Review — 125-Pack Disposable | TSV"
+meta_description: "Air fryer paper liners save cleanup time at 8 cents each. Read our review of these 125-pack disposable parchment liners for Ninja and square air fryers."
 date: 2026-05-12
+slug: "air-fryer-paper-liners-125pcs-review"
 review_count: 31988
 amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=shoppersverdi-20"
+amazon_image: "https://m.media-amazon.com/images/I/710lcyAkSSL._AC_SL1500_.jpg"
+image_alt: "125-pack disposable air fryer paper liners for easy kitchen cleanup"
+keywords:
+  - "air fryer paper liners"
+  - "disposable air fryer liners"
+  - "Ninja Foodi liners"
+  - "air fryer parchment liners"
+  - "non stick air fryer liners"
+pros:
 amazon_image: "https://m.media-amazon.com/images/I/710lcyAkSSL._AC_SL1500_.jpg"
 pros:
   - "Fits most square/rectangular air fryers like Ninja Foodi perfectly"
@@ -14,6 +26,14 @@ cons:
   - "Some users report sizing discrepancies with larger or round basket models"
   - "Thinner than premium brands — can tear when lifting heavy or greasy food"
   - "Customer support responses can be slow for defect inquiries"
+verdict_score: 4.3
+faq:
+  - question: "Do these air fryer liners fit Ninja Foodi?"
+    answer: "Yes, the square 8-inch liners fit Ninja Foodi and other square air fryer baskets perfectly. Round basket owners should measure first for compatibility."
+  - question: "Are these air fryer paper liners reusable?"
+    answer: "No, these are disposable parchment liners designed for single use. At 8 cents per liner across 125 sheets, the value is excellent for daily air fryer cooking."
+  - question: "Are these air fryer liners bleach free?"
+    answer: "Yes, these liners are unbleached and bleach free, making them a safer choice for high-heat cooking in your air fryer."
 ---
 
 ## Verdict

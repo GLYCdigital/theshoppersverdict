@@ -1,9 +1,27 @@
 ---
 title: "Scotch Heavy Duty Shipping Packing Tape Review: Reliable, But the Dispensers Leave Room"
+seo_title: "Packing Tape — 6 Rolls at $12 | The Shopper's Verdict"
+meta_description: "Scotch heavy duty packing tape review: 6 rolls with built-in dispensers at $11.99. 4.7 stars from 107K+ reviews for reliable moving and shipping."
+slug: "scotch-heavy-duty-shipping-packing-tape-review"
+image_alt: "Scotch heavy duty shipping packing tape 6-pack with built-in dispensers"
+keywords:
+  - "Scotch packing tape"
+  - "heavy duty shipping tape"
+  - "packing tape with dispenser"
+  - "moving supplies"
+  - "shipping tape review"
+verdict_score: 4.3
+faq:
+  - question: "Is Scotch heavy duty packing tape good for shipping boxes?"
+    answer: "Yes, Scotch heavy duty shipping packing tape has thick, aggressive adhesive that holds corrugated boxes and poly mailers securely. It's a reliable choice for moving and small business shipping."
+  - question: "Do Scotch packing tape rolls come with dispensers?"
+    answer: "Yes, each roll has a built-in dispenser with a locking mechanism for easy tear. However, the plastic teeth can wear down over time, making a separate metal tape gun a better investment for heavy users."
+  - question: "How much does Scotch packing tape cost?"
+    answer: "A 6-pack of Scotch heavy duty shipping packing tape with built-in dispensers costs under $12, offering solid value for home moving and occasional shipping needs."
 date: 2026-05-12
 review_count: 107827
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B000J07BRQ/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B000J07BRQ/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/817GKjo-ufL._SL1500_.jpg"
 pros:
   - "Built-in dispenser on every roll makes cutting quick and clean"

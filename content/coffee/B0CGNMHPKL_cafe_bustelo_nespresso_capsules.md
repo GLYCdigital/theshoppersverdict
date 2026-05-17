@@ -1,9 +1,27 @@
 ---
 title: "Café Bustelo Aluminum Espresso Capsules Review: Nespresso-Compatible Boldness at a Steal"
+seo_title: "Café Bustelo — Bold Nespresso Capsules | TSV"
+meta_description: "Read our Café Bustelo Nespresso capsules review. 4.8-star aluminum pods deliver bold intensity 11 espresso. Perfect for Original Line machines."
+slug: "cafe-bustelo-nespresso-capsules-review"
+image_alt: "Café Bustelo aluminum Nespresso compatible espresso capsules 40-count pack"
+keywords:
+  - "Café Bustelo Nespresso capsules review"
+  - "Nespresso compatible pods"
+  - "best bold espresso capsules"
+  - "Original Line coffee pods"
+  - "affordable Nespresso alternatives"
+verdict_score: 4.7
+faq:
+  - question: "Are Café Bustelo Nespresso capsules compatible with all machines?"
+    answer: "These capsules work with Nespresso Original Line machines only. They are not compatible with Vertuo machines. The aluminum construction ensures fresh, consistent extraction."
+  - question: "How strong are Café Bustelo Nespresso capsules?"
+    answer: "With an intensity rating of 11 out of 13, these capsules deliver a genuinely bold, full-bodied espresso shot. They're potent enough that some users prefer them as a single shot."
+  - question: "Are Café Bustelo pods cheaper than Nespresso brand?"
+    answer: "Yes, at about $0.62 per capsule (40-pack for $24.98), Café Bustelo pods cost substantially less than Nespresso-branded alternatives while delivering comparable bold flavor."
 date: 2026-05-17
 review_count: 1751
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B0CGNMHPKL/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B0CGNMHPKL/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/714aBcxNVmL._SL1500_.jpg"
 pros:
   - "Rich, bold espresso with authentic Café Bustelo flavor in pod form"

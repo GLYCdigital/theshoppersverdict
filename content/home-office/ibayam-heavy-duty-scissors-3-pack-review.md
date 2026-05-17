@@ -1,9 +1,27 @@
 ---
 title: "iBayam Heavy Duty Scissors 3-Pack Review: Sharp, Comfortable, and a Deal at $10"
+seo_title: "Heavy Duty Scissors 3-Pack at $10 | The Shopper's Verdict"
+meta_description: "iBayam heavy duty scissors 3-pack review: Ultra-sharp blades with adjustable hinges at $9.99. 4.8 stars from 85K+ reviews — best value scissors."
+slug: "ibayam-heavy-duty-scissors-3-pack-review"
+image_alt: "iBayam heavy duty scissors 3-pack with color-coded handles for home and office"
+keywords:
+  - "iBayam heavy duty scissors"
+  - "scissors 3-pack"
+  - "budget scissors"
+  - "home office scissors"
+  - "adjustable hinge scissors"
+verdict_score: 4.8
+faq:
+  - question: "Are iBayam heavy duty scissors sharp?"
+    answer: "Yes, iBayam heavy duty scissors come ultra-sharp out of the box. Reviewers praise them for cutting through paper, fabric, tape, and light cardboard with ease on the first cut."
+  - question: "How long do iBayam scissors last?"
+    answer: "iBayam scissors feature an adjustable hinge nut that allows you to tighten the pivot as blades wear, extending their lifespan significantly compared to budget scissors with riveted hinges."
+  - question: "What can you cut with iBayam heavy duty scissors?"
+    answer: "These general-purpose scissors handle paper, cardstock, fabric, tape, light cardboard, and packaging materials. They're straight-blade only and not designed for precision craft work."
 date: 2026-05-16
 review_count: 85889
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B07YDDX4JL/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B07YDDX4JL/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iVyRt2AfL._AC_SL1200_.jpg"
 pros:
   - "Ultrasharp blades out of the box — cuts through paper, fabric, tape, and light cardboard with ease"

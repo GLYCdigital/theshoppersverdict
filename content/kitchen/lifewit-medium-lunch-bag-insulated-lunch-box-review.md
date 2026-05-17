@@ -1,9 +1,27 @@
 ---
 title: "Lifewit Medium Lunch Bag Insulated Lunch Box Review"
+seo_title: "Lifewit Lunch Bag Review — Best Insulated Lunch Box"
+meta_description: "Our Lifewit lunch bag review — great temperature retention, spacious 9L capacity, and smooth zippers make this the best insulated lunch box under $10."
+slug: "lifewit-medium-lunch-bag-review"
+image_alt: "Lifewit medium insulated lunch bag in gray with front zipper pocket and side drink holders"
+keywords:
+  - "Lifewit lunch bag review"
+  - "insulated lunch box"
+  - "best lunch bag for work"
+  - "medium lunch bag"
+  - "affordable lunch cooler"
+verdict_score: 4.6
+faq:
+  - question: "Does the Lifewit lunch bag keep food cold all day?"
+    answer: "Yes — the insulation is excellent, keeping food cold through a full workday when used with an ice pack."
+  - question: "Is the Lifewit medium lunch bag too big for a simple lunch?"
+    answer: "It runs large — ideal for a full packed lunch with snacks and a drink, but may be oversized for just a sandwich and chips."
+  - question: "Does the Lifewit lunch bag come with a shoulder strap?"
+    answer: "No — it has sturdy top handles for hand carrying but no shoulder strap. The handles are comfortable for short to medium walks."
 date: 2026-05-15
 review_count: 58436
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0B56CHMSC/?tag=tsvglyc-20"
+amazon_url: "https://www.amazon.com/dp/B0B56CHMSC/?tag=shoppersverdi-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tf1kD9PBL._AC_SL1500_.jpg"
 pros:
   - "Excellent temperature retention — keeps food cold (or warm) for hours with an ice pack"
