@@ -17,8 +17,6 @@ keywords:
   - "meal prep chopper"
   - "kitchen gadget"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/81GZZyozv-L._AC_SL1500_.jpg"
-pros:
   - "4 interchangeable blade sets — dice, julienne, spiralize, and shred — for significant versatility"
   - "Huge capacity container catches everything with no mess"
   - "Genuinely saves time on meal prep for onions, peppers, carrots, and celery"

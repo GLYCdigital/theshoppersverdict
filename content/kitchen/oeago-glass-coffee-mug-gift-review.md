@@ -27,7 +27,7 @@ amazon_image: "https://m.media-amazon.com/images/I/71X0ob1FvIL._AC_SL1500_.jpg"
 pros:
   - "Stunning enamel and gold detail design — photos don't do it justice"
   - "Thick, high-quality glass that feels substantial"
-  - "Matching glass spoon included
+  - "Matching glass spoon included"
   - "Elegant packaging makes it gift-ready"
   - "Comfortable handle with decorative accent detail"
 cons:

@@ -17,8 +17,6 @@ keywords:
   - "space saving toaster"
   - "oatmilk toaster"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/71zZ0tSkfHL._AC_SL1500_.jpg"
-pros:
   - "Ultra-slim profile fits in tight spaces where standard toasters won't"
   - "Cute, modern design available in appealing colors like oatmilk and sage"
   - "6 browning settings offer decent range for light toast to dark, crispy results"

@@ -17,8 +17,6 @@ keywords:
   - "air fryer parchment liners"
   - "non stick air fryer liners"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/710lcyAkSSL._AC_SL1500_.jpg"
-pros:
   - "Fits most square/rectangular air fryers like Ninja Foodi perfectly"
   - "High sides catch grease, oil, crumbs, and sauces — cleanup in under 30 seconds"
   - "Unbleached, bleach-free parchment at a fair $9.99 for 125 sheets"

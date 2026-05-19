@@ -17,8 +17,6 @@ keywords:
   - "leak proof water bottle"
   - "Darth Vader bottle"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/31w4Guc313L._AC_SL1080_.jpg"
-pros:
   - "FreeSip spout lets you sip through a straw or tilt back to chug"
   - "Double-wall insulation keeps drinks cold for hours — ice still intact at end of day"
   - "Genuinely leak-proof — toss it in a bag with confidence"

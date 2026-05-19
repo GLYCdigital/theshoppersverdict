@@ -17,8 +17,6 @@ keywords:
   - "BBQ thermometer"
   - "affordable kitchen thermometer"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/71GAhr0v1hL._AC_SL1500_.jpg"
-pros:
   - "Fast and accurate readings in 3-4 seconds"
   - "Ambidextrous backlit display with motion sensing"
   - "Excellent value at $13.99"

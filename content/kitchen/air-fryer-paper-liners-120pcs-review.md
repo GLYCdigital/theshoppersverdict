@@ -17,8 +17,6 @@ keywords:
   - "non stick air fryer liners"
   - "disposable air fryer liners"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/81b6E1JVs-L._AC_SL1500_.jpg"
-pros:
   - "Makes air fryer cleanup nearly effortless — no more scrubbing the basket"
   - "Large enough to fit standard 6-10 quart air fryer baskets"
   - "Durable enough for most foods without tearing during cooking"

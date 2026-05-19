@@ -17,8 +17,6 @@ keywords:
   - "kitchen countertop organizer"
   - "sink brush holder"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/81shIEM-H2L._AC_SL1500_.jpg"
-pros:
   - "Drain spout actually keeps the counter dry — sponges and brushes drip straight into the sink instead of pooling on the counter"
   - "Sturdy 304 stainless steel build with a clean look; stays put on the sink ledge without slipping or shifting"
   - "Takes up almost no space but neatly holds sponge, scrub brush, and soap — real declutter win for small kitchens"

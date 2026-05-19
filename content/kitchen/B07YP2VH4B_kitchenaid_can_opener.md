@@ -17,8 +17,6 @@ keywords:
   - "durable kitchen tools"
   - "buy it for life can opener"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/51yO+bt+mqL._AC_SL1500_.jpg"
-pros:
   - "Razor-sharp stainless steel cutting wheel glides smoothly through lids"
   - "Large, comfortable ergonomic handles provide easy grip and leverage"
   - "Doubles as a bottle opener"

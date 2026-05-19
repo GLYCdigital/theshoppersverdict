@@ -17,8 +17,6 @@ keywords:
   - "BBQ thermometer"
   - "kitchen thermometer"
 pros:
-amazon_image: "https://m.media-amazon.com/images/I/81bpKKv68-L._AC_SL1500_.jpg"
-pros:
   - "Instant read in 2-3 seconds with accurate temperature readings every time"
   - "Magnetic back keeps it attached to the oven or grill — always within reach"
   - "Backlit display with auto-rotation makes it readable in any orientation"
