@@ -1,30 +1,9 @@
 {
-  "kitchen": [
-    "B0D6C6GS58",
-    "B0BZYCJK89",
-    "B0DF472VMZ",
-    "B0113UZJE2",
-    "B07N9JTJ6K",
-    "B0CP9YB3Q4",
-    "B08N9Q24M9",
-    "B06X9NQ8GX",
-    "B0GPFTVFRY",
-    "B09JNRXJD6"
-  ],
+  "kitchen": [],
   "coffee": [
-    "B0DVD67F76",
-    "B01F3896DA",
-    "B0FCBPBBL4",
-    "B01C4IDQS8",
-    "B08DBVYJPZ"
+    "B0FCBPBBL4"
   ],
-  "home-office": [
-    "B07R8D1RHS",
-    "B0GBZ91WFP",
-    "B0C8PR4W22",
-    "B08412HXK9",
-    "B000MVV6AA"
-  ],
+  "home-office": [],
   "used": [
     "B07XXSYLL8",
     "B0C3QZ7SNF",
@@ -75,6 +54,25 @@
     "B00NJ2M33I",
     "B0C3HCD34R",
     "B086BLQZ5L",
-    "B0D8PSDMYH"
+    "B0D8PSDMYH",
+    "B0D6C6GS58",
+    "B0BZYCJK89",
+    "B0DF472VMZ",
+    "B0DVD67F76",
+    "B01F3896DA",
+    "B07R8D1RHS",
+    "B0GBZ91WFP",
+    "B0C8PR4W22",
+    "B0113UZJE2",
+    "B07N9JTJ6K",
+    "B0CP9YB3Q4",
+    "B08N9Q24M9",
+    "B01C4IDQS8",
+    "B08DBVYJPZ",
+    "B08412HXK9",
+    "B000MVV6AA",
+    "B06X9NQ8GX",
+    "B0GPFTVFRY",
+    "B09JNRXJD6"
   ]
 }
