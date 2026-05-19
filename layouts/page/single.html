@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="category-hero" style="background-color: var(--navy);">
+  <div class="container category-hero-inner">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="category-desc">{{ . | safeHTML }}</p>
+    {{ end }}
+  </div>
+</section>
+
+<article class="page-single">
+  <div class="container">
+    <div class="page-body">
+      {{ .Content }}
+
+      {{ with .Params.hero_image }}
+      <div class="page-hero-image">
+        <img src="{{ . }}" alt="The Shopper's Verdict" loading="lazy">
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}
