@@ -1,17 +1,25 @@
 {
-  "kitchen": [],
-  "coffee": [],
-  "home-office": [],
+  "kitchen": [
+    "B09TQ3XLGG",
+    "B08B5L5P9K",
+    "B07S2LH4T2"
+  ],
+  "coffee": [
+    "B07985N4C9",
+    "B086RBYNNB"
+  ],
+  "home-office": [
+  ],
   "used": [
-    "B08DBVYJPZ",
+    "B00FLYWNYQ",
     "B0D45PK5V4",
-    "B07YN32XQL",
-    "B000MVV6AA",
-    "B00CH9QWOU",
-    "B000LTOCSG",
-    "B08N5KWB9H",
-    "B08412HXK9",
+    "B08DBVYJPZ",
     "B01C4IDQS8",
-    "B00FLYWNYQ"
+    "B07YN32XQL",
+    "B08N5KWB9H",
+    "B000LTOCSG",
+    "B08412HXK9",
+    "B000MVV6AA",
+    "B00CH9QWOU"
   ]
 }
