@@ -997,6 +997,110 @@ ul { list-style: none; }
 .sidebar-disclosure-gold-badge { /* unused */ }
 
 /* ==========================================
+   RELATED PRODUCTS (Cross-Links on Verdict Pages)
+   ========================================== */
+.related-products {
+  margin-top: 48px;
+  padding-top: 32px;
+  border-top: 1px solid var(--border-light);
+}
+.related-products h2 {
+  font-family: var(--font-heading);
+  font-size: 22px;
+  color: var(--navy);
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+.related-card {
+  background: var(--white);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: all var(--transition);
+  display: flex;
+  flex-direction: column;
+}
+.related-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+  border-color: var(--gold);
+}
+
+.related-image-link {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  background: var(--off-white);
+}
+.related-image {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+.related-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+  padding: 12px;
+  transition: transform var(--transition);
+}
+.related-card:hover .related-image img {
+  transform: scale(1.05);
+}
+.related-image-placeholder {
+  background: var(--border-light);
+  color: var(--muted);
+  font-size: 13px;
+}
+.related-image-placeholder::before {
+  content: '📷';
+  font-size: 32px;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.related-info {
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex: 1;
+}
+.related-info h3 {
+  font-family: var(--font-heading);
+  font-size: 14px;
+  line-height: 1.35;
+  flex: 1;
+}
+.related-info h3 a {
+  color: var(--charcoal);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+.related-info h3 a:hover {
+  color: var(--gold);
+}
+.related-rating {
+  font-size: 12px;
+  color: var(--gold);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* ==========================================
    CATEGORY PAGE
    ========================================== */
 .category-hero { padding: 40px 0; background: var(--navy); text-align: center; }
@@ -1475,6 +1579,7 @@ ul { list-style: none; }
 
 @media (max-width: 992px) {
   .product-grid { grid-template-columns: repeat(2, 1fr); }
+  .related-grid { grid-template-columns: repeat(2, 1fr); }
   .trust-badges-inner { grid-template-columns: repeat(2, 1fr); }
   .review-layout { grid-template-columns: 1fr; }
   .review-sidebar { display: none; }

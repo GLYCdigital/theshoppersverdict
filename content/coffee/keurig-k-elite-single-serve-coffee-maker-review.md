@@ -27,7 +27,7 @@ faq:
   - question: Does the Keurig K-Elite brew iced coffee?
     answer: Yes, it has a dedicated iced coffee setting that brews a smaller, concentrated cup designed to be poured over ice without watering it down.
   - question: What brew sizes does the K-Elite support?
-    answer: It offers five brew sizes: 4, 6, 8, 10, and 12 ounces, with the ability to use the Strong Brew setting on any size.
+    answer: "It offers five brew sizes: 4, 6, 8, 10, and 12 ounces, with the ability to use the Strong Brew setting on any size."
   - question: Can you adjust the water temperature?
     answer: Yes. The K-Elite features three temperature settings so you can fine-tune your brew to suit different coffee roasts or personal preference.
   - question: How does the K-Elite differ from the K-Express?
