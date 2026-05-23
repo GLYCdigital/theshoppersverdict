@@ -4,10 +4,13 @@
 import sys, re, json, os, urllib.request, urllib.error
 from datetime import datetime
 
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept-Language': 'en-US,en;q=0.9',
-}
+HEADERS_LIST = [
+    {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Accept-Language': 'en-US,en;q=0.9'},
+    {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Accept-Language': 'en-US,en;q=0.9'},
+    {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Accept-Language': 'en-US,en;q=0.9'},
+    {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-US,en;q=0.9'},
+]
+
 
 def extract_asin(text):
     m = re.search(r'/(?:dp|product)/([A-Z0-9]{10})', text)
@@ -17,11 +20,19 @@ def extract_asin(text):
     return None
 
 def fetch(url):
-    try:
-        req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=15) as r:
-            return r.read().decode('utf-8', errors='replace')
-    except: return None
+    import time
+    for headers in HEADERS_LIST:
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=20) as r:
+                html = r.read().decode('utf-8', errors='replace')
+                # Check we got real content (not a captcha stub)
+                if len(html) > 5000 and ('productTitle' in html or 'buybox' in html or 'Amazon' in html):
+                    return html
+                # If first attempt got captcha-style content, try next agent
+                continue
+        except: continue
+    return None
 
 def g(html, pattern, group=1):
     m = re.search(pattern, html, re.DOTALL)
