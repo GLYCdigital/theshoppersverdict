@@ -1,12 +1,12 @@
-# Deleted review pages — return 410 Gone with no cache
-/coffee/aeropress-go-review/ / 410
-/coffee/keurig-k-mini-plus-review/ / 410
-/coffee/nespresso-vertuo-next-review/ / 410
-/coffee/ninja-specialty-coffee-maker-review/ / 410
-/coffee/breville-oracle-jet-espresso-machine-review/ / 410
-/home-office/autonomous-ergochair-2-review/ / 410
-/home-office/flexispot-standing-desk-converter-review/ / 410
-/home-office/flexispot-standing-desk-review/ / 410
-/kitchen/instant-pot-duo-7-in-1-review/ / 410
-/kitchen/ninja-professional-plus-blender-review/ / 410
-/kitchen/vitamix-e310-explorian-review/ / 410
+# Deleted review pages — announce removal
+/coffee/aeropress-go-review/ /coffee/ 301
+/coffee/keurig-k-mini-plus-review/ /coffee/ 301
+/coffee/nespresso-vertuo-next-review/ /coffee/ 301
+/coffee/ninja-specialty-coffee-maker-review/ /coffee/ 301
+/coffee/breville-oracle-jet-espresso-machine-review/ /coffee/ 301
+/home-office/autonomous-ergochair-2-review/ /home-office/ 301
+/home-office/flexispot-standing-desk-converter-review/ /home-office/ 301
+/home-office/flexispot-standing-desk-review/ /home-office/ 301
+/kitchen/instant-pot-duo-7-in-1-review/ /kitchen/ 301
+/kitchen/ninja-professional-plus-blender-review/ /kitchen/ 301
+/kitchen/vitamix-e310-explorian-review/ /kitchen/ 301
