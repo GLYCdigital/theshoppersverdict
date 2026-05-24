@@ -1,14 +1,15 @@
 ---
 title: "Instant Pot Duo 7-in-1 Review: Still the Best Electric Pressure Cooker in 2026?"
-seo_title: "Instant Pot Duo 7-in-1 Review 2026: 6-Quart Electric Pressure Cooker Tested"
-meta_description: "Our comprehensive Instant Pot Duo 7-in-1 review covers pressure cooking, slow cooking, rice, yogurt, and more. We test the 6-quart model to see if it's still worth $140."
+seo_title: "Instant Pot Duo 7-in-1 Review (2026): 6-Quart Tested"
+meta_description: "Our Instant Pot Duo 7-in-1 review covers pressure cooking, steaming, and more. Is the 11-in-1 electric multi-cooker still worth buying in 2026?"
 date: 2026-05-22
 slug: instant-pot-duo-7-in-1-review
 verdict_score: 4.7
 review_count: 5898
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B00FLYWNYQ?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SL1500_.jpg"
+price: $169.99
+amazon_url: "https://www.amazon.com/dp/B08WCLJ7JG?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/81vc3qXKPpL._AC_SL1500_.jpg"
 image_alt: "Instant Pot Duo 7-in-1 electric pressure cooker in stainless steel 6-quart"
 keywords: [Instant Pot Duo review, best pressure cooker, electric pressure cooker, Instant Pot 7-in-1, multi-cooker review]
 pros:
