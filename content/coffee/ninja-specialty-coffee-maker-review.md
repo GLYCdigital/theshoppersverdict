@@ -37,7 +37,6 @@ We put the Ninja Specialty Coffee Maker through two weeks of heavy use to see if
 
 The Ninja Specialty Coffee Maker is undeniably large. It measures roughly 11 inches wide, 9 inches deep, and 15 inches tall with the water reservoir in place. The design is classic Ninja — dark plastic construction with stainless steel accents and a prominent brew basket.
 
-{{< image src="ninja-specialty-coffee-maker-overview.jpg" alt="Ninja Specialty Coffee Maker overview showing carafe control panel and fold-away frother" caption="The Ninja Specialty is large but packed with features that replace multiple appliances" >}}
 
 Key design highlights:
 - **Double brew baskets** — ground coffee on one side, pod adapter (included) on the other

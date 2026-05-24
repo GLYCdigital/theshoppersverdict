@@ -37,7 +37,6 @@ The Aeropress Go is a masterclass in thoughtful design. The entire kit — press
 
 The materials are BPA-free plastic and polypropylene, chosen for their lightweight durability. At just 10.5 ounces, you'll barely notice it in your backpack. The mug is double-walled to provide some insulation, though it does get warm during brewing.
 
-{{< image src="aeropress-go-travel-kit.jpg" alt="Aeropress Go fully packed and unpacked showing all components" caption="The Aeropress Go packs everything into one neat cylinder — ideal for travel" >}}
 
 ### Brewing Performance
 

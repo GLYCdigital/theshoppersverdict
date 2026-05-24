@@ -35,7 +35,6 @@ We assembled and spent two weeks working in the ErgoChair 2 Pro to see if it del
 
 The ErgoChair 2 Pro has a distinctive, modern look. The mesh back is sleek and professional, available in white, black, or gray frames with matching or contrasting mesh. The Pro model we tested features a brighter white finish that stands out in a home office setting.
 
-{{< image src="autonomous-ergochair-2-pro-side.jpg" alt="Autonomous ErgoChair 2 Pro side view showing the tilt mechanism mesh back and adjustable armrests" caption="The ErgoChair 2 Pro's clean design fits well in modern home offices" >}}
 
 Build quality is solid for the price. The aluminum alloy base feels sturdy, and the chair supports up to 300 lbs. The casters roll smoothly on hardwood floors without scratching — a thoughtful touch for home office users.
 

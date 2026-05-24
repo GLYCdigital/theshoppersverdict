@@ -35,7 +35,6 @@ However, with a 4.1-star average from just over 5,500 reviews, it's not the high
 
 The Vertuo Next is a striking machine with a modern, angular design. Available in black, white, and several other finishes, it sits at about 13 inches tall with a 37 oz water tank on the back.
 
-{{< image src="nespresso-vertuo-next-side.jpg" alt="Nespresso Vertuo Next side view showing the water tank capsule container and drip tray" caption="The Vertuo Next's modern design uses 54% recycled materials — leading the industry in sustainability" >}}
 
 Where the Vertuo Next stands apart is its environmental credentials:
 - Made from **54% recycled plastic**

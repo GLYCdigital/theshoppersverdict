@@ -35,7 +35,6 @@ We tested the K-Mini Plus for a week to see if this ultra-compact machine delive
 
 The K-Mini Plus is genuinely tiny. At just 4.5 inches wide, 11.8 inches deep, and 12.1 inches tall, it will fit on even the most cramped kitchen counters. It's available in several colors including matte black, white, and aqua.
 
-{{< image src="keurig-k-mini-plus-counter.jpg" alt="Keurig K-Mini Plus sitting on a small kitchen counter demonstrating its compact footprint" caption="At just 4.5 inches wide, the K-Mini Plus fits almost anywhere" >}}
 
 Key design features:
 - **Removable drip tray** — accommodates travel mugs up to 7.1 inches tall
