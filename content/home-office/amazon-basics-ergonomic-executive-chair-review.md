@@ -13,7 +13,7 @@ keywords:
 verdict_score: 4.2
 faq:
   - question: "Is the Amazon Basics Ergonomic Executive Chair comfortable for all-day use?"
-    answer: "Yes, most reviewers report it's comfortable for full workdays. It features built-in lumbar support, a cushioned seat, and adjustable height. Some taller users (over 6'0") noted the backrest could be slightly taller."
+    answer: "Yes, most reviewers report it's comfortable for full workdays. It features built-in lumbar support, a cushioned seat, and adjustable height. Some taller users (over 6'0) noted the backrest could be slightly taller."
   - question: "Does this chair have adjustable armrests?"
     answer: "The armrests flip up out of the way but are not height-adjustable. This is one of the most common minor complaints from users who prefer custom arm positioning."
   - question: "How long does the Amazon Basics Ergonomic Executive Chair last?"
@@ -63,7 +63,7 @@ At $149, the Amazon Basics chair competes with the Ylzyxal Ergonomic Office Chai
 
 ## Who Should Buy This
 
-The Amazon Basics Ergonomic Executive Office Desk Chair is perfect for anyone setting up a home office on a budget who needs genuine back support. It's also great as a secondary chair for a guest workspace. If you're over 6'0" or need precise armrest positioning, consider a chair with more adjustability.
+The Amazon Basics Ergonomic Executive Office Desk Chair is perfect for anyone setting up a home office on a budget who needs genuine back support. It's also great as a secondary chair for a guest workspace. If you're over 6'0 or need precise armrest positioning, consider a chair with more adjustability.
 
 ## The Verdict
 
