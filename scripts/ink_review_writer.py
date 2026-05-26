@@ -11,6 +11,24 @@ from datetime import datetime
 WORKSPACE = os.path.expanduser("~/.openclaw/workspace/theshoppersverdict")
 CONTENT = os.path.join(WORKSPACE, "content")
 QUEUE = os.path.join(WORKSPACE, "data", "asin_queue.json")
+
+
+def asin_already_exists(asin):
+    """Scan all content files for ASIN in amazon_url — return True if already reviewed."""
+    for root, dirs, files in os.walk(CONTENT):
+        dirs[:] = [d for d in dirs if not d.startswith("_")]
+        for f in files:
+            if not f.endswith(".md"):
+                continue
+            path = os.path.join(root, f)
+            try:
+                with open(path) as fh:
+                    text = fh.read()
+            except Exception:
+                continue
+            if f"/dp/{asin}/" in text or f"/dp/{asin}?" in text:
+                return True
+    return False
 VERDICT_THRESHOLDS = {
     (4.5, 5.0): 4.6,
     (4.0, 4.4): 4.2,
@@ -239,7 +257,12 @@ def write_review(data, category, asin):
     # Write file
     filepath = os.path.join(cat_dir, f'{slug}.md')
     
-    # Check for existing file
+    # Check for existing ASIN (catches duplicates with different slugs)
+    if asin_already_exists(asin):
+        print(f'  ⚠️  ASIN {asin} already has a review — not overwriting')
+        return None
+
+    # Check for existing filepath
     if os.path.exists(filepath):
         print(f'  ⚠️  EXISTS: {filepath} — not overwriting')
         return None

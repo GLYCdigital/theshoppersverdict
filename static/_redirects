@@ -9,3 +9,16 @@
 /home-office/anker-powerconf-bluetooth-speakerphone-review/ /home-office/ 301
 /home-office/huanuo-single-monitor-mount-arm-review/ /home-office/ 301
 /home-office/logitech-c920x-pro-hd-webcam-review/ /home-office/ 301
+
+# Dupes removed 2026-05-26 — consolidated to one review per ASIN
+/home-office/lorell-fortress-series-double-pedestal-desk-60-x-30-x-29-5-review/ /home-office/ 301
+/kitchen/bella-10-speed-countertop-blender-juicer-smoothie-maker-fits-anywhere-kitchenware-slim-review/ /kitchen/ 301
+/home-office/superdanny-eye-caring-led-desk-lamp-360-flexible-gooseneck-work-lamp-with-review/ /home-office/ 301
+/home-office/pzloz-led-desk-lamp-for-office-home-eye-caring-architect-lamp-with-review/ /home-office/ 301
+/coffee/breville-barista-pro-espresso-machine-bes878bss-brushed-stainless-steel-review/ /coffee/ 301
+/coffee/breville-barista-express-impress-espresso-machine-bes876olt-olive-tapenade-review/ /coffee/ 301
+/coffee/aychiro-electric-conical-burr-coffee-grinder-touchscreen-coffee-grinder-for-home-use-review/ /coffee/ 301
+
+# Old bare-ASIN filenames — replaced by clean-slug versions
+/home-office/B07BDQQVN2_wali_laptop_desk_mount/ /home-office/ 301
+/home-office/B09XF3HRGW_lepro_desk_lamp_clamp/ /home-office/ 301
