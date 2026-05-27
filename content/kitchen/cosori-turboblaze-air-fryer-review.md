@@ -10,7 +10,7 @@ price: 100
 image_alt: "Cosori 9-in-1 TurboBlaze Air Fryer 6 Qt in Dark Gray on a kitchen countertop"
 amazon_rating: 4.8
 review_count: 19790
-verdict_score: 9.0
+verdict_score: 4.5
 categories:
   - kitchen
 keywords:

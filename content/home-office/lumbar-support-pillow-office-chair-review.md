@@ -9,7 +9,7 @@ amazon_image: "https://m.media-amazon.com/images/I/81Qm1-Fja2L._AC_SL1500_.jpg"
 image_alt: "Mesh-covered lumbar support pillow with adjustable straps attached to an office chair"
 amazon_rating: 4.4
 review_count: 26311
-verdict_score: 8.5
+verdict_score: 4.2
 categories:
   - home-office
 keywords: [lumbar support pillow, office chair back support, back pain relief, posture correction cushion, car seat lumbar support]

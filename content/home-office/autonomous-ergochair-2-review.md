@@ -4,7 +4,7 @@ seo_title: "Autonomous ErgoChair 2 Pro Review: Best Budget Chair?"
 meta_description: "Our Autonomous ErgoChair 2 review covers ergonomics build quality and value. See how this affordable chair compares to Herman Miller."
 date: 2026-05-24
 slug: "autonomous-ergochair-2-review"
-verdict_score: 8.6
+verdict_score: 4.3
 review_count: 29
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FL2F3W34?tag=tsvglyc-20"

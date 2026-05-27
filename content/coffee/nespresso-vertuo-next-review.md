@@ -4,7 +4,7 @@ seo_title: "Nespresso Vertuo Next Review: Worth It in 2026?"
 meta_description: "Our honest Nespresso Vertuo Next review tests brew quality design and reliability. See how this pod coffee machine compares plus pros cons and FAQs."
 date: 2026-05-24
 slug: "nespresso-vertuo-next-review"
-verdict_score: 8.2
+verdict_score: 4.1
 review_count: 5527
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CFFSNQNT?tag=tsvglyc-20"

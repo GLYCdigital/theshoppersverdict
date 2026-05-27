@@ -56,12 +56,7 @@
   "publisher" (dict "@type" "Organization" "name" "The Shopper's Verdict")
 -}}
 {{- with $.Params.verdict_score -}}
-  {{- /* Normalize: if > 5.0 assume 10-pt scale → divide by 2 */ -}}
-  {{- $val := float . -}}
-  {{- if gt $val 5.0 }}{{ $val = mul $val 0.5 }}{{ end -}}
-  {{- if gt $val 5.0 }}{{ $val = 5.0 }}{{ end -}}
-  {{- if lt $val 0.0 }}{{ $val = 0.0 }}{{ end -}}
-  {{- $review = merge $review (dict "reviewRating" (dict "@type" "Rating" "ratingValue" ($val | string) "bestRating" "5")) -}}
+  {{- $review = merge $review (dict "reviewRating" (dict "@type" "Rating" "ratingValue" (. | string) "bestRating" "5")) -}}
 {{- end -}}
 {{- $schema = merge $schema (dict "review" $review) -}}
 

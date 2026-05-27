@@ -9,7 +9,7 @@ amazon_image: "https://m.media-amazon.com/images/I/61Vpqwqi+lL._AC_SL1500_.jpg"
 image_alt: "CHEFMAN 2 Qt Mini Air Fryer in Black on a small kitchen counter"
 amazon_rating: 4.5
 review_count: 29177
-verdict_score: 8.0
+verdict_score: 4.0
 categories:
   - kitchen
 keywords:

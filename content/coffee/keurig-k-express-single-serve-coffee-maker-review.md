@@ -9,7 +9,7 @@ amazon_image: "https://m.media-amazon.com/images/I/611S4FYZhsL._AC_SL1500_.jpg"
 image_alt: "Keurig K-Express Single Serve Coffee Maker in black with removable 42oz reservoir and control panel"
 amazon_rating: 4.3
 review_count: 48296
-verdict_score: 8.0
+verdict_score: 4.0
 categories:
   - coffee
 keywords: [Keurig K-Express, single serve coffee maker, budget Keurig, K-Cup brewer, quick coffee machine]

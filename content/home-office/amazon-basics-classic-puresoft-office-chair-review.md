@@ -10,7 +10,7 @@ price: 83.99
 image_alt: "Amazon Basics Classic Puresoft PU Padded Mid-Back Office Desk Chair in black with armrests"
 amazon_rating: 4.2
 review_count: 40351
-verdict_score: 7.5
+verdict_score: 3.8
 categories:
   - home-office
 keywords: [Amazon Basics office chair, budget desk chair, home office chair, PU padded chair, affordable ergonomic chair]

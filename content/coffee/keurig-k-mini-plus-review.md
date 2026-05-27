@@ -4,7 +4,7 @@ seo_title: "Keurig K-Mini Plus Review: Best Single-Serve Coffee Maker?"
 meta_description: "Our detailed Keurig K-Mini Plus review covers brew performance design and value. See how this ultra-compact single-serve coffee maker stacks up."
 date: 2026-05-24
 slug: "keurig-k-mini-plus-review"
-verdict_score: 8.8
+verdict_score: 4.4
 review_count: 39293
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DR89BR6?tag=tsvglyc-20"

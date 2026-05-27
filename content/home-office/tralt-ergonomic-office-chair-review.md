@@ -9,7 +9,7 @@ amazon_image: "https://m.media-amazon.com/images/I/71LWhgxJCaL._AC_SL1500_.jpg"
 image_alt: "TRALT Ergonomic Office Chair in black with mesh backrest and adjustable lumbar support pillow"
 amazon_rating: 4.4
 review_count: 4169
-verdict_score: 8.5
+verdict_score: 4.2
 categories:
   - home-office
 keywords: [TRALT office chair, ergonomic desk chair, mesh computer chair, adjustable lumbar support, budget ergonomic chair]

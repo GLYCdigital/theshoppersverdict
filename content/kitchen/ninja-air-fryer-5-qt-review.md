@@ -9,7 +9,7 @@ amazon_image: "https://m.media-amazon.com/images/I/71jfzcXideL._AC_SL1500_.jpg"
 image_alt: "Ninja Air Fryer 5 QT (AF141) in Grey sitting on a modern kitchen counter"
 amazon_rating: 4.7
 review_count: 7485
-verdict_score: 8.5
+verdict_score: 4.2
 categories:
   - kitchen
 keywords:

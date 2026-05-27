@@ -4,7 +4,7 @@ seo_title: "Aeropress Go Review: The Ultimate Portable Coffee Press?"
 meta_description: "Our in-depth Aeropress Go review examines the world's most portable coffee press. See how it brews rich espresso-style coffee anywhere plus pros cons and FAQs."
 date: 2026-05-24
 slug: "aeropress-go-review"
-verdict_score: 9.4
+verdict_score: 4.7
 review_count: 12876
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07YVL8SF3?tag=tsvglyc-20"

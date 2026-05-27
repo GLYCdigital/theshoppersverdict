@@ -9,7 +9,7 @@ amazon_image: "https://m.media-amazon.com/images/I/71Ld+1SBc5L._AC_SL1500_.jpg"
 image_alt: "Chefman 4 QT Compact Air Fryer in Black with touchscreen controls on a kitchen counter"
 amazon_rating: 4.6
 review_count: 3220
-verdict_score: 8.0
+verdict_score: 4.0
 categories:
   - kitchen
 keywords:

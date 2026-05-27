@@ -4,7 +4,7 @@ seo_title: "Ninja Specialty Coffee Maker Review: The Ultimate Brewer?"
 meta_description: "Our Ninja Specialty Coffee Maker review tests full coffee and espresso-style brewing. See how it performs as a drip machine and single-serve brewer."
 date: 2026-05-24
 slug: "ninja-specialty-coffee-maker-review"
-verdict_score: 9.2
+verdict_score: 4.6
 review_count: 19541
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PFLM2LK?tag=tsvglyc-20"

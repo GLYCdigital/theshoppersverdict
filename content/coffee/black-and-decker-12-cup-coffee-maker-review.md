@@ -9,7 +9,7 @@ amazon_image: "https://m.media-amazon.com/images/I/61Rdl5C2AHL._AC_SL1500_.jpg"
 image_alt: "BLACK+DECKER 12-Cup Digital Coffee Maker on countertop showing water window and control panel"
 amazon_rating: 4.4
 review_count: 49033
-verdict_score: 8.5
+verdict_score: 4.2
 categories:
   - coffee
 keywords: [BLACK+DECKER coffee maker, programmable coffee maker, budget coffee maker, 12-cup coffee maker, affordable coffee brewer]

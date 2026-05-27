@@ -9,7 +9,7 @@ amazon_image: "https://m.media-amazon.com/images/I/71eood2xIWL._AC_SL1500_.jpg"
 image_alt: "Keurig K-Elite Single Serve Coffee Maker in brushed slate with control panel and iced coffee setting"
 amazon_rating: 4.6
 review_count: 71423
-verdict_score: 9.0
+verdict_score: 4.5
 categories:
   - coffee
 keywords: [Keurig K-Elite, single serve coffee maker, Keurig with iced coffee, brew strength control, programmable Keurig]
