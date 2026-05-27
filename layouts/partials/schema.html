@@ -25,11 +25,19 @@
 {{- end -}}
 {{- $schema = merge $schema (dict "aggregateRating" $aggregateRating) -}}
 
-{{- /* Offer (price is REQUIRED for Merchant Listings) */ -}}
+{{- /* Offer (price + hasMerchantReturnPolicy REQUIRED for Merchant Listings) */ -}}
 {{- $offer := dict
   "@type" "Offer"
   "priceCurrency" "USD"
   "availability" "https://schema.org/InStock"
+  "hasMerchantReturnPolicy" (dict
+    "@type" "MerchantReturnPolicy"
+    "applicableCountry" "US"
+    "returnPolicyCategory" "https://schema.org/MerchantReturnFiniteReturnWindow"
+    "merchantReturnDays" 30
+    "returnMethod" "https://schema.org/ReturnByMail"
+    "returnFees" "https://schema.org/FreeReturn"
+  )
   "seller" (dict "@type" "Organization" "name" "Amazon.com")
 -}}
 {{- with $.Params.amazon_url -}}
