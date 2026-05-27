@@ -6,6 +6,7 @@ date: 2026-05-23
 slug: cosori-turboblaze-air-fryer-review
 amazon_url: "https://www.amazon.com/dp/B0C33CHG99?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R9sA3IyBL._AC_SL1500_.jpg"
+price: 100
 image_alt: "Cosori 9-in-1 TurboBlaze Air Fryer 6 Qt in Dark Gray on a kitchen countertop"
 amazon_rating: 4.8
 review_count: 19790

@@ -9,6 +9,7 @@ review_count: 132
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06X9NQ8GX?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eiII6MS-L._AC_SL1500_.jpg"
+price: 19.56
 image_alt: "Amazon Basics digital kitchen scale with LCD display in black and stainless steel"
 keywords: [Amazon Basics kitchen scale review, best digital kitchen scale, budget kitchen scale, baking scale, food scale]
 pros:

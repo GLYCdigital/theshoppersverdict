@@ -9,6 +9,7 @@ review_count: 0
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F9ZXFN2J?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lSX1GwHmL._AC_SL1500_.jpg"
+price: 35
 image_alt: "YETI Rambler 20oz stainless steel vacuum insulated tumbler with MagSlider lid"
 keywords: [YETI Rambler review, best insulated tumbler, YETI 20oz tumbler, vacuum insulated cup, coffee tumbler]
 pros:

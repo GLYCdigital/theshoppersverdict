@@ -9,6 +9,7 @@ review_count: 0
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08N5KWB9H?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TPda7cwUL._AC_SL1500_.jpg"
+price: 799
 image_alt: "2020 Apple MacBook Air with M1 chip in silver showing Retina display"
 keywords: [MacBook Air M1 review, Apple M1 laptop, best laptop for students, MacBook Air 2020, budget MacBook]
 pros:

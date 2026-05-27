@@ -9,6 +9,7 @@ review_count: 15393
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07WMQP4SF?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YlKeBDwML._AC_SL1500_.jpg"
+price: 11
 image_alt: "Homaxy 100% cotton waffle weave kitchen dish cloths in dark grey 6-pack"
 keywords: [Homaxy dish cloths review, best kitchen towels, waffle weave dish cloths, cotton kitchen towels, absorbent dish cloths]
 pros:

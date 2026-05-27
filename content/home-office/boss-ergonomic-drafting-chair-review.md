@@ -7,6 +7,7 @@ slug: boss-ergonomic-drafting-chair-review
 verdict_score: 4.3
 review_count: 0
 amazon_rating: 4.3
+price: 250
 amazon_url: "https://www.amazon.com/dp/B094R8QPB5?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/11RNLXhvOXL.jpg"
 image_alt: "Boss Office Products Ergonomic Works Drafting Chair with adjustable arms in black"

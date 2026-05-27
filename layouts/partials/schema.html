@@ -25,7 +25,7 @@
 {{- end -}}
 {{- $schema = merge $schema (dict "aggregateRating" $aggregateRating) -}}
 
-{{- /* Offer */ -}}
+{{- /* Offer (price is REQUIRED for Merchant Listings) */ -}}
 {{- $offer := dict
   "@type" "Offer"
   "priceCurrency" "USD"
@@ -34,6 +34,9 @@
 -}}
 {{- with $.Params.amazon_url -}}
   {{- $offer = merge $offer (dict "url" .) -}}
+{{- end -}}
+{{- with $.Params.price -}}
+  {{- $offer = merge $offer (dict "price" (. | string)) -}}
 {{- end -}}
 {{- $schema = merge $schema (dict "offers" $offer) -}}
 

@@ -9,6 +9,7 @@ review_count: 0
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000MVV6AA?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BWZ1KK1ML._AC_QL10_SX980_SY55_FMwebp_.jpg"
+price: 10
 image_alt: "Scotch Heavy Duty Shipping Packing Tape in clear with dispenser"
 keywords: [Scotch packing tape review, best shipping tape, heavy duty packing tape, clear shipping tape, tape with dispenser]
 pros:

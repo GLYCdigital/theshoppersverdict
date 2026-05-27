@@ -9,6 +9,7 @@ review_count: 0
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP4XY9QC?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZjnwrH7iL._AC_SL1500_.jpg"
+price: 11
 image_alt: "YARRAMATE 16oz glass olive oil sprayer in black with portion control nozzle"
 keywords: [YARRAMATE olive oil sprayer review, best oil sprayer, glass oil dispenser, kitchen oil sprayer, cooking spray bottle]
 pros:

@@ -19,7 +19,7 @@ faq:
   - question: "What colors does the Moccamaster KBGV come in?"
     answer: "The KBGV Select is available in dozens of color options, from classic silver and matte black to vibrant red, pistachio, and diamond finishes."
 date: 2026-05-24
-price: 0
+price: 349
 review_count: 4851
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CXKL8CT2/?tag=tsvglyc-20"

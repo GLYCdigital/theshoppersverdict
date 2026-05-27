@@ -18,7 +18,7 @@ faq:
   - question: "Is the Impress worth the extra cost over the standard Barista Express?"
     answer: "If you value consistency and want to remove the guesswork from dosing and tamping, yes. The assisted system produces consistently better shots for beginners. Purists who want full control may prefer the standard Express."
 date: 2026-05-26
-price: null
+price: 799
 review_count: 1425
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DP5PRC35/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: instant-pot-duo-7-in-1-review
 verdict_score: 4.7
 review_count: 5898
 amazon_rating: 4.7
-price: $169.99
+price: 169.99
 amazon_url: "https://www.amazon.com/dp/B08WCLJ7JG?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vc3qXKPpL._AC_SL1500_.jpg"
 image_alt: "Instant Pot Duo 7-in-1 electric pressure cooker in stainless steel 6-quart"
