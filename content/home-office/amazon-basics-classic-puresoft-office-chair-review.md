@@ -8,7 +8,7 @@ amazon_url: "https://www.amazon.com/dp/B081H3Y5NW?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XrK-bAifL._AC_SL1500_.jpg"
 price: 83.99
 image_alt: "Amazon Basics Classic Puresoft PU Padded Mid-Back Office Desk Chair in black with armrests"
-amazon_rating: 4.2/5
+amazon_rating: 4.2
 review_count: 40351
 verdict_score: 7.5
 categories:

@@ -7,7 +7,7 @@ slug: keurig-k-elite-single-serve-coffee-maker-review
 amazon_url: "https://www.amazon.com/dp/B078NN17K3?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eood2xIWL._AC_SL1500_.jpg"
 image_alt: "Keurig K-Elite Single Serve Coffee Maker in brushed slate with control panel and iced coffee setting"
-amazon_rating: 4.6/5
+amazon_rating: 4.6
 review_count: 71423
 verdict_score: 9.0
 categories:

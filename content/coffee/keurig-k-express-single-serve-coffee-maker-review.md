@@ -7,7 +7,7 @@ slug: keurig-k-express-single-serve-coffee-maker-review
 amazon_url: "https://www.amazon.com/dp/B09715G57M?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611S4FYZhsL._AC_SL1500_.jpg"
 image_alt: "Keurig K-Express Single Serve Coffee Maker in black with removable 42oz reservoir and control panel"
-amazon_rating: 4.3/5
+amazon_rating: 4.3
 review_count: 48296
 verdict_score: 8.0
 categories:

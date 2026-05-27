@@ -7,7 +7,7 @@ slug: tralt-ergonomic-office-chair-review
 amazon_url: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LWhgxJCaL._AC_SL1500_.jpg"
 image_alt: "TRALT Ergonomic Office Chair in black with mesh backrest and adjustable lumbar support pillow"
-amazon_rating: 4.4/5
+amazon_rating: 4.4
 review_count: 4169
 verdict_score: 8.5
 categories:
