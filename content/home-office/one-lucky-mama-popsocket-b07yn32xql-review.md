@@ -19,7 +19,7 @@ faq:
 date: 2026-05-20
 price: 20
 review_count: 0
-amazon_rating: 0
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07YN32XQL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nypM0hydL._AC_SL1000_.jpg"
 pros:
