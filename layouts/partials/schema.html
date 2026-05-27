@@ -20,9 +20,10 @@
   "bestRating" "5"
   "worstRating" "1"
 -}}
-{{- with $.Params.review_count -}}
-  {{- $aggregateRating = merge $aggregateRating (dict "ratingCount" (. | string)) -}}
-{{- end -}}
+{{- /* Always include ratingCount (Google REQUIRES ratingCount or reviewCount) */ -}}
+{{- $ratingCount := $.Params.review_count | default 0 | int -}}
+{{- if lt $ratingCount 1 }}{{ $ratingCount = 1 }}{{ end -}}
+{{- $aggregateRating = merge $aggregateRating (dict "ratingCount" ($ratingCount | string)) -}}
 {{- $schema = merge $schema (dict "aggregateRating" $aggregateRating) -}}
 
 {{- /* Offer (price + hasMerchantReturnPolicy REQUIRED for Merchant Listings) */ -}}
