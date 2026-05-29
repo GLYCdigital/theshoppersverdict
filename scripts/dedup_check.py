@@ -151,18 +151,41 @@ def cmd_batch(filepath):
 
 
 def cmd_sync():
-    """Rebuild the 'used' list from all content files and save to queue."""
+    """Rebuild the 'used' list from content files + _archive only. Does NOT preserve stale entries."""
     reviewed = scan_content_for_asins()
-    used = load_used_set()
-    merged = reviewed | used
 
-    save_used_set(merged)
+    # Also scan _archive for deleted reviews (they still count as used)
+    archived = set()
+    if os.path.isdir(ARCHIVE_DIR):
+        for root, dirs, files in os.walk(ARCHIVE_DIR):
+            for f in files:
+                if not f.endswith(".md"):
+                    continue
+                path = os.path.join(root, f)
+                try:
+                    with open(path) as fh:
+                        matches = re.findall(r"/dp/([A-Z0-9]{10,14})", fh.read())
+                    for asin in set(matches):
+                        archived.add(asin)
+                except Exception:
+                    continue
 
-    # Also remove any reviewed ASINs from pending queues
-    print(f"✅ Synchronized ASIN queue:")
+    # Use content + archive as ground truth — NO merge with stale used list
+    rebuilt = reviewed | archived
+    save_used_set(rebuilt)
+
+    stale_count = 0
+    old_used = load_used_set()
+    if old_used:
+        stale = old_used - rebuilt
+        stale_count = len(stale)
+
+    print(f"✅ Synchronized ASIN queue (REPLACED — no merge):")
     print(f"   Content-scanned ASINs: {len(reviewed)}")
-    print(f"   Previously in 'used': {len(used)}")
-    print(f"   Total 'used' after sync: {len(merged)}")
+    print(f"   Archived (deleted) ASINs: {len(archived)}")
+    print(f"   Total 'used' after rebuild: {len(rebuilt)}")
+    if stale_count:
+        print(f"   🧹 Purged {stale_count} stale entries that were in 'used' but not in content/archive")
     print(f"   File: {QUEUE_FILE}")
     sys.exit(0)
 
