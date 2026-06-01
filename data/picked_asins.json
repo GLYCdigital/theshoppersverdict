@@ -1,18 +1,1 @@
-{
-  "coffee": [
-    "B002YI49H6",
-    "B0DPR511FX",
-    "B09RQ4Z2X6",
-    "B0BSMGNYN3"
-  ],
-  "kitchen": [
-    "B0FVS6WSSW",
-    "B0GXHP97CM",
-    "B01LX8I3R3"
-  ],
-  "home-office": [
-    "B0DCN2FN1V",
-    "B0GS969CPD",
-    "B0C7BKZ883"
-  ]
-}
+{"coffee": ["B0C29LZNLD", "B07ZTPQQ7P", "B07ZTD1N2H", "B0FGL212LX"], "kitchen": ["B0FB5BKD73", "B0FJH9LMZR", "B00065L6CU"], "home-office": ["B0FB3761RJ", "B0FNMXPRJH", "B0DDC9PWK1"]}
