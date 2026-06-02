@@ -1,0 +1,16 @@
+{
+  "asin": "B09TQ3XLGG",
+  "url": "https://www.amazon.com/dp/B09TQ3XLGG",
+  "product": {
+    "title": "Unknown Product",
+    "price": null,
+    "rating": null,
+    "reviewsCount": null,
+    "imageUrl": "",
+    "highResolutionImages": [],
+    "thumbnailImage": ""
+  },
+  "reviews": [],
+  "totalReviewsFetched": 0,
+  "scrapeTimestamp": "2026-06-02T00:08:00Z"
+}

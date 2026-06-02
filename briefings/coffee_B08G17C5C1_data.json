@@ -1,0 +1,14 @@
+{
+  "asin": "B08G17C5C1",
+  "status": "not_found",
+  "error": "Loaded a 404 page. The product does not exist.",
+  "url": "https://www.amazon.com/dp/B08G17C5C1",
+  "input": "https://www.amazon.com/dp/B08G17C5C1",
+  "raw_data": [
+    {
+      "error": "Loaded a 404 page. The product does not exist.",
+      "input": "https://www.amazon.com/dp/B08G17C5C1",
+      "url": "https://www.amazon.com/dp/B08G17C5C1"
+    }
+  ]
+}
