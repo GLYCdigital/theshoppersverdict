@@ -1,0 +1,92 @@
+{
+  "Aeropress Go": {
+    "asin": "B07YVL8SF3",
+    "category": "coffee",
+    "title": "AeroPress Go, Extra Small Portable Coffee Maker Kit, Travel, Hiking & Camping, All-in-One French Press, Pour-Over & Espresso Style Manual Brewer, 2 Min Brew Makes a Less Bitter, More Flavorful Cup",
+    "image": "https://m.media-amazon.com/images/I/51M014zDVrL._AC_SL1500_.jpg",
+    "price": 39.95,
+    "rating": "4.7",
+    "review_count": 12876
+  },
+  "Keurig K-Mini Plus": {
+    "asin": "B07DR89BR6",
+    "category": "coffee",
+    "title": "Keurig K-Mini Plus Single Serve K-Cup Pod Coffee Maker, with 6 to 12oz Brew Size, Stores up to 9 K-Cup Pods, Travel Mug Friendly, Matte Black",
+    "image": "https://m.media-amazon.com/images/I/615DwR2X19L._AC_SL1500_.jpg",
+    "price": 94.99,
+    "rating": "4.4",
+    "review_count": 39293
+  },
+  "Nespresso Vertuo Next": {
+    "asin": "B0CFFSNQNT",
+    "category": "coffee",
+    "title": "Nespresso Vertuo Next Coffee and Espresso Maker by Breville",
+    "image": "https://m.media-amazon.com/images/I/71vfV3A45NL._AC_SL1500_.jpg",
+    "price": 125,
+    "rating": "4.1",
+    "review_count": 5527
+  },
+  "Ninja Specialty Coffee Maker": {
+    "asin": "B07PFLM2LK",
+    "category": "coffee",
+    "title": "Ninja Specialty Coffee Maker | Includes 10-Cup Carafe, Fold-Away Frother, Permanent Filter & Removable, Dishwasher Safe Reservoir | 6 Brew Styles, 8 Cup to Travel Mug to Pot Sizes | Black | CM401",
+    "image": "https://m.media-amazon.com/images/I/81BzHbm5GvL._AC_SL1500_.jpg",
+    "price": 149.99,
+    "rating": "4.6",
+    "review_count": 19541
+  },
+  "Autonomous ErgoChair 2": {
+    "asin": "B0FL2F3W34",
+    "category": "home-office",
+    "title": "AUTONOMOUS ErgoChair Pro Black Foam Ergonomic Office Chair For Back Pain Relief Adjustable Lumbar Support, Headrest, Big And Tall Home Office Desk Chair Comfy 300 LBS with Swivel Wheels For Long Hours",
+    "image": "https://m.media-amazon.com/images/I/61YR-loNGqL._AC_SL1500_.jpg",
+    "price": 523.95,
+    "rating": "4.3",
+    "review_count": 29
+  },
+  "FlexiSpot Standing Desk Converter": {
+    "asin": "B0B2W8VBQX",
+    "category": "home-office",
+    "title": "FLEXISPOT H7 Adjustable Overbed Bedside Table with Wheels Pneumatic Mobile Standing Desk Laptop Desk Rolling Computer Cart Movable Overbed Tables Hospital Home Use(27.6\" W x 15.7\" D, Black Table)",
+    "image": "https://m.media-amazon.com/images/I/61vECPGJKrL._AC_SL1500_.jpg",
+    "price": 99.99,
+    "rating": "4.4",
+    "review_count": 2577
+  },
+  "FlexiSpot Standing Desk": {
+    "asin": "B07H2WGFQN",
+    "category": "home-office",
+    "title": "FLEXISPOT EN2 Whole-Piece Standing Desk with Clamp Power Strip, 55 x 28\u201d Electric Stand Up Height Adjustable Desk with Cable Management (Black Frame + 55\" Black Top, 2 Packages)",
+    "image": "https://m.media-amazon.com/images/I/717OHX3si4L._AC_SL1500_.jpg",
+    "price": 219.99,
+    "rating": "4.6",
+    "review_count": 4413
+  },
+  "Instant Pot Duo 7-in-1": {
+    "asin": "B08WCLJ7JG",
+    "category": "kitchen",
+    "title": "Instant Pot Duo Crisp 11-in-1 Air Fryer and Electric Pressure Cooker Combo with Multicooker Lids that Air Fries, Steams, Slow Cooks, Saut\u00e9s, Dehydrates, & More, Free App With Over 800 Recipes, 6 Quart",
+    "image": "https://m.media-amazon.com/images/I/81vc3qXKPpL._AC_SL1500_.jpg",
+    "price": 169.99,
+    "rating": "4.7",
+    "review_count": 7347
+  },
+  "Ninja Professional Plus Blender": {
+    "asin": "B0BMGSZMW9",
+    "category": "kitchen",
+    "title": "Ninja BN751 Professional Plus DUO Blender, 1400 Peak Watts, 3 Auto-IQ Programs for Smoothies, Frozen Drinks & Nutrient Extractions, 72-oz. Total Crushing Pitcher & (2) 24 oz. To-Go Cups, Black",
+    "image": "https://m.media-amazon.com/images/I/71rgzb22FlL._AC_SL1500_.jpg",
+    "price": 129.99,
+    "rating": "4.7",
+    "review_count": 5142
+  },
+  "Vitamix E310 Explorian": {
+    "asin": "B0758JHZM3",
+    "category": "kitchen",
+    "title": "Vitamix E310 Explorian Blender, Professional-Grade, Self-Cleaning 48 oz. Container, Black",
+    "image": "https://m.media-amazon.com/images/I/71lMUuj9RtL._AC_SL1500_.jpg",
+    "price": "None",
+    "rating": "4.6",
+    "review_count": 5477
+  }
+}

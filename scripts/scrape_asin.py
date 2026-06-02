@@ -10,7 +10,7 @@ Verifies image URL and reports result.
 import sys, os, json, re, subprocess, time
 from apify_client import ApifyClient
 
-WORKSPACE = os.path.expanduser("~/.openclaw/workspace/theshoppersverdict")
+WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 config_path = os.path.join(WORKSPACE, "scripts/.apify_config.json")
 API_TOKEN = json.load(open(config_path))["apify_token"]
 BRIEFINGS_DIR = os.path.join(WORKSPACE, "briefings")

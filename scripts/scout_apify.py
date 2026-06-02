@@ -161,7 +161,7 @@ def main():
     
     briefing = generate_briefing(asin, title, price, rating, review_count, image_url, items)
     
-    briefing_dir = os.path.expanduser("~/.openclaw/workspace/theshoppersverdict/briefings")
+    briefing_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "briefings")
     os.makedirs(briefing_dir, exist_ok=True)
     fpath = os.path.join(briefing_dir, f'{asin}_briefing.md')
     with open(fpath, 'w') as f:

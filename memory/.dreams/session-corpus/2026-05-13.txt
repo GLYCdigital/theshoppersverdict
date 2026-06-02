@@ -1,0 +1,3 @@
+[ink/sessions/ink/2ef9ff81-f1e5-4174-8ef6-5cb6c904c737.jsonl#L9] Assistant: There are task files pending. Let me read one.
+[ink/sessions/ink/2ef9ff81-f1e5-4174-8ef6-5cb6c904c737.jsonl#L25] Assistant: No pending tasks — all `.task` files are in `done/` or `failed_empty_briefings/`, and no `TASK_*.md` files exist in the workspace. NO_REPLY
+[ink/sessions/ink/58319f0c-1751-4560-aaf3-d91c42b5e683.jsonl#L11] Assistant: No pending `.task` files found in the active tasks directory. The only tasks present are in `failed_empty_briefings/` — those are past failures, not new work. NO_REPLY

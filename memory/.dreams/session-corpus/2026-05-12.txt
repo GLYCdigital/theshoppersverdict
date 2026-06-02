@@ -1,0 +1,2 @@
+[ink/sessions/ink/d69c04eb-a782-4938-b80f-a131bf41e461.jsonl#L9] Assistant: Let me also check the reviews pipeline as per AGENTS.md.
+[ink/sessions/ink/fe4b001f-0fba-4442-ba20-aff49867ad51.jsonl#L9] Assistant: No TASK_*.md files found in the workspace root. All `.task` files in `reviews/tasks/` are already moved to `done/`. Nothing pending. NO_REPLY

@@ -18,9 +18,9 @@ import os
 import re
 import sys
 
-WORKSPACE = os.path.expanduser("~/.openclaw/workspace")
-CONTENT_DIR = os.path.join(WORKSPACE, "theshoppersverdict", "content")
-QUEUE_FILE = os.path.join(WORKSPACE, "theshoppersverdict", "data", "asin_queue.json")
+WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CONTENT_DIR = os.path.join(WORKSPACE, "content")
+QUEUE_FILE = os.path.join(WORKSPACE, "data", "asin_queue.json")
 ARCHIVE_DIR = os.path.join(CONTENT_DIR, "_archive")
 
 # ── CORE: Scan ALL content files for ASINs ──────────────────────────────

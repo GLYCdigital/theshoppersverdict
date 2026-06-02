@@ -17,7 +17,7 @@ import sys, os, re, json, time, argparse, logging, urllib.request, urllib.error
 logging.basicConfig(level=logging.INFO, format="%(message)s")
 log = logging.getLogger(__name__)
 
-WORKSPACE = os.path.expanduser("~/.openclaw/workspace/theshoppersverdict")
+WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUEUE = os.path.join(WORKSPACE, "data", "asin_queue.json")
 
 HEADERS = {

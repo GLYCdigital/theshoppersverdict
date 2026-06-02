@@ -8,7 +8,7 @@ Usage: python3 scripts/ink_review_writer.py briefings/*_data.json
 import sys, os, json, re, glob
 from datetime import datetime
 
-WORKSPACE = os.path.expanduser("~/.openclaw/workspace/theshoppersverdict")
+WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(WORKSPACE, "content")
 QUEUE = os.path.join(WORKSPACE, "data", "asin_queue.json")
 
