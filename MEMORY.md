@@ -1,11 +1,6 @@
 # Long-Term Memory
 
 
-## Promoted From Short-Term Memory (2026-05-19)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-05-14.md:3:6 -->
-- [00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Scheduled memory update: morning checkpoint [16:00 SGT] Scheduled memory update: afternoon checkpoint [score=0.872 recalls=0 avg=0.620 source=memory/2026-05-14.md:3-6]
-
 ## Promoted From Short-Term Memory (2026-05-20)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-05-15.md:3:6 -->
@@ -111,3 +106,8 @@
 - [00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md [score=0.859 recalls=0 avg=0.620 source=memory/2026-05-29.md:3-6]
 <!-- openclaw-memory-promotion:memory:memory/2026-05-29.md:7:8 -->
 - [16:00 SGT] Checkpoint: afternoon checkpoint → Pending items synced to HANDOFF.md [score=0.808 recalls=0 avg=0.620 source=memory/2026-05-29.md:7-8]
+
+## Promoted From Short-Term Memory (2026-06-03)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-05-30.md:3:6 -->
+- [00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md [score=0.828 recalls=0 avg=0.620 source=memory/2026-05-30.md:3-6]
