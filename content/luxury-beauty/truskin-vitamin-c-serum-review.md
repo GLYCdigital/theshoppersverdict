@@ -1,14 +1,14 @@
 ---
 title: "TruSkin Vitamin C Serum Review: The Affordable Brightening Hero?"
 seo_title: "TruSkin Vitamin C Serum Review 2026: Best Affordable Brightening Serum?"
-meta_description: "Our full TruSkin Vitamin C Serum review. 100,000+ Amazon reviews analyzed. See real customer results, pros, cons, and our verdict on this $19 skincare sensation."
+meta_description: "Our full TruSkin Vitamin C Serum review. 155,000+ Amazon reviews analyzed. See real customer results, pros, cons, and our verdict on this $34.99 brightening sensation."
 date: 2026-06-04
 slug: truskin-vitamin-c-serum-review
-amazon_url: "https://www.amazon.com/dp/B01M2A18OE/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61cNtzUNzPL._SL1500_.jpg"
-image_alt: "TruSkin Vitamin C Serum 1 fl oz bottle with dropper on a white background"
-amazon_rating: 4.3
-review_count: 102487
+amazon_url: "https://www.amazon.com/dp/B01EKUBU5Y/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/71BUbYFwDQL._SL1500_.jpg"
+image_alt: "TruSkin Vitamin C Serum 2 fl oz bottle with hyaluronic acid and vitamin E, brightening anti-aging formula"
+amazon_rating: 4.4
+review_count: 155363
 verdict_score: 4.2
 categories:
   - luxury-beauty
@@ -17,10 +17,10 @@ keywords:
   - best affordable vitamin C serum
   - vitamin C brightening serum
   - TruSkin skincare review
-  - anti-aging serum under $25
+  - anti-aging serum under $35
 pros:
   - "Remarkable brightening effect — noticeably evens skin tone within weeks"
-  - "Exceptional value at under $20 for a high-concentration vitamin C serum"
+  - "Exceptional value — high-concentration vitamin C serum at a fraction of prestige brand prices"
   - "Plant-based, cruelty-free formula with hyaluronic acid and vitamin E"
   - "Lightweight, non-greasy texture that layers well under moisturizer and makeup"
 cons:
@@ -34,11 +34,11 @@ faq:
   - question: "Is TruSkin Vitamin C Serum suitable for all skin types?"
     answer: "It works well for normal, combination, and oily skin types. Those with very sensitive skin should patch-test first and start with every-other-day application. The formula is fragrance-free, which reduces irritation risk, but any active vitamin C product can cause initial tingling as skin adjusts."
 ---
-# TruSkin Vitamin C Serum Review: Glow for Under $20
+# TruSkin Vitamin C Serum Review: The Amazon Bestseller That Actually Delivers
 
-When a skincare product crosses 100,000 reviews on Amazon and holds a 4.3-star average, the beauty world pays attention. **TruSkin Vitamin C Serum** has done exactly that — becoming the #1 best-selling facial serum on Amazon and generating a cult following that rivals prestige brands costing five times as much.
+When a skincare product crosses 155,000 reviews on Amazon and holds a 4.4-star average, the beauty world pays attention. **TruSkin Vitamin C Serum** has done exactly that — becoming the #1 best-selling facial serum on Amazon and generating a cult following that rivals prestige brands costing five times as much.
 
-At $19.99 for a 1 fl oz bottle, it's positioned as the affordable entry point into vitamin C skincare. But does cheap mean ineffective? We analyzed the reviews to find out.
+At $34.99 for a 2 fl oz bottle, it's positioned as the affordable entry point into vitamin C skincare. But does cheap mean ineffective? We analyzed the reviews to find out.
 
 ## The Formula: What's Actually in It
 
