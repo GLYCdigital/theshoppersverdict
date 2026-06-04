@@ -1,14 +1,14 @@
 ---
 title: "La Roche-Posay Hyaluronic Acid Serum Review: French Pharmacy Hydration at Its Best"
 seo_title: "La Roche-Posay Hyaluronic Acid Serum Review 2026: Worth the Hype?"
-meta_description: "Our La Roche-Posay Hyalu B5 Pure Hyaluronic Acid Serum review. 28,000+ reviews analyzed. See why this $39 French pharmacy serum is a cult favorite for plump, hydrated skin."
+meta_description: "Our La Roche-Posay Hyalu B5 Pure Hyaluronic Acid Serum review. 35,000+ reviews analyzed. See why this $79.98 French pharmacy serum is a cult favorite for plump, hydrated skin."
 date: 2026-06-04
 slug: la-roche-posay-hyaluronic-acid-serum-review
-amazon_url: "https://www.amazon.com/dp/B07FDBXNNH/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61EBj5xJm4L._SL1500_.jpg"
+amazon_url: "https://www.amazon.com/dp/B0F6CKV2ZV/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/71E7kQS5dtL._SL1500_.jpg"
 image_alt: "La Roche-Posay Hyalu B5 Pure Hyaluronic Acid Serum in blue glass bottle with dropper"
-amazon_rating: 4.5
-review_count: 28341
+amazon_rating: 4.6
+review_count: 35282
 verdict_score: 4.5
 categories:
   - luxury-beauty
@@ -25,7 +25,7 @@ pros:
   - "Suitable for even the most sensitive and reactive skin types"
 cons:
   - "Thicker, slightly tacky texture may not suit those who prefer water-light serums"
-  - "Premium price at $39 — though one bottle lasts 2-3 months with daily use"
+  - "Premium price at $79.98 — though one bottle lasts 2-3 months with daily use"
 faq:
   - question: "Can I use La Roche-Posay Hyalu B5 with retinol or vitamin C?"
     answer: "Absolutely. Hyaluronic acid plays well with all active ingredients and is often recommended as a buffer when starting retinols. Layer this serum under retinol to reduce irritation, or under vitamin C in the morning for an extra hydration boost before sunscreen."
@@ -36,9 +36,9 @@ faq:
 ---
 # La Roche-Posay Hyalu B5 Serum Review: French Pharmacy Gold
 
-Some skincare products feel like secrets passed between beauty editors. **La Roche-Posay's Hyalu B5 Pure Hyaluronic Acid Serum** is one of them — a French pharmacy staple that's quietly amassed 28,000+ five-star ratings without the aggressive influencer campaigns of its competitors.
+Some skincare products feel like secrets passed between beauty editors. **La Roche-Posay's Hyalu B5 Pure Hyaluronic Acid Serum** is one of them — a French pharmacy staple that's quietly amassed 35,000+ five-star ratings without the aggressive influencer campaigns of its competitors.
 
-At $39.99 for 1 fl oz, it sits in the mid-to-premium tier of hyaluronic acid serums. We analyzed thousands of reviews to determine if it's worth the premium over drugstore alternatives.
+At $79.98 for 1 fl oz, it sits in the premium tier of hyaluronic acid serums. We analyzed thousands of reviews to determine if it's worth the premium over drugstore alternatives.
 
 ## What Makes It Different
 
