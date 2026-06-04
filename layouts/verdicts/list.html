@@ -14,10 +14,11 @@
   <div class="container">
     <div class="verdicts-master-card verdicts-cols">
       {{ range $all }}
+        {{ $title := .Title }}
         <div class="pick-row">
           <a href="{{ .RelPermalink }}" class="pick-img-link">
             <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $title }}" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="pick-info">
