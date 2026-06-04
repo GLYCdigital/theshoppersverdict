@@ -109,6 +109,36 @@ SEED_ASINS = {
         "B0CLJ3FCSL", "B0CPQMJ5SM", "B0CR41B985", "B0CNM4F2G2", "B0CP3WD5VM",
         "B0CRJPHFTJ",
     ],
+    "home-improvement": [
+        "B00ET5VMTU", "B0C4JFMZHH", "B0C6BMP9TP", "B0CD9L5YKW", "B0C5BT6J98",
+        "B09B2WZRTW", "B09XDLHG1L", "B0BPYCHC1W", "B0C1GF1FT6", "B0B7XGGFJL",
+        "B0C8H7N11Q", "B0BK19CFWY", "B0CG6LCV5W", "B0CFB34CXR", "B0BZRT7F9Y",
+        "B09KJL2Q6Q", "B08HRPDW5C", "B0B4G86VB7", "B0B74Z5B6F", "B0B1JQ7Q2N",
+        "B0BNC6RJ6Z", "B0BRQDM6VL", "B08XK9QS98", "B09GMKHLZD", "B0BVQVKPL1",
+        "B07Z8S3Y6R", "B0B1S3LQ1V", "B0BN48R81V", "B0C7QDB9ZL", "B09TNFGWLT",
+        "B0BWXD3XX9", "B0C1BSGY1Q", "B0CJ89WQWF", "B0C74K5LN5", "B0B4P2S6FT",
+        "B0BT6CS17Z", "B08FHYYJQ3", "B0C1QC3CG4", "B0BS2XFYKF", "B0BDYGHCDM",
+        "B0BCNF2YV4", "B0BQH7DF6Z", "B0CKYW2PK5", "B0BRV49ZM8", "B0B6GYKZVC",
+    ],
+    "luxury-beauty": [
+        "B0CJV9RLH2", "B0B4P48C9X", "B0C2SZT1LW", "B0BXSKYNNN", "B0CMDYL638",
+        "B09M7LB76S", "B08LKTW45R", "B0B3VRFQHJ", "B0BZQ3JFXP", "B0B5RZSNP2",
+        "B0C7CKY7TN", "B0CK19LTY8", "B0BTMRS3CM", "B0CN18ZQBX", "B0B9LTK9RP",
+        "B08KRKYD8V", "B0B4RXN53S", "B0C3DXMNYK", "B0BVKFDG1F", "B097WYP2FH",
+        "B0C3GG9WGW", "B0BZG388HS", "B0C8HHQZ5Q", "B0C3FXLLJD", "B0B2RZPGQM",
+        "B0C6WZS4CX", "B0CB1RPDF3", "B0B2PSRKYD", "B09HN4FJ7V", "B0BW2S7DZX",
+        "B0CJS1DD7F", "B0C2TJGRKR", "B0BZPS2FDK", "B09KNDB7RL", "B0BLTGJZ81",
+    ],
+    "pet-supplies": [
+        "B0B4T6ZL13", "B0CJ5MB8RC", "B09HRDMLSZ", "B0C1MWZ66B", "B09NQGYXP8",
+        "B0BZQX5L73", "B0C6B7KP4H", "B09BZYZJT7", "B0C2X2J82J", "B0C8G9N6XY",
+        "B0BNK3BFBL", "B0CGRS4QVN", "B09KVJRJGX", "B0BXQK7GN4", "B0C2M9TS3S",
+        "B09NN5P5SD", "B0C2HY1X7N", "B0B4TSJGK8", "B0BHJFPL73", "B0C2JH5S7X",
+        "B0BXQMRP5Z", "B0BZY6LFPK", "B0C4BH17N8", "B09GKQXBT6", "B0C1WCLKHM",
+        "B09VCLPWFW", "B0C5SLFHC4", "B0CN4H7XMV", "B0B2Z4FZS6", "B0C2ZY96K9",
+        "B0C2K3NFJT", "B09B1HCLZD", "B0C3DS6DVR", "B0BHZSNBXF", "B0B6CSQD5Y",
+        "B0C2QNDV5C", "B0BN3RFQB9", "B0BJ7Q9MQY", "B0C9FCXKLG", "B09KM1TZK4",
+    ],
 }
 
 # Search queries for Amazon search scraping (optional, best-effort)
@@ -119,6 +149,12 @@ SEARCH_QUERIES = {
                 "stand mixer", "slow cooker", "toaster oven", "rice cooker", "electric kettle"],
     "home-office": ["office chair", "standing desk", "monitor arm", "laptop stand", "desk lamp",
                     "webcam", "keyboard", "mouse", "cable management", "desk organizer"],
+    "home-improvement": ["power drill", "tool set", "smart home", "paint sprayer", "LED lighting",
+                         "stud finder", "security camera", "cordless screwdriver", "tool storage"],
+    "luxury-beauty": ["luxury skincare", "premium serum", "anti aging cream", "luxury perfume", "retinol cream",
+                       "vitamin c serum", "hyaluronic acid", "designer fragrance", "premium moisturizer"],
+    "pet-supplies": ["dog bed", "cat tree", "pet food container", "dog toys", "cat scratching post",
+                     "dog grooming", "pet carrier", "elevated dog bowl", "dog crate", "pet water fountain"],
 }
 
 
@@ -156,7 +192,7 @@ def get_queue(queue_path):
     if os.path.exists(queue_path):
         with open(queue_path) as f:
             return json.load(f)
-    return {"kitchen": [], "coffee": [], "home-office": [], "used": []}
+    return {"kitchen": [], "coffee": [], "home-office": [], "home-improvement": [], "luxury-beauty": [], "pet-supplies": [], "used": []}
 
 
 def save_queue(queue_path, data):
@@ -166,7 +202,7 @@ def save_queue(queue_path, data):
 
 def main():
     parser = argparse.ArgumentParser(description="Replenish ASIN queue")
-    parser.add_argument("--category", "-c", choices=["coffee", "kitchen", "home-office"])
+    parser.add_argument("--category", "-c", choices=["coffee", "kitchen", "home-office", "home-improvement", "luxury-beauty", "pet-supplies"])
     parser.add_argument("--all", "-a", action="store_true")
     parser.add_argument("--count", type=int, default=10)
     parser.add_argument("--min-pending", type=int, default=5)
@@ -177,7 +213,7 @@ def main():
     if not args.category and not args.all:
         parser.error("Specify --category or --all")
     
-    categories = ["coffee", "kitchen", "home-office"] if args.all else [args.category]
+    categories = ["coffee", "kitchen", "home-office", "home-improvement", "luxury-beauty", "pet-supplies"] if args.all else [args.category]
     queue = get_queue(args.queue)
     used_set = set(queue.get("used", []))
     

@@ -72,13 +72,13 @@ def save_used_set(asins):
         with open(QUEUE_FILE) as fh:
             queue = json.load(fh)
     except (json.JSONDecodeError, FileNotFoundError):
-        queue = {"kitchen": [], "coffee": [], "home-office": [], "used": []}
+        queue = {"kitchen": [], "coffee": [], "home-office": [], "home-improvement": [], "luxury-beauty": [], "pet-supplies": [], "used": []}
 
     # Update used list
     queue["used"] = sorted(asins)
 
     # Remove any used ASINs from pending categories
-    for cat in ["kitchen", "coffee", "home-office"]:
+    for cat in ["kitchen", "coffee", "home-office", "home-improvement", "luxury-beauty", "pet-supplies"]:
         queue[cat] = [a for a in queue.get(cat, []) if a not in queue["used"]]
 
     with open(QUEUE_FILE, "w") as fh:

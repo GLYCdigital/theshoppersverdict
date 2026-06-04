@@ -66,6 +66,9 @@ def extract_keywords(title, category, product_type):
         'coffee': ['coffee maker review', 'espresso machine', 'best coffee gear'],
         'kitchen': ['kitchen appliance review', 'best kitchen gadget'],
         'home-office': ['home office review', 'office chair', 'desk accessory'],
+        'home-improvement': ['home improvement review', 'best tool review', 'diy project'],
+        'luxury-beauty': ['luxury beauty review', 'best skincare review', 'premium beauty'],
+        'pet-supplies': ['pet supplies review', 'best pet product', 'dog essentials'],
     }
     keywords.extend(cat_keywords.get(category, []))
     return keywords[:5]

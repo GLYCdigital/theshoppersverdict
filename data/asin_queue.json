@@ -97,8 +97,6 @@
     "B0CX2LFGYY"
   ],
   "home-office": [
-    "B0BHYFZW46",
-    "B0G2VJS9JS",
     "B0FNMWVRYF",
     "B0CBN6PL3Z",
     "B0D45HFQLK",
@@ -179,6 +177,8 @@
     "B008J8MJIQ",
     "B00939I7EK",
     "B00CH9QWOU",
+    "B00ET5VMTU",
+    "B00J0527X2",
     "B00KHLN7K2",
     "B00MVWGQX0",
     "B00NJ2M33I",
@@ -199,7 +199,9 @@
     "B01FW15TV6",
     "B01GJOMWVA",
     "B01LX8I3R3",
+    "B01M2A18OE",
     "B01M3PPSQG",
+    "B01MRJM9GT",
     "B01MSACZGH",
     "B01MZCQBY4",
     "B06X9NQ8GX",
@@ -213,7 +215,9 @@
     "B07BDQQVN2",
     "B07CSKGLMM",
     "B07DHK5DHN",
+    "B07DNPL2VC",
     "B07DR89BR6",
+    "B07FDBXNNH",
     "B07H2WGFQN",
     "B07HCHWK88",
     "B07HRVYPJ7",
@@ -232,7 +236,9 @@
     "B07WMQP4SF",
     "B07X262MRK",
     "B07XXSYLL8",
+    "B07Y82HZ7H",
     "B07YDDX4JL",
+    "B07YHCLWDX",
     "B07YN32XQL",
     "B07YP2VH4B",
     "B07YQLF481",
@@ -251,6 +257,7 @@
     "B086H458MP",
     "B0896NP59N",
     "B08CHFH1BZ",
+    "B08CKHPP52",
     "B08DBVYJPZ",
     "B08DBYHWT1",
     "B08JXH1BBM",
@@ -391,5 +398,8 @@
     "B0GVL6RB6Z",
     "B0GXHP97CM",
     "B0GYJCYF4D"
-  ]
+  ],
+  "home-improvement": [],
+  "luxury-beauty": [],
+  "pet-supplies": []
 }

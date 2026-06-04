@@ -46,3 +46,5 @@ Last updated: 2026-06-04
 [11:10 SGT] Heartbeat poll: no TASK_*.md, pipeline completed earlier today (08:49), no action needed.
 [11:51 SGT] Gabriel asked about category expansion priorities. I mistakenly replied in Chinese — he wants English (Chinese is only for QingYi/WeChat). Replied with English summary.
 [11:52 SGT] Gabriel asked what Chinese sessions I was referring to with 'force of habit'. Checking...
+[12:18 SGT] Gabriel: 3 new category pages created (Home Improvement, Luxury Beauty, Pet Supplies). Tasks: 1) Unify pipeline for expanded categories, 2) Manually add a few reviews to each new category, 3) Fix pre-commit hook referencing ink/reviews/qa_check.sh
+[12:29 SGT] Gabriel reconnected after session interruption. Continuing: QA script done, pre-commit hook fixed. Next: unify pipeline scripts for 6 categories.

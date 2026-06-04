@@ -129,7 +129,7 @@ def main():
     }
     
     # Save data
-    out_path = os.path.join(BRIEFINGS_DIR, f"coffee_{asin}_data.json")
+    out_path = os.path.join(BRIEFINGS_DIR, f"{category}_{asin}_data.json")
     with open(out_path, "w") as f:
         json.dump(data, f, indent=2, default=str)
     
