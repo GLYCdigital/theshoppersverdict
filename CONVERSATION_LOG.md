@@ -33,3 +33,11 @@ Last updated: 2026-06-04
 [04:10 SGT] Heartbeat check: no TASK files, backlog items in HANDOFF.md (9 briefings + 4 draft reviews). Silent.
 [06:36 SGT] Heartbeat check: no TASK files. Backlog unchanged. Silent.
 [08:06 SGT] Ink Daily Pipeline triggered — starting Step 1
+[08:16 SGT] Pipeline complete: 10 reviews (5 kitchen, 5 home-office). 0 coffee — all 12 coffee ASINs returned 404. Deployed successfully.
+[08:17 SGT] Heartbeat check: no TASK files. Pipeline already ran. Backlog items still pending per HANDOFF.md. Silent.
+[08:22 SGT] Daily pipeline triggered — starting Step 1 dedup sync
+[08:40 SGT] Daily pipeline Step 1 complete — dedup sync: 226 used ASINs. Starting Step 2.
+[08:40 SGT] Step 2: Queue check — coffee:36 kitchen:57 home-office:64 — no replenish needed. Step 3: 10 ASINs picked.
+[08:42 SGT] Step 4: Scrape done. 3/10 survived (all home-office). 7 skipped — Amazon 404: B0BN6C8XWK B09SVS2WG2 B08DF3H6VL B0DGNSLQX8 B0C83YTY2N B0DQBVG9QH B0C9PCJWHL
+[08:43 SGT] Step 5: 2 reviews written (B0BHYFZW46, B0G2VJS9JS). B0FNMWVRYF slug collision with existing B0FNMXPRJH — skipped.
+[08:48 SGT] Steps 5-6: 2 reviews written, Hugo build clean (259 pages). 7 coffee/kitchen ASINs all 404, 1 desk lamp slug collision. Proceeding to commit.

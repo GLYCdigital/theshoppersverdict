@@ -150,7 +150,8 @@ def write_review(data, category, asin):
     praise_counts = {k: 0 for k in praise_keywords}
     complaint_counts = {k: 0 for k in complaint_keywords}
     
-    for review_text in reviews:
+    for review_obj in reviews:
+        review_text = review_obj.get('reviewDescription', '') if isinstance(review_obj, dict) else str(review_obj)
         rl = review_text.lower()
         for k, words in praise_keywords.items():
             if any(w in rl for w in words):
@@ -215,29 +216,31 @@ def write_review(data, category, asin):
     
     body = '\n\n'.join(body_parts)
     
+    # Escape double quotes in YAML string values
+    def yq(s):
+        return str(s).replace('"', '\\"')
+    
     # Build frontmatter
     lines = ['---']
-    lines.append(f'title: "{title}"')
-    lines.append(f'seo_title: "{seo_title[:57]}"')
-    lines.append(f'meta_description: "{meta_desc[:157]}"')
+    lines.append(f'title: "{yq(title)}"')
+    lines.append(f'seo_title: "{yq(seo_title[:57])}"')
+    lines.append(f'meta_description: "{yq(meta_desc[:157])}"')
     lines.append(f'slug: "{slug}"')
-    lines.append(f'image_alt: "{alt_text}"')
+    lines.append(f'image_alt: "{yq(alt_text)}"')
     lines.append('keywords:')
     for kw in keywords[:5]:
         lines.append(f'  - "{kw}"')
     lines.append(f'verdict_score: {verdict}')
     lines.append('faq:')
     for faq in faqs:
-        lines.append(f'  - question: "{faq["question"]}"')
-        # Escape any double quotes in the answer
-        answer = faq['answer'].replace('"', "'")
-        lines.append(f'    answer: "{answer}"')
+        lines.append(f'  - question: "{yq(faq["question"])}"')
+        lines.append(f'    answer: "{yq(faq["answer"])}"')
     lines.append(f'date: {datetime.now().strftime("%Y-%m-%d")}')
     lines.append(f'price: {price_str}' if price_str else 'price: null')
     lines.append(f'review_count: {rc}')
     lines.append(f'amazon_rating: {amazon_rating}')
     lines.append(f'amazon_url: "https://www.amazon.com/dp/{asin}/?tag=tsvglyc-20"')
-    lines.append(f'amazon_image: "{image_url}"')
+    lines.append(f'amazon_image: "{yq(image_url)}"')
     lines.append('pros:')
     for p in pro_list:
         p_safe = p.replace('"', "'")
