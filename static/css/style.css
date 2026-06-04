@@ -779,6 +779,21 @@ ul { list-style: none; }
   box-shadow: var(--shadow-sm);
   overflow: hidden;
 }
+/* CSS columns override — balances content evenly across 3 columns */
+.verdicts-master-card.verdicts-cols {
+  display: block;
+  column-count: 3;
+  column-gap: 0;
+  background: var(--off-white);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  padding: 16px 20px;
+}
+.verdicts-cols .pick-row {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
 .vmc-col {
   padding: 16px 20px;
   display: flex;
@@ -1718,6 +1733,7 @@ ul { list-style: none; }
 
   /* Verdicts Archive Page */
   .verdicts-master-card { grid-template-columns: 1fr; }
+  .verdicts-master-card.verdicts-cols { column-count: 1; padding: 12px 16px; }
   .vmc-col { border-right: none; border-bottom: 1px solid var(--border-light); padding: 12px 16px; }
   .vmc-col-last { border-bottom: none; }
 
