@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office" "home-improvement") }}
+{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty") }}
 {{ $daily := first 10 $all.ByDate.Reverse }}
 
 <section class="category-hero" style="background-color: var(--navy);">

@@ -56,3 +56,4 @@ summaryLength = 25
   coffee = "/coffee/:slug/"
   "home-office" = "/home-office/:slug/"
   "home-improvement" = "/home-improvement/:slug/"
+  "luxury-beauty" = "/luxury-beauty/:slug/"
