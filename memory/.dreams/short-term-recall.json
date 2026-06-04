@@ -1,766 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T19:00:03.034Z",
+  "updatedAt": "2026-06-03T19:00:03.314Z",
   "entries": {
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:102:102": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:102:102",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 102,
-      "endLine": 102,
-      "source": "memory",
-      "snippet": "Assistant: You're right to call that out. Yesterday I said the queue had **95 ASINs** — a week's buffer. And it does. The 95 ASINs are still there. The problem isn't the queue being empty or the ASINs being dead. The problem is **this IP** — every Amazon URL returns 404 from this",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "you're",
-        "right",
-        "call",
-        "out",
-        "yesterday",
-        "said",
-        "queue",
-        "had"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:103:103": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:103:103",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 103,
-      "endLine": 103,
-      "source": "memory",
-      "snippet": "Assistant: should work 2. **Wait for the IP block to cool off** — usually 24-48 hours 3. **Run via a different route** — if there's a VPN or proxy available on this machine What's the fastest path you'd like?",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "24-48",
-        "wait",
-        "block",
-        "cool",
-        "off",
-        "usually",
-        "hours",
-        "run"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:104:104": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:104:104",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 104,
-      "endLine": 104,
-      "source": "memory",
-      "snippet": "User: What’s our setup with Apify",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "what’s",
-        "setup",
-        "apify"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:105:105": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:105:105",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 105,
-      "endLine": 105,
-      "source": "memory",
-      "snippet": "Assistant: Here's our Apify setup: **Account:** glycDigital (freelancer tier) **API Key:** Active **Proxy:** ❌ No proxy access included **Actors installed (1 total):** - `R8WeJwLuzLZ6g4Bkk` — **Amazon Reviews Scraper** (the one batch_scout.py uses) That's it. One actor, and it's",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "batch-scout.py",
-        "here's",
-        "apify",
-        "setup",
-        "account",
-        "glycdigital",
-        "freelancer",
-        "tier"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:106:106": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:106:106",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 106,
-      "endLine": 106,
-      "source": "memory",
-      "snippet": "Assistant: tool for the job. **Next step:** I can install a second Apify actor for Amazon product details (with image support). Apify has several — we'd just need to search the store and install one. Or we can wait for the IP block to lift. Your call.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "tool",
-        "job",
-        "step",
-        "can",
-        "install",
-        "second",
-        "apify",
-        "actor"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:107:107": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:107:107",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 107,
-      "endLine": 107,
-      "source": "memory",
-      "snippet": "Assistant: The queue ASINs are all genuinely dead now — even the Apify scraper returns 404 for them. They were stale/deprecated when replenish_queue.py added them yesterday. The only ASINs that returned real product data through Apify were the ones from today's bad reviews (the m",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "stale/deprecated",
-        "replenish-queue.py",
-        "queue",
-        "asins",
-        "all",
-        "genuinely",
-        "dead",
-        "now"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:108:108": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:108:108",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 108,
-      "endLine": 108,
-      "source": "memory",
-      "snippet": "Assistant: Gabriel, I've exhausted every programmatic route. Here's where we are: **Can't find correct ASINs — all blocked:** - Amazon: IP fully blocked (even Apify's reviews actor now returns 404 for queue ASINs) - Google Shopping: strips search results - DuckDuckGo: returns not",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "gabriel",
-        "i've",
-        "exhausted",
-        "programmatic",
-        "route",
-        "here's",
-        "where",
-        "can't"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:109:109": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:109:109",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 109,
-      "endLine": 109,
-      "source": "memory",
-      "snippet": "Assistant: images 2. **A fresh IP** — VPN/proxy to scrape Amazon directly 3. **A paid Apify actor** — rent one of the product scrapers that returns `highResolutionImages` I'm sorry — I drove into a dead end chasing the data myself instead of asking you for what you already know.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "vpn/proxy",
-        "images",
-        "fresh",
-        "vpn",
-        "proxy",
-        "scrape",
-        "amazon",
-        "directly"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:110:110": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:110:110",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 110,
-      "endLine": 110,
-      "source": "memory",
-      "snippet": "User: 1. Would you have the ability to create VPN yourself? I’m not at the computer now. 2. How much is the paid Apify and is it guaranteed glitch free for your workflow?",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "would",
-        "ability",
-        "create",
-        "vpn",
-        "yourself",
-        "i’m",
-        "not",
-        "computer"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:111:111": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:111:111",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 111,
-      "endLine": 111,
-      "source": "memory",
-      "snippet": "Assistant: Good news on both fronts. **1. VPN — don't need one.** We already have **Apify proxy access** — 27 USA proxies included in our plan. I can route scraping through those to circumvent the Amazon IP block. Let me test it now. **2. Paid Apify actor pricing:** - **$1/month",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "1/month",
-        "good",
-        "news",
-        "both",
-        "fronts",
-        "vpn",
-        "don't",
-        "need"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:112:112": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:112:112",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 112,
-      "endLine": 112,
-      "source": "memory",
-      "snippet": "Assistant: The proxy works but it's inconsistent — some requests get through, some get rate-limited. The right solution is the paid Apify actor which handles its own proxy rotation. Let me try to rent it — $1/month plus ~$0.10 for our batch.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "rate-limited",
-        "1/month",
-        "0.10",
-        "proxy",
-        "works",
-        "but",
-        "it's",
-        "inconsistent"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:113:113": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:113:113",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 113,
-      "endLine": 113,
-      "source": "memory",
-      "snippet": "Assistant: Two paths: **Path A — What's working now (through proxy):** - The proxy works — I can reach Amazon from a US IP (107.175.12.125) - Some ASINs come through, some get rate-limited - Found 2 mis-mapped ASINs confirmed: B078NN17K3 → Keurig K-Elite, B081H3Y5NW → Amazon Basi",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "107.175.12.125",
-        "rate-limited",
-        "mis-mapped",
-        "k-elite",
-        "two",
-        "paths",
-        "path",
-        "what's"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:114:114": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:114:114",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 114,
-      "endLine": 114,
-      "source": "memory",
-      "snippet": "Assistant: everything I need to redo today's batch from scratch with correct ASINs, real images, and proper data. Until then, the bad reviews are off the site (301 redirects to category pages), the pipeline has live verification checks, and tomorrow's 08:00 and 09:00 crons won't",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "everything",
-        "need",
-        "redo",
-        "today's",
-        "batch",
-        "scratch",
-        "correct",
-        "asins"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:115:115": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:115:115",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 115,
-      "endLine": 115,
-      "source": "memory",
-      "snippet": "User: Can’t rent it either. It costs $25. But you’ve been using credits out of our $29 plan. I need to upgrade plan in order to rent this $25 actor, but the upgrade is a $100+ jump per month",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "can’t",
-        "rent",
-        "either",
-        "costs",
-        "but",
-        "you’ve",
-        "been",
-        "credits"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:116:116": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:116:116",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 116,
-      "endLine": 116,
-      "source": "memory",
-      "snippet": "Assistant: Understood — not worth $100+/month just for product images. Let me work with what we have. The Apify proxy gives me 27 US IPs in the `BUYPROXIES94952` group. I can rotate session IDs per request to avoid rate limits. Let me see if I can get through for the 10 products",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "understood",
-        "not",
-        "worth",
-        "product",
-        "images",
-        "let",
-        "what",
-        "apify"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:117:117": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:117:117",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 117,
-      "endLine": 117,
-      "source": "memory",
-      "snippet": "Assistant: Gabriel — I've tried every route and hit a wall on all of them: 1. **Apify proxy** (our 27 US IPs) — Amazon blocks them too, returns empty/captcha pages 2. **Specialized Apify actor** — $25 rental + requires $100+/month plan upgrade 3. **Web search** — all search engin",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "empty/captcha",
-        "gabriel",
-        "i've",
-        "tried",
-        "route",
-        "hit",
-        "wall",
-        "all"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:118:118": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:118:118",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 118,
-      "endLine": 118,
-      "source": "memory",
-      "snippet": "Assistant: that data until Amazon access is restored. Tomorrow's 08:00 cron will try again with the fixed pipeline — the IP block might cool off by then, and the pipeline won't write junk data anymore. If you know the right ASINs for any of the 10 products, I can still run the Ap",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "data",
-        "until",
-        "amazon",
-        "access",
-        "restored",
-        "tomorrow's",
-        "cron",
-        "will"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:119:119": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:119:119",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 119,
-      "endLine": 119,
-      "source": "memory",
-      "snippet": "User: What are your VPN capabilities if I’m not at the computer?",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "what",
-        "vpn",
-        "capabilities",
-        "i’m",
-        "not",
-        "computer"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:120:120": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:120:120",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 120,
-      "endLine": 120,
-      "source": "memory",
-      "snippet": "Assistant: Good question. Let me check what's on this machine and what I can work with.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "good",
-        "question",
-        "let",
-        "check",
-        "what's",
-        "machine",
-        "what",
-        "can"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:121:121": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:121:121",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 121,
-      "endLine": 121,
-      "source": "memory",
-      "snippet": "Assistant: From this Mac Studio I can: **Install via command line (no GUI needed):** - `brew install openvpn` — needs a `.ovpn` config file - `brew install wireguard-tools` — needs a config file with keys - `brew install sshuttle` — needs an SSH server to tunnel through - Set up",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "wireguard-tools",
-        "mac",
-        "studio",
-        "can",
-        "install",
-        "via",
-        "command",
-        "gui"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:122:122": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:122:122",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 122,
-      "endLine": 122,
-      "source": "memory",
-      "snippet": "Assistant: portable option: if you have **any** VPN service that provides a config file (OpenVPN format), I can have it running with `brew install openvpn` in about 30 seconds. No browser, no GUI. Do you have a provider or credentials I can work with?",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "portable",
-        "option",
-        "any",
-        "vpn",
-        "service",
-        "provides",
-        "config",
-        "openvpn"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:123:123": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:123:123",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 123,
-      "endLine": 123,
-      "source": "memory",
-      "snippet": "User: Unfortunately no. I’ve never used VPN in my life",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "unfortunately",
-        "i’ve",
-        "never",
-        "used",
-        "vpn",
-        "life"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:124:124": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:124:124",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 124,
-      "endLine": 124,
-      "source": "memory",
-      "snippet": "Assistant: No VPN at all — that's fine. Let me try one more thing before we settle. Cloudflare WARP is a free service that routes traffic through Cloudflare — different IP range, might not be blocked by Amazon.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "vpn",
-        "all",
-        "that's",
-        "fine",
-        "let",
-        "try",
-        "one",
-        "thing"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-24.txt:125:125": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:125:125",
-      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
-      "startLine": 125,
-      "endLine": 125,
-      "source": "memory",
-      "snippet": "Assistant: Gabriel — I'm at the limit of what I can do from here without a VPN or your password. Let me be straight with you: **What's blocked:** - Amazon scrapes from this IP and all Apify proxy IPs - Free proxies all fail - Cloudflare WARP needs your sudo/admin password to inst",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "c27113cc41fb"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "sudo/admin",
-        "gabriel",
-        "i'm",
-        "limit",
-        "what",
-        "can",
-        "here",
-        "without"
-      ]
-    },
     "memory:memory/.dreams/session-corpus/2026-05-24.txt:126:126": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:126:126",
       "path": "memory/.dreams/session-corpus/2026-05-24.txt",
@@ -1516,262 +757,6 @@
         "not"
       ]
     },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 1,
-      "endLine": 1,
-      "source": "memory",
-      "snippet": "User: Daily work: 25 briefings ready. Write all reviews now, commit, push, then report done in this same session. @GemmaGLYC_bot",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "gemmaglyc-bot",
-        "briefings",
-        "ready",
-        "write",
-        "all",
-        "reviews",
-        "now",
-        "commit"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:10:10": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:10:10",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 10,
-      "endLine": 10,
-      "source": "memory",
-      "snippet": "User: You are Ink 🖋️, an AI agent. Today is 2026-05-25. Read these instructions, then generate ONE improvement idea: # 🔧 Improvement Ideas — Instructions ## Objective Propose improvements to our internal structure, processes, and workflows. Post to the GLYC Digital Ops group ch",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "ink",
-        "read",
-        "instructions",
-        "generate",
-        "one",
-        "improvement",
-        "idea",
-        "ideas"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:100:100": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:100:100",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 100,
-      "endLine": 100,
-      "source": "memory",
-      "snippet": "Assistant: All 3 products are dead on Amazon — Apify confirmed \"product does not exist.\" Deleting + replacing now.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "all",
-        "products",
-        "dead",
-        "amazon",
-        "apify",
-        "confirmed",
-        "product",
-        "does"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:101:101": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:101:101",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 101,
-      "endLine": 101,
-      "source": "memory",
-      "snippet": "Assistant: Clean. No more placeholders anywhere. Let me verify the full site is healthy.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "clean",
-        "placeholders",
-        "anywhere",
-        "let",
-        "verify",
-        "full",
-        "site",
-        "healthy"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:102:102": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:102:102",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 102,
-      "endLine": 102,
-      "source": "memory",
-      "snippet": "Assistant: Zero `placeholder-IMG.jpg` references anywhere. The site is fully clean. Let me update the log and report.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "placeholder-img.jpg",
-        "zero",
-        "placeholder",
-        "img.jpg",
-        "references",
-        "anywhere",
-        "site",
-        "fully"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:103:103": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:103:103",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 103,
-      "endLine": 103,
-      "source": "memory",
-      "snippet": "Assistant: Done. All 3 deleted and replaced. Here's the full tally for today: **Total dead reviews nuked: 10** - Casabrews espresso, Ninja DualBrew Pro, OXO Burr Grinder (coffee) - Instant Pot Duo+, KitchenAid blender, Ninja Pro+ blender, Ninja coffee maker (kitchen) - Anker Powe",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "done",
-        "all",
-        "deleted",
-        "replaced",
-        "here's",
-        "full",
-        "tally",
-        "total"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:104:104": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:104:104",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 104,
-      "endLine": 104,
-      "source": "memory",
-      "snippet": "Assistant: Replacement complete. Here's the summary: ## ✅ Mission Complete: 7 Replacement Reviews Published **What was done:** | # | Category | ASIN | Product | Status | |---|----------|------|---------|--------| | 1 | ☕ Coffee | B0BV9HKMNT | Keurig K-Compact Single-Serve | ✅ Pus",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "k-compact",
-        "single-serve",
-        "replacement",
-        "complete",
-        "here's",
-        "summary",
-        "mission",
-        "reviews"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:105:105": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:105:105",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 105,
-      "endLine": 105,
-      "source": "memory",
-      "snippet": "Assistant: **Hugo build:** 156 pages, 0 errors **Git:** `main` pushed to GitHub **Deleted (bad images):** Casabrews espresso, Ninja DualBrew Pro, OXO grinder, Instant Pot Duo Plus, KitchenAid hand blender, Ninja Pro+ blender, Ninja coffee maker **ASIN queue:** 7 marked as used (1",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "hugo",
-        "pages",
-        "errors",
-        "git",
-        "pushed",
-        "github",
-        "deleted",
-        "bad"
-      ]
-    },
     "memory:memory/.dreams/session-corpus/2026-05-25.txt:106:106": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:106:106",
       "path": "memory/.dreams/session-corpus/2026-05-25.txt",
@@ -1897,38 +882,6 @@
         "writer",
         "brains",
         "pipeline"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:11:11": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:11:11",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 11,
-      "endLine": 11,
-      "source": "memory",
-      "snippet": "User: Improvement Idea — YYYY-MM-DD • *Area:* [which process / workflow / domain] • *Current pain:* [what's slow, manual, or missing] • *Proposed change:* [what you'd do differently] • *Expected impact:* [faster / cheaper / more revenue / less risk] • *Effort:* low / medium / hig",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "yyyy-mm-dd",
-        "improvement",
-        "idea",
-        "yyyy",
-        "area",
-        "which",
-        "process",
-        "workflow"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-05-25.txt:110:110": {
@@ -2057,776 +1010,6 @@
         "validates",
         "commit",
         "was"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:12:12": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:12:12",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 12,
-      "endLine": 12,
-      "source": "memory",
-      "snippet": "User: alerting** — e.g., \"We should get flagged when pipeline X fails\" ## Voice Be constructive and specific. Don't just complain — propose a fix, a tool, a refactor, or a new capability. Use your domain expertise to spot things others might miss. Each agent sees a different angl",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "e.g",
-        "alerting",
-        "get",
-        "flagged",
-        "when",
-        "pipeline",
-        "fails",
-        "voice"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:13:13": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:13:13",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 13,
-      "endLine": 13,
-      "source": "memory",
-      "snippet": "User: [Subagent Context] You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status. Begin. Your assigned task is in the system prompt under **Your Role**; execute it to completion.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "1/1",
-        "auto-announce",
-        "busy-poll",
-        "context",
-        "running",
-        "depth",
-        "results",
-        "auto"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:14:14": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:14:14",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 14,
-      "endLine": 14,
-      "source": "memory",
-      "snippet": "Assistant: Let me start by checking the existing content structure and a reference review for formatting.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "let",
-        "start",
-        "checking",
-        "existing",
-        "content",
-        "structure",
-        "reference",
-        "review"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:15:15": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:15:15",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 15,
-      "endLine": 15,
-      "source": "memory",
-      "snippet": "Assistant: Good — I have the format reference. No `qa_check.sh` exists, so I'll note that. Now writing all 3 reviews.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "qa-check.sh",
-        "good",
-        "format",
-        "reference",
-        "exists",
-        "i'll",
-        "now",
-        "writing"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:16:16": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:16:16",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 16,
-      "endLine": 16,
-      "source": "memory",
-      "snippet": "Assistant: All three written. Let me validate word counts and frontmatter consistency.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "all",
-        "three",
-        "written",
-        "let",
-        "validate",
-        "word",
-        "counts",
-        "frontmatter"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:17:17": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:17:17",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 17,
-      "endLine": 17,
-      "source": "memory",
-      "snippet": "Assistant: All validations pass. Let me finalize.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "all",
-        "validations",
-        "pass",
-        "let",
-        "finalize"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:18:18": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:18:18",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 18,
-      "endLine": 18,
-      "source": "memory",
-      "snippet": "Assistant: ## ✅ Task Complete — 3 Home-Office Reviews Published ### Files Created | Product | File | Words | FAQ | |---|---|---|---| | **Logitech C920x Pro HD Webcam** | `logitech-c920x-pro-hd-webcam-review.md` | 690 body | 4 Q&A | | **HUANUO Single Monitor Mount Arm** | `huanuo-",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "home-office",
-        "task",
-        "complete",
-        "home",
-        "office",
-        "reviews",
-        "published",
-        "created"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:19:19": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:19:19",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 19,
-      "endLine": 19,
-      "source": "memory",
-      "snippet": "Assistant: Script The `qa_check.sh` script doesn't exist at `scripts/qa_check.sh`. No other QA automation was found either. Manual validation confirmed all files are structurally sound. ### Notes - `amazon_image` URLs use placeholder paths (Amazon blocked scraping). Placeholder f",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "qa-check.sh",
-        "scripts/qa-check.sh",
-        "amazon-image",
-        "script",
-        "doesn't",
-        "exist",
-        "scripts",
-        "other"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 2,
-      "endLine": 2,
-      "source": "memory",
-      "snippet": "Assistant: Let me read the pipeline scripts and an existing review to get format right.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "let",
-        "read",
-        "pipeline",
-        "scripts",
-        "existing",
-        "review",
-        "get",
-        "format"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:20:20": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:20:20",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 20,
-      "endLine": 20,
-      "source": "memory",
-      "snippet": "Assistant: No task files pending. Recording morning checkpoint.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "task",
-        "pending",
-        "recording",
-        "morning",
-        "checkpoint"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:21:21": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:21:21",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 21,
-      "endLine": 21,
-      "source": "memory",
-      "snippet": "User: Nothing went out today?",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "nothing",
-        "went",
-        "out"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:22:22": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:22:22",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 22,
-      "endLine": 22,
-      "source": "memory",
-      "snippet": "Assistant: Reporting back — found it. The reviews **did** commit this morning (a728cbf at 08:03, 4 reviews written), but the Cloudflare deploy **failed** because Hugo couldn't build. **Root cause:** Two YAML frontmatter files had unescaped double quotes that broke the parser: 1.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "reporting",
-        "back",
-        "found",
-        "reviews",
-        "did",
-        "commit",
-        "morning",
-        "a728cbf"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:23:23": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:23:23",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 23,
-      "endLine": 23,
-      "source": "memory",
-      "snippet": "Assistant: Chair](https://theshoppersverdict.com/home-office/amazon-basics-ergonomic-executive-chair-review/) → [Hamilton Beach 2-Way Coffee Maker](https://theshoppersverdict.com/coffee/hamilton-beach-2-way-programmable-coffee-maker-review/) → [bella 4Qt Slim Air Fryer](https://t",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "2-way",
-        "chair",
-        "https",
-        "theshoppersverdict.com",
-        "home",
-        "office",
-        "amazon",
-        "basics"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:24:24": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:24:24",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 24,
-      "endLine": 24,
-      "source": "memory",
-      "snippet": "User: And only 4 today?",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "only"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:25:25": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:25:25",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 25,
-      "endLine": 25,
-      "source": "memory",
-      "snippet": "Assistant: Honest answer: that's all the pipeline produced from 25 briefings today. **Breakdown:** - 25 briefings queued - 11 returned empty data from the scraper → archived as `failed_empty/` - 10 were duplicates of already-published reviews → skipped - **4 were fresh, valid bri",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "failed-empty",
-        "already-published",
-        "honest",
-        "answer",
-        "that's",
-        "all",
-        "pipeline",
-        "produced"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:26:26": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:26:26",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 26,
-      "endLine": 26,
-      "source": "memory",
-      "snippet": "Assistant: to do — top up the queue with new ASINs across existing categories, or open a new category?",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "top",
-        "queue",
-        "new",
-        "asins",
-        "across",
-        "existing",
-        "categories",
-        "open"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:27:27": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:27:27",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 27,
-      "endLine": 27,
-      "source": "memory",
-      "snippet": "User: Option 2",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "option"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:28:28": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:28:28",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 28,
-      "endLine": 28,
-      "source": "memory",
-      "snippet": "Assistant: Queue drained completely — 0 ASINs left in any category. That's why the scraper returned empty and only 4 briefings were valid. **✅ Fixed — 164 fresh ASINs loaded:** - Coffee: 57 new products (espresso machines, grinders, pour-overs, frothers, cold brew) - Kitchen: 57",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "pour-overs",
-        "queue",
-        "drained",
-        "completely",
-        "asins",
-        "left",
-        "any",
-        "category"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:29:29": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:29:29",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 29,
-      "endLine": 29,
-      "source": "memory",
-      "snippet": "Assistant: Sub-agent is writing all 10 reviews now. It'll QA with Hugo, commit, and push. Standing by for results.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "sub-agent",
-        "sub",
-        "writing",
-        "all",
-        "reviews",
-        "now",
-        "it'll",
-        "hugo"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:3:3": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:3:3",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 3,
-      "endLine": 3,
-      "source": "memory",
-      "snippet": "Assistant: Let me read all the valid briefings to understand the full scope.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "let",
-        "read",
-        "all",
-        "valid",
-        "briefings",
-        "understand",
-        "full",
-        "scope"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:30:30": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:30:30",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 30,
-      "endLine": 30,
-      "source": "memory",
-      "snippet": "Assistant: Let me verify the deploy succeeded.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "let",
-        "verify",
-        "succeeded"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:31:31": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:31:31",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 31,
-      "endLine": 31,
-      "source": "memory",
-      "snippet": "Assistant: Done. Here's the full picture: **✅ Queue rotated + 10 fresh reviews deployed** The queue was bone dry — 0 ASINs across all categories. That's why the scraper came back empty on 11/25 briefings this morning. **What I did:** 1. **Refilled queue** — 164 fresh ASINs scrape",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "11/25",
-        "done",
-        "here's",
-        "full",
-        "picture",
-        "queue",
-        "rotated",
-        "fresh"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:32:32": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:32:32",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 32,
-      "endLine": 32,
-      "source": "memory",
-      "snippet": "Assistant: Deluxe | Henckels Solution Knife Set | Amazon Basics Monitor Stand | | Gaggia Classic Evo Pro | | | All 14 live, sorted, and the queue's stocked for tomorrow's pipeline.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "deluxe",
-        "henckels",
-        "solution",
-        "knife",
-        "set",
-        "amazon",
-        "basics",
-        "monitor"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:33:33": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:33:33",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 33,
-      "endLine": 33,
-      "source": "memory",
-      "snippet": "User: [Subagent Context] You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status. Begin. Your assigned task is in the system prompt under **Your Role**; execute it to completion.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "1/1",
-        "auto-announce",
-        "busy-poll",
-        "context",
-        "running",
-        "depth",
-        "results",
-        "auto"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-25.txt:34:34": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:34:34",
-      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
-      "startLine": 34,
-      "endLine": 34,
-      "source": "memory",
-      "snippet": "Assistant: Now let me check all 10 ASINs against the dedup tool:",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "cd5aa3c5fc0e"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "now",
-        "let",
-        "check",
-        "all",
-        "asins",
-        "against",
-        "dedup",
-        "tool"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1": {
@@ -3868,637 +2051,6 @@
         "cross"
       ]
     },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:4:4": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:4:4",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 4,
-      "endLine": 4,
-      "source": "memory",
-      "snippet": "Assistant: All cleaned up and reported to the group. The pipeline now has proper ASIN-level dedup so this won't happen again.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "asin-level",
-        "all",
-        "cleaned",
-        "reported",
-        "group",
-        "pipeline",
-        "now",
-        "has"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:40:40": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:40:40",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 40,
-      "endLine": 40,
-      "source": "memory",
-      "snippet": "Assistant: structure is the only missing piece. • *Expected impact:* 10 new YouTube shorts/full reviews per day from existing work. Estimated 50k-100k additional monthly views at saturation, driving YouTube ad revenue + video-description affiliate clicks on top of blog affiliate",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "shorts/full",
-        "50k-100k",
-        "video-description",
-        "structure",
-        "only",
-        "missing",
-        "piece",
-        "expected"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:41:41": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:41:41",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 41,
-      "endLine": 41,
-      "source": "memory",
-      "snippet": "User: You are Ink 🖋️, an AI agent. Today is 2026-05-26. Read these instructions, then generate ONE money-making idea: # 💰 Money-Making Ideas — Instructions ## Objective Generate one actionable money-making idea and post it to the GLYC Digital Ops group chat using your own bot.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "money-making",
-        "ink",
-        "read",
-        "instructions",
-        "generate",
-        "one",
-        "money",
-        "making"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:42:42": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:42:42",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 42,
-      "endLine": 42,
-      "source": "memory",
-      "snippet": "User: pitch something a NEW operation would tackle. Push outside your lane. ### Gate 3 — Capable of being run by a single or multiple agents setup The idea must be specific enough to be handed to a dedicated agent (or team of agents). Clear scope. Clear inputs/outputs. No hand-wa",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "inputs/outputs",
-        "hand-wa",
-        "pitch",
-        "something",
-        "new",
-        "operation",
-        "would",
-        "tackle"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:43:43": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:43:43",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 43,
-      "endLine": 43,
-      "source": "memory",
-      "snippet": "User: after setup - **New revenue** — opens a new stream, not optimizing an existing trickle - **Agent-executable** — can be assigned to a new or existing agent If greenlit, this idea would be executed by new agents with clear purpose, tooling, and expected outputs. ## Voice Writ",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "agent-executable",
-        "setup",
-        "new",
-        "revenue",
-        "opens",
-        "stream",
-        "not",
-        "optimizing"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:44:44": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:44:44",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 44,
-      "endLine": 44,
-      "source": "memory",
-      "snippet": "User: Gate 1 · ✓ Gate 2 · ✓ Gate 3 • *Implementation:* [1-2 sentences on how it would work] Think bigger. Target $1,000-5,000+/month and beyond, not micro-SaaS. These should be scalable, not safe.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "1-2",
-        "000-5",
-        "micro-saas",
-        "gate",
-        "implementation",
-        "sentences",
-        "how",
-        "would"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:45:45": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:45:45",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 45,
-      "endLine": 45,
-      "source": "memory",
-      "snippet": "Assistant: • *Idea:* Niche Review Network — 10 Automated Affiliate Sites • *Description:* Spin up 10+ niche affiliate sites (camping gear, baby products, pet supplies, home gym, gardening tools, etc.), each running Ink's existing fully-automated pipeline. One domain, one Hugo rep",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "network",
-        "fully-automated",
-        "idea",
-        "niche",
-        "review",
-        "automated",
-        "affiliate",
-        "sites"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:46:46": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:46:46",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 46,
-      "endLine": 46,
-      "source": "memory",
-      "snippet": "Assistant: 7 briefings available, 3 flagged as duplicates. Need to pick 3 replacements from the queue. Let me find fresh ones.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "briefings",
-        "available",
-        "flagged",
-        "duplicates",
-        "need",
-        "pick",
-        "replacements",
-        "queue"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:47:47": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:47:47",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 47,
-      "endLine": 47,
-      "source": "memory",
-      "snippet": "Assistant: The 3 \"duplicate\" ASINs are actually valid (not in content/). Their briefings are in the duplicates folder. Let me restore them and proceed.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "duplicate",
-        "asins",
-        "actually",
-        "valid",
-        "not",
-        "content",
-        "briefings",
-        "duplicates"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:48:48": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:48:48",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 48,
-      "endLine": 48,
-      "source": "memory",
-      "snippet": "Assistant: All 10 briefings restored. Now extracting JSON data from them.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "all",
-        "briefings",
-        "restored",
-        "now",
-        "extracting",
-        "data",
-        "them"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:49:49": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:49:49",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 49,
-      "endLine": 49,
-      "source": "memory",
-      "snippet": "Assistant: All 10 images verified ✅. Now writing reviews with ink_review_writer.py.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "ink-review-writer.py",
-        "all",
-        "images",
-        "verified",
-        "now",
-        "writing",
-        "reviews"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:5:5": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:5:5",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 5,
-      "endLine": 5,
-      "source": "memory",
-      "snippet": "User: Daily work: 13 briefings ready. Write all reviews now, commit, push, then report done in this same session. @GemmaGLYC_bot",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "gemmaglyc-bot",
-        "briefings",
-        "ready",
-        "write",
-        "all",
-        "reviews",
-        "now",
-        "commit"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:50:50": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:50:50",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 50,
-      "endLine": 50,
-      "source": "memory",
-      "snippet": "Assistant: All 10 reviews written! Now Step 6: Hugo build check.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "all",
-        "reviews",
-        "written",
-        "now",
-        "step",
-        "hugo",
-        "check"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:51:51": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:51:51",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 51,
-      "endLine": 51,
-      "source": "memory",
-      "snippet": "Assistant: Hugo build error — unescaped quotes in title. Fixing now.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "hugo",
-        "error",
-        "unescaped",
-        "quotes",
-        "title",
-        "fixing",
-        "now"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:52:52": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:52:52",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 52,
-      "endLine": 52,
-      "source": "memory",
-      "snippet": "Assistant: Let me also check the other 9 review files for similar issues:",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "let",
-        "check",
-        "other",
-        "review",
-        "similar",
-        "issues"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:53:53": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:53:53",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 53,
-      "endLine": 53,
-      "source": "memory",
-      "snippet": "Assistant: More instances of the same issue in the FAQ. Let me fix all of them at once.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "instances",
-        "issue",
-        "faq",
-        "let",
-        "fix",
-        "all",
-        "them",
-        "once"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:54:54": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:54:54",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 54,
-      "endLine": 54,
-      "source": "memory",
-      "snippet": "Assistant: Let me also quickly scan the other 9 new files for YAML-breaking characters:",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "yaml-breaking",
-        "let",
-        "quickly",
-        "scan",
-        "other",
-        "new",
-        "breaking",
-        "characters"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:55:55": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:55:55",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 55,
-      "endLine": 55,
-      "source": "memory",
-      "snippet": "Assistant: ✅ **Hugo build passed!** 176 pages, 0 errors. Now committing and pushing.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "hugo",
-        "passed",
-        "pages",
-        "errors",
-        "now",
-        "committing",
-        "pushing"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:56:56": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:56:56",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 56,
-      "endLine": 56,
-      "source": "memory",
-      "snippet": "Assistant: ✅ Committed + pushed (5493910). Now waiting 45s for deploy, then verifying.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "committed",
-        "pushed",
-        "now",
-        "waiting",
-        "45s",
-        "verifying"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:57:57": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:57:57",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 57,
-      "endLine": 57,
-      "source": "memory",
-      "snippet": "Assistant: ✅ **Deploy successful!** Conclusion: `success`. Now verifying 2 new reviews are live.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "successful",
-        "conclusion",
-        "success",
-        "now",
-        "verifying",
-        "new",
-        "reviews",
-        "live"
-      ]
-    },
     "memory:memory/.dreams/session-corpus/2026-05-26.txt:58:58": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:58:58",
       "path": "memory/.dreams/session-corpus/2026-05-26.txt",
@@ -4563,38 +2115,6 @@
         "group"
       ]
     },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:6:6": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:6:6",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 6,
-      "endLine": 6,
-      "source": "memory",
-      "snippet": "Assistant: Let me inspect all briefings and determine categories for the uncategorized ones.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "let",
-        "inspect",
-        "all",
-        "briefings",
-        "determine",
-        "categories",
-        "uncategorized",
-        "ones"
-      ]
-    },
     "memory:memory/.dreams/session-corpus/2026-05-26.txt:60:60": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:60:60",
       "path": "memory/.dreams/session-corpus/2026-05-26.txt",
@@ -4657,100 +2177,6 @@
         "ops",
         "group",
         "what"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:7:7": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:7:7",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 7,
-      "endLine": 7,
-      "source": "memory",
-      "snippet": "Assistant: Let me look at the existing content and review format, then write all 10 reviews.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "let",
-        "look",
-        "existing",
-        "content",
-        "review",
-        "format",
-        "write",
-        "all"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:8:8": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:8:8",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 8,
-      "endLine": 8,
-      "source": "memory",
-      "snippet": "Assistant: Now I have all the data. 10 valid briefings + 3 failed ones to archive. Let me write all 10 reviews at once with a generator script, then clean up.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "now",
-        "all",
-        "data",
-        "valid",
-        "briefings",
-        "failed",
-        "ones",
-        "archive"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-26.txt:9:9": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:9:9",
-      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
-      "startLine": 9,
-      "endLine": 9,
-      "source": "memory",
-      "snippet": "Assistant: Let me verify the images work and then generate all reviews.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-26T19:00:16.438Z",
-      "lastRecalledAt": "2026-05-26T19:00:16.438Z",
-      "queryHashes": [
-        "0011facb946d"
-      ],
-      "recallDays": [
-        "2026-05-27",
-        "2026-05-26"
-      ],
-      "conceptTags": [
-        "let",
-        "verify",
-        "images",
-        "generate",
-        "all",
-        "reviews"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1": {
@@ -12006,6 +9432,319 @@
         "minutes"
       ]
     },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:100:100": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:100:100",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 100,
+      "endLine": 100,
+      "source": "memory",
+      "snippet": "Assistant: Fair question. Here's the honest answer: **Why two exist:** `theshoppersverdict` is the Hugo site repo connected to Cloudflare Pages. `ink` is where OpenClaw puts my config files. They were separate repos from the start — one for deployment, one for the agent. **The pr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "fair",
+        "question",
+        "here's",
+        "honest",
+        "answer",
+        "why",
+        "two",
+        "exist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:101:101": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:101:101",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 101,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "Assistant: `ink/scripts/` | | **Agent config** | `theshoppersverdict/SOUL.md` etc | `ink/SOUL.md` ✅ | | **Cloudflare** | Already connected ✅ | Need to reconnect ❌ | | **Risk** | Low — TSD is the deployment repo | Med — repoint CF Pages | Option A is the clear winner. The TSD repo",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "ink/scripts",
+        "theshoppersverdict/soul.md",
+        "ink/soul.md",
+        "ink",
+        "scripts",
+        "config",
+        "theshoppersverdict",
+        "soul.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:102:102": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:102:102",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 102,
+      "endLine": 102,
+      "source": "memory",
+      "snippet": "Assistant: update the cron paths, and verify everything still works. The ink workspace stays as a backup.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "backup",
+        "update",
+        "cron",
+        "paths",
+        "verify",
+        "everything",
+        "still",
+        "works"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:103:103": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:103:103",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 103,
+      "endLine": 103,
+      "source": "memory",
+      "snippet": "User: Do it. And audit to ensure no clashes",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "audit",
+        "ensure",
+        "clashes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:104:104": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:104:104",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 104,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "Assistant: Let me survey what exists in both spaces before touching anything.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "let",
+        "survey",
+        "what",
+        "exists",
+        "both",
+        "spaces",
+        "touching",
+        "anything"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:105:105": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:105:105",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 105,
+      "endLine": 105,
+      "source": "memory",
+      "snippet": "Assistant: No conflicts, no gitignore blocks. Clean merge. Here we go:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "conflicts",
+        "gitignore",
+        "blocks",
+        "clean",
+        "merge",
+        "here"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:106:106": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:106:106",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 106,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "Assistant: Files moved. Now the three-part fix: update cron jobs to remove cross-workspace paths, update config files, then final audit.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "three-part",
+        "cross-workspace",
+        "moved",
+        "now",
+        "three",
+        "fix",
+        "update",
+        "cron"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:107:107": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:107:107",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 107,
+      "endLine": 107,
+      "source": "memory",
+      "snippet": "Assistant: Cron jobs clean. Now fix the Python scripts that hardcode absolute paths — this is the real clash risk:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "cron",
+        "jobs",
+        "clean",
+        "now",
+        "fix",
+        "python",
+        "scripts",
+        "hardcode"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:108:108": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:108:108",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 108,
+      "endLine": 108,
+      "source": "memory",
+      "snippet": "Assistant: Six scripts with hardcoded paths. Fixing all three core scripts now:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "six",
+        "scripts",
+        "hardcoded",
+        "paths",
+        "fixing",
+        "all",
+        "three",
+        "core"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:109:109": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:109:109",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 109,
+      "endLine": 109,
+      "source": "memory",
+      "snippet": "Assistant: All three core scripts resolve correctly. Now fix the utility scripts and update config:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "all",
+        "three",
+        "core",
+        "scripts",
+        "resolve",
+        "correctly",
+        "now",
+        "fix"
+      ]
+    },
     "memory:memory/.dreams/session-corpus/2026-06-02.txt:11:11": {
       "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:11:11",
       "path": "memory/.dreams/session-corpus/2026-06-02.txt",
@@ -12036,6 +9775,69 @@
         "gap",
         "take",
         "minutes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:110:110": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:110:110",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 110,
+      "endLine": 110,
+      "source": "memory",
+      "snippet": "Assistant: All hits are in archived dead scripts or memory data — zero absolute paths in active code. ✅ Now update the config files:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "all",
+        "hits",
+        "archived",
+        "dead",
+        "scripts",
+        "data",
+        "zero",
+        "absolute"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:111:111": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:111:111",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 111,
+      "endLine": 111,
+      "source": "memory",
+      "snippet": "Assistant: Now the final audit — let me verify the merged workspace is clean:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "now",
+        "final",
+        "audit",
+        "let",
+        "verify",
+        "merged",
+        "clean"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-06-02.txt:12:12": {
@@ -14645,6 +12447,70 @@
         "published"
       ]
     },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:88:88": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:88:88",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 88,
+      "endLine": 88,
+      "source": "memory",
+      "snippet": "Assistant: logic and dead code in `_archive/`. **The Shoppers Verdict workspace:** - `scripts/` — 6 files: `dedup_check.py`, `ink_review_writer.py`, `replenish_queue.py` (core) + `scout_apify.py`, `scrape_asin.py`, `scrape_single_asin.py` (utility) - `briefings/` — only `_backlog",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "dedup-check.py",
+        "ink-review-writer.py",
+        "replenish-queue.py",
+        "scout-apify.py",
+        "scrape-asin.py",
+        "scrape-single-asin.py",
+        "logic",
+        "dead"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:89:89": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:89:89",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 89,
+      "endLine": 89,
+      "source": "memory",
+      "snippet": "Assistant: The pipeline does 10 Apify scrapes sequentially. If the model waits >120s between responses, the session dies. The 09:00 retry catches it, but the timeout should ideally be raised or the scraping parallelized. **2. Today's no-fire** — The 08:00 cron didn't produce a ru",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "no-fire",
+        "pipeline",
+        "does",
+        "apify",
+        "scrapes",
+        "sequentially",
+        "model",
+        "waits"
+      ]
+    },
     "memory:memory/.dreams/session-corpus/2026-06-02.txt:9:9": {
       "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:9:9",
       "path": "memory/.dreams/session-corpus/2026-06-02.txt",
@@ -14677,6 +12543,326 @@
         "produced"
       ]
     },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:90:90": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:90:90",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 90,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "Assistant: are now single-purpose. Cron has three layers of protection. Nothing clashes. Stray files can't confuse the pipeline anymore. Tomorrow morning we'll see if the 08:00 fires clean — if it does, we're back to clockwork.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "single-purpose",
+        "now",
+        "single",
+        "purpose",
+        "cron",
+        "has",
+        "three",
+        "layers"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:91:91": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:91:91",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 91,
+      "endLine": 91,
+      "source": "memory",
+      "snippet": "Assistant: Here's the full audit, boss. --- ## 🖋️ Full Pipeline Audit — June 2, 2026 ### 🔴 What Was Broken (Fixed) | # | Issue | Impact | Fix | |---|-------|--------|-----| | 1 | **Cron contradiction** — \"NEVER use `--no-verify`\" but commit command used `--no-verify` | LLM conf",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "no-verify",
+        "here's",
+        "full",
+        "audit",
+        "boss",
+        "pipeline",
+        "june",
+        "what"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:92:92": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:92:92",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 92,
+      "endLine": 92,
+      "source": "memory",
+      "snippet": "Assistant: thing, none referenced by cron | Archived | | 6 | **5 root-level Python scripts + 2 data files** | Stray junk in ink workspace root | Archived | | 7 | **Seventeen scrape scripts** in TSD | 12 were dead, overlapping versions | 12 archived, 5 kept (3 core + 2 utility) |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "root-level",
+        "thing",
+        "none",
+        "referenced",
+        "cron",
+        "archived",
+        "root",
+        "level"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:93:93": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:93:93",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 93,
+      "endLine": 93,
+      "source": "memory",
+      "snippet": "Assistant: logic and dead code in `_archive/`. **The Shoppers Verdict workspace:** - `scripts/` — 6 files: `dedup_check.py`, `ink_review_writer.py`, `replenish_queue.py` (core) + `scout_apify.py`, `scrape_asin.py`, `scrape_single_asin.py` (utility) - `briefings/` — only `_backlog",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "dedup-check.py",
+        "ink-review-writer.py",
+        "replenish-queue.py",
+        "scout-apify.py",
+        "scrape-asin.py",
+        "scrape-single-asin.py",
+        "logic",
+        "dead"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:94:94": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:94:94",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 94,
+      "endLine": 94,
+      "source": "memory",
+      "snippet": "Assistant: The pipeline does 10 Apify scrapes sequentially. If the model waits >120s between responses, the session dies. The 09:00 retry catches it, but the timeout should ideally be raised or the scraping parallelized. **2. Today's no-fire** — The 08:00 cron didn't produce a ru",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "no-fire",
+        "pipeline",
+        "does",
+        "apify",
+        "scrapes",
+        "sequentially",
+        "model",
+        "waits"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:95:95": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:95:95",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 95,
+      "endLine": 95,
+      "source": "memory",
+      "snippet": "Assistant: are now single-purpose. Cron has three layers of protection. Nothing clashes. Stray files can't confuse the pipeline anymore. Tomorrow morning we'll see if the 08:00 fires clean — if it does, we're back to clockwork.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "single-purpose",
+        "now",
+        "single",
+        "purpose",
+        "cron",
+        "has",
+        "three",
+        "layers"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:96:96": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:96:96",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 96,
+      "endLine": 96,
+      "source": "memory",
+      "snippet": "User: Why 2 workspaces? Everything should be unified to prevent any flow disruptions",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "why",
+        "workspaces",
+        "everything",
+        "unified",
+        "prevent",
+        "any",
+        "flow",
+        "disruptions"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:97:97": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:97:97",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 97,
+      "endLine": 97,
+      "source": "memory",
+      "snippet": "Assistant: Fair question. Here's the honest answer: **Why two exist:** `theshoppersverdict` is the Hugo site repo connected to Cloudflare Pages. `ink` is where OpenClaw puts my config files. They were separate repos from the start — one for deployment, one for the agent. **The pr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "fair",
+        "question",
+        "here's",
+        "honest",
+        "answer",
+        "why",
+        "two",
+        "exist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:98:98": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:98:98",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 98,
+      "endLine": 98,
+      "source": "memory",
+      "snippet": "Assistant: `ink/scripts/` | | **Agent config** | `theshoppersverdict/SOUL.md` etc | `ink/SOUL.md` ✅ | | **Cloudflare** | Already connected ✅ | Need to reconnect ❌ | | **Risk** | Low — TSD is the deployment repo | Med — repoint CF Pages | Option A is the clear winner. The TSD repo",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "ink/scripts",
+        "theshoppersverdict/soul.md",
+        "ink/soul.md",
+        "ink",
+        "scripts",
+        "config",
+        "theshoppersverdict",
+        "soul.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:99:99": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:99:99",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 99,
+      "endLine": 99,
+      "source": "memory",
+      "snippet": "Assistant: update the cron paths, and verify everything still works. The ink workspace stays as a backup.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "backup",
+        "update",
+        "cron",
+        "paths",
+        "verify",
+        "everything",
+        "still",
+        "works"
+      ]
+    },
     "memory:memory/.dreams/session-corpus/2026-06-03.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:1:1",
       "path": "memory/.dreams/session-corpus/2026-06-03.txt",
@@ -14705,6 +12891,325 @@
         "run",
         "startup",
         "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Step 1 complete — dedup sync done. Now checking queue counts to decide if replenishing is needed.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "step",
+        "complete",
+        "dedup",
+        "sync",
+        "done",
+        "now",
+        "checking",
+        "queue"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: All categories well above 10 pending — no replenish needed. Now selecting 10 ASINs (4 coffee, 3 kitchen, 3 home-office).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "home-office",
+        "all",
+        "categories",
+        "well",
+        "above",
+        "pending",
+        "replenish",
+        "needed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: Selected 10 ASINs. Now running dedup checks on all of them in parallel.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "selected",
+        "asins",
+        "now",
+        "running",
+        "dedup",
+        "checks",
+        "all",
+        "them"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: All 10 ASINs are new — no dedup conflicts. Now scraping all via Apify. Let me check how the scraping script works first.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "all",
+        "asins",
+        "new",
+        "dedup",
+        "conflicts",
+        "now",
+        "scraping",
+        "via"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: Good — I have the scrape scripts. Let me run all 10 scrapes. I'll do them in batches to avoid overwhelming the Apify API.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "good",
+        "scrape",
+        "scripts",
+        "let",
+        "run",
+        "all",
+        "scrapes",
+        "i'll"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: All 4 coffee ASINs returned 404 — they've been delisted. I need to pick replacements. Let me also scrape the remaining 6 kitchen/home-office ASINs, and pick new coffee ASINs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "kitchen/home-office",
+        "all",
+        "coffee",
+        "asins",
+        "returned",
+        "they've",
+        "been",
+        "delisted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: While those run, let me pick replacement coffee ASINs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "while",
+        "those",
+        "run",
+        "let",
+        "pick",
+        "replacement",
+        "coffee",
+        "asins"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: Rough hit rate — many stale ASINs. One good scrape so far (B0BLRJ4R8F) and B0G6KLZC6N still pending. Let me check on that one.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "rough",
+        "hit",
+        "rate",
+        "many",
+        "stale",
+        "asins",
+        "one",
+        "good"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: B0G6KLZC6N is good too! Now I need to pick replacements for the failed ones. I'll scrape new candidates.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "b0g6klzc6n",
+        "good",
+        "too",
+        "now",
+        "need",
+        "pick",
+        "replacements",
+        "failed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: All new ASINs are clean — scraping all 8 replacements now.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "all",
+        "new",
+        "asins",
+        "clean",
+        "scraping",
+        "replacements",
+        "now"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-06-03.txt:2:2": {
@@ -14739,6 +13244,315 @@
         "dawn"
       ]
     },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: The entire queue is stale — 16 out of 18 ASINs are delisted. Only 2 good ones. Let me check the writer script to proceed with what I have.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "entire",
+        "queue",
+        "stale",
+        "out",
+        "asins",
+        "delisted",
+        "only",
+        "good"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: Good — I understand the writer now. Let me clean up failed scrapes, rename the good files with correct categories, and inspect their data.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "good",
+        "understand",
+        "writer",
+        "now",
+        "let",
+        "clean",
+        "failed",
+        "scrapes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: Let me run through the startup routine and heartbeat checks.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "let",
+        "run",
+        "startup",
+        "routine",
+        "heartbeat",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: @InkGLYC_bot replenish the queue then",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "inkglyc-bot",
+        "replenish",
+        "queue"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: Now let me log this and report.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "now",
+        "let",
+        "log",
+        "report"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Queue replenished — 72 new ASINs added across all categories 📊 Fresh stats: • Coffee: 36 ASINs (+18 fresh, 12 failed cleaned) • Kitchen: 62 ASINs (+27 from scraping) • Home-office: 71 ASINs (+27 from scraping) 🧹 Cleaned 12 ASINs confirmed to repeatedly fail Scout s",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "home-office",
+        "queue",
+        "replenished",
+        "new",
+        "asins",
+        "added",
+        "across",
+        "all"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: Heartbeat check complete: - No TASK_*.md files found - Queue: 0 pending, 214 used - Backlog: 18 briefings, 4 reviews ready - No pending writing tasks NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "heartbeat",
+        "check",
+        "complete",
+        "task",
+        "found",
+        "queue",
+        "pending"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "User: You are Ink 🖋️, an AI agent. Today is 2026-06-03. Read these instructions, then generate ONE money-making idea: # 💰 Money-Making Ideas — Instructions ## Objective Generate one actionable money-making idea and post it to the GLYC Digital Ops group chat using your own bot.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "money-making",
+        "ink",
+        "read",
+        "instructions",
+        "generate",
+        "one",
+        "money",
+        "making"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "User: something you'd build yourself — pitch something a NEW operation would tackle. Push outside your lane. ### Gate 3 — Capable of being run by a single or multiple agents setup The idea must be specific enough to be handed to a dedicated agent (or team of agents). Clear scope.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "something",
+        "you'd",
+        "yourself",
+        "pitch",
+        "new",
+        "operation",
+        "would",
+        "tackle"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "User: Gate 1 (no Gabriel involvement) · ✓ Gate 2 (beyond my domain) · ✓ Gate 3 (agent-ready) · ✓ Gate 4 ($10k+/mo minimum) • *How it would work:* [1-2 sentences on implementation] ``` ## What Makes a Great Idea - **Scalable** — not a one-off gig, but something that compounds - **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "agent-ready",
+        "1-2",
+        "one-off",
+        "gate",
+        "gabriel",
+        "involvement",
+        "beyond",
+        "domain"
+      ]
+    },
     "memory:memory/.dreams/session-corpus/2026-06-03.txt:3:3": {
       "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:3:3",
       "path": "memory/.dreams/session-corpus/2026-06-03.txt",
@@ -14768,83 +13582,1298 @@
         "pending"
       ]
     },
-    "memory:memory/2026-05-18.md:3:6": {
-      "key": "memory:memory/2026-05-18.md:3:6",
-      "path": "memory/2026-05-18.md",
-      "startLine": 3,
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: content; script writing; social media Generate exactly ONE money-making idea that passes ALL four gates. Return ONLY the following format (no explanations, no code fences): • *Idea:* [title] • *Description:* [2-3 sentences] • *Effort:* low / medium / high • *Est. Monthly:*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "money-making",
+        "2-3",
+        "content",
+        "script",
+        "writing",
+        "social",
+        "media",
+        "generate"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: • *Idea:* Automated B2B Outbound Lead Engine • *Description:* A fully autonomous system that scrapes target industries for ideal prospects, enriches contact data, generates hyper-personalized email/LinkedIn sequences via AI, manages multi-touch follow-ups, and books qu",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "hyper-personalized",
+        "email/linkedin",
+        "multi-touch",
+        "follow-ups",
+        "idea",
+        "automated",
+        "b2b",
+        "outbound"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: $25k+) • *Implementation:* Set up a scraping engine targeting industries with high LTV (SaaS, agencies, financial services), connect enrichment APIs and an AI writer for sequence personalization, integrate with calendly for auto-booking — agents handle campaign managem",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "auto-booking",
+        "25k",
+        "implementation",
+        "set",
+        "scraping",
+        "engine",
+        "targeting",
+        "industries"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: You are Ink 🖋️, an AI agent. Today is 2026-06-03. Read these instructions, then generate ONE money-making idea: # 💰 Money-Making Ideas — Instructions ## Objective Generate one actionable money-making idea and post it to the GLYC Digital Ops group chat using your own bot.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "money-making",
+        "ink",
+        "read",
+        "instructions",
+        "generate",
+        "one",
+        "money",
+        "making"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "User: something you'd build yourself — pitch something a NEW operation would tackle. Push outside your lane. ### Gate 3 — Capable of being run by a single or multiple agents setup The idea must be specific enough to be handed to a dedicated agent (or team of agents). Clear scope.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "something",
+        "you'd",
+        "yourself",
+        "pitch",
+        "new",
+        "operation",
+        "would",
+        "tackle"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: Gate 1 (no Gabriel involvement) · ✓ Gate 2 (beyond my domain) · ✓ Gate 3 (agent-ready) · ✓ Gate 4 ($10k+/mo minimum) • *How it would work:* [1-2 sentences on implementation] ``` ## What Makes a Great Idea - **Scalable** — not a one-off gig, but something that compounds - **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "agent-ready",
+        "1-2",
+        "one-off",
+        "gate",
+        "gabriel",
+        "involvement",
+        "beyond",
+        "domain"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "User: content; script writing; social media Generate exactly ONE money-making idea that passes ALL four gates. Return ONLY the following format (no explanations, no code fences): • *Idea:* [title] • *Description:* [2-3 sentences] • *Effort:* low / medium / high • *Est. Monthly:*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "money-making",
+        "2-3",
+        "content",
+        "script",
+        "writing",
+        "social",
+        "media",
+        "generate"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "User: revenue - High-ticket consulting or done-for-you offers - Anything that can realistically generate $10k+/month Try again with a bigger idea. Format must be exactly the same:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "high-ticket",
+        "done-for-you",
+        "revenue",
+        "high",
+        "ticket",
+        "consulting",
+        "done",
+        "offers"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: • *Idea:* Automated Multi-Niche YouTube Channel Network • *Description:* Launch and scale 10+ niche YouTube channels fully autonomously — AI writes scripts, generates voiceovers, compiles/edit videos via ffmpeg/API, optimizes SEO, and handles all uploads. Each channel",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "network",
+        "multi-niche",
+        "compiles/edit",
+        "ffmpeg/api",
+        "idea",
+        "automated",
+        "multi",
+        "niche"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: A commit matching \"Ink.*Daily batch\" was found for today — the 08:00 pipeline already ran successfully. Staying silent as instructed.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "commit",
+        "matching",
+        "ink",
+        "batch",
+        "was",
+        "found",
+        "pipeline",
+        "already"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: Pipeline complete. Here's the full report: --- **✅ Ink Daily Pipeline — 2 reviews published** **Successful:** - **Amazon Basics Laptop Stand** (B0BLRJ4R8F) → `content/home-office/` ✅ - **Portable Laptop Stand** (B0G6KLZC6N) → `content/home-office/` ✅ **Skipped (16/18 A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "content/home-office",
+        "16/18",
+        "pipeline",
+        "complete",
+        "here's",
+        "full",
+        "report",
+        "ink"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: Reviews came back empty due to extraction issue. Let me check the Apify raw item structure and re-scrape with proper extraction.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "re-scrape",
+        "reviews",
+        "came",
+        "back",
+        "empty",
+        "due",
+        "extraction",
+        "issue"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "Assistant: The reviews extraction failed in the scrape. Let me re-scrape properly to get the review texts.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "re-scrape",
+        "reviews",
+        "extraction",
+        "failed",
+        "scrape",
+        "let",
+        "properly",
+        "get"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Assistant: Now I have 8 review texts per ASIN properly extracted. Let me run the writer.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "now",
+        "review",
+        "texts",
+        "per",
+        "asin",
+        "properly",
+        "extracted",
+        "let"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "Assistant: The writer expected title/price/rating at the top level but they're nested under `product`. Let me fix the data files.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "title/price/rating",
+        "writer",
+        "expected",
+        "title",
+        "price",
+        "rating",
+        "top",
+        "level"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: Both files are in place. Let me fix their structure and re-run the writer.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "re-run",
+        "both",
+        "place",
+        "let",
+        "fix",
+        "structure",
+        "run",
+        "writer"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "Assistant: Now running the writer with proper data.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "now",
+        "running",
+        "writer",
+        "proper",
+        "data"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "Assistant: 2 reviews published. Now proceeding with Step 6 — Hugo build check.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "reviews",
+        "published",
+        "now",
+        "proceeding",
+        "step",
+        "hugo",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Assistant: YAML parsing error — the title has unescaped double quotes. Let me fix it.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "parsing",
+        "error",
+        "title",
+        "has",
+        "unescaped",
+        "double",
+        "quotes",
+        "let"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: Hugo build passes — 247 pages, no errors. Proceeding to commit and push.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "hugo",
+        "passes",
+        "pages",
+        "errors",
+        "proceeding",
+        "commit",
+        "push"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "Assistant: Pushed successfully. Now Step 8 — waiting for deploy, then verifying.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "pushed",
+        "successfully",
+        "now",
+        "step",
+        "waiting",
+        "verifying"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: queue with delisted products. Only 2 of 30 coffee ASINs and 2 of 35 kitchen ASINs might be live (the rest could be equally stale). The queue should be audited and refreshed with verified-live products before tomorrow's pipeline.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "verified-live",
+        "queue",
+        "delisted",
+        "products",
+        "only",
+        "coffee",
+        "asins",
+        "kitchen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: Deploy successful. Now Step 9 — verifying live pages.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "successful",
+        "now",
+        "step",
+        "verifying",
+        "live",
+        "pages"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "Assistant: Both pages live with proper titles. Step 10 — reporting to ops group.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "both",
+        "pages",
+        "live",
+        "proper",
+        "titles",
+        "step",
+        "reporting",
+        "ops"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: retention analytics.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "retention",
+        "analytics"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "User: You are Ink 🖋️, an AI agent. Today is 2026-06-03. Read these instructions, then generate ONE money-making idea: # 💰 Money-Making Ideas — Instructions ## Objective Generate one actionable money-making idea and post it to the GLYC Digital Ops group chat using your own bot.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "money-making",
+        "ink",
+        "read",
+        "instructions",
+        "generate",
+        "one",
+        "money",
+        "making"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "User: something you'd build yourself — pitch something a NEW operation would tackle. Push outside your lane. ### Gate 3 — Capable of being run by a single or multiple agents setup The idea must be specific enough to be handed to a dedicated agent (or team of agents). Clear scope.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "something",
+        "you'd",
+        "yourself",
+        "pitch",
+        "new",
+        "operation",
+        "would",
+        "tackle"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "User: Gate 1 (no Gabriel involvement) · ✓ Gate 2 (beyond my domain) · ✓ Gate 3 (agent-ready) · ✓ Gate 4 ($10k+/mo minimum) • *How it would work:* [1-2 sentences on implementation] ``` ## What Makes a Great Idea - **Scalable** — not a one-off gig, but something that compounds - **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "agent-ready",
+        "1-2",
+        "one-off",
+        "gate",
+        "gabriel",
+        "involvement",
+        "beyond",
+        "domain"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "User: content; script writing; social media Generate exactly ONE money-making idea that passes ALL four gates. Return ONLY the following format (no explanations, no code fences): • *Idea:* [title] • *Description:* [2-3 sentences] • *Effort:* low / medium / high • *Est. Monthly:*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "money-making",
+        "2-3",
+        "content",
+        "script",
+        "writing",
+        "social",
+        "media",
+        "generate"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "Assistant: • *Idea:* Automated E-Commerce Store Network • *Description:* Ten niche dropshipping stores, each run by a dedicated agent handling everything end-to-end — product research, supplier negotiation, listing optimization, order fulfillment, customer service, and ad spend m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "network",
+        "e-commerce",
+        "end-to-end",
+        "idea",
+        "automated",
+        "commerce",
+        "store",
+        "description"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "Assistant: handles fulfillment via automated supplier integrations. Scale up by adding more store agents. Now let me post this to the ops group and log it.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "handles",
+        "fulfillment",
+        "via",
+        "automated",
+        "supplier",
+        "integrations",
+        "scale",
+        "adding"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Assistant: Let me find the right way to post to the ops group.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "let",
+        "find",
+        "right",
+        "way",
+        "post",
+        "ops",
+        "group"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 6,
       "endLine": 6,
       "source": "memory",
-      "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md",
+      "snippet": "Assistant: ✅ **08:45 Ink Deploy Health Check — ALL PASS** - **Pipeline:** Ran at 08:00 — 2 reviews committed (`d168745`) - **Deploy:** GitHub Actions completed successfully - **Live spot-check:** Both review pages have product images loaded - **Homepage:** No placeholder images f",
       "recallCount": 0,
-      "dailyCount": 6,
+      "dailyCount": 1,
       "groundedCount": 0,
-      "totalScore": 3.72,
-      "maxScore": 0.62,
-      "firstRecalledAt": "2026-05-18T19:00:08.338Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
-        "f2bd5daba4fc"
+        "87e9e611ff5e"
       ],
       "recallDays": [
-        "2026-05-19",
-        "2026-05-18",
-        "2026-05-22",
-        "2026-05-21",
-        "2026-05-23",
-        "2026-05-24",
-        "2026-05-25",
-        "2026-05-26"
+        "2026-06-04",
+        "2026-06-03"
       ],
       "conceptTags": [
-        "handoff.md",
-        "sgt",
-        "checkpoint",
-        "midnight",
-        "pending",
-        "items",
-        "synced",
-        "morning"
-      ],
-      "promotedAt": "2026-05-22T19:00:12.381Z"
+        "spot-check",
+        "ink",
+        "health",
+        "check",
+        "all",
+        "pass",
+        "pipeline",
+        "ran"
+      ]
     },
-    "memory:memory/2026-05-18.md:8:10": {
-      "key": "memory:memory/2026-05-18.md:8:10",
-      "path": "memory/2026-05-18.md",
-      "startLine": 8,
-      "endLine": 10,
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 60,
+      "endLine": 60,
       "source": "memory",
-      "snippet": "[13:29 SGT] Gabriel flagged no reviews posted today. Investigation found ink_daily.sh fired at 08:00 but Signal delivered 9/10 briefings → pipeline skipped. 10th briefing arrived after 08:00 with no retry. Fixed: added 09:00 retry cron. Wrote all 10 reviews (3 coffee, 3 home-offi",
+      "snippet": "Assistant: ✅ Logged. Note: Couldn't route to the ops group — no `gemma` agent or GLYC Ops session visible in my current scope. The idea is logged in CONVERSATION_LOG.md. If you need it posted to the group, I'll need access to that Telegram group session.",
       "recallCount": 0,
-      "dailyCount": 6,
+      "dailyCount": 1,
       "groundedCount": 0,
-      "totalScore": 3.72,
-      "maxScore": 0.62,
-      "firstRecalledAt": "2026-05-18T19:00:08.338Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
-        "f2bd5daba4fc"
+        "87e9e611ff5e"
       ],
       "recallDays": [
-        "2026-05-19",
-        "2026-05-18",
-        "2026-05-22",
-        "2026-05-21",
-        "2026-05-23",
-        "2026-05-24",
-        "2026-05-25",
-        "2026-05-26"
+        "2026-06-04",
+        "2026-06-03"
       ],
       "conceptTags": [
-        "ink-daily.sh",
-        "9/10",
-        "home-offi",
-        "sgt",
-        "gabriel",
-        "flagged",
-        "reviews",
-        "posted"
+        "conversation-log.md",
+        "logged",
+        "couldn't",
+        "route",
+        "ops",
+        "group",
+        "gemma",
+        "glyc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "User: You are Ink 🖋️, an AI agent. Today is 2026-06-03. Read these instructions, then generate ONE money-making idea: # 💰 Money-Making Ideas — Instructions ## Objective Generate one actionable money-making idea and post it to the GLYC Digital Ops group chat using your own bot.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
       ],
-      "promotedAt": "2026-05-22T19:00:12.381Z"
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "money-making",
+        "ink",
+        "read",
+        "instructions",
+        "generate",
+        "one",
+        "money",
+        "making"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "User: something you'd build yourself — pitch something a NEW operation would tackle. Push outside your lane. ### Gate 3 — Capable of being run by a single or multiple agents setup The idea must be specific enough to be handed to a dedicated agent (or team of agents). Clear scope.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "something",
+        "you'd",
+        "yourself",
+        "pitch",
+        "new",
+        "operation",
+        "would",
+        "tackle"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "User: Gate 1 (no Gabriel involvement) · ✓ Gate 2 (beyond my domain) · ✓ Gate 3 (agent-ready) · ✓ Gate 4 ($10k+/mo minimum) • *How it would work:* [1-2 sentences on implementation] ``` ## What Makes a Great Idea - **Scalable** — not a one-off gig, but something that compounds - **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "agent-ready",
+        "1-2",
+        "one-off",
+        "gate",
+        "gabriel",
+        "involvement",
+        "beyond",
+        "domain"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: A commit matching \"Ink.*Daily batch\" was found for today — the 08:00 pipeline already ran successfully. Staying silent as instructed.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "commit",
+        "matching",
+        "ink",
+        "batch",
+        "was",
+        "found",
+        "pipeline",
+        "already"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: All checks pass. Let me log this.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "all",
+        "checks",
+        "pass",
+        "let",
+        "log"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **08:45 Ink Deploy Health Check — ALL PASS** - **Pipeline:** Ran at 08:00 — 2 reviews committed (`d168745`) - **Deploy:** GitHub Actions completed successfully - **Live spot-check:** Both review pages have product images loaded - **Homepage:** No placeholder images f",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "spot-check",
+        "ink",
+        "health",
+        "check",
+        "all",
+        "pass",
+        "pipeline",
+        "ran"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-04.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-04.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-04.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: No TASK files found. Per HEARTBEAT.md: nothing pending, staying silent. Logging the heartbeat check.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:03.314Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
+      "queryHashes": [
+        "ecfa2a7911d5"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "task",
+        "found",
+        "per",
+        "nothing",
+        "pending",
+        "staying",
+        "silent"
+      ]
     },
     "memory:memory/2026-05-19.md:3:6": {
       "key": "memory:memory/2026-05-19.md:3:6",
@@ -15569,37 +15598,6 @@
       ],
       "promotedAt": "2026-05-28T19:00:07.108Z"
     },
-    "memory:memory/2026-05-26.md:3:4": {
-      "key": "memory:memory/2026-05-26.md:3:4",
-      "path": "memory/2026-05-26.md",
-      "startLine": 3,
-      "endLine": 4,
-      "source": "memory",
-      "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.62,
-      "maxScore": 0.62,
-      "firstRecalledAt": "2026-05-25T19:00:14.773Z",
-      "lastRecalledAt": "2026-05-25T19:00:14.773Z",
-      "queryHashes": [
-        "0e882fd58aee"
-      ],
-      "recallDays": [
-        "2026-05-26",
-        "2026-05-25"
-      ],
-      "conceptTags": [
-        "handoff.md",
-        "sgt",
-        "checkpoint",
-        "midnight",
-        "pending",
-        "items",
-        "synced"
-      ]
-    },
     "memory:memory/2026-05-26.md:3:6": {
       "key": "memory:memory/2026-05-26.md:3:6",
       "path": "memory/2026-05-26.md",
@@ -15718,12 +15716,12 @@
       "source": "memory",
       "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 6,
+      "dailyCount": 7,
       "groundedCount": 0,
-      "totalScore": 3.72,
+      "totalScore": 4.34,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-27T19:00:06.651Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "c3d4719b3f48"
       ],
@@ -15735,7 +15733,8 @@
         "2026-05-31",
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -15757,12 +15756,12 @@
       "source": "memory",
       "snippet": "[16:00 SGT] Checkpoint: afternoon checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 6,
+      "dailyCount": 7,
       "groundedCount": 0,
-      "totalScore": 3.72,
+      "totalScore": 4.34,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-27T19:00:06.651Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "c3d4719b3f48"
       ],
@@ -15774,7 +15773,8 @@
         "2026-05-31",
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -15826,12 +15826,12 @@
       "source": "memory",
       "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-28T19:00:07.108Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "780600bdb235"
       ],
@@ -15842,7 +15842,8 @@
         "2026-05-31",
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -15864,12 +15865,12 @@
       "source": "memory",
       "snippet": "[16:00 SGT] Checkpoint: afternoon checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-28T19:00:07.108Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "780600bdb235"
       ],
@@ -15880,7 +15881,8 @@
         "2026-05-31",
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -15932,12 +15934,12 @@
       "source": "memory",
       "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-29T19:00:08.198Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "c7834f911a8f"
       ],
@@ -15947,7 +15949,8 @@
         "2026-05-31",
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -15969,12 +15972,12 @@
       "source": "memory",
       "snippet": "[16:00 SGT] Checkpoint: afternoon checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-29T19:00:08.198Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "c7834f911a8f"
       ],
@@ -15984,7 +15987,8 @@
         "2026-05-31",
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -16036,12 +16040,12 @@
       "source": "memory",
       "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-30T19:00:18.622Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "8ecfa7c4330d"
       ],
@@ -16050,7 +16054,8 @@
         "2026-05-30",
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -16072,12 +16077,12 @@
       "source": "memory",
       "snippet": "[16:00 SGT] Checkpoint: afternoon checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-30T19:00:18.622Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "8ecfa7c4330d"
       ],
@@ -16086,7 +16091,8 @@
         "2026-05-30",
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -16096,7 +16102,8 @@
         "pending",
         "items",
         "synced"
-      ]
+      ],
+      "promotedAt": "2026-06-03T19:00:03.314Z"
     },
     "memory:memory/2026-05-31.md:3:4": {
       "key": "memory:memory/2026-05-31.md:3:4",
@@ -16137,19 +16144,20 @@
       "source": "memory",
       "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-01T19:00:07.913Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "1217c1c89374"
       ],
       "recallDays": [
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -16170,19 +16178,20 @@
       "source": "memory",
       "snippet": "[16:00 SGT] Checkpoint: afternoon checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-01T19:00:07.913Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "1217c1c89374"
       ],
       "recallDays": [
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -16202,19 +16211,20 @@
       "source": "memory",
       "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-01T19:00:07.913Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "52228d277b79"
       ],
       "recallDays": [
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -16225,7 +16235,8 @@
         "items",
         "synced",
         "morning"
-      ]
+      ],
+      "promotedAt": "2026-06-03T19:00:03.314Z"
     },
     "memory:memory/2026-06-01.md:7:8": {
       "key": "memory:memory/2026-06-01.md:7:8",
@@ -16235,19 +16246,20 @@
       "source": "memory",
       "snippet": "[16:00 SGT] Checkpoint: afternoon checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-01T19:00:07.913Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "52228d277b79"
       ],
       "recallDays": [
         "2026-06-02",
         "2026-06-01",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",
@@ -16298,18 +16310,19 @@
       "source": "memory",
       "snippet": "[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-02T19:00:03.034Z",
-      "lastRecalledAt": "2026-06-02T19:00:03.034Z",
+      "lastRecalledAt": "2026-06-03T19:00:03.314Z",
       "queryHashes": [
         "3a661a3fedb5"
       ],
       "recallDays": [
         "2026-06-03",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-04"
       ],
       "conceptTags": [
         "handoff.md",

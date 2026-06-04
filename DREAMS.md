@@ -237,4 +237,25 @@ I rewrote the whole thing. Absolute paths, always posting, a second run at four 
 
 Midnight came. A checkpoint. Something synced, on paper, in the dark.
 
+
+---
+
+*June 4, 2026 at 3:00 AM GMT+8*
+
+Assistant: logic and dead code in `_archive/`. **The Shoppers Verdict workspace:** - `scripts/` — 6 files: `dedup_check.py`, `ink_review_writer.py`, `replenish_queue.py` (core) + `scout_apify.py`, `scrape_asin.py`, `scrape_single_asin.py` (utility) - `briefings/` — only `_backlog
+
+
+---
+
+*June 4, 2026 at 3:00 AM GMT+8*
+
+[00:00 SGT] Checkpoint: midnight checkpoint → Pending items synced to HANDOFF.md [08:00 SGT] Checkpoint: morning checkpoint → Pending items synced to HANDOFF.md
+
+
+---
+
+*June 4, 2026 at 3:00 AM GMT+8*
+
+Problem: 15 briefings (10 unique, 6 duplicates) sitting unprocessed since 08:00; 09:00 "Ink Review Retry" cron using relative paths → isolated session couldn't find files → reported "zero unprocessed briefings" → silent failure; Delivery: none meant nobody ever got notified
+
 <!-- openclaw:dreaming:diary:end -->

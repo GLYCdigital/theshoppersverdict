@@ -1,6 +1,8 @@
 ## 🖋️ Ink — Conversation Log
 
-Last updated: 2026-06-02
+Last updated: 2026-06-04
+
+### [2026-06-04 08:00 SGT] — Daily pipeline started (cron trigger)
 
 ### [2026-06-02 08:00 SGT] — Daily pipeline started (cron trigger)
 
@@ -21,3 +23,13 @@ Last updated: 2026-06-02
 - **Home-office:** 3 reviews (dual monitor stand, office chair, monitor mount)
 - **Deploy:** ✅ Success (GH Actions)
 - **Hugo build:** ✅ 245 pages, no errors
+
+[08:08 SGT] Daily pipeline run — 2 home-office reviews published via Hugo & Cloudflare. 16 ASINs skipped (delisted/404). Reported to ops group.
+[08:45 SGT] ✅ Deploy health check: pipeline ran (2 reviews), deploy success, 2/2 live pages have images, no homepage placeholders.
+[2026-06-03 09:14 SGT] — Queue replenished: 72 new ASINs added (coffee: 18, kitchen: 27, home-office: 27). Cleaned 12 failed ASINs from coffee queue. 9 pre-scraped briefings + 4 draft reviews in backlog.
+[16:05 SGT] Money-making idea generated: Automated E-Commerce Store Network (k/mo est). Posted to ops group.
+[01:10 SGT] Heartbeat check: no TASK files, no pending work. Silent.
+[03:10 SGT] Heartbeat check: no TASK files, no pending work. Silent.
+[04:10 SGT] Heartbeat check: no TASK files, backlog items in HANDOFF.md (9 briefings + 4 draft reviews). Silent.
+[06:36 SGT] Heartbeat check: no TASK files. Backlog unchanged. Silent.
+[08:06 SGT] Ink Daily Pipeline triggered — starting Step 1
