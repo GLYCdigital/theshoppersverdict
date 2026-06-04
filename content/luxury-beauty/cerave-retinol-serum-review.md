@@ -1,14 +1,14 @@
 ---
 title: "CeraVe Retinol Serum Review: The Gentle Anti-Aging Entry Point"
 seo_title: "CeraVe Retinol Serum Review 2026: Best Gentle Retinol for Beginners?"
-meta_description: "Our full CeraVe Retinol Serum review. 45,000+ Amazon reviews analyzed. See why this gentle, ceramide-packed retinol is the go-to for first-time users and sensitive skin."
+meta_description: "Our full CeraVe Resurfacing Retinol Serum review. 56,000+ Amazon reviews analyzed. See why this gentle, ceramide-packed retinol is the go-to for post-acne marks and sensitive skin."
 date: 2026-06-04
 slug: cerave-retinol-serum-review
-amazon_url: "https://www.amazon.com/dp/B07YHCLWDX/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61CJZvXtz0L._SL1500_.jpg"
-image_alt: "CeraVe Retinol Serum for Post-Acne Marks with pump bottle on a white background"
-amazon_rating: 4.4
-review_count: 45182
+amazon_url: "https://www.amazon.com/dp/B07VWSN95S/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/71zvPJqU7FL._SL1500_.jpg"
+image_alt: "CeraVe Resurfacing Retinol Serum for Post-Acne Marks with licorice root and niacinamide, 1 fl oz pump bottle"
+amazon_rating: 4.6
+review_count: 56080
 verdict_score: 4.5
 categories:
   - luxury-beauty
@@ -20,9 +20,9 @@ keywords:
   - CeraVe skincare review
 pros:
   - "Encapsulated retinol minimizes irritation — perfect for first-time retinol users"
-  - "Ceramide complex strengthens the skin barrier while retinol works"
+  - "Licorice root extract and niacinamide brighten post-acne marks alongside the retinol"
+  - "Ceramide complex strengthens the skin barrier while the active ingredients work"
   - "Non-comedogenic and fragrance-free — won't clog pores or trigger sensitivities"
-  - "Affordable entry point into retinol skincare at under $20"
 cons:
   - "Lower retinol concentration means slower visible results than prescription strength"
   - "The pump bottle can be finicky — some users report dispensing issues"
@@ -36,9 +36,9 @@ faq:
 ---
 # CeraVe Retinol Serum Review: Retinol Without the Regret
 
-Starting retinol can be terrifying. The horror stories of peeling, redness, and "the purge" keep millions from trying the most proven anti-aging ingredient in skincare. **CeraVe's Retinol Serum** was specifically designed to solve this problem — and with 45,000+ reviews at 4.4 stars, it appears to have succeeded.
+Starting retinol can be terrifying. The horror stories of peeling, redness, and "the purge" keep millions from trying the most proven anti-aging ingredient in skincare. **CeraVe's Retinol Serum** was specifically designed to solve this problem — and with 56,000+ reviews at 4.6 stars, it appears to have succeeded.
 
-We dove deep into the reviews to understand why this $18 serum has become the dermatologist-recommended entry point for retinol beginners.
+We dove deep into the reviews to understand why this $18.68 serum has become the dermatologist-recommended entry point for retinol beginners.
 
 ## The Genius Formulation
 
