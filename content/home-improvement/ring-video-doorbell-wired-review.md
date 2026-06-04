@@ -5,8 +5,8 @@ meta_description: "Our full Ring Video Doorbell Wired review. Real customer insi
 date: 2026-06-04
 slug: ring-video-doorbell-wired-review
 amazon_url: "https://www.amazon.com/dp/B08CKHPP52/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/617FlMoVrkL._AC_SL1500_.jpg"
-image_alt: "Ring Video Doorbell Wired in Satin Nickel mounted on a front door"
+amazon_image: "https://m.media-amazon.com/images/I/61AITQMBEAL._SL1500_.jpg"
+image_alt: "Ring Video Doorbell Wired in Satin Nickel with two-way talk, advanced motion detection, and HD video"
 amazon_rating: 4.5
 review_count: 28541
 verdict_score: 4.5

@@ -5,8 +5,8 @@ meta_description: "Our full Barrina LED T5 4FT shop light review. See why 25,000
 date: 2026-06-04
 slug: barrina-led-shop-light-4ft-review
 amazon_url: "https://www.amazon.com/dp/B07DNPL2VC/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71jKzIKzB6L._AC_SL1500_.jpg"
-image_alt: "Barrina LED T5 4FT shop lights installed in a garage workshop ceiling"
+amazon_image: "https://m.media-amazon.com/images/I/51p1Rc2CUwL._AC_SL1001_.jpg"
+image_alt: "Barrina LED T5 4FT integrated single fixture shop light, 2200lm, 6500K super bright white"
 amazon_rating: 4.7
 review_count: 25183
 verdict_score: 4.5
