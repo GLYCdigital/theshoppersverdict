@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty") }}
+{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty" "pet-supplies") }}
 {{ $newest := $all.ByDate.Reverse }}
 {{ $daily := first 10 $newest }}
 {{ $topScored := sort $daily ".Params.amazon_rating" "desc" }}
@@ -31,7 +31,7 @@
   var today = new Date();
   var start = new Date(today.getFullYear(), 0, 1);
   var weekNum = Math.ceil((((today - start) / 86400000) + start.getDay() + 1) / 7);
-  var rotation = weekNum % 5;
+  var rotation = weekNum % 6;
   var data = [
     {
       bg: '/images/hero-kitchen.jpg',
@@ -67,6 +67,13 @@
       desc: 'Verdicts on skincare, makeup, fragrance, and premium beauty essentials.',
       link: '/luxury-beauty/',
       cta: 'Beauty Reviews →'
+    },
+    {
+      bg: '/images/hero-pet-supplies.jpg',
+      title: 'Pet Supplies',
+      desc: 'Verdicts on pet food, toys, grooming, and everything your furry friend needs.',
+      link: '/pet-supplies/',
+      cta: 'Pet Supplies Reviews →'
     }
   ];
   var pick = data[rotation];

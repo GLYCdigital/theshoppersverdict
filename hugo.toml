@@ -57,3 +57,4 @@ summaryLength = 25
   "home-office" = "/home-office/:slug/"
   "home-improvement" = "/home-improvement/:slug/"
   "luxury-beauty" = "/luxury-beauty/:slug/"
+  "pet-supplies" = "/pet-supplies/:slug/"
