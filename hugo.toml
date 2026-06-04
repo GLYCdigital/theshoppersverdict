@@ -55,3 +55,4 @@ summaryLength = 25
   kitchen = "/kitchen/:slug/"
   coffee = "/coffee/:slug/"
   "home-office" = "/home-office/:slug/"
+  "home-improvement" = "/home-improvement/:slug/"

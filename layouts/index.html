@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office") }}
+{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office" "home-improvement") }}
 {{ $newest := $all.ByDate.Reverse }}
 {{ $daily := first 10 $newest }}
 {{ $topScored := sort $daily ".Params.amazon_rating" "desc" }}
@@ -31,7 +31,7 @@
   var today = new Date();
   var start = new Date(today.getFullYear(), 0, 1);
   var weekNum = Math.ceil((((today - start) / 86400000) + start.getDay() + 1) / 7);
-  var rotation = weekNum % 3;
+  var rotation = weekNum % 4;
   var data = [
     {
       bg: '/images/hero-kitchen.jpg',
@@ -53,6 +53,13 @@
       desc: 'Verdicts on chairs, monitors, desks, and workspace essentials.',
       link: '/home-office/',
       cta: 'Office Reviews →'
+    },
+    {
+      bg: '/images/hero-home-improvement.jpg',
+      title: 'Home Improvement',
+      desc: 'Verdicts on tools, hardware, paint, and everything for your next project.',
+      link: '/home-improvement/',
+      cta: 'Home Improvement Reviews →'
     }
   ];
   var pick = data[rotation];

@@ -8,7 +8,7 @@
   </div>
 </section>
 
-{{ $all := (where .Site.RegularPages "Section" "in" (slice "kitchen" "coffee" "home-office")).ByDate.Reverse }}
+{{ $all := (where .Site.RegularPages "Section" "in" (slice "kitchen" "coffee" "home-office" "home-improvement")).ByDate.Reverse }}
 {{ $total := len $all }}
 {{ $perCol := div $total 3 }}
 {{ if gt (mod $total 3) 0 }}{{ $perCol = add $perCol 1 }}{{ end }}
