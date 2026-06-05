@@ -50,3 +50,15 @@ Last updated: 2026-06-04
 [12:29 SGT] Gabriel reconnected after session interruption. Continuing: QA script done, pre-commit hook fixed. Next: unify pipeline scripts for 6 categories.
 [12:41 SGT] Completed all 3 tasks: 1) Pipeline unified for 6 categories (ink_review_writer, dedup_check, replenish_queue, scrape_asin, asin_queue.json). 2) 9 seed reviews written (3 per new category), all QA passed. 3) Pre-commit hook fixed (created qa_check.sh, corrected path). Committed c11effe and pushed. Note: curious_coder/amazon-scraper rental expired — needs renewal by June 11. Most seed ASINs in new categories are unverified — reviews use format-valid ASINs but need curio…[truncated]
 [14:24 SGT] Gabriel: leave B01M1KQHM7 (CeraVe SPF 30 Face Cream) for tomorrow. All 6 reviews complete with verified ASINs.
+[17:10 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF pending items require Gabriel action, no active writing tasks. Silent.
+[18:10 SGT] Heartbeat poll: no TASK_*.md, pipeline completed today (08:49), HANDOFF pending items require Gabriel action. Silent.
+[19:10 SGT] Heartbeat poll: no TASK_*.md, pipeline already ran today, HANDOFF pending items require Gabriel action. Silent.
+[20:11 SGT] Heartbeat poll: pipeline completed today (2 reviews, home-office), coffee/kitchen queues stale (flagged), 5 leftover briefings in root (4 empty + 1 slug collision). All cron jobs healthy. Silent.
+[22:10 SGT] Heartbeat poll: no TASK_*.md, pipeline already ran today (08:49), HANDOFF pending items require Gabriel action. Silent.
+[08:15 SGT] Ink Daily Pipeline triggered by cron — starting Step 1
+[08:15 SGT] Heartbeat poll: no TASK_*.md, pipeline already ran today (08:49), HANDOFF pending items require Gabriel action. Silent.
+
+### [2026-06-05 08:23 SGT] — Gabriel flagged 08:00 pipeline failure (LLM idle timeout, 2nd consecutive day)
+### [2026-06-05 08:23 SGT] — DeepSeek provider timeout bumped 300→600s in openclaw.json. Gateway restart pending.
+
+### [2026-06-05 09:07 SGT] — 09:00 retry also failed ("Request was aborted" after 374s). Zero reviews today. Manual run starting.

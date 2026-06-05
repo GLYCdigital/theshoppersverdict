@@ -1,0 +1,16 @@
+{
+  "asin": "B0DGNSLQX8",
+  "url": "https://www.amazon.com/dp/B0DGNSLQX8",
+  "product": {
+    "title": "Unknown Product",
+    "price": null,
+    "rating": null,
+    "reviewsCount": null,
+    "imageUrl": "",
+    "highResolutionImages": [],
+    "thumbnailImage": ""
+  },
+  "reviews": [],
+  "totalReviewsFetched": 0,
+  "scrapeTimestamp": "2026-06-05T01:09:59Z"
+}

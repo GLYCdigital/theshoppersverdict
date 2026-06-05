@@ -1,28 +1,9 @@
 {
-  "asin": "B01MDLWVRQ",
-  "url": "https://www.amazon.com/dp/B01MDLWVRQ",
-  "category": "home-office",
-  "product": {
-    "title": "Globe Electric 52847 31.5 Inch Swing Arm Clamp-On White Desk Lamp with Nickel Accents, On/Off Rotary Switch, Book Reading Light, Home Essentials, Office D\u00e9cor, LED Bulb Compatible",
-    "price": 37.99,
-    "rating": 4.3,
-    "reviewsCount": 11281,
-    "imageUrl": "https://m.media-amazon.com/images/I/61q9ax-NHjL._AC_SL1500_.jpg",
-    "highResolutionImages": [
-      "https://m.media-amazon.com/images/I/61q9ax-NHjL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71WWu1Z5dML._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71sd8sqjKKL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/91VtMLl4YkL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71ZJgBmjWIL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81IUG+IBgxL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61MyvmU0ayL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61qOxsEbBHL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61q5WZpKN7L._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61D+jIloGgL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/716n6tN6HsL._AC_SL1500_.jpg"
-    ],
-    "thumbnailImage": "https://m.media-amazon.com/images/I/61q9ax-NHjL._AC_SY300_SX300_QL70_FMwebp_.jpg"
-  },
+  "title": "Globe Electric 52847 31.5 Inch Swing Arm Clamp-On White Desk Lamp with Nickel Accents, On/Off Rotary Switch, Book Reading Light, Home Essentials, Office D\u00e9cor, LED Bulb Compatible",
+  "price": 37.99,
+  "rating": 4.3,
+  "review_count": 11281,
+  "image": "https://m.media-amazon.com/images/I/61q9ax-NHjL._AC_SL1500_.jpg",
   "reviews": [
     {
       "reviewTitle": "Solid Lamp",
@@ -88,7 +69,5 @@
       "author": "AELQ35KUEKHLVX53T5MFCYH536XA",
       "verifiedPurchase": true
     }
-  ],
-  "totalReviewsFetched": 8,
-  "scrapeTimestamp": "2026-06-04T00:31:29Z"
+  ]
 }

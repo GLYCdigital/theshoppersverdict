@@ -1,24 +1,9 @@
 {
-  "asin": "B0DBLBJ2HG",
-  "url": "https://www.amazon.com/dp/B0DBLBJ2HG",
-  "category": "home-office",
-  "product": {
-    "title": "LOXP Adjustable Laptop Stand, Computer Stand with 360 Rotating Base, Ergonomic Laptop Riser Mount for Desk Foldable Protable Computer Desk Fits with MacBook Pro Air (10-16\") - Black",
-    "price": 27.99,
-    "rating": 4.6,
-    "reviewsCount": 2040,
-    "imageUrl": "https://m.media-amazon.com/images/I/71DQp57-ltL._AC_SL1500_.jpg",
-    "highResolutionImages": [
-      "https://m.media-amazon.com/images/I/71DQp57-ltL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71tYkxEWgkL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71O6wwxw9HL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71-VnkgbEGL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71EXhlda4pL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81s9Lsywa5L._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71OZZvSnxHL._AC_SL1500_.jpg"
-    ],
-    "thumbnailImage": "https://m.media-amazon.com/images/I/71DQp57-ltL._AC_SY300_SX300_QL70_FMwebp_.jpg"
-  },
+  "title": "LOXP Adjustable Laptop Stand, Computer Stand with 360 Rotating Base, Ergonomic Laptop Riser Mount for Desk Foldable Protable Computer Desk Fits with MacBook Pro Air (10-16\") - Black",
+  "price": 27.99,
+  "rating": 4.6,
+  "review_count": 2040,
+  "image": "https://m.media-amazon.com/images/I/71DQp57-ltL._AC_SL1500_.jpg",
   "reviews": [
     {
       "reviewTitle": "Excellent Quality and Functionality",
@@ -84,7 +69,5 @@
       "author": "AFPBRVRWODU47LZUAQABZZOQM5IA",
       "verifiedPurchase": true
     }
-  ],
-  "totalReviewsFetched": 8,
-  "scrapeTimestamp": "2026-06-04T00:31:08Z"
+  ]
 }

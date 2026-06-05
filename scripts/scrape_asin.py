@@ -39,11 +39,12 @@ def verify_image(url):
         return False, str(e)
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python3 scrape_asin.py <ASIN> [maxReviews]")
+    if len(sys.argv) < 3:
+        print("Usage: python3 scrape_asin.py <ASIN> <category> [maxReviews]")
         sys.exit(1)
     
     asin = extract_asin(sys.argv[1])
+    category = sys.argv[2]
     if not asin:
         asin = sys.argv[1].strip()
         # validate format
@@ -51,7 +52,7 @@ def main():
             print(f"ERROR: Invalid ASIN format: {asin}")
             sys.exit(1)
     
-    max_reviews = int(sys.argv[2]) if len(sys.argv) > 2 else 8
+    max_reviews = int(sys.argv[3]) if len(sys.argv) > 3 else 8
     
     url = f"https://www.amazon.com/dp/{asin}"
     print(f"[SCRAPE] Fetching {url} (maxReviews={max_reviews})...")
