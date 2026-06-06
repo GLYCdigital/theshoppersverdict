@@ -16,7 +16,7 @@ Usage:
   python3 scripts/pipeline_orchestrator.py --category coffee --count 4  # single cat
 """
 
-import sys, os, json, re, subprocess, time, shutil, glob
+import sys, os, json, re, random, subprocess, time, shutil, glob
 from pathlib import Path
 
 WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -25,6 +25,8 @@ BACKLOG_DIR = os.path.join(BRIEFINGS_DIR, "_backlog")
 PROCESSED_DIR = os.path.join(BRIEFINGS_DIR, "processed")
 QUEUE_PATH = os.path.join(WORKSPACE, "data", "asin_queue.json")
 PROCESSED_ASINS_PATH = os.path.join(WORKSPACE, "data", "processed_asins.json")
+
+SCRAPE_COOLDOWN_S = 45  # anti-bot: seconds between headed Chrome scrapes
 
 DEFAULT_DISTRIBUTION = {
     "coffee": 2,
@@ -209,9 +211,12 @@ def process_category(category, count, processed, dry_run=False):
     asins = pick_asins(category, needed, processed)
     tier1_used = set()
     
-    for asin in asins:
+    for i, asin in enumerate(asins):
         if len(results) >= count:
             break
+        if i > 0 and SCRAPE_COOLDOWN_S > 0:
+            print(f"  ⏳ Cooling down {SCRAPE_COOLDOWN_S}s to avoid bot detection...")
+            time.sleep(SCRAPE_COOLDOWN_S)
         print(f"  → {category} ASIN {asin}: Tier 1 (headed Chrome)")
         data = tier1_scrape(asin, category)
         if data and data.get('title'):
@@ -258,7 +263,11 @@ def run_pipeline(distribution=None, dry_run=False):
         print("  MODE: DRY RUN")
     print("=" * 60)
     
-    for category, count in distribution.items():
+    # Shuffle category order so different ASINs get first crack each day
+    cat_order = list(distribution.items())
+    random.shuffle(cat_order)
+    
+    for category, count in cat_order:
         print(f"\n📦 {category.upper()} — target: {count}")
         cat_results = process_category(category, count, processed, dry_run)
         results[category] = cat_results
