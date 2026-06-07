@@ -62,3 +62,63 @@ Last updated: 2026-06-04
 ### [2026-06-05 08:23 SGT] — DeepSeek provider timeout bumped 300→600s in openclaw.json. Gateway restart pending.
 
 ### [2026-06-05 09:07 SGT] — 09:00 retry also failed ("Request was aborted" after 374s). Zero reviews today. Manual run starting.
+
+### [2026-06-05 09:23 SGT] — Manual pipeline complete: 10 reviews published (4 coffee, 2 kitchen, 4 home-office). Both 08:00 and 09:00 cron failed. Root cause: Apify R8WeJwLuzLZ6g4Bkk returns empty data for coffee/kitchen. Used backlog briefings as fallback. Reported to ops.
+
+### [2026-06-05 09:25 SGT] — Ops group notified. Pipeline complete.
+[2026-06-05 09:22 SGT] Heartbeat poll. No TASK_*.md files. Pipeline already completed earlier today (09:25 SGT). Nothing pending.
+
+### [2026-06-05 09:29 SGT] — 6-category queue populated. Scraped ASINs from petrecommend.com (77), slashgear.com (10), esquire.com (20), brit.co (7), bestluxurybeauty.com (1). Total: 287 pending across all 6 categories.
+
+### [2026-06-05 10:00 SGT] — Headed Chrome scraper built and tested. `scripts/scrape_headed.py` uses system Chrome via Playwright — works for all 6 categories. TradingView CDP approach abandoned (unreliable). Apify free actor remains broken.
+[2026-06-05 10:10 SGT] Heartbeat poll. No TASK_*.md files. Nothing pending.
+
+### [2026-06-05 10:15 SGT] — Cron jobs updated: both 08:00 and 09:00 now use scrape_headed.py (headed Chrome), 6 categories (2 coffee/2 kitchen/2 home-office/2 home-improvement/1 luxury-beauty/1 pet-supplies), timeout raised to 1200s. NEVER use headless or Playwright Chromium.
+
+### [2026-06-05 10:16 SGT] — Pivot: 08:00 cron now wakes Ink for MANUAL pipeline run instead of blind script. 09:00 retry and 08:45 health check disabled. Goal: agent problem-solves instead of aborting on first error.
+
+### [2026-06-05 10:30 SGT] — scrape_headed.py now handles reviews too. Extracts product data + full review text from embedded product page reviews (expands truncated text via button click). No Apify needed — saves $25/month. Tested: DeWalt (13 found/8 scraped), Laneige (13 found/3 scraped).
+
+### [2026-06-05 11:30 SGT] — Pipeline orchestrator built (scripts/pipeline_orchestrator.py). Tier 1: headed Chrome → Tier 2: backlog briefings → Tier 3: accept gap. Partial yield supported, alerts ops if <80%. Tested dry-run + single-category. 08:00 cron updated to use orchestrator.
+[13:20 SGT] Heartbeat poll — no TASK_*.md found, queue empty, 17 backlog briefings + 4 backlog reviews pending. Silent.
+[15:10 SGT] Heartbeat poll — no TASK_*.md found, 17 backlog briefings + 4 backlog reviews in HANDOFF.md. Silent.
+
+### [2026-06-05 16:10 SGT] — Heartbeat poll: no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+
+[18:10 SGT] Heartbeat poll — no TASK_*.md, 17 backlog + 4 backlog in HANDOFF.md. Silent.
+[19:10 SGT] Heartbeat poll — no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+[20:10 SGT] Heartbeat poll — no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+ Heartbeat poll — no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+[23:11 SGT] Heartbeat poll — no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+[01:10 SGT] Heartbeat poll — no TASK_*.md, 18 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+[02:10 SGT] Heartbeat poll — no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+[04:10 SGT] Heartbeat poll — no TASK_*.md files. Silent.
+[05:10 SGT] Heartbeat poll — no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+[06:10 SGT] Heartbeat poll — no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+[07:10 SGT] Heartbeat poll — no TASK_*.md, 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+
+### [2026-06-06 08:14 SGT] — Heartbeat check
+- No TASK files found
+- Pipeline cron: 4 consecutive errors (last: Request was aborted on 2026-06-05)
+- Today 08:00 run: not yet triggered or failed silently (no active sessions)
+- No health-check or auto-retry crons found (only 1 cron job)
+- Staying silent per HEARTBEAT.md
+
+### [2026-06-06 09:17 SGT] — Gabriel requested manual pipeline run. 08:00 cron had been broken (isolated agent aborted at 6min). Cron reconfigured: now pings Ink's main session via sessions_send instead of running pipeline blind. Starting manual run now.
+
+### [2026-06-06 09:20 SGT] — Pipeline complete (manual run): 5 reviews published. 6 scraped (3 headed Chrome, 3 backlog), 1 kitchen existed. Yield 60% — coffee/kitchen/pet-supplies queues need replenish. Cron fix: orchestrator bug patched (list-wrapped backlog JSON). Committed 5d16bbc.
+[11:10 SGT] Heartbeat poll — no TASK_*.md, pipeline ran earlier today (09:20 SGT), 17 backlog briefings + 4 backlog reviews still in HANDOFF.md. Silent.
+### [2026-06-06 15:10 +08] Heartbeat poll — no TASK_*.md. Pipeline ran earlier today (09:20 SGT). Backlog: 6 briefings + 4 reviews remaining. ASIN queue EMPTY (0 pending). Silent.
+[19:10 SGT] Heartbeat poll — no TASK_*.md, pipeline ran earlier today (09:20 SGT), backlog: 6 briefings + 4 reviews, ASIN queue EMPTY (0 pending). Silent.
+[20:10 +08] Heartbeat poll — no TASK_*.md, pipeline ran earlier today (09:20 SGT), backlog: 6 briefings + 4 reviews, ASIN queue still EMPTY. Silent.
+[01:10 SGT] Heartbeat poll — no TASK_*.md files. Backlog: 18 briefings + 4 reviews in _backlog, 21 active briefings, kitchen ASIN queue populated. Silent.
+[02:10 SGT] Heartbeat poll — no TASK_*.md files. Backlog: ~18 briefings + 4 reviews in _backlog. Silent.
+[04:10 +08] Heartbeat poll — no TASK_*.md files. Backlog still per HANDOFF.md (17 briefings + 4 reviews in _backlog). Silent.
+[07:10 +08] Heartbeat poll — no TASK_*.md, backlog unchanged per HANDOFF.md (17 briefings + 4 reviews). Memory search unavailable (API key). Silent.
+[08:10 +08] Heartbeat poll — no TASK_*.md. HANDOFF pending: 17 backlogs + 4 reviews, awaiting Gabriel's workspace config update. Silent.
+### [2026-06-07 08:35 SGT] — Gabriel asked about cron error. Investigation found:
+- 08:00 cron had 2 runs today: 1st timed out (120s, model-call-started), 2nd retry OK but isolated agent had no session visibility
+- Root cause: `sessionTarget: "isolated"` can't `sessions_send` to main session
+- Fix: Changed to `sessionTarget: "session:agent:ink:telegram:direct:1493180026"` — runs directly in Ink session, 30min timeout
+- Re-enabled 08:45 health check + 09:00 retry safety nets
+- Starting manual pipeline run now
