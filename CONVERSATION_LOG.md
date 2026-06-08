@@ -122,3 +122,23 @@ Last updated: 2026-06-04
 - Fix: Changed to `sessionTarget: "session:agent:ink:telegram:direct:1493180026"` — runs directly in Ink session, 30min timeout
 - Re-enabled 08:45 health check + 09:00 retry safety nets
 - Starting manual pipeline run now
+### [2026-06-07 08:35 SGT] — Gabriel asked about 08:00 cron error. Root cause: `sessionTarget:isolated` can't sessions_send to main session due to visibility restrictions. Fixed: changed to `sessionTarget: "session:agent:ink:telegram:direct:1493180026"` — runs pipeline directly in Ink session (30min timeout). Re-enabled 08:45 health-check + 09:00 retry as safety nets.
+### [2026-06-07 08:42 SGT] — Manual pipeline run: orchestrator scraped 9/10 (pet-supplies missed — B0C6B7KP4H failed Tier 1, no backlog). 9 reviews written, Hugo build OK (304 pages). Committed 36b9859. Deploy verified success. Reported to ops.
+### [2026-06-07 10:10 SGT] — Heartbeat poll: No TASK_*.md files. No pending work. Silent.
+[2026-06-07 11:10 SGT] Heartbeat poll — no TASK_*.md files, silent
+[2026-06-07 13:10 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2), pipeline already ran today. Silent.
+[2026-06-07 14:11 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews), pipeline already ran today. Silent.
+[2026-06-07 15:10 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[2026-06-07 16:10 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[2026-06-07 17:10 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[2026-06-07 18:10 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[19:10 SGT] Heartbeat poll — no TASK files, nothing pending
+[21:13 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[23:10 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[2026-06-08 00:14 SGT] Heartbeat poll — no TASK files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[2026-06-08 01:10 SGT] Heartbeat poll — no TASK_*.md files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[03:13 SGT] Heartbeat poll — no TASK files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[04:10 SGT] Heartbeat poll — no TASK files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[05:11 SGT] Heartbeat poll — no TASK files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+
+### [2026-06-08 08:00 SGT] — Daily pipeline: 10 briefings from Jun 7 found. Starting review writing.
