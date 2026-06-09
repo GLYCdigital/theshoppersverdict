@@ -15,7 +15,7 @@ Everything lives here — Hugo content, pipeline scripts, briefings, data, and a
 - `scripts/replenish_queue.py` — Queue replenisher
 - `scripts/ink_review_writer.py` — Review writer
 - `data/asin_queue.json` — ASIN queue + used list
-- `briefings/_backlog/` — Pre-scraped ASINs (17 candidates)
+- `briefings/_backlog/` — Pre-scraped ASINs (18 candidates)
 - `reviews/_backlog/` — Pre-written draft reviews (4 candidates)
 - `_archive/` — Dead scripts, old tasks, archived briefings
 
@@ -30,9 +30,9 @@ Everything lives here — Hugo content, pipeline scripts, briefings, data, and a
 
 ## Pending
 
-*(Last updated: 11:24 SGT, 2026-06-02 — by ink after workspace merge)*
+*(Last updated: 20:10 SGT, 2026-06-08 — by ink)*
 
-- **Backlog:** 17 pre-scraped briefing files in `briefings/_backlog/` (ready for review writing)
+- **Backlog:** 18 pre-scraped briefing files in `briefings/_backlog/` (ready for review writing)
 - **Backlog:** 4 pre-written reviews in `reviews/_backlog/` (ready for formatting/publishing)
 - **Action:** Gabriel must update OpenClaw agent workspace config from `ink` → `theshoppersverdict`
 
@@ -45,5 +45,5 @@ Everything lives here — Hugo content, pipeline scripts, briefings, data, and a
 ## Last Session Summary
 
 - **Agent:** ink
-- **Checkpoint:** 11:24 SGT, 2026-06-02
-- **Message:** Workspace merge complete. All paths relative. Awaiting workspace config update.
+- **Checkpoint:** 20:10 SGT, 2026-06-08
+- **Message:** Pipeline ran today — 10 reviews written (commit 06b415a). No TASK files pending. Backlog stands at 18 briefings + 4 reviews. HANDOFF refreshed.

@@ -142,3 +142,25 @@ Last updated: 2026-06-04
 [05:11 SGT] Heartbeat poll — no TASK files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
 
 ### [2026-06-08 08:00 SGT] — Daily pipeline: 10 briefings from Jun 7 found. Starting review writing.
+
+[2026-06-08 08:15 SGT] Pipeline: 10 briefings found → 10 reviews written (4 new + 6 rewritten from boilerplate). All QA passed, committed 06b415a, pushed to main. New: Keurig K155, Cuisinart SS-10P1, Amazon Basics Stapler, Ultrean Scale. Rewritten: BUNN GRB, Mr. Coffee 12-Cup, maxtek Markers, YSAGi Desk Pad, Ninja BN401, Pureegg Tablecloths. Flag: 6 existing reviews were auto-generated boilerplate with wrong prices — all corrected with real review data.
+
+[2026-06-08 08:20 SGT] Reported completion. Gemma agent not found in configured agents — report sent to Gabriel. HANDOFF.md needs update.
+[08:45 SGT] Deploy health check: ALL PASS. Pipeline ran, deploy success, images present on spot-checked pages, no placeholders on homepage.
+
+### [2026-06-08 09:00 SGT] — 09:00 retry triggered: 08:00 pipeline did not run
+
+[HH:MM SGT] Heartbeat poll — no TASK files, HANDOFF backlog still pending (17 briefings + 4 reviews since Jun 2). Silent.
+[2026-06-08 20:10 SGT] Heartbeat poll — no TASK files. Pipeline ran today (10 reviews), backlogs updated. HANDOFF refresh.
+[2026-06-08 21:10 SGT] Heartbeat poll — no TASK files. Backlog: 18 briefings + 4 reviews. Silent.
+[2026-06-08 22:10 SGT] Heartbeat poll — no TASK files. Backlog: 18 briefings + 4 reviews. Memory search unavailable (embedding provider). Silent.
+Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), backlog: 18 briefings + 4 reviews per HANDOFF.md. Silent.
+[2026-06-09 05:14 SGT] Heartbeat poll — no TASK files. Backlog: 18 briefings + 4 reviews (HANDOFF.md). Memory search unavailable (embedding provider). Silent.
+[08:45 SGT] Ink Deploy Health Check — Step 1 FAIL: No commits found today (2026-06-09). Pipeline did not run.
+[10:10 SGT] Heartbeat — Pipeline FAILED today (08:00 & 09:00 both aborted). Queue empty. 3 briefings scraped but 0 reviews written. Health check already alerted ops. Attempting manual salvage.
+
+### [2026-06-09 11:06 SGT] — Gabriel asked why no reviews posted for days
+
+### [2026-06-09 11:24 SGT] — Pipeline manually salvaged: 5 reviews written and published (commit 405c9d5)
+[12:19 SGT] Heartbeat — No TASK files pending. Pipeline already salvaged today (commit 405c9d5, 5 reviews). Queue empty. Apify renews 11 June (2 days).
+[13:10 SGT] Heartbeat — No TASK files pending. Today's pipeline already salvaged (commit 405c9d5, 5 reviews). Queue empty. Apify renews 11 June (2 days).

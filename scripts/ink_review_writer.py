@@ -154,7 +154,7 @@ def write_review(data, category, asin):
     complaint_counts = {k: 0 for k in complaint_keywords}
     
     for review_obj in reviews:
-        review_text = review_obj.get('reviewDescription', '') if isinstance(review_obj, dict) else str(review_obj)
+        review_text = review_obj.get('body', '') if isinstance(review_obj, dict) else str(review_obj)
         rl = review_text.lower()
         for k, words in praise_keywords.items():
             if any(w in rl for w in words):
