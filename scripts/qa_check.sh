@@ -46,6 +46,16 @@ for MD in "$@"; do
     elif ! echo "$IMG" | grep -qE '^https?://'; then
         echo "  ❌ $BASENAME: amazon_image is not a valid URL"
         FILE_ERRORS=$((FILE_ERRORS + 1))
+    else
+        # ── Verify image URL resolves (not 404) ──────────────────
+        HTTP_STATUS=$(curl -sI --max-time 5 "$IMG" 2>/dev/null | head -1 | awk '{print $2}')
+        if [ -z "$HTTP_STATUS" ]; then
+            echo "  ⚠️  $BASENAME: amazon_image unresolvable (timeout or DNS failure)"
+            FILE_ERRORS=$((FILE_ERRORS + 1))
+        elif [ "$HTTP_STATUS" -ge 400 ]; then
+            echo "  ❌ $BASENAME: amazon_image returns HTTP $HTTP_STATUS (broken image)"
+            FILE_ERRORS=$((FILE_ERRORS + 1))
+        fi
     fi
 
     # ── price validation (if present, must be numeric / "null") ──
