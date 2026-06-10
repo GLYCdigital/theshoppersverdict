@@ -22,7 +22,7 @@ price: 109.99
 review_count: 184000
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00FLYWNYQ/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71X7KxVwH-L._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SL1500_.jpg"
 pros:
   - "7 functions in one unit — replaces a slow cooker, rice cooker, steamer, and yogurt maker"
   - "Sauté directly in the pot for one-pot meals with dramatically reduced cooking time"
