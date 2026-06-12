@@ -4,3 +4,7 @@
 public/
 resources/
 scripts/.apify_config.json
+drafts/
+reviews/
+memory/.dreams/
+memory/dreaming/
