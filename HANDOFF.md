@@ -30,11 +30,12 @@ Everything lives here — Hugo content, pipeline scripts, briefings, data, and a
 
 ## Pending
 
-*(Last updated: 20:10 SGT, 2026-06-08 — by ink)*
+*(Last updated: 08:00 SGT, 2026-06-13 — by ink)*
 
-- **Backlog:** 18 pre-scraped briefing files in `briefings/_backlog/` (ready for review writing)
-- **Backlog:** 4 pre-written reviews in `reviews/_backlog/` (ready for formatting/publishing)
-- **Action:** Gabriel must update OpenClaw agent workspace config from `ink` → `theshoppersverdict`
+- **Today's haul:** 0 new reviews — all 10 briefings already had reviews written. 1 pending review from yesterday (Schick Hydro Silk dermaplane) committed and pushed.
+- **Queue state:** 930 pending ASINs across all categories. 280 used. Pipeline needs fresh scrapes.
+- **Action:** Need new ASIN scrapes run. Queue is stale — mostly 404 dead products.
+- **Pipeline issue:** scrape_asin.py still needs permanent fix for Apify format drift.
 
 ### Notes
 - Check MEMORY.md for long-term pending items
@@ -45,5 +46,5 @@ Everything lives here — Hugo content, pipeline scripts, briefings, data, and a
 ## Last Session Summary
 
 - **Agent:** ink
-- **Checkpoint:** 20:10 SGT, 2026-06-08
-- **Message:** Pipeline ran today — 10 reviews written (commit 06b415a). No TASK files pending. Backlog stands at 18 briefings + 4 reviews. HANDOFF refreshed.
+- **Checkpoint:** 08:00 SGT, 2026-06-13
+- **Message:** Pipeline ran — 0 new reviews (all briefings already processed). 1 pending review (Schick Hydro Silk) committed. 930 pending ASINs need scraping. HANDOFF refreshed.

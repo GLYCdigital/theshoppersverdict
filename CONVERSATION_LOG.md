@@ -1,6 +1,18 @@
 ## 🖋️ Ink — Conversation Log
 
-Last updated: 2026-06-04
+Last updated: 2026-06-12
+
+### [2026-06-10 08:00 SGT] — Daily pipeline started — no fresh briefings. Running pipeline orchestrator to scrape new ASINs.
+
+### [2026-06-10 08:08 SGT] — 1 review published (CRAFTSMAN tape measure). Queue is severely depleted — 80%+ ASINs return 404. Reported to ops group.
+
+### [2026-06-12 08:01 SGT] — Daily pipeline ran: 1 new review (GAQQI lash glue, luxury-beauty) + previously unstaged Bucket Boss committed. Queue empty.
+
+### [2026-06-12 09:03 SGT] — Gabriel asked how many reviews posted today. Told him 1.
+
+### [2026-06-12 09:20 SGT] — Gabriel called out 10/day target. Debugged Apify scraper (output format broke), fixed data extraction. Scraped + wrote 8 more reviews across luxury-beauty(4), pet-supplies(1), home-improvement(3). Committed dac926e. Hit 9/10 — queue is ~80% dead ASINs (404). Pipeline fix needed: scrape_asin.py had Apify format drift (review data now at top level, not under "review" key). Need fresh ASIN injection.
+
+### [2026-06-06 08:00 SGT] — Daily pipeline started (cron trigger)
 
 ### [2026-06-04 08:00 SGT] — Daily pipeline started (cron trigger)
 
@@ -164,3 +176,21 @@ Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), ba
 ### [2026-06-09 11:24 SGT] — Pipeline manually salvaged: 5 reviews written and published (commit 405c9d5)
 [12:19 SGT] Heartbeat — No TASK files pending. Pipeline already salvaged today (commit 405c9d5, 5 reviews). Queue empty. Apify renews 11 June (2 days).
 [13:10 SGT] Heartbeat — No TASK files pending. Today's pipeline already salvaged (commit 405c9d5, 5 reviews). Queue empty. Apify renews 11 June (2 days).
+[14:40 SGT] Heartbeat — No TASK files. Queue empty (0/275 used). 18 backlog briefings available. Apify renews tomorrow (11 June). Nothing actionable.
+[13:10 SGT] Heartbeat — No TASK files. Pipeline ran today (commit 575c67d, 1 review). Queue empty (0/277). 18 backlog briefings available. Apify renews tomorrow (11 June). Nothing actionable.
+[16:57 SGT] Gabriel flagged Instant Pot Duo review has no image. Investigation: amazon_image URL (71X7KxVwH-L) returns 404 — Amazon changed the image. Correct image (71Z401LjFFL) found in briefing data. Fixed frontmatter, rebuilt, pushed to main. Deployed.
+
+[08:00 SGT] 🖋️ Daily pipeline triggered — starting orchestrator
+[11:01 SGT] Improvement idea request received — generating one idea for ops workflow
+[14:04 SGT] Money-making idea request received — generating one idea
+[02:10 SGT] Heartbeat poll — Nothing pending. Backlog: 18 briefings + 4 reviews. No TASK files. Session logged.
+[04:12 SGT] Heartbeat poll — Nothing pending. Backlog: 18 briefings + 4 reviews. No TASK files. Session logged.
+[05:12 SGT] Heartbeat poll — Nothing pending. Backlog: 18 briefings + 4 reviews. No TASK files. Session logged.
+
+### [2026-06-12 08:00 SGT] — Daily pipeline: 1 review written (GAQQI lash glue, luxury-beauty). Most 11 briefings already had reviews. 5 failed/empty data files archived to _dead_stale. Commit 15703f0 pushed. Deploy queued.
+
+### [2026-06-12 08:05 SGT] — Pipeline complete: 1 new review (GAQQI lash glue) written, committed (15703f0), deployed ✅. 10 existing reviews skipped (already written). 5 dead briefings archived. Reported to Gabriel in DM.
+[19:10 SGT] Heartbeat poll — 2026-06-12. No TASK files. No pending work. Staying silent.
+[07:10 SGT] Heartbeat poll — 2026-06-13. No TASK files. No pending work. Staying silent.
+[08:00 SGT] Daily pipeline start — 10 briefings detected. Checking existing reviews...
+[08:00 SGT] Daily pipeline: 0 new reviews needed — all briefings already reviewed. Committing pending Schick Hydro Silk review + Housekeeping.
