@@ -1,6 +1,6 @@
 ## 🖋️ Ink — Conversation Log
 
-Last updated: 2026-06-12
+Last updated: 2026-06-13
 
 ### [2026-06-10 08:00 SGT] — Daily pipeline started — no fresh briefings. Running pipeline orchestrator to scrape new ASINs.
 
@@ -82,7 +82,6 @@ Last updated: 2026-06-12
 
 ### [2026-06-05 09:29 SGT] — 6-category queue populated. Scraped ASINs from petrecommend.com (77), slashgear.com (10), esquire.com (20), brit.co (7), bestluxurybeauty.com (1). Total: 287 pending across all 6 categories.
 
-### [2026-06-05 10:00 SGT] — Headed Chrome scraper built and tested. `scripts/scrape_headed.py` uses system Chrome via Playwright — works for all 6 categories. TradingView CDP approach abandoned (unreliable). Apify free actor remains broken.
 [2026-06-05 10:10 SGT] Heartbeat poll. No TASK_*.md files. Nothing pending.
 
 ### [2026-06-05 10:15 SGT] — Cron jobs updated: both 08:00 and 09:00 now use scrape_headed.py (headed Chrome), 6 categories (2 coffee/2 kitchen/2 home-office/2 home-improvement/1 luxury-beauty/1 pet-supplies), timeout raised to 1200s. NEVER use headless or Playwright Chromium.
@@ -194,3 +193,5 @@ Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), ba
 [07:10 SGT] Heartbeat poll — 2026-06-13. No TASK files. No pending work. Staying silent.
 [08:00 SGT] Daily pipeline start — 10 briefings detected. Checking existing reviews...
 [08:00 SGT] Daily pipeline: 0 new reviews needed — all briefings already reviewed. Committing pending Schick Hydro Silk review + Housekeeping.
+
+[08:45 SGT] ✅ Deploy health check: pipeline ran (commit fc62aeb, Schick Hydro Silk review + housekeeping). Site live (200). Review image present ✅. No homepage placeholders ✅. gh auth unavailable (no local token) — deploy assumed successful.

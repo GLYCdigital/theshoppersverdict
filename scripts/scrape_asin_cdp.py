@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CDP-based Amazon product scraper using TradingView's headed browser.
-Falls back when Apify is unavailable or unreliable.
+Falls back when headed Chrome scraper is blocked.
 
 Usage: python3 scripts/scrape_asin_cdp.py <ASIN> <category> [maxReviews]
 

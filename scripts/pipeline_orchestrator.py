@@ -136,7 +136,7 @@ def tier2_backlog(category, count_needed):
             shutil.copy(filepath, dst)
             with open(dst) as f:
                 data = json.load(f)
-            # Handle list-wrapped JSON (Apify actor output format)
+            # Handle list-wrapped JSON output format
             if isinstance(data, list):
                 data = data[0] if data and isinstance(data[0], dict) else {}
             if not isinstance(data, dict) or data.get('error'):
