@@ -91,9 +91,30 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
         # ── 3. Scroll to load reviews ──
         print(f"  → Scrolling to reviews...")
         # Scroll down in increments to trigger lazy loading
-        for pct in [30, 50, 70, 85]:
+        for pct in [30, 50, 70, 85, 95]:
             page.evaluate(f'window.scrollTo(0, document.body.scrollHeight * {pct / 100})')
-            page.wait_for_timeout(1000)
+            page.wait_for_timeout(1200)
+        
+        # Scroll all the way to bottom
+        page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+        page.wait_for_timeout(1500)
+        
+        # If reviews still not loaded, try following a review link
+        if page.evaluate('document.querySelectorAll(\'[data-hook="review"]\').length') == 0:
+            see_all = page.evaluate('''() => {
+                const links = document.querySelectorAll("a");
+                for (const a of links) {
+                    if (a.textContent.toLowerCase().includes("review") &&
+                        a.href.includes("product-reviews")) {
+                        return a.href;
+                    }
+                }
+                return null;
+            }''');
+            if see_all:
+                print(f"  → Following review link...")
+                page.goto(see_all, timeout=30000, wait_until='load')
+                page.wait_for_timeout(3000)
         
         # ── 4. Expand truncated review text ──
         expand_count = page.evaluate('''() => {
@@ -115,7 +136,7 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
                 const r = {};
                 r.title = card.querySelector('[data-hook="reviewTitle"]')?.textContent?.trim() || '';
                 r.body = card.querySelector('[data-hook="reviewText"]')?.textContent?.trim() || '';
-                r.body = r.body.replace(/Brief content visible, double tap to read full content\\.?/g, '').replace(/Full content visible, double tap to read brief content\\.?/g, '').trim();
+                r.body = r.body.replace(/Read moreRead less/g, '').replace(/Brief content visible, double tap to read full content\\.?/g, '').replace(/Full content visible, double tap to read brief content\\.?/g, '').trim();
                 r.rating = card.querySelector('[data-hook="review-star-rating"]')?.textContent?.trim() || '';
                 r.date = card.querySelector('[data-hook="review-date"]')?.textContent?.trim() || '';
                 r.author = card.querySelector('.a-profile-name')?.textContent?.trim() || '';
