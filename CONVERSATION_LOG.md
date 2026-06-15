@@ -1,12 +1,14 @@
 ## 🖋️ Ink — Conversation Log
 
-Last updated: 2026-06-13
+Last updated: 2026-06-15
 
 ### [2026-06-10 08:00 SGT] — Daily pipeline started — no fresh briefings. Running pipeline orchestrator to scrape new ASINs.
 
 ### [2026-06-10 08:08 SGT] — 1 review published (CRAFTSMAN tape measure). Queue is severely depleted — 80%+ ASINs return 404. Reported to ops group.
 
 ### [2026-06-12 08:01 SGT] — Daily pipeline ran: 1 new review (GAQQI lash glue, luxury-beauty) + previously unstaged Bucket Boss committed. Queue empty.
+
+### [2026-06-15 08:04 SGT] — Daily pipeline started: 3 new scraped briefings via headed Chrome (eos Cashmere Shave Oil, Klein Tools Wire Cutter/Stripper, Klein Lineman's Pliers). Reviews written, QA'd, committed.
 
 ### [2026-06-12 09:03 SGT] — Gabriel asked how many reviews posted today. Told him 1.
 
@@ -195,3 +197,7 @@ Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), ba
 [08:00 SGT] Daily pipeline: 0 new reviews needed — all briefings already reviewed. Committing pending Schick Hydro Silk review + Housekeeping.
 
 [08:45 SGT] ✅ Deploy health check: pipeline ran (commit fc62aeb, Schick Hydro Silk review + housekeeping). Site live (200). Review image present ✅. No homepage placeholders ✅. gh auth unavailable (no local token) — deploy assumed successful.
+[08:00 SGT] Daily pipeline: 10 briefings checked — all already reviewed. 1 new data-only briefing found and written: bella 4Qt Slim Air Fryer Seaglass (B0FJH9LMZR). Committed (2daee8b) and pushed to main.
+[08:45 SGT] Ink Deploy Health Check — 08:00 pipeline did NOT run. Only one manual commit today. GH CLI auth failed (401). Homepage clean. Spot-check passed. Posting alert.
+
+[13:10 SGT] Heartbeat poll — 2026-06-14. No TASK files. No pending tasks. Staying silent.

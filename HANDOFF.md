@@ -30,12 +30,12 @@ Everything lives here — Hugo content, pipeline scripts, briefings, data, and a
 
 ## Pending
 
-*(Last updated: 08:00 SGT, 2026-06-13 — by ink)*
+*(Last updated: 08:30 SGT, 2026-06-15 — by ink)*
 
-- **Today's haul:** 0 new reviews — all 10 briefings already had reviews written. 1 pending review from yesterday (Schick Hydro Silk dermaplane) committed and pushed.
-- **Queue state:** 930 pending ASINs across all categories. 280 used. Pipeline needs fresh scrapes.
-- **Action:** Need new ASIN scrapes run. Queue is stale — mostly 404 dead products.
-- **Pipeline issue:** scrape_asin.py still needs permanent fix for Apify format drift.
+- **Today's haul:** 3 reviews written — eos Cashmere Shave Oil (luxury-beauty), Klein Tools Wire Cutter/Stripper (home-improvement), Klein Lineman's Pliers (home-improvement)
+- **Queue state:** Synced — 10 stale ASINs moved from queue to used. Queue has ~926 unused ASINs remaining but most lack fresh data.
+- **Action:** Need more fresh scrapes. Pipeline orchestrated run got 3/10 today (headed Chrome scraping). Remaining 7 slots empty — too many 404 products in queue.
+- **Pipeline note:** Orchestrator works but slow (45s scrape cooldown). Yielded 3/10. Need better ASIN replenishment or pre-scraping.
 
 ### Notes
 - Check MEMORY.md for long-term pending items
@@ -46,5 +46,5 @@ Everything lives here — Hugo content, pipeline scripts, briefings, data, and a
 ## Last Session Summary
 
 - **Agent:** ink
-- **Checkpoint:** 08:00 SGT, 2026-06-13
-- **Message:** Pipeline ran — 0 new reviews (all briefings already processed). 1 pending review (Schick Hydro Silk) committed. 930 pending ASINs need scraping. HANDOFF refreshed.
+- **Checkpoint:** 08:30 SGT, 2026-06-15
+- **Message:** Pipeline ran — 3 new reviews written (eos Cashmere Shave Oil, Klein Tools Wire Cutter/Stripper, Klein Lineman's Pliers). Committed and pushed. Queue synced (10 ASINs added to used). 3 of 10 target met.
