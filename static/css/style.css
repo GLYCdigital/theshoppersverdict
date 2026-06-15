@@ -368,6 +368,32 @@ ul { list-style: none; }
   background: var(--navy);
 }
 .verdict-badge-mini { width: 100%; }
+
+/* In-content verdict badge (shortcode) */
+.review-verdict-badge {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 20px;
+  margin: 32px 0;
+  background: var(--navy);
+  border-radius: 12px;
+  border-left: 5px solid var(--gold);
+}
+.review-verdict-score {
+  font-family: var(--font-heading);
+  font-size: 36px;
+  font-weight: 700;
+  color: var(--gold);
+  line-height: 1;
+}
+.review-verdict-label {
+  font-family: var(--font-heading);
+  font-size: 14px;
+  color: var(--off-white);
+  font-style: italic;
+}
+
 .verdict-score-mini {
   font-family: var(--font-heading);
   font-size: 28px;
