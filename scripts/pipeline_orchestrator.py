@@ -35,6 +35,10 @@ DEFAULT_DISTRIBUTION = {
     "home-improvement": 2,
     "luxury-beauty": 1,
     "pet-supplies": 1,
+    "furniture": 2,
+    "patio-lawn-garden": 2,
+    "sports-fitness": 1,
+    "toys-games": 2,
 }
 YIELD_ALERT_THRESHOLD = 0.80  # alert ops group if < 80% of target
 
