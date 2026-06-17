@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://theshoppersverdict.com/sitemap.xml
+LLMs.txt: https://theshoppersverdict.com/llms.txt
