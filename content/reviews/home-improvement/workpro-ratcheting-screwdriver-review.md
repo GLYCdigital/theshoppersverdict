@@ -30,14 +30,6 @@ pros:
 cons:
   - "Not a Klein replacement — serious pros will still prefer the higher-end brands"
   - "Bits could be harder — some users report wear on high-torque applications"
-faq:
-  - question: "How does the WORKPRO 12-in-1 compare to Klein ratcheting screwdrivers?"
-    answer: "The WORKPRO is approximately 90% of a Klein tool for 60% of the price. The Klein has slightly tighter ratcheting tolerance and harder bits, but for DIYers and light trade use, the WORKPRO performs admirably."
-  - question: "What bits are included with the WORKPRO screwdriver?"
-    answer: "The WORKPRO 12-in-1 includes Phillips #0-#3, Slotted 1/8 to 3/16, Torx T15/T20/T25, and Hex 3/16 and 5/32 bits — covering the most common sizes for furniture assembly, electronics, and home maintenance."
-  - question: "Is the WORKPRO screwdriver good for professional use?"
-    answer: "For light-to-medium professional use, yes. For daily heavy-duty professional use by electricians or mechanics, the extra investment in Klein or Wera is likely worth it for the tighter tolerances and harder bit steel."
-cons:
   - "Bulky in a tool pouch compared to a dedicated straight-handle screwdriver"
 faq:
   - question: "How does the WORKPRO 12-in-1 compare to Klein ratcheting screwdrivers?"

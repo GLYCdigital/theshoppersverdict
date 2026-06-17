@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty" "pet-supplies") }}
+{{ $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty" "pet-supplies" "furniture" "patio-lawn-garden" "sports-fitness" "toys-games") }}
 {{ $newest := $all.ByDate.Reverse }}
 {{ $daily := first 10 $newest }}
 {{ $topScored := sort $daily ".Params.amazon_rating" "desc" }}
@@ -31,7 +31,7 @@
   var today = new Date();
   var start = new Date(today.getFullYear(), 0, 1);
   var weekNum = Math.ceil((((today - start) / 86400000) + start.getDay() + 1) / 7);
-  var rotation = weekNum % 6;
+  var rotation = weekNum % 10;
   var data = [
     {
       bg: '/images/hero-kitchen.jpg',
@@ -74,6 +74,34 @@
       desc: 'Verdicts on pet food, toys, grooming, and everything your furry friend needs.',
       link: '/pet-supplies/',
       cta: 'Pet Supplies Reviews →'
+    },
+    {
+      bg: '/images/hero-furniture.jpg',
+      title: 'Furniture',
+      desc: 'Verdicts on sofas, beds, desks, chairs, and everything for your home.',
+      link: '/furniture/',
+      cta: 'Furniture Reviews →'
+    },
+    {
+      bg: '/images/hero-patio-lawn-garden.jpg',
+      title: 'Patio, Lawn &amp; Garden',
+      desc: 'Verdicts on outdoor furniture, grills, gardening tools, and backyard essentials.',
+      link: '/patio-lawn-garden/',
+      cta: 'Patio &amp; Garden Reviews →'
+    },
+    {
+      bg: '/images/hero-sports-fitness.jpg',
+      title: 'Sports &amp; Fitness',
+      desc: 'Verdicts on exercise equipment, sport gear, wearables, and active lifestyle essentials.',
+      link: '/sports-fitness/',
+      cta: 'Sports &amp; Fitness Reviews →'
+    },
+    {
+      bg: '/images/hero-toys-games.jpg',
+      title: 'Toys &amp; Games',
+      desc: 'Verdicts on board games, puzzles, action figures, and playtime favorites.',
+      link: '/toys-games/',
+      cta: 'Toys &amp; Games Reviews →'
     }
   ];
   var pick = data[rotation];

@@ -58,3 +58,7 @@ summaryLength = 25
   "home-improvement" = "/home-improvement/:slug/"
   "luxury-beauty" = "/luxury-beauty/:slug/"
   "pet-supplies" = "/pet-supplies/:slug/"
+  "furniture" = "/furniture/:slug/"
+  "patio-lawn-garden" = "/patio-lawn-garden/:slug/"
+  "sports-fitness" = "/sports-fitness/:slug/"
+  "toys-games" = "/toys-games/:slug/"
