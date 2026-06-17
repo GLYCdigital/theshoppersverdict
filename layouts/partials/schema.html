@@ -1,66 +1,240 @@
-{{ if and (not .IsHome) .Params.amazon_rating }}
-{{- $schema := dict
-  "@context" "https://schema.org"
-  "@type" "Product"
-  "name" .Title
--}}
+{{/* ============================================================
+    JSON-LD Structured Data — The Shopper's Verdict
+    Generates: WebSite, Organization, BreadcrumbList,
+               Article, Product, Review, FAQPage
+    ============================================================ */}}
 
-{{- with .Params.amazon_image -}}
-  {{- $schema = merge $schema (dict "image" (. | absURL)) -}}
-{{- end -}}
-
-{{- with .Params.meta_description -}}
-  {{- $schema = merge $schema (dict "description" .) -}}
-{{- end -}}
-
-{{- /* Aggregate rating */ -}}
-{{- $aggregateRating := dict
-  "@type" "AggregateRating"
-  "ratingValue" ($.Params.amazon_rating | string)
-  "bestRating" "5"
-  "worstRating" "1"
--}}
-{{- /* Always include ratingCount (Google REQUIRES ratingCount or reviewCount) */ -}}
-{{- $ratingCount := $.Params.review_count | default 0 | int -}}
-{{- if lt $ratingCount 1 }}{{ $ratingCount = 1 }}{{ end -}}
-{{- $aggregateRating = merge $aggregateRating (dict "ratingCount" ($ratingCount | string)) -}}
-{{- $schema = merge $schema (dict "aggregateRating" $aggregateRating) -}}
-
-{{- /* Offer (price + hasMerchantReturnPolicy REQUIRED for Merchant Listings) */ -}}
-{{- $offer := dict
-  "@type" "Offer"
-  "priceCurrency" "USD"
-  "availability" "https://schema.org/InStock"
-  "hasMerchantReturnPolicy" (dict
-    "@type" "MerchantReturnPolicy"
-    "applicableCountry" "US"
-    "returnPolicyCategory" "https://schema.org/MerchantReturnFiniteReturnWindow"
-    "merchantReturnDays" 30
-    "returnMethod" "https://schema.org/ReturnByMail"
-    "returnFees" "https://schema.org/FreeReturn"
+{{- /* -------------------- 1. WebSite + Organization (every page, one-time) -------------------- */}}
+{{- $organization := dict
+  "@type" "Organization"
+  "@id" (printf "%s#organization" .Site.BaseURL)
+  "name" .Site.Title
+  "url" .Site.BaseURL
+  "logo" (dict
+    "@type" "ImageObject"
+    "url" (.Site.Params.assets.logo | absURL)
   )
-  "seller" (dict "@type" "Organization" "name" "Amazon.com")
+  "sameAs" (slice
+    "https://theshoppersverdict.com"
+  )
 -}}
-{{- with $.Params.amazon_url -}}
-  {{- $offer = merge $offer (dict "url" .) -}}
-{{- end -}}
-{{- with $.Params.price -}}
-  {{- $offer = merge $offer (dict "price" (. | string)) -}}
-{{- end -}}
-{{- $schema = merge $schema (dict "offers" $offer) -}}
 
-{{- /* Review (author is REQUIRED for review snippets) */ -}}
-{{- $review := dict
-  "@type" "Review"
-  "author" (dict "@type" "Organization" "name" "The Shopper's Verdict")
-  "publisher" (dict "@type" "Organization" "name" "The Shopper's Verdict")
+{{- $website := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "@id" (printf "%s#website" .Site.BaseURL)
+  "url" .Site.BaseURL
+  "name" .Site.Title
+  "description" .Site.Params.description
+  "publisher" (dict "@id" (printf "%s#organization" .Site.BaseURL))
 -}}
-{{- with $.Params.verdict_score -}}
-  {{- $review = merge $review (dict "reviewRating" (dict "@type" "Rating" "ratingValue" (. | string) "bestRating" "5")) -}}
-{{- end -}}
-{{- $schema = merge $schema (dict "review" $review) -}}
 
+{{- /* Add PotentialAction (site search) for WebSite */ -}}
+{{- $searchAction := dict
+  "@type" "SearchAction"
+  "target" (dict
+    "@type" "EntryPoint"
+    "urlTemplate" (printf "%s?q={search_term_string}" .Site.BaseURL)
+  )
+  "query-input" "required name=search_term_string"
+-}}
+{{- $website = merge $website (dict "potentialAction" $searchAction) -}}
+
+{{- /* -------------------- 2. BreadcrumbList (every page) -------------------- */}}
+{{- $breadcrumbItems := slice -}}
+{{- $breadcrumbItems = $breadcrumbItems | append (dict
+  "@type" "ListItem"
+  "position" 1
+  "name" "Home"
+  "item" .Site.BaseURL
+) -}}
+
+{{- $position := 2 -}}
+{{- if not .IsHome -}}
+  {{- with .CurrentSection -}}
+    {{- if ne . $.Site.Home -}}
+      {{- $breadcrumbItems = $breadcrumbItems | append (dict
+        "@type" "ListItem"
+        "position" $position
+        "name" .Title
+        "item" .Permalink
+      ) -}}
+      {{- $position = add $position 1 -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $breadcrumbItems = $breadcrumbItems | append (dict
+    "@type" "ListItem"
+    "position" $position
+    "name" .Title
+    "item" .Permalink
+  ) -}}
+{{- end -}}
+
+{{- $breadcrumb := dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "@id" (printf "%s#breadcrumb" .Permalink)
+  "itemListElement" $breadcrumbItems
+-}}
+
+{{- /* Collect all schema blobs into a single slice */ -}}
+{{- /* Prepare date for Article + Review sections */ -}}
+{{- $datePublished := "" -}}
+{{- with .Date -}}{{- $datePublished = .Format "2006-01-02T15:04:05-07:00" -}}{{- end -}}
+
+{{- $schemas := slice $website $breadcrumb -}}
+
+{{- /* -------------------- 3. Article (review pages) -------------------- */}}
+{{- if and (not .IsHome) (not .IsSection) .Content -}}
+  {{- $article := dict
+    "@context" "https://schema.org"
+    "@type" "Article"
+    "@id" (printf "%s#article" .Permalink)
+    "headline" .Title
+    "description" ((.Params.meta_description | default (.Summary | plainify)) | truncate 160)
+    "datePublished" $datePublished
+    "dateModified" ($datePublished)
+    "author" (dict
+      "@type" "Organization"
+      "name" "The Shopper's Verdict"
+      "url" .Site.BaseURL
+    )
+    "publisher" (dict "@id" (printf "%s#organization" .Site.BaseURL))
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+  -}}
+  {{- with .Params.amazon_image -}}
+    {{- $article = merge $article (dict "image" (. | absURL)) -}}
+  {{- end -}}
+  {{- $schemas = $schemas | append $article -}}
+{{- end -}}
+
+{{- /* -------------------- 4. Product + Review + Offer (review pages with amazon_rating) -------------------- */}}
+{{- if and (not .IsHome) .Params.amazon_rating -}}
+  {{- $product := dict
+    "@context" "https://schema.org"
+    "@type" "Product"
+    "@id" (printf "%s#product" .Permalink)
+    "name" .Title
+  -}}
+
+  {{- with .Params.amazon_image -}}
+    {{- $product = merge $product (dict "image" (. | absURL)) -}}
+  {{- end -}}
+
+  {{- with .Params.meta_description -}}
+    {{- $product = merge $product (dict "description" .) -}}
+  {{- end -}}
+
+  {{- /* AggregateRating */ -}}
+  {{- $ratingCount := .Params.review_count | default 0 | int -}}
+  {{- if lt $ratingCount 1 }}{{ $ratingCount = 1 }}{{ end -}}
+  {{- $aggregateRating := dict
+    "@type" "AggregateRating"
+    "ratingValue" (.Params.amazon_rating | string)
+    "bestRating" "5"
+    "worstRating" "1"
+    "ratingCount" ($ratingCount | string)
+  -}}
+  {{- $product = merge $product (dict "aggregateRating" $aggregateRating) -}}
+
+  {{- /* Offer */ -}}
+  {{- $offer := dict
+    "@type" "Offer"
+    "priceCurrency" "USD"
+    "availability" "https://schema.org/InStock"
+    "hasMerchantReturnPolicy" (dict
+      "@type" "MerchantReturnPolicy"
+      "applicableCountry" "US"
+      "returnPolicyCategory" "https://schema.org/MerchantReturnFiniteReturnWindow"
+      "merchantReturnDays" 30
+      "returnMethod" "https://schema.org/ReturnByMail"
+      "returnFees" "https://schema.org/FreeReturn"
+    )
+    "seller" (dict "@type" "Organization" "name" "Amazon.com")
+  -}}
+  {{- with .Params.amazon_url -}}
+    {{- $offer = merge $offer (dict "url" .) -}}
+  {{- end -}}
+  {{- with .Params.price -}}
+    {{- $offer = merge $offer (dict "price" (. | string)) -}}
+  {{- end -}}
+  {{- $product = merge $product (dict "offers" $offer) -}}
+
+  {{- /* Review (one from us) */ -}}
+  {{- $ourReview := dict
+    "@type" "Review"
+    "@id" (printf "%s#review" .Permalink)
+    "author" (dict "@type" "Organization" "name" "The Shopper's Verdict")
+    "publisher" (dict "@type" "Organization" "name" "The Shopper's Verdict")
+    "datePublished" ($datePublished)
+    "reviewBody" (.Summary | plainify | truncate 500)
+  -}}
+  {{- with .Params.verdict_score -}}
+    {{- $ourReview = merge $ourReview (dict "reviewRating" (dict
+      "@type" "Rating"
+      "ratingValue" (. | string)
+      "bestRating" "5"
+      "worstRating" "1"
+    )) -}}
+  {{- end -}}
+  {{- /* Add the review to product */ -}}
+  {{- $product = merge $product (dict "review" $ourReview) -}}
+
+  {{- /* Brand */ -}}
+  {{- $brand := .Params.brand | default "" -}}
+  {{- if $brand -}}
+    {{- $product = merge $product (dict "brand" (dict "@type" "Brand" "name" $brand)) -}}
+  {{- end -}}
+
+  {{- /* SKU / MPN from ASIN if available */ -}}
+  {{- $asin := "" -}}
+  {{- $slugParts := split .Params.slug "-" -}}
+  {{- range $slugParts -}}
+    {{- if and (eq (len .) 10) (or (hasPrefix . "B0") (hasPrefix . "B00")) -}}
+      {{- $asin = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $asin -}}
+    {{- $product = merge $product (dict "sku" $asin "mpn" $asin) -}}
+  {{- end -}}
+
+  {{- $schemas = $schemas | append $product -}}
+{{- end -}}
+
+{{- /* -------------------- 5. FAQPage (review pages with faq) -------------------- */}}
+{{- with .Params.faq -}}
+  {{- $mainEntities := slice -}}
+  {{- range . -}}
+    {{- $q := .question | default "" -}}
+    {{- $a := .answer | default "" -}}
+    {{- if and $q $a -}}
+      {{- $mainEntities = $mainEntities | append (dict
+        "@type" "Question"
+        "name" $q
+        "acceptedAnswer" (dict
+          "@type" "Answer"
+          "text" $a
+        )
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $mainEntities -}}
+    {{- $faq := dict
+      "@context" "https://schema.org"
+      "@type" "FAQPage"
+      "@id" (printf "%s#faq" $.Permalink)
+      "mainEntity" $mainEntities
+    -}}
+    {{- $schemas = $schemas | append $faq -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* ============================================================
+     Render all schemas as separate JSON-LD blocks
+     (Google recommends separate blocks for different schema types)
+     ============================================================ */}}
+{{- range $schemas -}}
 <script type="application/ld+json">
-{{ $schema | jsonify | safeJS }}
+{{ . | jsonify | safeJS }}
 </script>
-{{ end }}
+{{- end -}}
