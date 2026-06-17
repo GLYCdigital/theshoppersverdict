@@ -5,6 +5,6 @@ public/
 resources/
 scripts/.apify_config.json
 drafts/
-reviews/
+/reviews/
 memory/.dreams/
 memory/dreaming/

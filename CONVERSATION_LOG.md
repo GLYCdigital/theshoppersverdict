@@ -10,6 +10,8 @@ Last updated: 2026-06-15
 
 ### [2026-06-15 08:04 SGT] — Daily pipeline started: 3 new scraped briefings via headed Chrome (eos Cashmere Shave Oil, Klein Tools Wire Cutter/Stripper, Klein Lineman's Pliers). Reviews written, QA'd, committed.
 
+### [2026-06-15 08:32 SGT] — 3 reviews committed and pushed (3201709). Queue synced (10 stale ASINs added to used). Only 3/10 target met — pipeline starved for fresh data. Reported to ops group.
+
 ### [2026-06-12 09:03 SGT] — Gabriel asked how many reviews posted today. Told him 1.
 
 ### [2026-06-12 09:20 SGT] — Gabriel called out 10/day target. Debugged Apify scraper (output format broke), fixed data extraction. Scraped + wrote 8 more reviews across luxury-beauty(4), pet-supplies(1), home-improvement(3). Committed dac926e. Hit 9/10 — queue is ~80% dead ASINs (404). Pipeline fix needed: scrape_asin.py had Apify format drift (review data now at top level, not under "review" key). Need fresh ASIN injection.
@@ -201,3 +203,8 @@ Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), ba
 [08:45 SGT] Ink Deploy Health Check — 08:00 pipeline did NOT run. Only one manual commit today. GH CLI auth failed (401). Homepage clean. Spot-check passed. Posting alert.
 
 [13:10 SGT] Heartbeat poll — 2026-06-14. No TASK files. No pending tasks. Staying silent.
+[08:45 SGT] Health check: 08:00 pipeline ran (3 reviews). Hugo build failed due to missing shortcodes (affiliate-disclosure, verdict). Hotfix created, pushed, deployed. All 3 reviews now live with images. No placeholders.
+
+[11:13 SGT] Heartbeat poll — 2026-06-15. Pipeline already ran today (3 reviews). No TASK files. Nothing pending. Staying silent.
+[08:00 SGT] Daily pipeline start — running orchestrator + writer
+[08:00 SGT] Daily pipeline: 3 reviews written (home-improvement x2, luxury-beauty x1). Pipeline yield 3/10 — headed Chrome scraping failing for other categories (kitchen, coffee, home-office, pet-supplies). Committed & pushed (d1b4863).
