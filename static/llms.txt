@@ -1,0 +1,72 @@
+# The Shopper's Verdict
+
+> We read thousands of Amazon customer reviews so you don't have to. Our site delivers unbiased, data-driven product verdicts across 10+ shopping categories. No fluff, no sponsored placements — just the verdict.
+
+We aggregate and analyze real Amazon customer reviews to produce concise buying guides with pros, cons, ratings, and pricing. Every review includes a verdict score (1-5), aggregate Amazon rating, review count, price, pros/cons list, FAQ, and an affiliate link to Amazon. Content is produced by GLYC Digital.
+
+The site has approximately 28,000+ product reviews across 10 core categories. Reviews are organized by category with clean, descriptive URL slugs. Each review page includes JSON-LD structured data (WebSite, BreadcrumbList, Article, Product with AggregateRating and Offer, FAQPage).
+
+## Kitchen Appliances
+
+- [Kitchen Reviews](https://theshoppersverdict.com/kitchen/): Air fryers, cookware, blenders, coffee makers, kitchen gadgets — our largest category
+- [Commercial Blender 2200W Review](https://theshoppersverdict.com/kitchen/commercial-blender-2200w-review/): 5.0/5 — High-power blender with soundproof cover
+- [STAUB Cast Iron 4-pc Stackable Set Review](https://theshoppersverdict.com/kitchen/staub-cast-iron-4-pc-stackable-set-b09zvp-review/): 5.0/5 — Premium enameled cast iron cookware
+
+## Coffee Gear
+
+- [Coffee Reviews](https://theshoppersverdict.com/coffee/): Espresso machines, coffee makers, grinders, beans, pods, accessories
+- [Breville Oracle Jet Review](https://theshoppersverdict.com/coffee/breville-oracle-jet-espresso-machine-review/): 4.1/5 — Breville's flagship automatic espresso machine at $2,558
+- [Peet's Coffee Dark Roast K-Cup Review](https://theshoppersverdict.com/coffee/peet-s-coffee-dark-roast-k-cup-pods-for-keurig-brewers-b0dvj5-review/): 5.0/5
+
+## Home Office
+
+- [Home Office Reviews](https://theshoppersverdict.com/home-office/): Desks, chairs, monitors, electronics, office supplies, printers
+- [Apple 2024 Mac mini M4 Review](https://theshoppersverdict.com/home-office/apple-2024-mac-mini-desktop-computer-with-m4-chip-with-10-core-b0dnrg-review/): 5.0/5 — Latest Mac mini with Apple M4 chip
+
+## Home Improvement
+
+- [Home Improvement Reviews](https://theshoppersverdict.com/home-improvement/): Power tools, hardware, lighting, electrical, plumbing, storage, welding equipment
+- [DEWALT 20V MAX XR Wire Cutter Kit Review](https://theshoppersverdict.com/home-improvement/dewalt-20v-max-xr-wire-cutter-kit-cuts-carbon-steel-and-stainless-b09yxr-review/): 5.0/5
+
+## Luxury & Beauty
+
+- [Luxury & Beauty Reviews](https://theshoppersverdict.com/luxury-beauty/): Skincare, makeup, hair care, fragrances, personal care, bath
+- [eos Cashmere Shave Oil Review](https://theshoppersverdict.com/luxury-beauty/eos-cashmere-shave-oil-shower-body-oil-for-women-hyaluronic-acid-vitamin-c-and-shea-b0f82q-review/): 4.0/5 — Popular body shave oil with hyaluronic acid
+
+## Pet Supplies
+
+- [Pet Supplies Reviews](https://theshoppersverdict.com/pet-supplies/): Dog and cat food, toys, grooming, beds, crates, cages, aquariums
+- [SmartBones Smart Chews Review](https://theshoppersverdict.com/pet-supplies/smartbones-smart-chews-rawhide-free-dog-chews-treats-for-dogs-made-with-b0g4w2-review/): 5.0/5
+
+## Furniture
+
+- [Furniture Reviews](https://theshoppersverdict.com/furniture/): Sofas, beds, tables, chairs, storage, rugs, office furniture, home decor
+- [ZZW 51\" Storage Ottoman Bench Review](https://theshoppersverdict.com/furniture/zzw-51-storage-ottoman-bench-with-rolled-arm-b0g3nn-review/): 4.5/5
+
+## Patio, Lawn & Garden
+
+- [Patio, Lawn & Garden Reviews](https://theshoppersverdict.com/patio-lawn-garden/): Outdoor furniture, grills, gardening tools, pools, patio umbrellas, pressure washers
+- [ZZW 3-Person Wicker Porch Swing Chair Review](https://theshoppersverdict.com/patio-lawn-garden/zzw-3-person-wicker-porch-swing-chair-b0ddpm-review/): 4.3/5
+
+## Sports & Fitness
+
+- [Sports & Fitness Reviews](https://theshoppersverdict.com/sports-fitness/): Exercise equipment, sportswear, yoga, cycling, golf, camping gear
+- [Yes4all Adjustable Weight Bench Review](https://theshoppersverdict.com/sports-fitness/yes4all-workout-bench-adjustable-weight-bench-with-leg-extension-and-leg-curl-b0g3p4-review/): Premium home gym equipment
+
+## Toys & Games
+
+- [Toys & Games Reviews](https://theshoppersverdict.com/toys-games/): Action figures, board games, puzzles, toys for all ages, trading cards, video games
+- [Warhammer 40k Kill Team Review](https://theshoppersverdict.com/toys-games/warhammer-40k-kill-team-novitiates-b09x5q-review/): Tabletop gaming
+
+## Today's Verdicts
+
+- [Today's Verdicts](https://theshoppersverdict.com/today/): Most recently published reviews, updated daily
+- [All Verdicts](https://theshoppersverdict.com/verdicts/): Complete archive of every review on the site
+
+## Optional
+
+- [About Us](https://theshoppersverdict.com/about/): Our review methodology and how we analyze products
+- [Contact Us](https://theshoppersverdict.com/contact/): Get in touch with our team
+- [Affiliate Disclosure](https://theshoppersverdict.com/affiliate-disclosure/): As an Amazon Associate, we earn from qualifying purchases
+- [Privacy Policy](https://theshoppersverdict.com/privacy-policy/): How we handle your data
+- [The Indicator Lab](https://theindicatorlab.com): Our sister site covering trading and market indicators

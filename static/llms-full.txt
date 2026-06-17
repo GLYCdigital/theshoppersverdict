@@ -1,0 +1,150 @@
+# The Shopper's Verdict — Full Site Guide
+
+> We read thousands of Amazon customer reviews so you don't have to. The Shopper's Verdict delivers unbiased, data-driven product verdicts across 10+ shopping categories. Each review aggregates real Amazon customer feedback — the good, the bad, and the "broke after 6 months" — and distills it into clear, actionable buying decisions.
+
+## About This Site
+
+**URL:** https://theshoppersverdict.com
+**Published by:** GLYC Digital
+**Launched:** 2026
+**Total reviews:** ~28,000+
+**Review methodology:** We analyze all customer reviews on Amazon for each product, identify recurring themes (pros, cons, quality issues), and present a balanced verdict with pros/cons lists, aggregate rating, review count, price, and FAQ. We do not accept sponsored reviews or paid placements.
+
+**Affiliate model:** We use Amazon affiliate links (tag: tsvglyc-20). This means we earn a small commission if readers purchase through our links. Our verdicts are based on real customer reviews, not affiliate commissions.
+
+**Content structure:** Every review page includes:
+- Verdict score (1-5 scale based on our analysis)
+- Amazon aggregate rating and review count
+- Product price in USD
+- Amazon product image
+- Pros and cons lists extracted from customer reviews
+- Detailed review body analyzing product strengths and weaknesses
+- FAQ section answering common buyer questions
+- Affiliate "Check Price on Amazon" button
+- JSON-LD structured data for WebSite, BreadcrumbList, Article, Product (with AggregateRating and Offer), and FAQPage
+
+## Categories
+
+### Kitchen Appliances
+https://theshoppersverdict.com/kitchen/
+Air fryers, cookware sets, blenders, coffee makers, kitchen gadgets, food storage, knives, bakeware, countertop appliances, and more. Our largest category with thousands of reviews.
+
+**Top picks:**
+- Commercial Blender 2200W with Soundproof Cover — 5.0/5. High-power blending for smoothies, soups, and frozen drinks. Sound-dampening enclosure reduces noise significantly.
+- STAUB Cast Iron 4-pc Stackable Set — 5.0/5. Premium French enameled cast iron. Excellent heat retention, oven-safe, dishwasher-safe.
+- Zyliss Susi 3 Garlic Press — 4.6/5. Built-in cleaning tool, ergonomic design, stainless steel mechanism.
+- Bella 4Qt Slim Air Fryer Seaglass — Compact design, vibrant color options, good value for solo/small households.
+
+### Coffee Gear
+https://theshoppersverdict.com/coffee/
+Espresso machines, automatic coffee makers, pour-over gear, grinders, beans, pods, syrups, energy drinks, and coffee accessories.
+
+**Top picks:**
+- Breville Oracle Jet Espresso Machine — 4.1/5, $2,558. Fully automatic grinding, tamping, extraction, and milk steaming. Flagship home espresso machine.
+- KitchenAid KF7 Fully Automatic Espresso Machine — 4.1/5. Premium build, 18 drink recipes, integrated grinder.
+- De'Longhi Magnifica Plus — 3.8/5. 18 recipes, automatic milk frother, bean-to-cup convenience.
+- Peet's Coffee Dark Roast K-Cup Pods — 5.0/5. Rich dark roast compatible with Keurig brewers.
+
+### Home Office
+https://theshoppersverdict.com/home-office/
+Office chairs, standing desks, monitors, laptops, printers, office supplies, desk accessories, lighting, networking equipment, charging stations.
+
+**Top picks:**
+- Apple 2024 Mac mini with M4 Chip — 5.0/5. Latest Mac mini with Apple Silicon M4, compact form factor, powerful for creative and development work.
+- Ergonomic Mesh Desk Chair with Adjustable Lumbar — 5.0/5 (budget-friendly). Affordable ergonomic seating with mesh back for breathability.
+- ASURION 2 Year Laptop Accident Protection Plan — 5.0/5. Extended warranty and accident protection for laptops $700-$799.99.
+
+### Home Improvement
+https://theshoppersverdict.com/home-improvement/
+Power tools, hand tools, hardware, lighting fixtures, electrical, plumbing, paint, storage solutions, welding equipment, home security.
+
+**Top picks:**
+- DEWALT 20V MAX XR Wire Cutter Kit — 5.0/5. Cuts carbon steel and stainless steel wire up to 1/4 inch. Cordless convenience with XR battery platform.
+- Black+Decker 20V MAX Lithium Battery 2.0Ah — 5.0/5. Reliable replacement battery for BLACK+DECKER 20V MAX tools.
+- Klein Tools Wire Cutter/Stripper — Professional-grade wire cutting and stripping tool.
+- Arrow T50 Staple Gun — Classic heavy-duty stapler for upholstery, insulation, and general fastening.
+
+### Luxury & Beauty
+https://theshoppersverdict.com/luxury-beauty/
+Skincare, makeup, hair care, fragrances, bath and body, nail care, grooming tools, personal care electronics.
+
+**Top picks:**
+- eos Cashmere Shave Oil — 4.0/5. Shower body oil with hyaluronic acid, vitamin C, and shea butter. Leaves skin silky without greasy residue.
+- GAQQI Lash Glue — Professional-grade eyelash adhesive for cluster and strip lashes.
+- Hair Dryer Negative Ion Professional — 5.0/5. High-speed motor, ionic technology for frizz-free drying.
+- Hello Unicorn Sparkle Kids Fluoride Toothpaste — 5.0/5. Kid-friendly toothpaste with fluoride and sparkle appeal.
+
+### Pet Supplies
+https://theshoppersverdict.com/pet-supplies/
+Dog food, cat food, pet toys, grooming tools, beds, crates, cages, fish tanks, bird supplies, pet health.
+
+**Top picks:**
+- SmartBones Smart Chews Rawhide-Free Dog Treats — 5.0/5. Digestible alternative to rawhide, made with real chicken and vegetables.
+- Yaheetech Cat Trees and Towers — Wide range of multi-level cat condos with sisal scratching posts, perches, and hideaways.
+- Arrow T50 Staple Gun — Also popular for pet projects (cage repair, DIY pet furniture).
+
+### Furniture
+https://theshoppersverdict.com/furniture/
+Sofas, beds, mattresses, dining tables, chairs, storage cabinets, TV stands, desks, rugs, home decor, vanity sets, nightstands.
+
+**Top picks:**
+- ZZW 51" Storage Ottoman Bench — 4.5/5. Upholstered storage bench with rolled arms. Seat lifts for interior storage. Good for entryways, bedrooms, or living rooms.
+- Yaheetech Bed Frames and Furniture — Extensive range of platform beds, upholstered beds, metal frames, and storage beds at competitive prices.
+- Yechen Dresser with Natural Rattan Drawers — Modern farmhouse style, natural rattan drawer fronts, industrial wood construction.
+
+### Patio, Lawn & Garden
+https://theshoppersverdict.com/patio-lawn-garden/
+Outdoor furniture, grills, gardening tools, planters, pool equipment, patio umbrellas, gazebos, pressure washers, camping gear, bike racks.
+
+**Top picks:**
+- ZZW 3-Person Wicker Porch Swing Chair — 4.3/5. Wicker porch swing with weather-resistant construction, holds up to 3 people.
+- Yaheetech Patio Umbrellas and Gazebos — Range of outdoor shading solutions including cantilever umbrellas, market umbrellas, and hardtop gazebos.
+- Yeti Tundra Coolers — Premium rotomolded coolers in multiple sizes (35qt, 45qt). Bear-resistant, ice retention measured in days.
+
+### Sports & Fitness
+https://theshoppersverdict.com/sports-fitness/
+Exercise equipment, dumbbells, kettlebells, yoga mats, sportswear, cycling gear, golf equipment, camping and hiking gear.
+
+**Top picks:**
+- Yes4all Adjustable Weight Bench with Leg Extension — Versatile home gym bench with leg curl/extension attachment. Supports up to ~800 lbs.
+- Yes4all Kettlebells (cast iron and rubber base) — Wide range of weights, durable construction suitable for home and gym use.
+- Xterra Fitness Folding Exercise Bike — Space-saving folding design, 225 lb weight capacity, magnetic resistance.
+
+### Toys & Games
+https://theshoppersverdict.com/toys-games/
+Action figures, board games, puzzles, building sets, arts and crafts, outdoor toys, trading cards, video games, plush toys.
+
+**Top picks:**
+- Warhammer 40,000 Kill Team sets — Tabletop miniatures wargaming. Various faction kill teams, terrain sets, and rulebooks.
+- ZingO Sight Words Card Game — Educational card game for early readers. Builds vocabulary through play.
+- Xbox Wireless Controllers — Core and specialty designs for Xbox Series X/S, Windows PC, Android, and iOS.
+- LEGO and Building Block sets — Wide range of brick-building kits for all ages.
+
+## Site Features
+
+**SEO & Structured Data:**
+- All pages include Open Graph, Twitter Cards, and canonical URLs
+- JSON-LD structured data on every page: WebSite, BreadcrumbList, Article (reviews), Product with AggregateRating and Offer, FAQPage
+- Auto-generated XML sitemap submitted via robots.txt
+- Clean URL slugs per category (e.g., /coffee/product-name-review/)
+
+**Analytics:**
+- Privacy-focused Umami analytics (self-hosted)
+- Affiliate click tracking via custom events
+
+**Technical:**
+- Built with Hugo static site generator (v0.161+)
+- Hosted on Cloudflare Pages (Pro plan)
+- Source on GitHub: github.com/GLYCdigital/theshoppersverdict
+- Approximately 56,000 HTML pages deployed
+- Minified HTML, CSS served in-bundle
+
+## Content Policy
+
+All reviews at The Shopper's Verdict are based on analysis of existing Amazon customer reviews. We do not purchase or test products ourselves. Our verdicts represent a synthesis of hundreds to thousands of individual customer experiences. We aim for balanced, useful summaries that help shoppers make informed decisions.
+
+**Website:** https://theshoppersverdict.com
+**Contact:** https://theshoppersverdict.com/contact/
+**Affiliate Disclosure:** https://theshoppersverdict.com/affiliate-disclosure/
+**Privacy Policy:** https://theshoppersverdict.com/privacy-policy/
+**Sister site:** https://theindicatorlab.com
