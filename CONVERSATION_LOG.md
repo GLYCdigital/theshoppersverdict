@@ -214,3 +214,4 @@ Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), ba
 [10:58 SGT] Starting batch CSV-to-reviews run. Adding 27,876 ASINs to queue and generating reviews.
 [11:05 SGT] Gabriel clarified: 2 days, quality over speed. Deleting generic batch reviews. Running proper pipeline with real scraping.
 [11:07 SGT] Gabriel clarified: 2 days, quality over speed. Undid 27K batch reviews. Restored clean state. Script fixes + ASIN queue committed. Pending push (GitHub token expired).
+[12:36 SGT] Gabriel shared Migadu credentials for contact@theshoppersverdict.com. Building IMAP email monitor (30min polling).

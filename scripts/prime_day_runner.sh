@@ -7,7 +7,7 @@
 set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$SCRIPT_DIR/.."
-export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/opt/homebrew/bin:/opt/homebrew/opt/coreutils/libexec/gnubin:$PATH"
 
 DATE_TAG=$(date '+%Y-%m-%d')
 BATCH_NUM=0
@@ -34,9 +34,8 @@ while true; do
   echo "─── Batch #$BATCH_NUM ($BATCH_START) ───"
 
   # ── Scrape with all 10 categories (2 each = 20 ASINs) ──
-  echo "  → Running orchestrator (20 ASINs, all 10 categories)..."
-  # Default distribution now includes all 10 categories (18 ASINs per batch)
-  ORCH_OUT=$(timeout 600 python3 scripts/pipeline_orchestrator.py 2>&1) || {
+  echo "  → Running orchestrator (18 ASINs, all 10 categories)..."
+  ORCH_OUT=$(python3 scripts/pipeline_orchestrator.py 2>&1) || {
     echo "  ⚠️ Orchestrator issue, continuing..."
   }
   echo "$ORCH_OUT" | tail -5
@@ -51,7 +50,7 @@ while true; do
 
   # ── Write Reviews ──
   echo "  → Writing reviews from briefings..."
-  WRITER_OUT=$(timeout 300 python3 scripts/ink_review_writer.py briefings/*_data.json 2>&1) || {
+  WRITER_OUT=$(python3 scripts/ink_review_writer.py briefings/*_data.json 2>&1) || {
     echo "  ⚠️ Writer issue, continuing..."
   }
   echo "$WRITER_OUT" | tail -3
