@@ -95,7 +95,7 @@ def tier1_scrape(asin, category, dry_run=False):
         result = subprocess.run(
             ["python3", os.path.join(WORKSPACE, "scripts", "scrape_headed.py"),
              asin, category, "--reviews", "8"],
-            capture_output=True, text=True, timeout=60
+            capture_output=True, text=True, timeout=120
         )
         if result.returncode != 0:
             print(f"    ❌ Tier 1 failed: {result.stderr.strip()[-120:]}")
