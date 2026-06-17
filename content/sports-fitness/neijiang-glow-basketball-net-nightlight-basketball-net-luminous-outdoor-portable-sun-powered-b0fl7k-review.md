@@ -10,7 +10,7 @@ price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FL7KF9T1/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61Y8liE9OlS._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Space-saving and portable design"
   - "Good value for fitness enthusiasts"

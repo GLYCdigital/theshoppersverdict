@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FMR1D1M2/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81YIRT9LepL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"

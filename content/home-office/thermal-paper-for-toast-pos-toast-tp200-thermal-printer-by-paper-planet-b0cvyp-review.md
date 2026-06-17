@@ -10,7 +10,7 @@ price: null
 review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0CVYP9TD1/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61MkWQ-1O7L._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"

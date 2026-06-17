@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D7LVJQ5X/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81x5I0sUSgL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Versatile and adjustable for different needs"
   - "Good value for fitness enthusiasts"

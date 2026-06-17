@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001O4F8Y4/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/51KY9StgFmL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"

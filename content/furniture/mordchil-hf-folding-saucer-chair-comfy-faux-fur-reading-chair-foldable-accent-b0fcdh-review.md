@@ -10,7 +10,7 @@ price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FCDHPZTP/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61VPpkFV7tL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"

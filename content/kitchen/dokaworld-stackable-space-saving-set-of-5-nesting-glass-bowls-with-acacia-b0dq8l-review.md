@@ -10,7 +10,7 @@ price: null
 review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DQ8LBBR6/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81PvqNKxCcL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Built to last with durable materials"
   - "Space-saving and portable design"

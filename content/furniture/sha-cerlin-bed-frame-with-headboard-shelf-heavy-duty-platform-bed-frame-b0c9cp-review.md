@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C9CP6PH4/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81Vw9zQOdOL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"

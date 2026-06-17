@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGRYH4FB/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/31mNdtyn-zL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Great value with multiple components included"
   - "Easy to set up and maintain"

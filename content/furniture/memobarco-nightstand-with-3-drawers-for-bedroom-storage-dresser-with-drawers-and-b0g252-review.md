@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G252N5FQ/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81t+08TorEL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"

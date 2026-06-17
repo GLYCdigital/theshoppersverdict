@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FY6Q38QL/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61OK+l9oZYL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"

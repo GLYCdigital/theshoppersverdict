@@ -10,7 +10,7 @@ price: null
 review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BWPS31T7/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61bKUs0riAL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Stylish design that complements your space"
   - "Safe materials and thoughtful design for children"

@@ -10,7 +10,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GX72V2FH/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61wi5HPvbEL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"

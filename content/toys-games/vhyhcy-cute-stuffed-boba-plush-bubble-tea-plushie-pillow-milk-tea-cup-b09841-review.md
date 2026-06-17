@@ -10,7 +10,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B098419LG2/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/619StX04ZxL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Designed for comfort during extended use"
   - "Designed with children's safety and fun in mind"

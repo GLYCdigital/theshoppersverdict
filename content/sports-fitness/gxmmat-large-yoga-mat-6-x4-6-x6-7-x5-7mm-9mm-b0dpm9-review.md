@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPM97L2G/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71Pl5OCUo2L._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"

@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVMVN744/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71wnVOTfM1L._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
