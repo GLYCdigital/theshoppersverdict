@@ -10,7 +10,7 @@ price: 47.66
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08FC1GZ62/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71mi5--nl3L._AC_SL1000_.jpg"
 pros:
   - "Premium quality construction and materials"
   - "Safe materials and thoughtful design for children"
