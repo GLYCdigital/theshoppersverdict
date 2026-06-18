@@ -10,7 +10,7 @@ price: null
 review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B07PNCHNDJ/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/816D+tT9Y8L._AC_SL1500_.jpg"
 pros:
   - "Designed with children's safety and fun in mind"
   - "Easy to set up and maintain"

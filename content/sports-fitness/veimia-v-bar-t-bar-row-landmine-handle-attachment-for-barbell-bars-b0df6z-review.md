@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF6ZC2HZ/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61-b8S1gm6L._AC_SL1200_.jpg"
 pros:
   - "Built to last with durable materials"
   - "Effective for achieving fitness goals"
