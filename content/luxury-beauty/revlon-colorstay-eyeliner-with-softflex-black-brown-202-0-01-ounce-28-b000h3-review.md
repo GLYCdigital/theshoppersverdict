@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000H3FBGI/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/51MqmL43gUL._SL1280_.jpg"
 pros:
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
