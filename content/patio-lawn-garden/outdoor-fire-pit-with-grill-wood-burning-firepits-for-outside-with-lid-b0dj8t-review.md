@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ8T7BBZ/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61NLDz+fjcL._AC_SL1200_.jpg"
 pros:
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
