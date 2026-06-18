@@ -10,7 +10,7 @@ price: 103.45
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B009UKZV0A/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/617sMRpfODL._AC_SL1000_.jpg"
 pros:
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
