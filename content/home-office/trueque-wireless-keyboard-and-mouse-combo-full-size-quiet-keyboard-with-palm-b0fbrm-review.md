@@ -10,7 +10,7 @@ price: 21.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FBRM92YX/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71uFbD7+2ML._AC_SL1500_.jpg"
 pros:
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
