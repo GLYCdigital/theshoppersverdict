@@ -10,7 +10,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1MCFTDQ/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61tI9HcoyUL._SL1134_.jpg"
 pros:
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
