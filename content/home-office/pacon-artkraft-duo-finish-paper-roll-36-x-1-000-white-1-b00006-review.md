@@ -10,7 +10,7 @@ price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00006IE0T/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/41U7OIHEF+L._SL1000_.jpg"
 pros:
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
