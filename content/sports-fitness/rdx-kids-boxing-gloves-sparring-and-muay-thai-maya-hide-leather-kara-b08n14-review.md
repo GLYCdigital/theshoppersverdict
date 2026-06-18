@@ -10,7 +10,7 @@ price: 32.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08N14NWMN/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/713bIEvTPVL._AC_SL1500_.jpg"
 pros:
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
