@@ -10,7 +10,7 @@ price: 159.0
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BZS3D18H/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/51lsdr19I6L._AC_SL1500_.jpg"
 pros:
   - "Designed for comfort during extended use"
   - "Promotes learning and development"
