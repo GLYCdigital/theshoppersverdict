@@ -10,7 +10,7 @@ price: 37.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DX2HJ487/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71R9N8KXymL._SL1500_.jpg"
 pros:
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
