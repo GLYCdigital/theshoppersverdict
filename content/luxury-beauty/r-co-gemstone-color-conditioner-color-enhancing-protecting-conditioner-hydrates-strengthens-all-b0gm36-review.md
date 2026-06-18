@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GM3662KM/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/41tJaDjOD0L._SY445_PIbundle-24,TopRight,0,0_SX239SY445SH20_.jpg"
 pros:
   - "Premium quality construction and materials"
   - "Effective for achieving fitness goals"

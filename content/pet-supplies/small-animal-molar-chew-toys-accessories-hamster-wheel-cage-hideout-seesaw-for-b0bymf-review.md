@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BYMF36QQ/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71E+yUnKo3L._AC_SL1200_.jpg"
 pros:
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"

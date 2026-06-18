@@ -10,7 +10,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07QVXS2BM/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/41V55qGPAuL._AC_SX355_.jpg"
 pros:
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
