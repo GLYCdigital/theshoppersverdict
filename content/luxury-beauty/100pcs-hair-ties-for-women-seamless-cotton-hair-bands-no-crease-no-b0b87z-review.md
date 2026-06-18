@@ -10,7 +10,7 @@ price: 6.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B87ZR99V/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61HBqU43oSL._SL1000_.jpg"
 pros:
   - "Designed for comfort during extended use"
   - "Good value for the price point"
