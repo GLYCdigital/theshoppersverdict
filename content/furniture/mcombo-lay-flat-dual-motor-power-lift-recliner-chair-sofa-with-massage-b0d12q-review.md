@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D12QWV7P/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/613o5+36W1L._AC_SL1500_.jpg"
 pros:
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
