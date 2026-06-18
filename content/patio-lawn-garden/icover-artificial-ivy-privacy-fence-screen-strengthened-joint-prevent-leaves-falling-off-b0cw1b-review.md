@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CW1B612J/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/91g5V9SgyzL._AC_SL1500_.jpg"
 pros:
   - "Stylish design that complements your space"
   - "Effective for achieving fitness goals"
