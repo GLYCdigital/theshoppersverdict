@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CT9X469N/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/91kG+jaszmL._AC_SL1500_.jpg"
 pros:
   - "Cordless convenience with reliable power"
   - "Spacious size for added convenience"
