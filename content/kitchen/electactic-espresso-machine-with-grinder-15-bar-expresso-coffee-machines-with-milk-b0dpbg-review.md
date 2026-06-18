@@ -10,7 +10,7 @@ price: null
 review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DPBG1ML8/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71Zixnus9ZL._AC_SL1500_.jpg"
 pros:
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
