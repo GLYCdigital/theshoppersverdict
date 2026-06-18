@@ -10,7 +10,7 @@ price: 14.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7Z8T5G2/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81S3ye-jpSL._SL1500_.jpg"
 pros:
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
