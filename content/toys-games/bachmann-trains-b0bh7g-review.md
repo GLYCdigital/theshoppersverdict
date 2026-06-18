@@ -10,7 +10,7 @@ price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BH7GMWSW/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/618jWG21o1L._AC_SL1500_.jpg"
 pros:
   - "Effective for achieving fitness goals"
   - "Safe materials and thoughtful design for children"
