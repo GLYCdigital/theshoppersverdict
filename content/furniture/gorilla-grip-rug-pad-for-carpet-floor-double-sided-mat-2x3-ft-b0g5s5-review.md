@@ -10,7 +10,7 @@ price: null
 review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0G5S5CHKD/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71V83MCVe9L._AC_SL1000_.jpg"
 pros:
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
