@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNKJ9L7K/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/8188vceUukL._AC_SL1500_.jpg"
 pros:
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
