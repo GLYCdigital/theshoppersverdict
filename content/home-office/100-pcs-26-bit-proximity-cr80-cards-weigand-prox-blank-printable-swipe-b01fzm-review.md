@@ -10,7 +10,7 @@ price: 72.35
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01FZM5ZWK/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61joo+bVmnL._AC_SL1274_.jpg"
 pros:
   - "Premium quality construction and materials"
   - "Promotes learning and development"
