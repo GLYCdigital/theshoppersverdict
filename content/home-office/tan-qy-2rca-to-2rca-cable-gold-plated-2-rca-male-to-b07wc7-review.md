@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07WC7C27S/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/714KTt-7WDL._SL1500_.jpg"
 pros:
   - "Promotes learning and development"
   - "Good value for the price point"
