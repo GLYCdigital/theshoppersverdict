@@ -10,7 +10,7 @@ price: null
 review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GW8QDVT3/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71otznIeL-L._AC_SL1400_.jpg"
 pros:
   - "Versatile and adjustable for different needs"
   - "Promotes learning and development"
