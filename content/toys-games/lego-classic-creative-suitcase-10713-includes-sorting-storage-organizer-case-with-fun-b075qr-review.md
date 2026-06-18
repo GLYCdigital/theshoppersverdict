@@ -10,7 +10,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B075QRWRYP/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/810suM5sWFL._AC_SL1500_.jpg"
 pros:
   - "Stylish design that complements your space"
   - "Promotes learning and development"
