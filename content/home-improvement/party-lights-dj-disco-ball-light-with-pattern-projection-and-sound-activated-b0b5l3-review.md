@@ -10,7 +10,7 @@ price: 35.49
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B5L3Q9JV/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71Gb6s4DX1L._AC_SL1201_.jpg"
 pros:
   - "Premium quality construction and materials"
   - "Good value for the price point"
