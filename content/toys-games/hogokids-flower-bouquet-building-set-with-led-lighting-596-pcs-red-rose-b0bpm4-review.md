@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BPM4XKJD/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71AHY+KGSIL._AC_SL1000_.jpg"
 pros:
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
