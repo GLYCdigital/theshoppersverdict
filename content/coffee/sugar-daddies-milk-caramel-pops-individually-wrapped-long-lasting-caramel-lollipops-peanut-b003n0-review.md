@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B003N0R3EU/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71DLgoo4YTL._SL1200_.jpg"
 pros:
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
