@@ -10,7 +10,7 @@ price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BW846N71/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71leoiho17L._SL1500_.jpg"
 pros:
   - "Weather-resistant construction for outdoor use"
   - "Good value for the price point"
