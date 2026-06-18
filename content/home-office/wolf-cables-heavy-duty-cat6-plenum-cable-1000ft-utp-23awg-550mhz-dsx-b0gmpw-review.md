@@ -10,7 +10,7 @@ price: 129.99
 review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GMPWTJ23/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/41cwwvQcqaL._SX342_SY445_QL70_ML2_.jpg"
 pros:
   - "Built to last with durable materials"
   - "Good value for the price point"
