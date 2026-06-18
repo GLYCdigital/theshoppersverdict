@@ -10,7 +10,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B9RL7S27/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/51GWS2QozmL._AC_SL1000_.jpg"
 pros:
   - "Easy and convenient to use"
   - "Cordless convenience with reliable power"
