@@ -12,7 +12,7 @@
       <a href="{{ .RelPermalink }}" class="related-image-link">
         {{ with .Params.amazon_image }}
         <div class="related-image">
-          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" width="200" height="200">
+          <img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" loading="lazy" width="200" height="200">
         </div>
         {{ else }}
         <div class="related-image related-image-placeholder">

@@ -29,7 +29,7 @@
       {{- $alt := $.Title | plainify -}}
       {{- with $.Params.image_alt }}{{ $alt = . }}{{ end -}}
       <div class="review-image-card">
-        <img src="{{ . }}" alt="{{ $alt }}" class="review-product-image" itemprop="image" loading="eager" width="600" height="600">
+        <img src="{{ replace . "_SL1500_" "_SL600_" }}" alt="{{ $alt }}" class="review-product-image" itemprop="image" loading="lazy" width="600" height="600">
       </div>
       {{ else }}
       <div class="review-image-card review-image-placeholder">

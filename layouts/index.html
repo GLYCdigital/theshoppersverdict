@@ -126,7 +126,7 @@
         <div class="verdict-card verdict-card-square">
           <a href="{{ .RelPermalink }}" class="vc-image-link">
             <div class="vc-image{{ if not .Params.amazon_image }} vc-image-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="vc-img-fill" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="vc-body">
@@ -146,7 +146,7 @@
         <div class="verdict-card verdict-card-tall">
           <a href="{{ .RelPermalink }}" class="vc-image-link">
             <div class="vc-image{{ if not .Params.amazon_image }} vc-image-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="vc-img-fill" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="vc-body">
@@ -167,7 +167,7 @@
         <div class="verdict-card verdict-card-half">
           <a href="{{ .RelPermalink }}" class="vc-image-link-sm">
             <div class="vc-image-sm{{ if not .Params.amazon_image }} vc-image-sm-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill-sm">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="vc-img-fill-sm" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="vc-body-sm">
@@ -183,7 +183,7 @@
         <div class="verdict-card verdict-card-half">
           <a href="{{ .RelPermalink }}" class="vc-image-link-sm">
             <div class="vc-image-sm{{ if not .Params.amazon_image }} vc-image-sm-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vc-img-fill-sm">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="vc-img-fill-sm" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="vc-body-sm">
@@ -209,7 +209,7 @@
       <div class="vg-card">
         <a href="{{ .RelPermalink }}" class="vg-image-link">
           <div class="vg-image{{ if not .Params.amazon_image }} vg-image-placeholder{{ end }}">
-            {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vg-img-fill">{{ end }}
+            {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="vg-img-fill" loading="lazy">{{ end }}
           </div>
         </a>
         <div class="vg-body">
@@ -240,7 +240,7 @@
         <div class="pick-row">
           <a href="{{ .RelPermalink }}" class="pick-img-link">
             <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="pick-img-fill">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="pick-img-fill" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="pick-info">
@@ -262,7 +262,7 @@
         <div class="pick-row">
           <a href="{{ .RelPermalink }}" class="pick-img-link">
             <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="pick-img-fill">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="pick-img-fill" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="pick-info">
@@ -284,7 +284,7 @@
         <div class="pick-row">
           <a href="{{ .RelPermalink }}" class="pick-img-link">
             <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="pick-img-fill">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="pick-img-fill" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="pick-info">

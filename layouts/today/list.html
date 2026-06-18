@@ -18,7 +18,7 @@
       <div class="vg-card">
         <a href="{{ .RelPermalink }}" class="vg-image-link">
           <div class="vg-image{{ if not .Params.amazon_image }} vg-image-placeholder{{ end }}">
-            {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="vg-img-fill">{{ end }}
+            {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $.Title }}" class="vg-img-fill" loading="lazy">{{ end }}
           </div>
         </a>
         <div class="vg-body">

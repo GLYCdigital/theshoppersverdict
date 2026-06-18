@@ -18,7 +18,7 @@
         <div class="pick-row">
           <a href="{{ .RelPermalink }}" class="pick-img-link">
             <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ . }}" alt="{{ $title }}" loading="lazy">{{ end }}
+              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $title }}" loading="lazy">{{ end }}
             </div>
           </a>
           <div class="pick-info">
