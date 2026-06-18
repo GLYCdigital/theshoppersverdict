@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDT8W7ZR/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81XaYiJZtGL._AC_SL1500_.jpg"
 pros:
   - "Cordless convenience with reliable power"
   - "Designed with children's safety and fun in mind"
