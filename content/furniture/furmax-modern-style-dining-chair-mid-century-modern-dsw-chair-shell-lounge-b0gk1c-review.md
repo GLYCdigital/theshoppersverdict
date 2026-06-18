@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GK1CKKQ3/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/51qyaxgtu5L._AC_SL1000_.jpg"
 pros:
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
