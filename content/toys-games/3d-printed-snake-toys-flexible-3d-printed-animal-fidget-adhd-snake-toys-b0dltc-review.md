@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLTCDDFF/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81Bd7CxPTuL._AC_SL1500_.jpg"
 pros:
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
