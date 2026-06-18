@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00EZD0ZX0/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/51nyHV3xrPL._SX342_PIbundle-6,TopRight,0,0_SX342SY390SH20_.jpg"
 pros:
   - "Easy and convenient to use"
   - "Great value with multiple components included"
