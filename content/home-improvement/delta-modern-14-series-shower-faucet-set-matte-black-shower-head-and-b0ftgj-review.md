@@ -10,7 +10,7 @@ price: 262.65
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FTGJ6QFJ/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/51cRVj+BAaL._AC_SL1500_.jpg"
 pros:
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
