@@ -10,7 +10,7 @@ price: 24.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09J5FBBCC/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61sSupKMPQL._AC_SL1500_.jpg"
 pros:
   - "Great value with multiple components included"
   - "Modern features and smart functionality"

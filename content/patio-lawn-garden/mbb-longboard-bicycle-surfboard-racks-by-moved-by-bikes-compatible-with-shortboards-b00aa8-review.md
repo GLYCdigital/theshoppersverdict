@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00AA87DO8/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71SwiDXFUEL._AC_SL1500_.jpg"
 pros:
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
