@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DNDW3W5B/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/712hvB9jnNL._AC_SL1500_.jpg"
 pros:
   - "Great value with multiple components included"
   - "Spacious size for added convenience"

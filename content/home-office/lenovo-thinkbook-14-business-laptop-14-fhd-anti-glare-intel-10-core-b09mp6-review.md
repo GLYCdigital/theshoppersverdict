@@ -10,7 +10,7 @@ price: null
 review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B09MP6XSG3/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61ErQl3nRfL._AC_SL1200_.jpg"
 pros:
   - "Premium quality construction and materials"
   - "Good value for the price point"

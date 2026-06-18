@@ -10,7 +10,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CF5BRVD2/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61XJ6LnFe7L._AC_SL1500_.jpg"
 pros:
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
