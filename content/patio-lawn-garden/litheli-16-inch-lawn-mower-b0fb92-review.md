@@ -10,7 +10,7 @@ price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FB92ZFQ7/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61-IrS1HemL._AC_SL1100_.jpg"
 pros:
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
