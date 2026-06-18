@@ -10,7 +10,7 @@ price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09ZVLCPWF/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71OAoqc7-yL._AC_SL1500_.jpg"
 pros:
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"

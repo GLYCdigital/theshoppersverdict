@@ -10,7 +10,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTZWZBPN/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61y9v+1Tt1L._AC_SL1500_.jpg"
 pros:
   - "Designed for comfort during extended use"
   - "Good value for fitness enthusiasts"
