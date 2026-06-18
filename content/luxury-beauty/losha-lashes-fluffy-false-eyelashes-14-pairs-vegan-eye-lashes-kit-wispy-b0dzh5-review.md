@@ -10,7 +10,7 @@ price: 9.58
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZH5XPDV/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81iiimuerwL._SL1500_.jpg"
 pros:
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
