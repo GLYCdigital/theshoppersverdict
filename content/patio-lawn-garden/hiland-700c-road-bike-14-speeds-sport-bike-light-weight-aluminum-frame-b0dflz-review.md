@@ -10,7 +10,7 @@ price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DFLZTQBY/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81-o7QEmcwL._AC_SL1500_.jpg"
 pros:
   - "Quality materials for lasting performance"
   - "Easy to set up and maintain"
