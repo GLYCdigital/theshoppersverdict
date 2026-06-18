@@ -228,3 +228,5 @@ Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), ba
 - Cuisinart Food Processor 14-Cup (kitchen, B08K1SPT9W, 9.0/10)
 - Chefman TurboFry Air Fryer (kitchen, B08DKYBTPH, 8.5/10)
 - SYOKAMI Japanese Chef Knife (kitchen, B0F3J4FBWC, 9.0/10)
+[08:45 SGT] Ink Deploy Health Check ran. Pipeline ran (10 reviews), deploy ✅, images ✅. Script pattern 'Ink.*Daily batch' mismatched commit msg format — false negative. Minor: homepage has placeholders for some older cards.
+[09:24 SGT] Gabriel flagged most reviews missing images. 23,551/28,204 (83.5%) have empty amazon_image field. Launched image_fill_pass_v2.py (15 workers, Amazon og:image extraction, commit every 1000) to backfill all of them.
