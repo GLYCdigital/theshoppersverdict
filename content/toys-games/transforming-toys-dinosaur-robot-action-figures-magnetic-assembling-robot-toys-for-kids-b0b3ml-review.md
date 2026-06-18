@@ -10,7 +10,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B3MLB3NN/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/81uNmg8K1VL._AC_SL1500_.jpg"
 pros:
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
