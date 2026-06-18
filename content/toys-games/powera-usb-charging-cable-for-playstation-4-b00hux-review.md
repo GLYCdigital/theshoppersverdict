@@ -10,7 +10,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00HUXPZPK/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61GP5i2HCdL._AC_SL1494_.jpg"
 pros:
   - "Modern features and smart functionality"
   - "Safe materials and thoughtful design for children"

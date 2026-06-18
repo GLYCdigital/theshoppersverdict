@@ -10,7 +10,7 @@ price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FCFRVCZ4/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/61Itqcrc0UL._AC_SL1500_.jpg"
 pros:
   - "Space-saving and portable design"
   - "Great value with multiple components included"
