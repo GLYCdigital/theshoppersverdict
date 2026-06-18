@@ -10,7 +10,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07M85ZRLT/?tag=tsvglyc-20"
-amazon_image: ""
+amazon_image: "https://m.media-amazon.com/images/I/71aeD4sjTlL._AC_SL1474_.jpg"
 pros:
   - "Safe materials you can trust"
   - "Great value with multiple components included"
