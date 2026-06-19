@@ -1,0 +1,53 @@
+{{ define "main" }}
+<section class="category-hero" style="background-color: var(--navy);">
+  <div class="container category-hero-inner">
+    <h1>{{ .Title }}</h1>
+    <p class="category-desc">Search our library of 26,000+ Amazon product verdicts. Find what you're looking for — we've already done the research.</p>
+  </div>
+</section>
+
+<section class="section-white search-section">
+  <div class="container">
+    <div class="search-wrapper">
+      <div id="search-ui"></div>
+    </div>
+  </div>
+</section>
+
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const params = new URLSearchParams(window.location.search);
+    const query = params.get('q') || '';
+    
+    const ui = new PagefindUI({
+      element: "#search-ui",
+      showSubResults: false,
+      showImages: true,
+      excerptLength: 30,
+      baseUrl: "/",
+      processResult: function(result) {
+        if (result.meta && result.meta.image_alt === "None") {
+          result.meta.image = "";
+        }
+      }
+    });
+    
+    // If a query was passed in the URL, trigger search
+    if (query) {
+      setTimeout(function() {
+        var input = document.querySelector('.pagefind-ui__search-input');
+        if (input) {
+          var nativeInputValueSetter = Object.getOwnPropertyDescriptor(
+            window.HTMLInputElement.prototype, 'value'
+          ).set;
+          nativeInputValueSetter.call(input, query);
+          input.dispatchEvent(new Event('input', { bubbles: true }));
+          input.dispatchEvent(new Event('change', { bubbles: true }));
+          input.focus();
+        }
+      }, 200);
+    }
+  });
+</script>
+{{ end }}

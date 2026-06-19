@@ -1,0 +1,39 @@
+{{ define "main" }}
+<section class="category-hero" style="background-color: var(--navy);">
+  <div class="container category-hero-inner">
+    <h1>{{ .Title }}</h1>
+    <p class="category-desc">Search our library of 26,000+ Amazon product verdicts. Find what you're looking for — we've already done the research.</p>
+  </div>
+</section>
+
+<section class="section-white search-section">
+  <div class="container">
+    <div class="search-wrapper">
+      <div id="search-ui"></div>
+    </div>
+  </div>
+</section>
+
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: "#search-ui",
+      showSubResults: false,
+      showImages: true,
+      excerptLength: 30,
+      baseUrl: "/",
+      processResult: function(result) {
+        // Hide empty-image results
+        if (result.meta && result.meta.image_alt === "None") {
+          result.meta.image = "";
+        }
+      },
+      processTerm: function(term) {
+        // Prioritize product brands/names
+        return term;
+      }
+    });
+  });
+</script>
+{{ end }}
