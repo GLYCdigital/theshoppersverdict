@@ -193,6 +193,18 @@ async def process_batch(batch):
                 failed_count += 1
 
 
+async def restart_browser_if_needed(items_since_restart):
+    """Restart browser every 500 items to prevent Playwright memory leak."""
+    global _playwright, _browser, _context
+    if items_since_restart >= 500:
+        print(f"\n  🔄 Browser restart at {items_since_restart} items (memory cleanup)...", flush=True)
+        await close_browser()
+        await init_browser()
+        print(f"  ✅ Browser restarted\n", flush=True)
+        return True
+    return False
+
+
 async def process_all(to_fix):
     global fixed_count, failed_count, processed_count, start_time, last_commit_count
     start_time = time.time()
@@ -201,13 +213,29 @@ async def process_all(to_fix):
     CONCURRENT = 2
     BATCH = 40
     COMMIT_EVERY = 100
+    BROWSER_RESTART_EVERY = 500
+    items_since_restart = 0
     
-    print(f"\nWorkers: {CONCURRENT} concurrent | Fresh page per ASIN | Commit: {COMMIT_EVERY}")
+    print(f"\nWorkers: {CONCURRENT} concurrent | Commit: {COMMIT_EVERY} | Browser restart: {BROWSER_RESTART_EVERY}")
     print(f"Total: {len(to_fix)} ASINs\n")
     
     for batch_start in range(0, len(to_fix), BATCH):
         batch = to_fix[batch_start:batch_start + BATCH]
-        await process_batch(batch)
+        try:
+            await process_batch(batch)
+            items_since_restart += len(batch)
+        except Exception as e:
+            print(f"\n  ⚠️ Batch error: {str(e)[:80]}. Restarting browser...", flush=True)
+            await close_browser()
+            await init_browser()
+            items_since_restart = 0
+            # Retry this batch
+            try:
+                await process_batch(batch)
+                items_since_restart += len(batch)
+            except Exception as e2:
+                print(f"  ❌ Retry also failed: {str(e2)[:80]}. Skipping batch.", flush=True)
+                continue
         
         elapsed = time.time() - start_time
         rate = fixed_count / elapsed * 3600 if elapsed > 0 else 0
@@ -220,6 +248,11 @@ async def process_all(to_fix):
             print(f"\n  → Committing ({fixed_count} total)...", flush=True)
             git_commit_and_push(fixed_count)
             print(flush=True)
+        
+        # Prevent Playwright memory leak: restart browser periodically
+        await restart_browser_if_needed(items_since_restart)
+        if items_since_restart >= BROWSER_RESTART_EVERY:
+            items_since_restart = 0
     
     await close_browser()
     
