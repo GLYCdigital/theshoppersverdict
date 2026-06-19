@@ -2023,3 +2023,113 @@ ul { list-style: none; }
   .sort-select { min-width: 140px; font-size: 13px; }
   .sort-label { font-size: 13px; }
 }
+
+/* ==========================================
+   Verdicts Master A-Z Index
+   ========================================== */
+.az-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  justify-content: center;
+  padding: 16px 0;
+}
+.az-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--navy);
+  border: 1px solid var(--border-light);
+  border-radius: 6px;
+  transition: all var(--transition);
+}
+.az-link:hover {
+  background: var(--gold);
+  color: var(--white);
+  border-color: var(--gold);
+}
+.az-group {
+  margin-bottom: 24px;
+}
+.az-group-title {
+  font-family: var(--font-heading);
+  font-size: 22px;
+  color: var(--gold);
+  border-bottom: 2px solid var(--border-light);
+  padding-bottom: 6px;
+  margin-bottom: 12px;
+  scroll-margin-top: 120px;
+}
+.verdict-row-mini {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border-light);
+  transition: background var(--transition);
+}
+.verdict-row-mini:hover {
+  background: var(--off-white);
+}
+.verdict-row-mini:last-child {
+  border-bottom: none;
+}
+.verdict-row-link {
+  flex: 1;
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--charcoal);
+  text-decoration: none;
+  line-height: 1.4;
+}
+.verdict-row-link:hover {
+  color: var(--gold);
+}
+.verdict-row-stars {
+  flex-shrink: 0;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--gold);
+  white-space: nowrap;
+}
+
+/* ==========================================
+   Pagination
+   ========================================== */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 32px 0;
+  flex-wrap: wrap;
+}
+.pagination-info {
+  font-size: 14px;
+  color: var(--muted);
+  text-align: center;
+}
+
+/* ==========================================
+   Verdicts master card (shared)
+   ========================================== */
+.verdicts-master-card {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .az-link { width: 30px; height: 30px; font-size: 12px; }
+  .az-group-title { font-size: 18px; scroll-margin-top: 80px; }
+  .verdict-row-mini { padding: 8px 10px; gap: 8px; }
+  .verdict-row-link { font-size: 13px; }
+  .verdict-row-stars { font-size: 12px; }
+  .pagination { gap: 10px; padding: 24px 0; }
+  .pagination-info { font-size: 12px; }
+}

@@ -2,36 +2,66 @@
 <section class="category-hero" style="background-color: var(--navy);">
   <div class="container category-hero-inner">
     <h1>{{ .Title }}</h1>
-    {{ with .Params.description }}
-    <p class="category-desc">{{ . | safeHTML }}</p>
-    {{ end }}
+    <p class="category-desc">{{ .Params.description | default "Every verdict we've ever written. Browse by title or jump to a letter." | safeHTML }}</p>
   </div>
 </section>
 
-{{ $all := (where .Site.RegularPages "Section" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty" "pet-supplies")).ByDate.Reverse }}
+{{ $all := where .Site.RegularPages "Section" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty" "pet-supplies" "furniture" "patio-lawn-garden" "sports-fitness" "toys-games") }}
+{{ $sorted := sort $all "Title" }}
+{{ $paginator := .Paginate $sorted 100 }}
 
+<!-- A-Z jump nav -->
 <section class="section-white">
   <div class="container">
-    <div class="verdicts-master-card verdicts-cols">
-      {{ range $all }}
-        {{ $title := .Title }}
-        <div class="pick-row">
-          <a href="{{ .RelPermalink }}" class="pick-img-link">
-            <div class="pick-img{{ if not .Params.amazon_image }} pick-img-placeholder{{ end }}">
-              {{ with .Params.amazon_image }}<img src="{{ replace . "_SL1500_" "_SL300_" }}" alt="{{ $title }}" loading="lazy">{{ end }}
-            </div>
-          </a>
-          <div class="pick-info">
-            <a href="{{ .RelPermalink }}" class="pick-name">{{ .Title }}</a>
-            <span class="pick-verdict">{{ partial "stars.html" .Params.amazon_rating }} {{ .Params.amazon_rating }}/5</span>
+    <nav class="az-nav" aria-label="Jump to letter">
+      {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
+      {{ range $letters }}
+      <a href="#letter-{{ . }}" class="az-link">{{ . }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</section>
+
+<!-- Grouped verdict list -->
+<section class="section-white" style="padding-top:0;">
+  <div class="container">
+    <div class="verdicts-master-card">
+      {{ $currentLetter := "" }}
+      {{ range $paginator.Pages }}
+        {{ $letter := substr .Title 0 1 | upper }}
+        {{ if ne $letter $currentLetter }}
+          {{ $currentLetter = $letter }}
+          <div class="az-group" id="letter-{{ $letter }}">
+            <h2 class="az-group-title">{{ $letter }}</h2>
           </div>
+        {{ end }}
+        <div class="verdict-row-mini">
+          <a href="{{ .RelPermalink }}" class="verdict-row-link">{{ .Title }}</a>
+          {{ with .Params.amazon_rating }}<span class="verdict-row-stars">{{ partial "stars.html" . }} {{ . }}</span>{{ end }}
         </div>
       {{ else }}
-        <div class="pick-row" style="justify-content:center;padding:40px 0;">
-          <span class="pick-name" style="color:var(--muted);">No reviews yet</span>
+        <div class="az-group">
+          <p style="color:var(--muted);text-align:center;padding:40px 0;">No reviews yet</p>
         </div>
       {{ end }}
     </div>
+
+    <!-- Pagination -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" aria-label="Pagination">
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="btn btn-gold">&larr; Previous</a>
+      {{ else }}
+      <span class="btn btn-gold" style="opacity:0.4;cursor:default;">&larr; Previous</span>
+      {{ end }}
+      <span class="pagination-info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }} ({{ $paginator.TotalNumberOfElements | lang.FormatNumber 0 }} verdicts)</span>
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="btn btn-gold">Next &rarr;</a>
+      {{ else }}
+      <span class="btn btn-gold" style="opacity:0.4;cursor:default;">Next &rarr;</span>
+      {{ end }}
+    </nav>
+    {{ end }}
   </div>
 </section>
 {{ end }}
