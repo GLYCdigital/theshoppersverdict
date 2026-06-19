@@ -242,3 +242,5 @@ Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), ba
 ### [2026-06-19 08:00 SGT] — Daily pipeline started. 10 briefings from main dir are all USED. Running pipeline orchestrator to scrape fresh ASINs via headed Chrome.
 
 [08:21 SGT] 🐶 v4 watchdog: image_fill_pass_v4.py completed earlier (07:20) with 0% success — all 1493 items failed (Amazon blocking). NOT restarting — process would be counterproductive. Reported to Ops group.
+[08:48 SGT] 🖋️ DEPLOY HEALTH CHECK — FAILED
+08:00 daily batch pipeline did NOT run (no Ink.*Daily batch commit found today). There is an unrelated removal pass in progress. Alert posted to ops group.

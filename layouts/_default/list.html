@@ -10,7 +10,7 @@
 
 <section class="section-white verdict-grid-section">
   <div class="container">
-    <div class="verdict-grid">
+    <div class="verdict-grid" id="verdictGrid">
       {{ range .Pages.ByTitle }}
       <div class="vg-card">
         <a href="{{ .RelPermalink }}" class="vg-image-link">
@@ -22,6 +22,7 @@
           <span class="vg-category">{{ with .Params.category }}{{ . }}{{ else }}{{ .CurrentSection.Title }}{{ end }}</span>
           <h4><a href="{{ .RelPermalink }}" class="vg-title-link">{{ .Title }}</a></h4>
           {{ with .Params.amazon_rating }}<div class="vg-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
+          {{ with .Params.review_count }}<span class="vg-review-count" style="display:none;">{{ . }}</span>{{ end }}
           <p class="vg-summary">{{ .Summary | plainify | truncate 80 }}</p>
         </div>
       </div>
@@ -36,4 +37,6 @@
     </div>
   </div>
 </section>
+
+<script src="/js/category-sort.js"></script>
 {{ end }}

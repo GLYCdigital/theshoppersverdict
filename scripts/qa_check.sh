@@ -9,6 +9,11 @@ for MD in "$@"; do
     BASENAME=$(basename "$MD")
     # Skip Hugo index files
     case "$BASENAME" in _index.md|_*.md) continue ;; esac
+    # Skip non-review pages (root-level content files: about, contact, search, etc.)
+    PARENT_DIR=$(dirname "$MD" | xargs basename)
+    if [ "$PARENT_DIR" = "content" ]; then
+        continue
+    fi
     if [ ! -f "$MD" ]; then
         echo "  ⚠️  MISSING: $MD"
         ERRORS=$((ERRORS + 1))
