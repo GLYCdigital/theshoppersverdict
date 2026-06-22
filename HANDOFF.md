@@ -30,23 +30,19 @@ Everything lives here — Hugo content, pipeline scripts, briefings, queue, and 
 
 ## Pending
 
-*(Last updated: 06:00 SGT, 2026-06-18 — by ink)*
+*(Last updated: 05:15 SGT, 2026-06-22 — by ink — heartbeat poll)*
 
-- **Today's haul:** 10 reviews written, QA passed, committed and pushed ✅
-  1. Keurig K155 Office Pro (coffee, 8.0/10)
-  2. maxtek Dry Erase Markers (home-office, 8.5/10)
-  3. YSAGi Desk Pad (home-office, 9.0/10)
-  4. Chemex Pour-Over Coffeemaker (coffee, 9.2/10)
-  5. Elite Gourmet Single-Serve Coffee (coffee, 8.2/10)
-  6. ErGear Monitor Arm (home-office, 8.8/10)
-  7. HUANUO Standing Desk (home-office, 8.8/10)
-  8. Cuisinart Food Processor 14-Cup (kitchen, 9.0/10)
-  9. Chefman TurboFry Air Fryer (kitchen, 8.5/10)
-  10. SYOKAMI Japanese Chef Knife (kitchen, 9.0/10)
+### Status: June 22 05:15 — Pre-dawn heartbeat. Queue ready for 08:00 pipeline.
+- **June 18 ✅** — 10 reviews written, QA passed, committed & pushed
+- **June 19 ❌** — Pipeline started (briefings consumed), attempted headed Chrome scrape — no daily batch commit
+- **June 20 ❌** — Saturday — pipeline did not run at 08:00; deploy health check alerted ops group
+- **June 21 ✅** — 2 reviews written (MCHOSE Laptop Stand, FLEXISPOT Bedside Table). Headed Chrome scraper broken.
+- **June 22 05:15** — Pre-dawn heartbeat. No TASK_*.md pending. Pipeline will fire at 08:00 (~2h45m).
 
-- **Queue state:** Synced — all 10 ASINs already in used list
-- **Briefings used:** 3 from `briefings/` (Keurig, maxtek, YSAGi) + 7 from `briefings/_backlog/` (Chemex, Elite Gourmet, ErGear, HUANUO, Cuisinart, Chefman, SYOKAMI)
-- **Next:** Need fresh scrapes; most briefings now consumed
+### Queue
+- **Well-stocked:** ~28K ASINs across 10 categories, 303 used
+- **Briefings:** 15 in `briefings/`, 6 in `_backlog/` — some unused
+- **Images:** image_fill_pass_v4 completed with 0% success (Amazon blocking). v4 watchdog disabled.
 
 ### Notes
 - Check MEMORY.md for long-term pending items
@@ -57,5 +53,5 @@ Everything lives here — Hugo content, pipeline scripts, briefings, queue, and 
 ## Last Session Summary
 
 - **Agent:** ink
-- **Checkpoint:** 06:00 SGT, 2026-06-18
-- **Message:** 10 reviews written via parallel sub-agents. All QA passed, committed (251523e9b), pushed to main. Report sent to Ops group.
+- **Checkpoint:** 03:13 SGT, 2026-06-21
+- **Message:** Heartbeat poll — no TASK_*.md found. Queue healthy for 08:00 pipeline. HANDOFF updated from stale June 18 state.

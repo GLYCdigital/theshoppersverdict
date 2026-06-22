@@ -1,6 +1,9 @@
 ## 🖋️ Ink — Conversation Log
 
-Last updated: 2026-06-19
+[08:19 SGT] Gabriel asked: remove FiveWillowise 3 Tier Ladder Bookshelf verdict — out of stock on Amazon.
+[08:20 SGT] Removed, committed (f71f568a5), pushed to main.
+
+Last updated: 2026-06-20
 
 ### [2026-06-10 08:00 SGT] — Daily pipeline started — no fresh briefings. Running pipeline orchestrator to scrape new ASINs.
 
@@ -244,3 +247,9 @@ Heartbeat poll — no TASK files, pipeline ran today (08:15 SGT, 10 reviews), ba
 [08:21 SGT] 🐶 v4 watchdog: image_fill_pass_v4.py completed earlier (07:20) with 0% success — all 1493 items failed (Amazon blocking). NOT restarting — process would be counterproductive. Reported to Ops group.
 [08:48 SGT] 🖋️ DEPLOY HEALTH CHECK — FAILED
 08:00 daily batch pipeline did NOT run (no Ink.*Daily batch commit found today). There is an unrelated removal pass in progress. Alert posted to ops group.
+[08:45 SGT] Ink Deploy Health Check — 08:00 pipeline did NOT run today (Sat 20 Jun). Alert sent to ops in final reply.
+[2026-06-21 03:13 SGT] Heartbeat poll — no TASK_*.md files. Queue has ~28K ASINs across 10 categories. HANDOFF updated from stale Jun 18 to current Jun 21 state. 08:00 pipeline should fire normally.
+[08:01 SGT] Daily pipeline: 13 viable briefings found in briefings/*_data.json. Running ink_review_writer.py now.
+[08:10 SGT] Daily pipeline: Headed Chrome scraper failed (13 consecutive errors). Only 2 viable unreviewed data files found in _dead_stale. Wrote 2 reviews (MCHOSE Laptop Stand, FLEXISPOT Bedside Table), QA passed, committed (f9b19c5fb), pushed to main. Reported to Gabriel.
+[23:13 SGT] Heartbeat poll — 2 reviews published today (MCHOSE Laptop Stand, FLEXISPOT Bedside Table). No TASK_*.md. Queue healthy (~28K ASINs). Pipeline ready for 08:00 tomorrow.
+[05:15 SGT] Heartbeat poll — no TASK_*.md. Queue healthy (~28K ASINs). Pre-dawn standby; pipeline expected at 08:00. HANDOFF updated.
