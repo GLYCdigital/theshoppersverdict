@@ -7,7 +7,7 @@ Usage: python3 scrape_headed.py <ASIN> <category> [--reviews N]
 Saves: briefings/<category>_<ASIN>_data.json
 """
 
-import sys, os, json, re, subprocess
+import sys, os, json, re, random, subprocess
 from playwright.sync_api import sync_playwright
 
 WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -60,10 +60,14 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             browser = p.chromium.launch(headless=False, channel='chrome')
             page = browser.new_page(viewport={'width': 1280, 'height': 900})
             
+            # Random pre-nav delay — human doesn't browse instantly
+            hrs = 1 + random.uniform(0.5, 3.0)
+            page.wait_for_timeout(int(hrs * 1000))
+            
             # ── 1. Load product page ──
             print(f"  → Loading product page...")
-            page.goto(url, timeout=30000, wait_until='load')
-            page.wait_for_timeout(4000)
+            page.goto(url, timeout=60000, wait_until='load')
+            page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
             
             # ── 1b. Handle Amazon bot check interstitial ──
             bot_check = page.evaluate('''() => {
@@ -102,16 +106,53 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
                 }''')
                 if clicked:
                     print(f"  → Clicked continue button, waiting for navigation...")
-                    page.wait_for_timeout(5000)
+                    page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
                     try:
-                        page.wait_for_function('() => document.querySelector("#productTitle") !== null || document.body.textContent.includes("Click the button") === false', timeout=15000)
+                        page.wait_for_function('() => document.querySelector("#productTitle") !== null || document.body.textContent.includes("Click the button") === false', timeout=25000)
                     except:
                         pass
-                    page.wait_for_timeout(2000)
+                    page.wait_for_timeout(int((2 + random.uniform(1, 3)) * 1000))
                 else:
                     print(f"  → No button found to click, trying page reload...")
-                    page.goto(url, timeout=30000, wait_until='load')
-                    page.wait_for_timeout(5000)
+                    page.goto(url, timeout=60000, wait_until='load')
+                    page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
+            
+            # ── 1c. Handle country/region pop-up ──
+            # Amazon redirects .com → .sg for Singapore IPs and shows a pop-up:
+            # "You are on Amazon.sg. Would you like to go to Amazon.com?"
+            # We need to click "Go to Amazon.com" so US ASINs resolve correctly.
+            switched = page.evaluate('''() => {
+                if (window.location.hostname.includes('amazon.') && !window.location.hostname.endsWith('amazon.com')) {
+                    // Try clicking "Go to Amazon.com" button or "United States" option
+                    const all = document.querySelectorAll('a, button, span, div');
+                    for (const el of all) {
+                        const t = el.textContent?.toLowerCase() || '';
+                        if ((t.includes('united states') || t.includes('go to amazon.com') || t.includes('shop on amazon.com')) &&
+                            (el.tagName === 'A' || el.tagName === 'BUTTON' || el.onclick)) {
+                            el.click();
+                            return 'clicked_us';
+                        }
+                    }
+                    // Look for any link with amazon.com that isn't .sg
+                    for (const a of document.querySelectorAll('a')) {
+                        if (a.href && a.href.includes('amazon.com') && !a.href.includes('amazon.sg')) {
+                            window.location.href = a.href;
+                            return 'redirected';
+                        }
+                    }
+                    return 'stuck_on_sg';
+                }
+                return 'on_com';
+            }''')
+            
+            if switched and switched != 'on_com':
+                print(f"  → Country pop-up: {switched}, waiting for Amazon.com...")
+                page.wait_for_timeout(int((5 + random.uniform(2, 5)) * 1000))
+                try:
+                    page.wait_for_function('() => window.location.hostname.includes("amazon.com")', timeout=15000)
+                except:
+                    pass
+                page.wait_for_timeout(int((3 + random.uniform(1, 3)) * 1000))
             
             # ── 2. Extract product data ──
             product = page.evaluate('''() => {
@@ -141,13 +182,13 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             product['url'] = page.url
             product['asin'] = asin
             
-            # ── 3. Scroll to load reviews ──
+            # ── 3. Scroll to load reviews — humanized pacing ──
             print(f"  → Scrolling to reviews...")
             for pct in [30, 50, 70, 85, 95]:
                 page.evaluate(f'window.scrollTo(0, document.body.scrollHeight * {pct / 100})')
-                page.wait_for_timeout(1200)
+                page.wait_for_timeout(int((0.8 + random.uniform(0.5, 1.5)) * 1000))
             page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-            page.wait_for_timeout(1500)
+            page.wait_for_timeout(int((2 + random.uniform(0.5, 2.0)) * 1000))
             
             if page.evaluate('document.querySelectorAll(\'[data-hook="review"]\').length') == 0:
                 see_all = page.evaluate('''() => {
@@ -163,7 +204,7 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
                 if see_all:
                     print(f"  → Following review link...")
                     page.goto(see_all, timeout=30000, wait_until='load')
-                    page.wait_for_timeout(3000)
+                    page.wait_for_timeout(int((3 + random.uniform(1, 3)) * 1000))
             
             # ── 4. Expand truncated reviews ──
             expand_count = page.evaluate('''() => {
@@ -176,7 +217,7 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             }''')
             if expand_count:
                 print(f"  → Expanded {expand_count} truncated reviews")
-                page.wait_for_timeout(1000)
+                page.wait_for_timeout(int((1 + random.uniform(0.5, 1.5)) * 1000))
             
             # ── 5. Extract reviews ──
             reviews = page.evaluate('''() => {

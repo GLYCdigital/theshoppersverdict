@@ -3,7 +3,7 @@
 Pipeline Orchestrator — tiered scraping with graceful degradation.
 
 Tiers per ASIN:
-  1. Headed Chrome scrape (scrape_headed.py)
+  1. Headed Chrome with humanized pacing (scrape_headed.py)
   2. Backlog briefings (briefings/_backlog/)
   3. Skip — mark ASIN for future retry
 
@@ -26,7 +26,9 @@ PROCESSED_DIR = os.path.join(BRIEFINGS_DIR, "processed")
 QUEUE_PATH = os.path.join(WORKSPACE, "data", "asin_queue.json")
 PROCESSED_ASINS_PATH = os.path.join(WORKSPACE, "data", "processed_asins.json")
 
-SCRAPE_COOLDOWN_S = 45  # anti-bot: seconds between headed Chrome scrapes
+def scrape_cooldown():
+    """Return randomized cooldown between scrapes — 45s + 10-20s jitter for human-like pacing."""
+    return 45 + random.uniform(10, 20)
 
 DEFAULT_DISTRIBUTION = {
     "coffee": 2,
@@ -90,7 +92,7 @@ def pick_asins(category, count, processed):
 # ─── tier scrapers ─────────────────────────────────────
 
 def tier1_scrape(asin, category, dry_run=False):
-    """Headed Chrome scrape — returns data dict or None."""
+    """Headed Chrome scrape via Playwright — all delays randomized for human-like pacing."""
     if dry_run:
         print(f"    [DRY] Would scrape {asin} via headed Chrome")
         return {"_tier": 1, "_dry": True}
@@ -99,7 +101,7 @@ def tier1_scrape(asin, category, dry_run=False):
         result = subprocess.run(
             ["python3", os.path.join(WORKSPACE, "scripts", "scrape_headed.py"),
              asin, category, "--reviews", "8"],
-            capture_output=True, text=True, timeout=120
+            capture_output=True, text=True, timeout=180
         )
         if result.returncode != 0:
             print(f"    ❌ Tier 1 failed: {result.stderr.strip()[-120:]}")
@@ -202,6 +204,29 @@ def parse_briefing_md(filepath):
 
 # ─── orchestration ─────────────────────────────────────
 
+def prefilter_live_asins(asins):
+    """Fast HTTP HEAD check — skip dead/404 ASINs before opening Chrome.
+    Returns only ASINs that respond with HTTP 200 (or timeout/error = skip)."""
+    import urllib.request, urllib.error
+    live = []
+    for asin in asins:
+        url = f"https://www.amazon.com/dp/{asin}"
+        try:
+            req = urllib.request.Request(url, method='HEAD')
+            req.add_header('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36')
+            resp = urllib.request.urlopen(req, timeout=5)
+            if resp.status == 200:
+                live.append(asin)
+            else:
+                print(f"    ⏭  {asin}: HTTP {resp.status} — skipping")
+        except Exception as e:
+            print(f"    ⏭  {asin}: skipped ({type(e).__name__})")
+        time.sleep(0.3)  # gentle rate-limit
+    if len(live) < len(asins):
+        print(f"  → {len(live)}/{len(asins)} ASINs responded 200")
+    return live
+
+
 def process_category(category, count, processed, dry_run=False):
     """Process one category through tiers. Returns list of scraped data dicts."""
     results = []
@@ -211,16 +236,20 @@ def process_category(category, count, processed, dry_run=False):
         asins = pick_asins(category, count, processed)
         return [{'_tier': 0, '_dry': True, '_asin': a, '_category': category} for a in asins]
     
-    # Tier 1: Headed Chrome
-    asins = pick_asins(category, needed, processed)
+    # Tier 1: Chrome CDP (try up to 5x the needed count, pre-filter dead ASINs)
+    max_tries = needed * 5
+    asins = pick_asins(category, max_tries, processed)
+    print(f"  → Pre-filtering {len(asins)} ASINs for liveness...")
+    asins = prefilter_live_asins(asins)
     tier1_used = set()
     
     for i, asin in enumerate(asins):
         if len(results) >= count:
             break
-        if i > 0 and SCRAPE_COOLDOWN_S > 0:
-            print(f"  ⏳ Cooling down {SCRAPE_COOLDOWN_S}s to avoid bot detection...")
-            time.sleep(SCRAPE_COOLDOWN_S)
+        if i > 0:
+            cd = scrape_cooldown()
+            print(f"  ⏳ Cooling down {cd:.0f}s to avoid bot detection...")
+            time.sleep(cd)
         print(f"  → {category} ASIN {asin}: Tier 1 (headed Chrome)")
         data = tier1_scrape(asin, category)
         if data and data.get('title'):
@@ -229,7 +258,8 @@ def process_category(category, count, processed, dry_run=False):
             tier1_used.add(asin)
             print(f"    ✅ {data['title'][:70]}")
         else:
-            print(f"    ❌ Tier 1 failed for {asin}")
+            print(f"    ❌ Tier 1 failed for {asin} — marking as dead")
+            processed.add(asin)
     
     # Tier 2: Backlog fallback
     remaining = count - len(results)

@@ -15,8 +15,12 @@
 <!-- openclaw-memory-promotion:memory:memory/2026-05-19.md:7:8 -->
 - [16:00 SGT] Checkpoint: afternoon checkpoint → Pending items synced to HANDOFF.md [score=0.854 recalls=0 avg=0.620 source=memory/2026-05-19.md:7-8]
 
-## Apify Reminder
+## Scraper Status — FIXED
+- Gabriel has built a working Amazon scraper using image-based extraction.
+- Handles: Amazon .sg → .com redirect, country pop-up dismissal, bot detection bypass.
+- ✅ No more "scraper broken" — it works. Needs integration into the full pipeline.
 
+## Apify Reminder (Backup)
 - Apify subscription renews 11 June 2026
 - Rent curious_coder/amazon-scraper before renewal to keep pipeline running
 - Cost: $25/month - supports product images ("photos")

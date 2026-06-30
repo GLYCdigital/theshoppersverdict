@@ -9,7 +9,7 @@ Extracts: title, price, rating, review_count, image, features, description
 Saves to: briefings/<category>_<ASIN>_data.json
 """
 
-import sys, os, json, re, asyncio, time, subprocess
+import sys, os, json, re, asyncio, time, random, subprocess
 import websockets
 
 WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -20,22 +20,46 @@ CDP_PORT = 9222
 MAX_RETRIES = 2
 
 def get_navigable_ws_url():
-    """Get WebSocket URL for any navigable page (Amazon or TradingView)."""
+    """Create a fresh browser tab via CDP and return its WebSocket URL.
+    Using a fresh tab avoids Electron security restrictions on app-internal pages."""
     result = subprocess.run(
         ['curl', '-s', f'http://localhost:{CDP_PORT}/json'],
         capture_output=True, text=True, timeout=10
     )
     targets = json.loads(result.stdout)
-    # Prefer TradingView chart page, fall back to Amazon page, then any page
+    
+    # Find the browser-level endpoint to create a new target
+    browser_ws = None
     for t in targets:
-        if 'tradingview.com/chart' in t.get('url', ''):
-            return t['webSocketDebuggerUrl']
+        if t.get('type') == 'browser' and 'webSocketDebuggerUrl' in t:
+            browser_ws = t['webSocketDebuggerUrl']
+            break
+    
+    if browser_ws:
+        # Create a fresh blank page target via the browser endpoint
+        try:
+            result = subprocess.run(
+                ['curl', '-s', '-X', 'PUT', 
+                 f'http://localhost:{CDP_PORT}/json/new?about:blank'],
+                capture_output=True, text=True, timeout=10
+            )
+            new_target = json.loads(result.stdout)
+            if 'webSocketDebuggerUrl' in new_target:
+                return new_target['webSocketDebuggerUrl']
+        except Exception as e:
+            print(f"  ⚠️ Could not create new target: {e}")
+    
+    # Fallback: look for a page that's NOT a TradingView app page (file:///)
     for t in targets:
-        if 'amazon.' in t.get('url', ''):
+        url = t.get('url', '')
+        if t.get('type') == 'page' and not url.startswith('file://'):
             return t['webSocketDebuggerUrl']
+    
+    # Last resort: any page
     for t in targets:
         if t.get('type') == 'page' and 'webSocketDebuggerUrl' in t:
             return t['webSocketDebuggerUrl']
+    
     return None
 
 
@@ -51,6 +75,8 @@ async def scrape_asin(asin, max_retries=MAX_RETRIES):
     for attempt in range(max_retries):
         try:
             async with websockets.connect(ws_url, max_size=10*1024*1024) as ws:
+                # Random initial delay before navigation — human doesn't type at machine speed
+                await asyncio.sleep(1 + random.uniform(0.5, 2.5))
                 # Navigate to Amazon
                 await ws.send(json.dumps({
                     "id": 1,
@@ -58,8 +84,8 @@ async def scrape_asin(asin, max_retries=MAX_RETRIES):
                     "params": {"url": url}
                 }))
                 
-                # Wait for page to settle (Amazon redirects to local TLD)
-                await asyncio.sleep(5)
+                # Wait for page to settle — randomized for human-like timing
+                await asyncio.sleep(4 + random.uniform(1, 4))
                 
                 # Extract product data
                 await ws.send(json.dumps({
@@ -145,23 +171,23 @@ async def scrape_asin(asin, max_retries=MAX_RETRIES):
                     except asyncio.TimeoutError:
                         break
                 
-                # Navigate back to TradingView
+                # Close the temporary tab
                 await ws.send(json.dumps({
                     "id": 3,
-                    "method": "Page.navigate",
-                    "params": {"url": "https://www.tradingview.com/chart/"}
+                    "method": "Target.closeTarget",
+                    "params": {}
                 }))
                 
                 if product_data and product_data.get('title'):
                     return product_data
                 
                 if attempt < max_retries - 1:
-                    await asyncio.sleep(3)
+                    await asyncio.sleep(2 + random.uniform(1, 5))
                     
         except Exception as e:
             print(f"  Attempt {attempt + 1} failed: {e}")
             if attempt < max_retries - 1:
-                await asyncio.sleep(3)
+                await asyncio.sleep(2 + random.uniform(1, 5))
     
     return product_data
 
