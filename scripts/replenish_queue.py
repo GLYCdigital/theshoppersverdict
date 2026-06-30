@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 """
-replenish_queue.py — Replenish the ASIN queue with fresh products.
+replenish_queue.py — SUPERSEDED by fetch_bestsellers.py (live Amazon bestseller scraper).
 
-Strategies (tried in order):
-1. Scrape Amazon search results (sometimes works, rate-limited by Amazon)
-2. Fallback: Large curated seed list of known bestseller ASINs
+Kept as seed-list backup only. Use fetch_bestsellers.py for live ASINs.
 
 Usage:
   python3 replenish_queue.py --category coffee --count 10

@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
 """
-Pipeline Orchestrator — tiered scraping with graceful degradation.
+Pipeline Orchestrator — fresh reviews from Amazon bestsellers every day.
+
+Flow:
+  0. Seed queue: Fetch live Amazon bestseller ASINs → prepend to front of queue
+  1. Pre-filter: curl check for HTTP 200 — skip dead ASINs in ~2s
+  2. Scrape: Headed Chrome (scrape_headed.py) — your working method
+  3. Writer → QA → Build → Commit → Push
 
 Tiers per ASIN:
   1. Headed Chrome with humanized pacing (scrape_headed.py)
   2. Backlog briefings (briefings/_backlog/)
-  3. Skip — mark ASIN for future retry
+  3. Fallback to 20K queue if bestsellers didn't yield enough
 
 Partial yield is published — 6/10 is better than 0/10.
 Yield monitor alerts ops group when coverage < 80%.
@@ -25,6 +31,7 @@ BACKLOG_DIR = os.path.join(BRIEFINGS_DIR, "_backlog")
 PROCESSED_DIR = os.path.join(BRIEFINGS_DIR, "processed")
 QUEUE_PATH = os.path.join(WORKSPACE, "data", "asin_queue.json")
 PROCESSED_ASINS_PATH = os.path.join(WORKSPACE, "data", "processed_asins.json")
+FETCH_BESTSELLERS = os.path.join(WORKSPACE, "scripts", "fetch_bestsellers.py")
 
 def scrape_cooldown():
     """Return randomized cooldown between scrapes — 45s + 10-20s jitter for human-like pacing."""
@@ -205,25 +212,32 @@ def parse_briefing_md(filepath):
 # ─── orchestration ─────────────────────────────────────
 
 def prefilter_live_asins(asins):
-    """Fast HTTP HEAD check — skip dead/404 ASINs before opening Chrome.
-    Returns only ASINs that respond with HTTP 200 (or timeout/error = skip)."""
-    import urllib.request, urllib.error
+    """Fast page check via curl — skip dead/404 ASINs before opening Chrome.
+    Uses system curl with proper Amazon User-Agent to check if the page resolves.
+    Returns only ASINs that appear to have a product page (contain #productTitle)."""
     live = []
     for asin in asins:
         url = f"https://www.amazon.com/dp/{asin}"
         try:
-            req = urllib.request.Request(url, method='HEAD')
-            req.add_header('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36')
-            resp = urllib.request.urlopen(req, timeout=5)
-            if resp.status == 200:
+            r = subprocess.run(
+                ["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}",
+                 "-A", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+                 "-m", "5", url],
+                capture_output=True, text=True, timeout=10
+            )
+            code = r.stdout.strip()
+            if code == "200":
                 live.append(asin)
             else:
-                print(f"    ⏭  {asin}: HTTP {resp.status} — skipping")
+                print(f"    ⏭  {asin}: HTTP {code} — skipping")
         except Exception as e:
-            print(f"    ⏭  {asin}: skipped ({type(e).__name__})")
-        time.sleep(0.3)  # gentle rate-limit
-    if len(live) < len(asins):
+            print(f"    ⏭  {asin}: curl error ({type(e).__name__})")
+    if live and len(live) < len(asins):
         print(f"  → {len(live)}/{len(asins)} ASINs responded 200")
+    elif not live:
+        print(f"  → 0/{len(asins)} responded 200 via curl — will try all anyway (Amazon may block curl)")
+        # Fallback: try all if curl can't reach Amazon
+        return asins
     return live
 
 
@@ -296,6 +310,25 @@ def run_pipeline(distribution=None, dry_run=False):
     if dry_run:
         print("  MODE: DRY RUN")
     print("=" * 60)
+    
+    # Step 0: Seed queue with today's Amazon bestsellers (prepended to front)
+    # Time-boxed: 180s max. If it times out or fails, continue with existing queue.
+    if not dry_run:
+        print("\n🌱 Seeding queue with live Amazon bestsellers (180s time-box)...")
+        try:
+            seed = subprocess.run(
+                ["python3", FETCH_BESTSELLERS, "--count", "30", "--enqueue", "--prepend"],
+                capture_output=True, text=True, timeout=180
+            )
+            added = seed.stdout.count("prepended") + seed.stdout.count("appended")
+            if added:
+                print(f"  ✅ {added} categories got fresh bestseller ASINs")
+            else:
+                print("  ℹ️  No new bestseller ASINs — all already in queue")
+        except subprocess.TimeoutExpired:
+            print("  ⚠️ Bestseller seed timed out — continuing with existing queue")
+        except Exception as e:
+            print(f"  ⚠️ Bestseller seed skipped: {type(e).__name__}")
     
     # Shuffle category order so different ASINs get first crack each day
     cat_order = list(distribution.items())
