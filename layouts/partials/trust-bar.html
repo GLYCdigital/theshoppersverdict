@@ -2,7 +2,7 @@
   <div class="container trust-bar-inner">
     <div class="trust-item">
       <span class="trust-icon">⚖️</span>
-      <span class="trust-text">24+ Honest Product Verdicts</span>
+      <span class="trust-text">{{ len (where .Site.RegularPages "Type" "in" (slice "coffee" "furniture" "home-improvement" "home-office" "kitchen" "luxury-beauty" "patio-lawn-garden" "pet-supplies" "sports-fitness" "toys-games")) }}+ Product Verdicts</span>
     </div>
     <div class="trust-divider"></div>
     <div class="trust-item">
