@@ -3,7 +3,6 @@ title: "Klein Tools 11055EP Wire Cutter and Stripper Review: Made in USA Quality
 seo_title: "Klein Tools 11055EP Wire Cutter & Stripper Review (2026) | The Shopper's Verdict"
 meta_description: "Our in-depth Klein Tools 11055EP wire cutter and stripper review. Made in USA, cuts & strips 10-22 AWG copper wire. 4.8★ from 8,277 Amazon reviews. See pros, cons, and our verdict."
 date: 2026-06-15
-type: review
 slug: "klein-tools-11055ep-wire-cutter-and-stripper-made-in-usa-stranded-and-review"
 asin: B00080DPNQ
 amazon_url: "https://www.amazon.com/dp/B00080DPNQ/?tag=tsvglyc-20"

@@ -3,7 +3,6 @@ title: "Cuisinart Food Processor 14-Cup Review: The Kitchen Workhorse That Earns
 seo_title: "Cuisinart Food Processor 14-Cup DFP-14CRM Review 2026: Best Full-Size Food Processor?"
 meta_description: "Our honest Cuisinart DFP-14CRM food processor review. Real customer insights on the 14-cup workhorse with 720W motor. Pros, cons, and our 9/10 verdict."
 date: 2026-06-18
-type: review
 slug: cuisinart-food-processor-14-cup-review
 asin: B08K1SPT9W
 amazon_url: "https://www.amazon.com/dp/B08K1SPT9W/?tag=tsvglyc-20"

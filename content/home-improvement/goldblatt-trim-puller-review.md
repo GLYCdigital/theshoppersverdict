@@ -3,7 +3,6 @@ title: "Goldblatt Trim Puller Review: The Tool Every DIYer Needs for Baseboard R
 seo_title: "Goldblatt Trim Puller Review 2026: Best Baseboard Removal Tool?"
 meta_description: "Our full Goldblatt Trim Puller review. Real customer insights on this tile and trim removal multi-tool. See pros, cons, and who should buy."
 date: 2026-06-17
-type: review
 slug: goldblatt-trim-puller-review
 asin: B083SG7ZT8
 amazon_url: "https://www.amazon.com/dp/B083SG7ZT8/?tag=tsvglyc-20"

@@ -3,7 +3,6 @@ title: "LANEIGE Lip Sleeping Mask Berry Review: Is This Viral Lip Treatment Wort
 seo_title: "LANEIGE Lip Sleeping Mask Review 2026: Best Overnight Lip Treatment?"
 meta_description: "Our honest LANEIGE Lip Sleeping Mask Berry review. Real customer insights on this viral overnight lip treatment. See pros, cons, who should buy."
 date: 2026-06-17
-type: review
 slug: laneige-lip-sleeping-mask-berry-review
 asin: B07XXPHQZK
 amazon_url: "https://www.amazon.com/dp/B07XXPHQZK/?tag=tsvglyc-20"

@@ -3,7 +3,6 @@ title: "YSAGi Leather Desk Pad Protector Review: Does a $10 Mat Elevate Your Des
 seo_title: "YSAGi Leather Desk Pad Protector Review 2026: Best Budget Desk Mat?"
 meta_description: "Our full YSAGi Leather Office Desk Pad Protector review. Real customer insights on this $9.99 PU leather desk mat with 20,000+ reviews. See pros, cons, and our verdict."
 date: 2026-06-18
-type: review
 slug: ysagi-leather-desk-pad-review
 asin: B0BMTPC44X
 amazon_url: "https://www.amazon.com/dp/B0BMTPC44X/?tag=tsvglyc-20"

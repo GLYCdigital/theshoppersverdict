@@ -3,7 +3,6 @@ title: "Cuisinart Single Serve Coffee Maker Review: 72oz Pod Machine Tested"
 seo_title: "Cuisinart Single Serve Coffee Maker Review 2026: Best K-Cup Alternative?"
 meta_description: "Our full Cuisinart Single Serve coffee maker review. 72-oz reservoir, programmable features, and real owner insights. Compare to Keurig and Nespresso."
 date: 2026-06-17
-type: review
 slug: cuisinart-single-serve-coffee-maker-review
 asin: B014W1C2VM
 amazon_url: "https://www.amazon.com/dp/B014W1C2VM/?tag=tsvglyc-20"

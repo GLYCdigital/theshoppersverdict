@@ -3,7 +3,6 @@ title: "HUANUO 32\" Electric Standing Desk Review: Small Space, Big Value"
 seo_title: "HUANUO 32 x 21 Electric Standing Desk Review 2026: Best Small Standing Desk?"
 meta_description: "Our full HUANUO 32 x 21 inch Small Electric Standing Desk review. Real customer insights on this height-adjustable desk with 2 drawers. See pros, cons, and our verdict."
 date: 2026-06-18
-type: review
 slug: huanuo-electric-standing-desk-review
 asin: B0G5N8XYLY
 amazon_url: "https://www.amazon.com/dp/B0G5N8XYLY/?tag=tsvglyc-20"

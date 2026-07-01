@@ -3,7 +3,6 @@ title: "BUNN GRB Velocity Brew 10-Cup Review: 3-Minute Coffee in 2026"
 seo_title: "BUNN GRB Velocity Brew Review 2026: Best Fast Coffee Maker?"
 meta_description: "Our full BUNN GRB Velocity Brew review. Real customer insights on the 10-cup home coffee brewer that makes coffee in 3 minutes. See pros, cons, and who should buy."
 date: 2026-06-17
-type: review
 slug: bunn-velocity-brew-review
 asin: B000FFRZ26
 amazon_url: "https://www.amazon.com/dp/B000FFRZ26/?tag=tsvglyc-20"

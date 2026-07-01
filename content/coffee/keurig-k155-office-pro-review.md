@@ -3,7 +3,6 @@ title: "Keurig K155 Office Pro Review: Commercial K-Cup Brewer Tested"
 seo_title: "Keurig K155 Office Pro Review 2026: Best Commercial K-Cup Coffee Maker?"
 meta_description: "Our full Keurig K155 Office Pro review. Real customer insights on this $355 commercial single-cup brewer. See pros, cons, and who should buy."
 date: 2026-06-18
-type: review
 slug: keurig-k155-office-pro-review
 asin: B00DWKEHU4
 amazon_url: "https://www.amazon.com/dp/B00DWKEHU4/?tag=tsvglyc-20"

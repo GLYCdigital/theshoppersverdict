@@ -3,7 +3,6 @@ title: "Elite Gourmet EHC112 Single Serve Coffee Maker Review: Budget Brewer Tes
 seo_title: "Elite Gourmet EHC112 Coffee Maker Review 2026: $35 Travel Mug Brewer"
 meta_description: "Our full Elite Gourmet EHC112 single-serve coffee maker review. Compact design, thermal travel mug, and real owner insights from 9,700+ reviews. Compare to Keurig and Cuisinart."
 date: 2026-06-18
-type: review
 slug: elite-gourmet-single-serve-coffee-maker-review
 asin: B0B197X3H6
 amazon_url: "https://www.amazon.com/dp/B0B197X3H6/?tag=tsvglyc-20"

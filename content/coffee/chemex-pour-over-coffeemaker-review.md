@@ -3,7 +3,6 @@ title: "Chemex Pour-Over Glass Coffeemaker 8-Cup Review: Timeless Design Meets E
 seo_title: "Chemex Pour-Over Coffeemaker Review 2026: Best Glass Coffee Maker?"
 meta_description: "Our full Chemex 8-Cup Pour-Over review. Real customer insights on the iconic glass coffeemaker that makes barista-quality coffee without plastic or electronics. See pros, cons, and who should buy."
 date: 2026-06-18
-type: review
 slug: chemex-pour-over-coffeemaker-review
 asin: B000I1WP7W
 amazon_url: "https://www.amazon.com/dp/B000I1WP7W/?tag=tsvglyc-20"

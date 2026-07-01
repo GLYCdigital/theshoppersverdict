@@ -3,7 +3,6 @@ title: "Amazon Basics Office Stapler Review: Is the $6 Stapler Worth It?"
 seo_title: "Amazon Basics Office Stapler Review 2026: Best Budget Stapler?"
 meta_description: "Our full Amazon Basics Office Stapler review. Real customer insights on this 25-sheet budget stapler with 52,000+ reviews. See pros, cons, and our verdict."
 date: 2026-06-17
-type: review
 slug: amazon-basics-office-stapler-review
 asin: B079ZV4V3C
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"

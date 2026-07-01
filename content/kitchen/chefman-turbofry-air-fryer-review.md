@@ -3,7 +3,6 @@ title: "Chefman TurboFry 8 Qt Air Fryer Review: The 450°F Hi-Fry Option Changes
 seo_title: "Chefman TurboFry 8 Qt Air Fryer Review 2026: 4-in-1 With Hi-Fry Mode at $80"
 meta_description: "Our honest Chefman TurboFry 8 Qt Air Fryer review. Real customer insights on the 4-in-1 air fryer with 450°F Hi-Fry. See pros, cons, verdict, and who should buy."
 date: 2026-06-18
-type: review
 slug: chefman-turbofry-8qt-air-fryer-review
 asin: B08DKYBTPH
 amazon_url: "https://www.amazon.com/dp/B08DKYBTPH/?tag=tsvglyc-20"

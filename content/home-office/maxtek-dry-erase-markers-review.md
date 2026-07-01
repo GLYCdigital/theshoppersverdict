@@ -3,7 +3,6 @@ title: "Maxtek Magnetic Dry Erase Markers Review: Fine Tip Set Worth $7?"
 seo_title: "Maxtek Magnetic Dry Erase Markers Review 2026: 12-Count Fine Tip Set"
 meta_description: "Our full Maxtek Magnetic Dry Erase Markers review. Real customer insights on this 12-count fine tip set with magnetic caps and built-in eraser. See pros, cons, and our verdict."
 date: 2026-06-18
-type: review
 slug: maxtek-magnetic-dry-erase-markers-review
 asin: B0B9CDZ9BL
 amazon_url: "https://www.amazon.com/dp/B0B9CDZ9BL/?tag=tsvglyc-20"

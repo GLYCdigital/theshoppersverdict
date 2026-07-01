@@ -3,7 +3,6 @@ title: "SeoulCeuticals Vitamin C Serum Review: Is the $20 CE Ferulic Alternative
 seo_title: "SeoulCeuticals Vitamin C Serum Review 2026: Best Budget CE Ferulic?"
 meta_description: "Our honest SeoulCeuticals 20% Vitamin C Hyaluronic Acid Serum review. Real customer insights on this K-beauty antioxidant serum with 27,000+ reviews."
 date: 2026-06-17
-type: review
 slug: seoulceuticals-vitamin-c-serum-review
 asin: B072K1LNNY
 amazon_url: "https://www.amazon.com/dp/B072K1LNNY/?tag=tsvglyc-20"

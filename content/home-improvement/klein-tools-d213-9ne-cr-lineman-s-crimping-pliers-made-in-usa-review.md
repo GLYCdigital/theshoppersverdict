@@ -3,7 +3,6 @@ title: "Klein Tools D213-9NE-CR Lineman's Crimping Pliers Review: Built for Pros
 seo_title: "Klein Tools D213-9NE-CR Lineman's Crimping Pliers Review (2026)"
 meta_description: "Review of Klein Tools D213-9NE-CR Lineman's Crimping Pliers. 4.8★ from 1,329 reviews. High-leverage, induction-hardened, made in USA. Real customer quotes included."
 date: 2026-06-15
-type: review
 slug: "klein-tools-d213-9ne-cr-lineman-s-crimping-pliers-made-in-usa-review"
 asin: "B000CEMSLS"
 amazon_url: "https://www.amazon.com/dp/B000CEMSLS/?tag=tsvglyc-20"

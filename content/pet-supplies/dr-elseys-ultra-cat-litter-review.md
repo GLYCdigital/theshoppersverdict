@@ -3,7 +3,6 @@ title: "Dr. Elsey's Ultra Cat Litter Review: Best Unscented Clumping Clay After 
 seo_title: "Dr. Elsey's Ultra Cat Litter Review 2026: Best Unscented Clumping Cat Litter?"
 meta_description: "Our full Dr. Elsey's Ultra Unscented Clumping Clay Cat Litter review. Real customer insights on the 40lb bag. See pros, cons, and our verdict from 95,000+ reviews."
 date: 2026-06-17
-type: review
 slug: dr-elseys-ultra-cat-litter-review
 asin: B0009X29WK
 amazon_url: "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20"

@@ -12,7 +12,6 @@ review_count: 7664
 verdict_score: 4.6
 price: 9.99
 date: 2026-06-15
-type: review
 categories:
   - luxury-beauty
   - skin-care

@@ -3,7 +3,6 @@ title: "Syokami Japanese Chef Knife Review: $37 Carbon Steel That Rivals $150 Bl
 seo_title: "Syokami Kiritsuke Chef Knife Review 2026: Best Budget Carbon Steel Knife?"
 meta_description: "Our honest Syokami Japanese Kitchen Knife review. Real customer insights on the $37 carbon steel Kiritsuke chef knife. See performance, edge retention, pros, cons, and our verdict."
 date: 2026-06-18
-type: review
 slug: syokami-japanese-chef-knife-review
 asin: B0F3J4FBWC
 amazon_url: "https://www.amazon.com/dp/B0F3J4FBWC/?tag=tsvglyc-20"

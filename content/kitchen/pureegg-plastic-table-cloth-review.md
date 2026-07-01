@@ -3,7 +3,6 @@ title: "Pureegg Plastic Table Cloth 10 Pack Review: Disposable Table Covers for 
 seo_title: "Pureegg Plastic Table Cloth 10 Pack Review 2026: Best Disposable Tablecloths?"
 meta_description: "Our full Pureegg Plastic Table Cloth 10 Pack review. Real customer insights on these 54x108 inch disposable table covers. See pros, cons, and our verdict."
 date: 2026-06-17
-type: review
 slug: pureegg-plastic-table-cloth-review
 asin: B0CBM682SQ
 amazon_url: "https://www.amazon.com/dp/B0CBM682SQ/?tag=tsvglyc-20"

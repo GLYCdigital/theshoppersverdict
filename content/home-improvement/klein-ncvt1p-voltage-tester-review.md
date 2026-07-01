@@ -3,7 +3,6 @@ title: "Klein Tools NCVT1P Voltage Tester Review: Non-Contact Pen Tested"
 seo_title: "Klein Tools NCVT1P Voltage Tester Review 2026: Best Non-Contact Pen?"
 meta_description: "Our honest Klein Tools NCVT1P voltage tester review. Real customer insights on the non-contact low voltage tester pen for DIYers and pros."
 date: 2026-06-17
-type: review
 slug: klein-ncvt1p-voltage-tester-review
 asin: B099SJ6469
 amazon_url: "https://www.amazon.com/dp/B099SJ6469/?tag=tsvglyc-20"

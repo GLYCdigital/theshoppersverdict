@@ -3,7 +3,6 @@ title: "Ultrean Food Scale Review: A $7 Scale That Actually Works?"
 seo_title: "Ultrean Food Scale Review 2026: Best Budget Kitchen Scale?"
 meta_description: "Our honest Ultrean Food Scale review. Real customer insights on the $7 digital kitchen scale. See pros, cons, accuracy tests, and our verdict."
 date: 2026-06-17
-type: review
 slug: ultrean-food-scale-review
 asin: B08CZDYNF7
 amazon_url: "https://www.amazon.com/dp/B08CZDYNF7/?tag=tsvglyc-20"

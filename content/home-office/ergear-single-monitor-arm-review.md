@@ -3,7 +3,6 @@ title: "ErGear Single Monitor Arm Review: Does a $32 Monitor Mount Deliver?"
 seo_title: "ErGear Single Monitor Arm Review 2026: Best Budget Monitor Mount?"
 meta_description: "Our full ErGear Single Monitor Arm review. Real customer insights on this gas-piston monitor mount for 13-34 inch screens with 9,000+ reviews. See pros, cons, and our verdict."
 date: 2026-06-18
-type: review
 slug: ergear-single-monitor-arm-review
 asin: B0FQM6QB48
 amazon_url: "https://www.amazon.com/dp/B0FQM6QB48/?tag=tsvglyc-20"
