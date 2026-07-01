@@ -1013,6 +1013,13 @@ ul { list-style: none; }
 .pros-box ul, .cons-box ul { list-style: disc; padding-left: 18px; }
 .pros-box li, .cons-box li { font-size: 13px; line-height: 1.6; margin-bottom: 3px; }
 
+.review-trust-bar { background: var(--offwhite); border-left: 3px solid var(--gold); border-radius: 6px; padding: 14px 18px; margin-bottom: 24px; }
+.trust-bar-inner { display: flex; align-items: flex-start; gap: 12px; }
+.trust-bar-icon { font-size: 20px; line-height: 1.4; flex-shrink: 0; }
+.trust-bar-text { font-size: 14px; line-height: 1.5; color: var(--charcoal); }
+.trust-bar-text strong { font-weight: 600; }
+.trust-bar-link { color: var(--gold); font-weight: 500; text-decoration: underline; margin-left: 4px; white-space: nowrap; }
+.trust-bar-link:hover { color: var(--navy); }
 .review-body { margin-bottom: 28px; }
 .review-body h2 { font-family: var(--font-heading); font-size: 22px; margin-bottom: 14px; }
 .review-body p { margin-bottom: 14px; line-height: 1.7; font-size: 15px; }

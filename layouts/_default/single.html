@@ -39,6 +39,22 @@
 
       {{ partial "pros-cons.html" . }}
 
+      {{- /* Trust bar — answers "why should I trust this?" before the reader bounces */ -}}
+      <div class="review-trust-bar">
+        <div class="trust-bar-inner">
+          <span class="trust-bar-icon">🔍</span>
+          <div class="trust-bar-text">
+            <strong>Based on real Amazon reviews</strong>
+            {{- with .Params.review_count -}}
+              — we analyzed <strong>{{ . }}</strong> verified customer ratings to bring you this verdict.
+            {{- else -}}
+              — we analyze thousands of customer ratings to separate signal from noise.
+            {{- end -}}
+            <a href="/about/" class="trust-bar-link">How we review →</a>
+          </div>
+        </div>
+      </div>
+
       <div class="review-body" itemprop="reviewBody">
         <h2>The Verdict</h2>
         {{ .Content }}

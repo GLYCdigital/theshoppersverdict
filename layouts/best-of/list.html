@@ -1,0 +1,29 @@
+{{ define "main" }}
+<section class="category-page">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span>→</span>
+      <span class="current">Best Of</span>
+    </nav>
+    <h1>Best Product Roundups</h1>
+    <p class="category-desc">Curated lists of the best products in every category — based on real customer reviews.</p>
+    <div class="review-grid">
+      {{ range .Pages.ByDate.Reverse }}
+      <article class="review-card">
+        {{ with .Params.amazon_image }}
+        <img src="{{ replace . "_SL1500_" "_SL600_" }}" alt="{{ $.Title }}" class="review-card-image" loading="lazy" width="600" height="600">
+        {{ end }}
+        <div class="review-card-body">
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <p>{{ .Params.meta_description | truncate 120 }}</p>
+          <a href="{{ .RelPermalink }}" class="review-link">Read the Roundup →</a>
+        </div>
+      </article>
+      {{ else }}
+      <p>Roundups coming soon — we're analyzing the data now.</p>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

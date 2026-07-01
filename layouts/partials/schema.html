@@ -186,16 +186,9 @@
     {{- $product = merge $product (dict "brand" (dict "@type" "Brand" "name" $brand)) -}}
   {{- end -}}
 
-  {{- /* SKU / MPN from ASIN if available */ -}}
-  {{- $asin := "" -}}
-  {{- $slugParts := split .Params.slug "-" -}}
-  {{- range $slugParts -}}
-    {{- if and (eq (len .) 10) (or (hasPrefix . "B0") (hasPrefix . "B00")) -}}
-      {{- $asin = . -}}
-    {{- end -}}
-  {{- end -}}
-  {{- if $asin -}}
-    {{- $product = merge $product (dict "sku" $asin "mpn" $asin) -}}
+  {{- /* SKU / MPN from ASIN if available (use frontmatter asin param) */ -}}
+  {{- with .Params.asin -}}
+    {{- $product = merge $product (dict "sku" . "mpn" . "identifier_exists" true) -}}
   {{- end -}}
 
   {{- $schemas = $schemas | append $product -}}

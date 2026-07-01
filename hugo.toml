@@ -43,6 +43,10 @@ summaryLength = 25
     url = "/verdicts/"
     weight = 10
   [[menu.main]]
+    name = "Best Of"
+    url = "/best-of/"
+    weight = 12
+  [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 20
