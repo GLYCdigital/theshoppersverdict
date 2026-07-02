@@ -2,12 +2,12 @@
   <div class="container trust-bar-inner">
     <div class="trust-item">
       <span class="trust-icon">⚖️</span>
-      <span class="trust-text">{{ lang.NumFmt 0 (default 0 .Site.Data.stats.total_verdicts) }} Product Verdicts</span>
+      <span class="trust-text">{{ .Site.Data.stats.total_verdicts }} Product Verdicts</span>
     </div>
     <div class="trust-divider"></div>
     <div class="trust-item">
       <span class="trust-icon">🔍</span>
-      <span class="trust-text">{{ lang.NumFmt 1 (div (float (default 0 .Site.Data.stats.total_reviews_analyzed)) 1000000.0) }}M+ Reviews Analysed</span>
+      <span class="trust-text">{{ div .Site.Data.stats.total_reviews_analyzed 1000000 }}M+ Reviews Analysed</span>
     </div>
     <div class="trust-divider"></div>
     <div class="trust-item">

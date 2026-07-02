@@ -5,9 +5,9 @@
         <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" width="138" height="138">
       </a>
       <div class="header-trust-text">
-                <span>⚖️ {{ lang.NumFmt 0 (default 0 .Site.Data.stats.total_verdicts) }} Product Verdicts</span>
+                <span>⚖️ {{ .Site.Data.stats.total_verdicts }} Product Verdicts</span>
         <span class="trust-divider">|</span>
-        <span>🔍 {{ lang.NumFmt 1 (div (float (default 0 .Site.Data.stats.total_reviews_analyzed)) 1000000.0) }}M+ Reviews Analysed</span>
+        <span>🔍 {{ div .Site.Data.stats.total_reviews_analyzed 1000000 }}M+ Reviews Analysed</span>
         <span class="trust-divider">|</span>
         <span>⚖️ Unbiased Verdicts</span>
         <span class="trust-divider">|</span>
