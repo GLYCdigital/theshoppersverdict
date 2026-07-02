@@ -23,6 +23,9 @@ jobs:
           hugo-version: '0.147.7'
           extended: true
 
+      - name: Pre-calculate stats (fast, avoids Hugo 26k-loop timeout)
+        run: python3 scripts/calc_stats.py
+
       - name: Build
         run: hugo --minify
 

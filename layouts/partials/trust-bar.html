@@ -2,12 +2,12 @@
   <div class="container trust-bar-inner">
     <div class="trust-item">
       <span class="trust-icon">⚖️</span>
-      <span class="trust-text">{{ lang.NumFmt 0 (len (where .Site.RegularPages "Type" "in" (slice "coffee" "furniture" "home-improvement" "home-office" "kitchen" "luxury-beauty" "patio-lawn-garden" "pet-supplies" "sports-fitness" "toys-games"))) }} Product Verdicts</span>
+      <span class="trust-text">{{ lang.NumFmt 0 (default 0 .Site.Data.stats.total_verdicts) }} Product Verdicts</span>
     </div>
     <div class="trust-divider"></div>
     <div class="trust-item">
       <span class="trust-icon">🔍</span>
-      {{ $.Scratch.Set "totalRev" 0 }}{{ range (where .Site.RegularPages "Type" "in" (slice "coffee" "furniture" "home-improvement" "home-office" "kitchen" "luxury-beauty" "patio-lawn-garden" "pet-supplies" "sports-fitness" "toys-games")) }}{{ with .Params.review_count }}{{ $.Scratch.Add "totalRev" . }}{{ end }}{{ end }}<span class="trust-text">{{ div (int (mul ($.Scratch.Get "totalRev" | default 0 | float) 100)) 100000000 }}M+ Reviews Analysed</span>
+      <span class="trust-text">{{ lang.NumFmt 1 (div (float (default 0 .Site.Data.stats.total_reviews_analyzed)) 1000000.0) }}M+ Reviews Analysed</span>
     </div>
     <div class="trust-divider"></div>
     <div class="trust-item">

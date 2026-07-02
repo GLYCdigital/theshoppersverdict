@@ -2,7 +2,7 @@
 <section class="category-hero" style="background-color: var(--navy);">
   <div class="container category-hero-inner">
     <h1>{{ .Title }}</h1>
-    <p class="category-desc">Search our library of {{ len (where .Site.RegularPages "Type" "in" (slice "coffee" "furniture" "home-improvement" "home-office" "kitchen" "luxury-beauty" "patio-lawn-garden" "pet-supplies" "sports-fitness" "toys-games")) }}+ Amazon product verdicts. Find what you're looking for — we've already done the research.</p>
+    <p class="category-desc">Search our library of {{ lang.NumFmt 0 (default 0 .Site.Data.stats.total_verdicts) }} Amazon product verdicts. Find what you're looking for — we've already done the research.</p>
   </div>
 </section>
 
