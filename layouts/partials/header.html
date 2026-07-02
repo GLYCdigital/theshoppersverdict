@@ -5,7 +5,7 @@
         <img src="{{ .Site.Params.assets.logo | absURL }}" alt="{{ .Site.Params.brand }}" width="138" height="138">
       </a>
       <div class="header-trust-text">
-        <span>⚖️ {{ len (where .Site.RegularPages "Type" "in" (slice "coffee" "furniture" "home-improvement" "home-office" "kitchen" "luxury-beauty" "patio-lawn-garden" "pet-supplies" "sports-fitness" "toys-games")) }}+ Product Verdicts</span>
+        <span>⚖️ {{ lang.NumFmt 0 (len (where .Site.RegularPages "Type" "in" (slice "coffee" "furniture" "home-improvement" "home-office" "kitchen" "luxury-beauty" "patio-lawn-garden" "pet-supplies" "sports-fitness" "toys-games"))) }} Product Verdicts</span>
         <span class="trust-divider">|</span>
         {{ $.Scratch.Set "totalRev" 0 }}{{ range (where .Site.RegularPages "Type" "in" (slice "coffee" "furniture" "home-improvement" "home-office" "kitchen" "luxury-beauty" "patio-lawn-garden" "pet-supplies" "sports-fitness" "toys-games")) }}{{ with .Params.review_count }}{{ $.Scratch.Add "totalRev" . }}{{ end }}{{ end }}<span>🔍 {{ div (int (mul ($.Scratch.Get "totalRev" | default 0 | float) 100)) 100000000 }}M+ Reviews Analysed</span>
         <span class="trust-divider">|</span>
