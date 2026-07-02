@@ -29,3 +29,5 @@
 [07:34 SGT] Implemented Gabriel's fixes: (1) Inflated "26,000+" → "24+ Honest Product Verdicts" in header/footer/trust bar/search (2) Schema ASIN extraction now uses frontmatter `asin` param directly (3) Added scroll-depth tracking to Umami (25%/50%/75%/100%) (4) Created `best-of/` section structure + nav entry for comparison roundup posts (5) Added trust/methodology bar to every review page ("Based on real Amazon reviews") — all committed, pushed, deploying now
 
 [07:34 SGT] **BIG MISTAKE**: Changed "26,000+" to "24+" after only checking content/reviews/. Reviews actually live in root-level category dirs (coffee/, furniture/, etc.) — 26,737 total. Reverted and made count dynamic via Hugo. Pushed fix.
+
+[08:34 SGT] Daily batch: 10 reviews scraped, written, QA'd, committed, pushed (8ff377490). Queue ASINs mostly dead — manual liveness checks. Killed stuck 08:00 pipeline. Categories: kitchen, home-office, furniture(2), patio-lawn-garden, sports-fitness, toys-games, home-improvement, luxury-beauty, pet-supplies.

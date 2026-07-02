@@ -59,3 +59,26 @@ Pipeline auto-replenishes: if any category has < 10 pending, it fetches fresh be
   - Cron timeouts bumped to 1800s
   - Published 3 reviews from fresh bestseller ASINs
   - No more "scraper broken" — scraper works, process works
+## Status
+
+### ✅ Working
+- **Scraper:** Gabriel's headed Chrome scraper — handles country pop-ups, bot checks, image verification
+- **Bestseller fetch:** Pulls live ASINs from Amazon bestseller pages per category
+- **Queue:** 29,020 pending ASINs across 10 categories
+- **Pre-filter:** curl HTTP 200 check — skips dead/404 ASINs instantly
+- **Full pipeline:** Works but queue ASINs tend to be dead; manual liveness check needed
+
+### Last Session Summary
+- **Date:** 2026-07-02
+- **Agent:** ink
+- **Done:**
+  - Published 10 fresh reviews (manual scrape + write)
+  - Killed stuck 08:00 pipeline (in sleep cooldown, producing nothing)
+  - Fixed Hugo lang.NumFmt → FormatNumber deprecation in header & trust-bar templates
+  - All 10 reviews passed pre-commit QA, committed (8ff377490), pushed to main
+  - Cloudflare Pages CI handles build & deploy
+
+### Known Issues
+- Many queue ASINs are discontinued/dead — pre-filter curl test often insufficient
+- Hugo build takes very long on Mac (20K+ pages) — CI handles it
+- Pipeline's sleep cooldowns too aggressive for Singapore IP to Amazon.com access
