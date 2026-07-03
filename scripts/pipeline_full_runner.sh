@@ -29,8 +29,9 @@ run_with_timeout() {
 
 # ─── Orchestrator ──────────
 log "Starting orchestrator (seeds bestsellers + scrapes)..."
-ORCH_OUT=$(run_with_timeout 900 python3 scripts/pipeline_orchestrator.py 2>&1) || {
-  log "Orchestrator timed out or failed — checking for partial scrapes"
+# No inner timeout — cron's 1800s outer timeout handles hangs
+ORCH_OUT=$(python3 scripts/pipeline_orchestrator.py 2>&1) || {
+  log "Orchestrator failed — checking for partial scrapes"
 }
 echo "$ORCH_OUT" | tail -10
 log "Orchestrator done"
@@ -38,13 +39,12 @@ log "Orchestrator done"
 # Get yield count from orchestrator output OR from new data files
 YIELD=$(echo "$ORCH_OUT" | grep 'Yield:' | grep -oE '[0-9]+' | head -1 || echo "0")
 
-# Fallback: count today's new data files even if orchestrator was killed
+# Fallback: count data files newer than pipeline start (handles partial yield)
 if [ "$YIELD" = "0" ]; then
-  TODAY=$(date +%Y-%m-%d)
   NEW_FILES=$(find briefings -name "*_data.json" -newer "$STATUS_FILE" -size +100c 2>/dev/null | wc -l | tr -d ' ')
   if [ "$NEW_FILES" -gt 0 ]; then
     log "Yield: $NEW_FILES (from partial-scrape files)"
-    echo "⚠️ Orchestrator timed out but found $NEW_FILES new data files — proceeding with partial yield"
+    echo "⚠️ Orchestrator exited early but found $NEW_FILES new data files — proceeding with partial yield"
     YIELD=$NEW_FILES
   fi
 fi
