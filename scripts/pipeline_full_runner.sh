@@ -30,16 +30,24 @@ run_with_timeout() {
 # ─── Orchestrator ──────────
 log "Starting orchestrator (seeds bestsellers + scrapes)..."
 ORCH_OUT=$(run_with_timeout 900 python3 scripts/pipeline_orchestrator.py 2>&1) || {
-  log "Orchestrator timed out or failed"
-  echo "❌ Pipeline orchestrator failed. Check $STATUS_FILE"
-  exit 1
+  log "Orchestrator timed out or failed — checking for partial scrapes"
 }
 echo "$ORCH_OUT" | tail -10
 log "Orchestrator done"
 
-# Get yield count
+# Get yield count from orchestrator output OR from new data files
 YIELD=$(echo "$ORCH_OUT" | grep 'Yield:' | grep -oE '[0-9]+' | head -1 || echo "0")
-log "Yield: $YIELD"
+
+# Fallback: count today's new data files even if orchestrator was killed
+if [ "$YIELD" = "0" ]; then
+  TODAY=$(date +%Y-%m-%d)
+  NEW_FILES=$(find briefings -name "*_data.json" -newer "$STATUS_FILE" -size +100c 2>/dev/null | wc -l | tr -d ' ')
+  if [ "$NEW_FILES" -gt 0 ]; then
+    log "Yield: $NEW_FILES (from partial-scrape files)"
+    echo "⚠️ Orchestrator timed out but found $NEW_FILES new data files — proceeding with partial yield"
+    YIELD=$NEW_FILES
+  fi
+fi
 
 if [ "$YIELD" = "0" ]; then
   log "No new reviews — all ASINs in today's yield already published"
@@ -49,7 +57,12 @@ fi
 
 # ─── Review Writer ─────────
 log "Starting review writer..."
-WRITER_OUT=$(run_with_timeout 600 python3 scripts/ink_review_writer.py briefings/*_data.json 2>&1) || {
+# Only process data files newer than pipeline start (partial yield safe)
+WRITER_FILES=$(find briefings -name "*_data.json" -newer "$STATUS_FILE" -size +100c 2>/dev/null || echo "")
+if [ -z "$WRITER_FILES" ]; then
+  WRITER_FILES="briefings/*_data.json"
+fi
+WRITER_OUT=$(run_with_timeout 600 python3 scripts/ink_review_writer.py $WRITER_FILES 2>&1) || {
   log "Review writer failed"
   echo "⚠️ Review writer failed. Pipeline: $YIELD briefings ready. Check $STATUS_FILE"
   exit 1
