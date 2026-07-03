@@ -31,3 +31,13 @@
 [07:34 SGT] **BIG MISTAKE**: Changed "26,000+" to "24+" after only checking content/reviews/. Reviews actually live in root-level category dirs (coffee/, furniture/, etc.) — 26,737 total. Reverted and made count dynamic via Hugo. Pushed fix.
 
 [08:34 SGT] Daily batch: 10 reviews scraped, written, QA'd, committed, pushed (8ff377490). Queue ASINs mostly dead — manual liveness checks. Killed stuck 08:00 pipeline. Categories: kitchen, home-office, furniture(2), patio-lawn-garden, sports-fitness, toys-games, home-improvement, luxury-beauty, pet-supplies.
+[11:10 SGT] Heartbeat poll — no TASK_*.md found, staying silent
+
+[21:50 SGT] Cron: Daily Umami stats — ran script, stats collected for Wed 01 Jul (8 pv, 6 uniques, 8 visits). Forwarding to Gabriel.
+[08:04 SGT] Daily pipeline: Checking 10 briefing files...
+
+[08:50 SGT] Deploy health check triggered. Pipeline did NOT run today (no commits, no GH actions). Site still live on last deploy (July 2). Alerting ops group.
+
+[08:57 SGT] Gabriel messaged — checking in. Pipeline failed at 08:00 (orchestrator timeout after scraping 4 products). 09:00 retry also errored. Manually wrote 4 reviews from the scraped data (beach blanket, insect trap, pencils, food storage containers), QA passed, committed (475690dfd), pushed to main. Cloudflare CI will build & deploy.
+
+[08:57 SGT] Gabriel messaged — investigating 08:00 pipeline failure. Wrote 4 partial-scrape reviews. Fixed pipeline timeout recovery to handle future partial scrapes. Committed + pushed both review batch and fix. Reported to Gabriel.
