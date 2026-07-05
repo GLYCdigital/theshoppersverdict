@@ -41,3 +41,13 @@
 [08:57 SGT] Gabriel messaged — checking in. Pipeline failed at 08:00 (orchestrator timeout after scraping 4 products). 09:00 retry also errored. Manually wrote 4 reviews from the scraped data (beach blanket, insect trap, pencils, food storage containers), QA passed, committed (475690dfd), pushed to main. Cloudflare CI will build & deploy.
 
 [08:57 SGT] Gabriel messaged — investigating 08:00 pipeline failure. Wrote 4 partial-scrape reviews. Fixed pipeline timeout recovery to handle future partial scrapes. Committed + pushed both review batch and fix. Reported to Gabriel.
+[14:10 SGT] Daily batch: 10 ASINs scraped (headed Chrome), 6 new reviews written (4 already published). QA passed. Committed (7965773c4) and pushed to main. Categories: pet-supplies, patio-lawn-garden, luxury-beauty, toys-games, home-improvement, coffee.
+[08:00 SGT] Daily pipeline: 10 briefing files found but ALL already published. Running full pipeline orchestrator to scrape fresh ASINs from queue (29K pending).
+[08:00 SGT] Daily pipeline: 10 old briefings found but ALL already published. 08:00 cron produced 3 new data files (0 reviews each). Running writer on available data + scraping more ASINs.
+[08:45 SGT] Health check: Sat — no commits today. Last run: Fri Jul 3. Deploy: ✅. Spot-check 2 pages: ✅. Placeholders: ✅.
+[09:13 SGT] Heartbeat: No TASK files. 3 uncommitted reviews (furniture, 2x home-office). Queue at 11 ASINs (low). 08:00 pipeline ran but found no new unscraped ASINs.
+[19:15 SGT] Heartbeat: Found 3 uncommitted reviews (1 furniture/insect-trap, 2 home-office/ink+paper). QA passed, committed (a42442272) and pushed to main. Queue healthy at 29,504 ASINs.
+[00:10 SGT] Heartbeat: Midnight check. 11 uncommitted briefing files across 5 categories (coffee x2, furniture x2, home-improvement x3, home-office x2, kitchen x2). Queue low at 11 ASINs. No TASK files. Last commit: July 4 (3 reviews). Waiting for 08:00 pipeline.
+[02:10 SGT] Heartbeat: Midnight+2h check. 20 untracked briefing files across all categories. Queue at 11 ASINs (very low). No TASK files. Last commit: July 4 (3 reviews). Waiting for 08:00 pipeline to scrape & replenish.
+
+[08:00 SGT] Daily batch: 10 reviews written (coffee×2, home-improvement×2, kitchen, patio-lawn-garden, luxury-beauty, pet-supplies, sports-fitness, toys-games), QA passed, committing and pushing.
