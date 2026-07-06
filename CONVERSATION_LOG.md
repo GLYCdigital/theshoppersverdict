@@ -53,3 +53,6 @@
 [08:00 SGT] Daily batch: 10 reviews written (coffee×2, home-improvement×2, kitchen, patio-lawn-garden, luxury-beauty, pet-supplies, sports-fitness, toys-games), QA passed, committing and pushing.
 
 [08:00 SGT] Daily batch: 10 reviews written (coffee×2, home-improvement×2, kitchen, patio-lawn-garden, luxury-beauty, pet-supplies, sports-fitness, toys-games), QA passed, committed (1c6636615), pushed to main. Reported to ops.
+[08:45 SGT] Health check: pipeline ran ✓ (2 commits today), deploy ✓, images ✓, no placeholders. All clear.
+
+[08:00 SGT] Daily batch: 10 briefings already have reviews (published previously). 7 new reviews written from orphan data files (furniture×2, home-improvement, kitchen, patio-lawn-garden, sports-fitness, toys-games), QA passed, committing and pushing.
