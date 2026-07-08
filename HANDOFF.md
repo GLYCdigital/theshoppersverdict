@@ -64,7 +64,7 @@ Pipeline auto-replenishes: if any category has < 10 pending, it fetches fresh be
 ### ✅ Working
 - **Scraper:** Gabriel's headed Chrome scraper — handles country pop-ups, bot checks, image verification
 - **Bestseller fetch:** Pulls live ASINs from Amazon bestseller pages per category
-- **Queue:** 29,020 pending ASINs across 10 categories
+- **Queue:** 29,574 pending ASINs across 11 categories (incl. used)
 - **Pre-filter:** curl HTTP 200 check — skips dead/404 ASINs instantly
 - **Full pipeline:** Works but queue ASINs tend to be dead; manual liveness check needed
 
@@ -82,3 +82,19 @@ Pipeline auto-replenishes: if any category has < 10 pending, it fetches fresh be
 - Many queue ASINs are discontinued/dead — pre-filter curl test often insufficient
 - Hugo build takes very long on Mac (20K+ pages) — CI handles it
 - Pipeline's sleep cooldowns too aggressive for Singapore IP to Amazon.com access
+
+### Last Session Summary
+- **Date:** 2026-07-08
+- **Agent:** ink
+- **Done:**
+  - Diagnosed 08:00 pipeline failure (scraped 7 products but writer step didn't fire due to yield parsing mismatch in pipeline_full_runner.sh)
+  - 09:00 retry errored (model timeout + Anthropic billing dead)
+  - Manually wrote 6 reviews (1 duplicate Cuisinart kettle skipped)
+  - QA: 6/6 passed
+  - Committed a8a1f70c5 and pushed to main
+  - Cloudflare Pages CI handles build & deploy
+
+### Known Issues
+- **Yield parsing bug in pipeline_full_runner.sh:** The `grep 'Yield:' | grep -oE '[0-9]+' | head -1` extraction fails when orchestrator prints multiple Yield: lines (per-category + total). Need to fix pipeline script to reliably count data files instead.
+- Hugo local build OOM's on Mac Studio with 30K+ pages (needs ~8GB+ RAM). Skip local build, let Cloudflare handle it.
+- Anthropic billing dead — DeepSeek V4 is the only fallback model. If DeepSeek times out, no retry works.

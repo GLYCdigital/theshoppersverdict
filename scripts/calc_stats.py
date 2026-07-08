@@ -22,8 +22,8 @@ for root, dirs, files in os.walk(content_dir):
         # Only count review-type pages (skip about, contact, best-of, etc.)
         if "layout:" in fm and any(x in fm for x in ["today", "verdicts", "bestof", "about", "contact", "search"]):
             continue
-        # Count as a verdict if it has an ASIN (product review)
-        if re.search(r'^asin:\s', fm, re.MULTILINE):
+        # Count as a verdict if it has an amazon_url (product review)
+        if re.search(r'^amazon_url:', fm, re.MULTILINE):
             total_verdicts += 1
         m = re.search(r'^review_count:\s*(\d+)', fm, re.MULTILINE)
         if m:

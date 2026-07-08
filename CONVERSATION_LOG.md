@@ -1,58 +1,52 @@
-[08:45 SGT] Ink Deploy Health Check triggered. No commits found for today (Jun 26). 08:00 pipeline did NOT run. Alert posted.
 
-[06:10 SGT] Heartbeat: 08:45 health check already alerted ops about no pipeline today. 08:00 pipeline (19 consecutive errors) and 09:00 retry (2 errors) both failing with 'Request was aborted'. Briefings exhausted — no scraper available. No action needed.
-[08:00 SGT] Daily pipeline: 10 briefings examined — all 10 already have published reviews committed in previous batches. No new reviews to write.
-[08:45 SGT] Health check: all pass — pipeline ran, deploy success, no placeholders, images OK. No alerts needed.
-[10:?? SGT] Heartbeat: no pending tasks. Pipeline already ran. All published.
-[08:00 SGT] Daily pipeline: 0 new briefings. All processed data files already published. Queue has 0 unused ASINs. Scraper still broken. No reviews to write.
-[19:38 SGT] Heartbeat: no pending tasks. Pipeline already ran today. No reviews to write.
-[20:38 SGT] Heartbeat: pipeline ran today (9 reviews committed at 19:35). No pending tasks. All quiet.
-[00:10 SGT] Heartbeat: no TASK_*.md files, pipeline already ran today. Silent.
-[08:00 SGT] Daily pipeline: 44 briefing files examined — ALL have corresponding reviews in content/. Zero new reviews to write. Queue is empty (0 unused ASINs, 319 used). All 27 frontmatter-registered ASINs + 26,645 dp-link ASINs accounted for. No working scraper to replenish. Reported to Ops group.
-[08:45 SGT] 🔍 Deploy Health Check — 08:00 pipeline did NOT run. No commits found today. Alerting ops.
-[08:00 SGT] Daily pipeline: 10 briefings examined — all 10 ASINs already have published reviews in content/. No new reviews to write. Queue still exhausted — no scraper available.
 
-[08:00 SGT] Daily trigger: user requested "10 briefings ready, write reviews." Checked — all 10 `_briefing.md` files in briefings/ already have published reviews in content/. No new reviews to write. Queue exhausted (0 unused ASINs). No active scraper to replenish. Reporting to Ops group.
+## [21:50 SGT] Ink — Daily Umami Stats Report
+- Ran umami_report_tsv.py — success
+- Stats: Sun 05 Jul — 0 pv / 0 uniques / 0 visits
+- 7-day: 57 pv / 28 uniques / 47 visits
 
-[08:25 SGT] Gabriel: "Failed 24 times?" — investigated the "Ink Daily Pipeline (08:00)" cron with 24 consecutive "Request was aborted" errors.
+## [08:00 SGT] Ink — Daily Batch Start
+- Pipeline orchestrator running (PID 47696) at 08:00
+- No fresh briefings yet — awaiting pipeline scrape completion
+- Queue has 0 ASINs — orchestrator will seed bestsellers first
 
-[11:01 SGT] Improvement idea generation triggered. Generated: Review-to-Video script pipeline (Ink → Flash).
+## [11:02 SGT] Ink — Improvement Idea Generated
 
-[14:04 SGT] Money-making idea generation triggered. Generated: Automated Amazon FBA Reimbursement Recovery Service.
-[03:12 SGT] Heartbeat — no tasks pending. Daily pipeline at 08:00.
+## [08:18 SGT] Ink — Heartbeat Tuesday 07 Jul 2026
+- Pipeline orchestrator (PID 54088) running since 08:14
+- Actively scraping: scraper on luxury-beauty B081FFRGZB since 08:19
+- Briefings so far: 4 new today (patio, 2 home-office, luxury-beauty)
+- Queue: 29,557 ASINs across 11 categories
+- No TASK files pending
+- Pipeline in progress — letting it complete
 
-[07:11 SGT] Heartbeat: 08:00 and 09:00 pipeline cron jobs were MISSING from OpenClaw cron list. Recreated both. Next 08:00 pipeline fires in ~49 min. No TASK_*.md files pending.
-[07:34 SGT] Implemented Gabriel's suggestions: (1) Fixed inflated "26,000+" → "24+ Honest Product Verdicts" across header/footer/trust bar/search pages (2) Fixed schema ASIN extraction — now uses frontmatter  param directly instead of fragile slug parsing (3) Added scroll-depth tracking to Umami for real engagement data (4) Created best-of section structure for comparison/roundup posts (5) Added "Best Of" to main nav (6) Local Hugo 0.161.1 hangs (CI uses 0.147.7 — deploy unaffected)
+## [08:45 SGT] Ink — Deploy Health Check (cron)
+- Commit found: `ink: 17 fresh reviews — 2026-07-07 batch` at 08:43
+- GH Actions deploy: in_progress (started 2 min ago)
+- Homepage: up, no placeholder images
+- Previous 2 runs: success (Jul 5, Jul 6)
+- No alert needed — deploy still within normal timeframe
 
-[07:34 SGT] Implemented Gabriel's fixes: (1) Inflated "26,000+" → "24+ Honest Product Verdicts" in header/footer/trust bar/search (2) Schema ASIN extraction now uses frontmatter `asin` param directly (3) Added scroll-depth tracking to Umami (25%/50%/75%/100%) (4) Created `best-of/` section structure + nav entry for comparison roundup posts
+## [08:11 SGT] Ink — Daily Batch: Pipeline + Writer
+- Killed stuck 08:00 pipeline (sleep cooldown, no output)
+- Ran pipeline_orchestrator.py at 08:11 — 17/17 scraped (100% yield, all Tier 1)
+- 17 reviews written via ink_review_writer.py
+- QA: 17/17 passed
+- Committed: e354a76b3 — pushed to main
+- Categories: home-office(2), luxury-beauty(1), home-improvement(2), toys-games(2), coffee(2), patio-lawn-garden(2), pet-supplies(1), furniture(2), sports-fitness(1), kitchen(2)
+[22:11 SGT] Heartbeat tick — no TASK_*.md files, nothing pending. Last session earlier today: 17 reviews published and pushed.
 
-[07:34 SGT] Implemented Gabriel's fixes: (1) Inflated "26,000+" → "24+ Honest Product Verdicts" in header/footer/trust bar/search (2) Schema ASIN extraction now uses frontmatter `asin` param directly (3) Added scroll-depth tracking to Umami (25%/50%/75%/100%) (4) Created `best-of/` section structure + nav entry for comparison roundup posts (5) Added trust/methodology bar to every review page ("Based on real Amazon reviews") — all committed, pushed, deploying now
+## [09:31 SGT] Ink — Recovered failed 08:00 pipeline
+- 08:00 pipeline scraped 7 products but writer step didn't fire (yield parsing mismatch)
+- 09:00 retry errored (model timeout + Anthropic billing)
+- Manually wrote 6 reviews (1 duplicate skipped), QA passed, pushed a8a1f70c5
+- Categories: coffee(1), home-office(2), kitchen(2), furniture(1)
+- Cloudflare Pages CI building now
 
-[07:34 SGT] **BIG MISTAKE**: Changed "26,000+" to "24+" after only checking content/reviews/. Reviews actually live in root-level category dirs (coffee/, furniture/, etc.) — 26,737 total. Reverted and made count dynamic via Hugo. Pushed fix.
-
-[08:34 SGT] Daily batch: 10 reviews scraped, written, QA'd, committed, pushed (8ff377490). Queue ASINs mostly dead — manual liveness checks. Killed stuck 08:00 pipeline. Categories: kitchen, home-office, furniture(2), patio-lawn-garden, sports-fitness, toys-games, home-improvement, luxury-beauty, pet-supplies.
-[11:10 SGT] Heartbeat poll — no TASK_*.md found, staying silent
-
-[21:50 SGT] Cron: Daily Umami stats — ran script, stats collected for Wed 01 Jul (8 pv, 6 uniques, 8 visits). Forwarding to Gabriel.
-[08:04 SGT] Daily pipeline: Checking 10 briefing files...
-
-[08:50 SGT] Deploy health check triggered. Pipeline did NOT run today (no commits, no GH actions). Site still live on last deploy (July 2). Alerting ops group.
-
-[08:57 SGT] Gabriel messaged — checking in. Pipeline failed at 08:00 (orchestrator timeout after scraping 4 products). 09:00 retry also errored. Manually wrote 4 reviews from the scraped data (beach blanket, insect trap, pencils, food storage containers), QA passed, committed (475690dfd), pushed to main. Cloudflare CI will build & deploy.
-
-[08:57 SGT] Gabriel messaged — investigating 08:00 pipeline failure. Wrote 4 partial-scrape reviews. Fixed pipeline timeout recovery to handle future partial scrapes. Committed + pushed both review batch and fix. Reported to Gabriel.
-[14:10 SGT] Daily batch: 10 ASINs scraped (headed Chrome), 6 new reviews written (4 already published). QA passed. Committed (7965773c4) and pushed to main. Categories: pet-supplies, patio-lawn-garden, luxury-beauty, toys-games, home-improvement, coffee.
-[08:00 SGT] Daily pipeline: 10 briefing files found but ALL already published. Running full pipeline orchestrator to scrape fresh ASINs from queue (29K pending).
-[08:00 SGT] Daily pipeline: 10 old briefings found but ALL already published. 08:00 cron produced 3 new data files (0 reviews each). Running writer on available data + scraping more ASINs.
-[08:45 SGT] Health check: Sat — no commits today. Last run: Fri Jul 3. Deploy: ✅. Spot-check 2 pages: ✅. Placeholders: ✅.
-[09:13 SGT] Heartbeat: No TASK files. 3 uncommitted reviews (furniture, 2x home-office). Queue at 11 ASINs (low). 08:00 pipeline ran but found no new unscraped ASINs.
-[19:15 SGT] Heartbeat: Found 3 uncommitted reviews (1 furniture/insect-trap, 2 home-office/ink+paper). QA passed, committed (a42442272) and pushed to main. Queue healthy at 29,504 ASINs.
-[00:10 SGT] Heartbeat: Midnight check. 11 uncommitted briefing files across 5 categories (coffee x2, furniture x2, home-improvement x3, home-office x2, kitchen x2). Queue low at 11 ASINs. No TASK files. Last commit: July 4 (3 reviews). Waiting for 08:00 pipeline.
-[02:10 SGT] Heartbeat: Midnight+2h check. 20 untracked briefing files across all categories. Queue at 11 ASINs (very low). No TASK files. Last commit: July 4 (3 reviews). Waiting for 08:00 pipeline to scrape & replenish.
-
-[08:00 SGT] Daily batch: 10 reviews written (coffee×2, home-improvement×2, kitchen, patio-lawn-garden, luxury-beauty, pet-supplies, sports-fitness, toys-games), QA passed, committing and pushing.
-
-[08:00 SGT] Daily batch: 10 reviews written (coffee×2, home-improvement×2, kitchen, patio-lawn-garden, luxury-beauty, pet-supplies, sports-fitness, toys-games), QA passed, committed (1c6636615), pushed to main. Reported to ops.
-[08:45 SGT] Health check: pipeline ran ✓ (2 commits today), deploy ✓, images ✓, no placeholders. All clear.
-
-[08:00 SGT] Daily batch: 10 briefings already have reviews (published previously). 7 new reviews written from orphan data files (furniture×2, home-improvement, kitchen, patio-lawn-garden, sports-fitness, toys-games), QA passed, committing and pushing.
+## [09:35 SGT] Ink — Fixed pipeline bugs
+- Removed Anthropic fallback from all 3 pipeline cron jobs (08:00, 09:00, 08:45 health check)
+- Fixed pipeline yield parsing: now counts data files instead of grep'ing orchestrator text output
+- Removed local Hugo build step (OOMs Mac, Cloudflare CI handles it)
+- 6 reviews from today pushed: a8a1f70c5
+[02:12 SGT] Heartbeat poll — no tasks pending, silent.
+[05:10 SGT] Heartbeat poll — no tasks pending, silent.
