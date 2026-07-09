@@ -91,4 +91,5 @@
 [15:38 SGT] Gabriel: 'Keep rolling. Do NOT rewrite without scraping.' — Scraped B001GAOTSW fresh (Pilot G2 pens) after coffee queue ASINs all 404'd. Wrote review from scraped data.
 [15:44 SGT] Committed & pushed: Pilot G2 gel pens review (a0164709d)
 [15:50 SGT] Committed & pushed: Oxford Spiral Notebook 6-Pack review (343c97da4). Cloudflare building.
-→ Scraping B0BMTSL48B next (home-office)
+[15:55 SGT] Committed & pushed: Dr.meter Ear Muffs review (c1e9f29c0)
+3 reviews fresh-scraped and written this session. Scraping next.
