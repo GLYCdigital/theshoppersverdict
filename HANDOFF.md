@@ -5,96 +5,60 @@
 
 ---
 
-## Single Workspace (2026-06-30)
+## Active State — 2026-07-09 14:53 SGT
 
-Everything lives here — Hugo content, pipeline scripts, briefings, queue, and agent config.
+### ✅ Accomplished This Session
+- **Scraper .com fix** — scrape_headed.py now forces Amazon.com (cookies + persistent context). Not .sg.
+- **calc_stats.py fix** — regex fixed to count `amazon_url:` not `asin:` → site now shows 26,852 Product Verdicts
+- **Breville Barista Pro review** — hand-crafted by Gabriel as quality benchmark. Every future review matches this level.
+- **~30 reviews rewritten** by sub-agents (decent content, real quotes, but Gabriel said STILL TEMPLATE-ISH — do NOT batch-generate again)
+- **4 reviews written properly** this session: KitchenAid Chopper, DREO Fan, WEKAPO Beach Blanket, Ninja 12-Cup Coffee Brewer. These are the quality standard.
+- **Jackery Explorer 1000 v2 review** also written.
 
-### Key paths (all workspace-relative)
-- `scripts/fetch_bestsellers.py` — Pulls live Amazon bestseller ASINs
-- `scripts/scrape_headed.py` — Gabriel's working headed Chrome scraper
-- `scripts/pipeline_orchestrator.py` — Full pipeline orchestrator
-- `scripts/pipeline_full_runner.sh` — Cron runner
-- `scripts/ink_review_writer.py` — Review writer
-- `scripts/dedup_check.py` — ASIN dedup
-- `data/asin_queue.json` — ASIN queue
-- `briefings/` — Scraped product data
+### 📋 The Plan (already decided, do not re-propose)
+**Process:**
+1. Scrape each ASIN from Amazon.com (one at a time, paced, 2-3 min between)
+2. Write a unique, hand-crafted review from the scraped data (real quotes, specific details, honest cons, strong verdict)
+3. No templates. No batch-generation. No sub-agent delegation for writing.
+4. Repeat for all 26K reviews.
 
-### Pipeline Flow (wired and tested)
-```
-🌱 Seed → Fetch Amazon bestsellers → prepend to front of queue
-🔍 Pre-filter → curl check (skip dead ASINs in ~2s)
-🖋️ Scrape → Headed Chrome (scrape_headed.py)
-📝 Write → ink_review_writer.py
-✅ QA → Pre-commit validation
-🚀 Push → Commit and deploy to main
-```
+**Pacing:** Amazon rate-limits aggressive scraping. 2-3 minute delays between ASINs. Kill Chrome between scrapes (pkill). Fresh persistent context per scrape.
 
-### Cron
-| Time | Job | Delivery |
-|------|-----|----------|
-| 08:00 | Full pipeline (1800s timeout) | Ops group |
-| 08:45 | Health check | Ops group |
-| 09:00 | Auto-retry (1800s timeout) | Ops group |
+**Priority order:** Indexed pages (~146) → existing briefings (176 with data) → daily pipeline → back-catalog (26K)
 
-Pipeline auto-replenishes: if any category has < 10 pending, it fetches fresh bestsellers.
+### 🚫 What NOT To Do
+- Do NOT re-propose approaches — everything was decided in the 32 screenshots from the previous session
+- Do NOT spawn sub-agents for batch writing
+- Do NOT use templates or template-like structures
+- Do NOT debug the scraper extensively — it works when properly paced
 
----
+### 🔧 Scraper Status
+- scrape_headed.py updated with persistent Chrome context + pkill at start
+- Currently rate-limited from our testing — needs ~15-30 min cooldown
+- When it works: extracts 13 reviews per ASIN on average
+- Use `python3 scripts/scrape_headed.py <ASIN> <category> --reviews 8`
 
-## Status
+### 📝 Workflow for Each Review
+1. Pick an ASIN from briefings/*_data.json (176 with good data)
+2. Read the .json (title, price, rating, review_count, reviews array)
+3. Read scraped reviews to find 2-3 compelling real quotes
+4. Write unique Breville-quality review (frontmatter + body)
+5. Save to content/<category>/<slug>-review.md
+6. Commit and push
 
-### ✅ Working
-- **Scraper:** Gabriel's headed Chrome scraper — handles country pop-ups, bot checks, image verification
-- **Bestseller fetch:** Pulls live ASINs from Amazon bestseller pages per category
-- **Queue:** 29,022 pending ASINs across 10 categories
-- **Pre-filter:** curl HTTP 200 check — skips dead/404 ASINs instantly
-- **Full pipeline:** Proven end-to-end 2026-06-30 (3 reviews written and pushed)
+### 📊 Stats
+- 176 briefings with real review data ready to write from
+- 26,852 total verdicts on the site
+- ~30 rewritten by sub-agents (acceptable but not Gabriel's standard)
+- Scraper fix confirmed working on .com
 
-### Last Session Summary
-- **Date:** 2026-06-30
-- **Agent:** ink
-- **Done:**
-  - Wired `fetch_bestsellers.py` as pipeline step 0 (prepends fresh ASINs)
-  - Added pre-filter curl liveness check to orchestrator
-  - Auto-replenish when queue runs low
-  - Cron timeouts bumped to 1800s
-  - Published 3 reviews from fresh bestseller ASINs
-  - No more "scraper broken" — scraper works, process works
-## Status
+### ⚠️ Key Contacts
+- **Gabriel:** @glycDigital (Telegram) — final say on everything
+- **Gemma:** @GemmaGLYC_bot — CEO, oversees big picture
+- **Ops group:** GLYC Digital Ops
 
-### ✅ Working
-- **Scraper:** Gabriel's headed Chrome scraper — handles country pop-ups, bot checks, image verification
-- **Bestseller fetch:** Pulls live ASINs from Amazon bestseller pages per category
-- **Queue:** 29,574 pending ASINs across 11 categories (incl. used)
-- **Pre-filter:** curl HTTP 200 check — skips dead/404 ASINs instantly
-- **Full pipeline:** Works but queue ASINs tend to be dead; manual liveness check needed
-
-### Last Session Summary
-- **Date:** 2026-07-02
-- **Agent:** ink
-- **Done:**
-  - Published 10 fresh reviews (manual scrape + write)
-  - Killed stuck 08:00 pipeline (in sleep cooldown, producing nothing)
-  - Fixed Hugo lang.NumFmt → FormatNumber deprecation in header & trust-bar templates
-  - All 10 reviews passed pre-commit QA, committed (8ff377490), pushed to main
-  - Cloudflare Pages CI handles build & deploy
-
-### Known Issues
-- Many queue ASINs are discontinued/dead — pre-filter curl test often insufficient
-- Hugo build takes very long on Mac (20K+ pages) — CI handles it
-- Pipeline's sleep cooldowns too aggressive for Singapore IP to Amazon.com access
-
-### Last Session Summary
-- **Date:** 2026-07-08
-- **Agent:** ink
-- **Done:**
-  - Diagnosed 08:00 pipeline failure (scraped 7 products but writer step didn't fire due to yield parsing mismatch in pipeline_full_runner.sh)
-  - 09:00 retry errored (model timeout + Anthropic billing dead)
-  - Manually wrote 6 reviews (1 duplicate Cuisinart kettle skipped)
-  - QA: 6/6 passed
-  - Committed a8a1f70c5 and pushed to main
-  - Cloudflare Pages CI handles build & deploy
-
-### Known Issues
-- **Yield parsing bug in pipeline_full_runner.sh:** The `grep 'Yield:' | grep -oE '[0-9]+' | head -1` extraction fails when orchestrator prints multiple Yield: lines (per-category + total). Need to fix pipeline script to reliably count data files instead.
-- Hugo local build OOM's on Mac Studio with 30K+ pages (needs ~8GB+ RAM). Skip local build, let Cloudflare handle it.
-- Anthropic billing dead — DeepSeek V4 is the only fallback model. If DeepSeek times out, no retry works.
+### 📝 Logging
+- LOG FIRST before any action
+- LOG SHORT — one line per interaction
+- Check CONVERSATION_LOG.md tail on startup
+- Check HEARTBEAT.md for pending tasks

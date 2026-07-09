@@ -1,0 +1,16 @@
+{
+  "asin": "B09SVS2WG2",
+  "url": "https://www.amazon.com/dp/B09SVS2WG2",
+  "product": {
+    "title": "Unknown Product",
+    "price": null,
+    "rating": null,
+    "reviewsCount": null,
+    "imageUrl": "",
+    "highResolutionImages": [],
+    "thumbnailImage": ""
+  },
+  "reviews": [],
+  "totalReviewsFetched": 0,
+  "scrapeTimestamp": "2026-06-12T01:10:44Z"
+}
