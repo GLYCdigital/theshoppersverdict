@@ -86,3 +86,6 @@
 === Session 2026-07-09 (13:30-14:53 SGT) ===
 [14:53 SGT] Checkpoint: Gabriel called 'save, reset.' Session state synced to HANDOFF.md. Scraper .com fix done, calc_stats fixed, ~34 reviews written across sub-agents + manual. Context resetting. Key lesson: no batch-generation, no templates, no re-proposing. Scrape → write one at a time.
 [14:54 SGT] 📗 New session — fresh checkpoint. Writing from 176 briefings at Breville quality. No templates, no batch, no re-proposing.
+[15:25 SGT] ✅ Committed & pushed: hand-crafted reviews (Fancy Feast, Salt & Stone, NB Arm, Laptop Stand, LEGO Lotus, HUANUO desk) + sub-agent rewrite batch. Cloudflare building.
+[15:30 SGT] Scrape 2, write 2: Ninja 9-Cup Food Processor + Traeger Ironwood XL. Pacing 2-3 min between.
+[15:38 SGT] Gabriel: 'Keep rolling. Do NOT rewrite without scraping.' — Scraping B09SVS2WG2 fresh from coffee queue.

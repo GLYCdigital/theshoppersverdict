@@ -47,7 +47,13 @@ def parse_review_count(s):
     return int(cleaned) if cleaned else 0
 
 
+import subprocess as _sp
+import time as _t
+
 def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
+    # Kill any existing Chrome for clean state (avoids rate-limit carryover)
+    _sp.run(['pkill', '-f', 'Google Chrome'], capture_output=True)
+    _t.sleep(2)
     """Scrape product data and reviews from the product page."""
     url = f"https://www.amazon.com/dp/{asin}"
     
@@ -57,19 +63,77 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             print(f"  → Retry attempt {attempt}/{MAX_RETRIES}...")
         
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=False, channel='chrome')
-            page = browser.new_page(viewport={'width': 1280, 'height': 900})
+            
+            browser = p.chromium.launch_persistent_context(user_data_dir='/tmp/amz-scrape-' + os.urandom(4).hex(), headless=False, viewport={'width': 1280, 'height': 900})
+            page = browser.new_page()
             
             # Random pre-nav delay — human doesn't browse instantly
             hrs = 1 + random.uniform(0.5, 3.0)
             page.wait_for_timeout(int(hrs * 1000))
             
-            # ── 1. Load product page ──
+            # ── 1a. Force Amazon.com by setting US region cookies ──
+            # Amazon redirects .com → .sg for Singapore IPs.
+            # These cookies tell Amazon we want the US site.
+            page.context.add_cookies([
+                {"name": "session-id", "value": "135-4567890-1234567", "domain": ".amazon.com", "path": "/"},
+                {"name": "session-token", "value": "abcdef", "domain": ".amazon.com", "path": "/"},
+                {"name": "i18n-prefs", "value": "USD", "domain": ".amazon.com", "path": "/"},
+                {"name": "ubid-main", "value": "135-4567890-1234567", "domain": ".amazon.com", "path": "/"},
+            ])
+            
+            # ── 1b. Load product page ──
             print(f"  → Loading product page...")
             page.goto(url, timeout=60000, wait_until='load')
-            page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
+            page.wait_for_timeout(int((6 + random.uniform(2, 5)) * 1000))
             
-            # ── 1b. Handle Amazon bot check interstitial ──
+            # ── 1c. Force-switch if we landed on .sg despite cookies ──
+            current_host = page.evaluate('() => window.location.hostname')
+            if 'amazon.sg' in current_host:
+                print(f"  → Still on Amazon.sg! Force-switching via customer preferences...")
+                page.goto('https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=/&marketplaceId=ATVPDKIKX0DER',
+                         timeout=30000, wait_until='load')
+                page.wait_for_timeout(int((3 + random.uniform(1, 3)) * 1000))
+                # Look for United States option and select it
+                clicked = page.evaluate('''() => {
+                    const radios = document.querySelectorAll('input[type="radio"]');
+                    for (const r of radios) {
+                        const label = document.querySelector('label[for="' + r.id + '"]');
+                        if (label && label.textContent.toLowerCase().includes('united states')) {
+                            r.click();
+                            return 'clicked_us';
+                        }
+                    }
+                    // Try buttons that say "Go to Amazon.com" or "United States"
+                    const all = document.querySelectorAll('a, button, span, div');
+                    for (const el of all) {
+                        const t = el.textContent?.toLowerCase() || '';
+                        if ((t.includes('united states') || t.includes('go to amazon.com')) &&
+                            (el.tagName === 'A' || el.tagName === 'BUTTON' || el.onclick)) {
+                            el.click();
+                            return 'clicked_link';
+                        }
+                    }
+                    // Submit button
+                    const submit = document.querySelector('input[type="submit"], button[type="submit"]');
+                    if (submit) { submit.click(); return 'submitted'; }
+                    return 'no_option_found';
+                }''')
+                if clicked == 'clicked_us':
+                    print(f"  → Selected United States radio, submitting...")
+                    page.wait_for_timeout(1000)
+                    page.evaluate('() => { const btn = document.querySelector("input[type=\"submit\"], button[type=\"submit\"]"); if(btn) btn.click(); }')
+                print(f"  → Preferences action: {clicked}, waiting for redirect...")
+                page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
+                # Now navigate to the product
+                page.goto(url, timeout=60000, wait_until='load')
+                page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
+                current_host = page.evaluate('() => window.location.hostname')
+                if 'amazon.sg' in current_host:
+                    print(f"  ⚠️  Still on Amazon.sg after force-switch. Scraping from .sg (limited).")
+                else:
+                    print(f"  ✅ Now on {current_host}")
+            
+            # ── 1d. Handle Amazon bot check interstitial ──
             bot_check = page.evaluate('''() => {
                 const body = document.body?.textContent || '';
                 if (body.includes('Click the button below to continue') ||
@@ -117,42 +181,15 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
                     page.goto(url, timeout=60000, wait_until='load')
                     page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
             
-            # ── 1c. Handle country/region pop-up ──
-            # Amazon redirects .com → .sg for Singapore IPs and shows a pop-up:
-            # "You are on Amazon.sg. Would you like to go to Amazon.com?"
-            # We need to click "Go to Amazon.com" so US ASINs resolve correctly.
-            switched = page.evaluate('''() => {
-                if (window.location.hostname.includes('amazon.') && !window.location.hostname.endsWith('amazon.com')) {
-                    // Try clicking "Go to Amazon.com" button or "United States" option
-                    const all = document.querySelectorAll('a, button, span, div');
-                    for (const el of all) {
-                        const t = el.textContent?.toLowerCase() || '';
-                        if ((t.includes('united states') || t.includes('go to amazon.com') || t.includes('shop on amazon.com')) &&
-                            (el.tagName === 'A' || el.tagName === 'BUTTON' || el.onclick)) {
-                            el.click();
-                            return 'clicked_us';
-                        }
-                    }
-                    // Look for any link with amazon.com that isn't .sg
-                    for (const a of document.querySelectorAll('a')) {
-                        if (a.href && a.href.includes('amazon.com') && !a.href.includes('amazon.sg')) {
-                            window.location.href = a.href;
-                            return 'redirected';
-                        }
-                    }
-                    return 'stuck_on_sg';
-                }
-                return 'on_com';
-            }''')
+
             
-            if switched and switched != 'on_com':
-                print(f"  → Country pop-up: {switched}, waiting for Amazon.com...")
-                page.wait_for_timeout(int((5 + random.uniform(2, 5)) * 1000))
-                try:
-                    page.wait_for_function('() => window.location.hostname.includes("amazon.com")', timeout=15000)
-                except:
-                    pass
-                page.wait_for_timeout(int((3 + random.uniform(1, 3)) * 1000))
+            # ── 1e. Wait for reviews section to load ──
+            try:
+                page.wait_for_selector('#customerReviews', timeout=15000)
+                print(f"  → Reviews section loaded")
+            except:
+                print(f"  → Reviews section not found, proceeding anyway")
+            page.wait_for_timeout(int((2 + random.uniform(1, 2)) * 1000))
             
             # ── 2. Extract product data ──
             product = page.evaluate('''() => {
@@ -182,31 +219,16 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             product['url'] = page.url
             product['asin'] = asin
             
-            # ── 3. Scroll to load reviews — humanized pacing ──
-            print(f"  → Scrolling to reviews...")
-            for pct in [30, 50, 70, 85, 95]:
-                page.evaluate(f'window.scrollTo(0, document.body.scrollHeight * {pct / 100})')
-                page.wait_for_timeout(int((0.8 + random.uniform(0.5, 1.5)) * 1000))
+                        # ── 3. Wait for reviews to load ──
+            print(f"  → Waiting for reviews to load...")
+            page.wait_for_timeout(int((4 + random.uniform(1, 3)) * 1000))
+            # Scroll to trigger lazy loading
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight * 0.5)')
+            page.wait_for_timeout(1000)
             page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-            page.wait_for_timeout(int((2 + random.uniform(0.5, 2.0)) * 1000))
-            
-            if page.evaluate('document.querySelectorAll(\'[data-hook="review"]\').length') == 0:
-                see_all = page.evaluate('''() => {
-                    const links = document.querySelectorAll("a");
-                    for (const a of links) {
-                        if (a.textContent.toLowerCase().includes("review") &&
-                            a.href.includes("product-reviews")) {
-                            return a.href;
-                        }
-                    }
-                    return null;
-                }''')
-                if see_all:
-                    print(f"  → Following review link...")
-                    page.goto(see_all, timeout=30000, wait_until='load')
-                    page.wait_for_timeout(int((3 + random.uniform(1, 3)) * 1000))
-            
-            # ── 4. Expand truncated reviews ──
+            page.wait_for_timeout(int((3 + random.uniform(1, 2)) * 1000))
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight * 0.4)')
+            page.wait_for_timeout(1000)# ── 4. Expand truncated reviews ──
             expand_count = page.evaluate('''() => {
                 let count = 0;
                 document.querySelectorAll('[data-hook="review"]').forEach(card => {
@@ -219,22 +241,29 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
                 print(f"  → Expanded {expand_count} truncated reviews")
                 page.wait_for_timeout(int((1 + random.uniform(0.5, 1.5)) * 1000))
             
-            # ── 5. Extract reviews ──
-            reviews = page.evaluate('''() => {
+                        # ── 5. Extract reviews ──
+            reviews = page.evaluate("""() => {
                 const reviews = [];
-                document.querySelectorAll('[data-hook="review"]').forEach(card => {
+                let cards = document.querySelectorAll('[data-hook="review"]');
+                if (cards.length === 0) {
+                    cards = document.querySelectorAll('.review, .a-section.review');
+                }
+                cards.forEach(card => {
                     const r = {};
-                    r.title = card.querySelector('[data-hook="reviewTitle"]')?.textContent?.trim() || '';
-                    r.body = card.querySelector('[data-hook="reviewText"]')?.textContent?.trim() || '';
-                    r.body = r.body.replace(/Read moreRead less/g, '').replace(/Brief content visible, double tap to read full content\\.?/g, '').replace(/Full content visible, double tap to read brief content\\.?/g, '').trim();
-                    r.rating = card.querySelector('[data-hook="review-star-rating"]')?.textContent?.trim() || '';
+                    const titleEl = card.querySelector('[data-hook="reviewTitle"]') || card.querySelector('.review-title');
+                    r.title = titleEl?.textContent?.trim() || '';
+                    const bodyEl = card.querySelector('[data-hook="reviewText"]') || card.querySelector('.review-text-content');
+                    r.body = bodyEl?.textContent?.trim() || '';
+                    r.body = (r.body || '').replace(/Read moreRead less/g, '')
+                        .replace(/Brief content visible, double tap to read full content\.?/g, '')
+                        .replace(/Full content visible, double tap to read brief content\.?/g, '').trim();
+                    r.rating = (card.querySelector('[data-hook="review-star-rating"]') || card.querySelector('.review-rating'))?.textContent?.trim() || '';
                     r.date = card.querySelector('[data-hook="review-date"]')?.textContent?.trim() || '';
                     r.author = card.querySelector('.a-profile-name')?.textContent?.trim() || '';
-                    if (r.body || r.title) reviews.push(r);
+                    if ((r.body && r.body.length > 20) || r.title) reviews.push(r);
                 });
                 return reviews;
-            }''')
-            
+            }""")
             print(f"  → Extracted {len(reviews)} reviews")
             reviews = reviews[:max_reviews]
             
