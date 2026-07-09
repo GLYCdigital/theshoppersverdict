@@ -7,7 +7,7 @@
     <div class="trust-divider"></div>
     <div class="trust-item">
       <span class="trust-icon">🔍</span>
-      <span class="trust-text">{{ div .Site.Data.stats.total_reviews_analyzed 1000000 }}M+ Reviews Analysed</span>
+      <span class="trust-text">{{ math.Floor (div .Site.Data.stats.total_reviews_analyzed 1000000) }}M+ Reviews Analysed</span>
     </div>
     <div class="trust-divider"></div>
     <div class="trust-item">
