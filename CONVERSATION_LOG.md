@@ -88,4 +88,4 @@
 [14:54 SGT] 📗 New session — fresh checkpoint. Writing from 176 briefings at Breville quality. No templates, no batch, no re-proposing.
 [15:25 SGT] ✅ Committed & pushed: hand-crafted reviews (Fancy Feast, Salt & Stone, NB Arm, Laptop Stand, LEGO Lotus, HUANUO desk) + sub-agent rewrite batch. Cloudflare building.
 [15:30 SGT] Scrape 2, write 2: Ninja 9-Cup Food Processor + Traeger Ironwood XL. Pacing 2-3 min between.
-[15:38 SGT] Gabriel: 'Keep rolling. Do NOT rewrite without scraping.' — Scraping B09SVS2WG2 fresh from coffee queue.
+[15:38 SGT] Gabriel: 'Keep rolling. Do NOT rewrite without scraping.' — Scraped B001GAOTSW fresh (Pilot G2 pens) after coffee queue ASINs all 404'd. Wrote review from scraped data (8 real reviews). ✅ Committed & pushed a0164709d. Cloudflare building.
