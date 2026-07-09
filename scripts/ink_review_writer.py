@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-ink_review_writer.py — Quality-first review writer.
+ink_review_writer.py - Quality-first review writer.
 Generates Hugo review content from scraped Amazon data.
 
 Every review is built from actual customer review text.
 Rating-based sentiment: 4-5★ = praise, 1-2★ = complaints, 3★ = neutral.
-No generic fallback text — if data is too thin, the review is skipped.
+No generic fallback text - if data is too thin, the review is skipped.
 """
 import sys, os, json, re, glob
 from datetime import datetime
@@ -223,7 +223,7 @@ def analyze_reviews(reviews):
                         break
 
         elif stars == 3:
-            # Neutral reviews — check both positive and negative
+            # Neutral reviews - check both positive and negative
             themes = match_themes_in_text(full_text, POSITIVE_THEMES)
             for t in themes:
                 praise_themes[t] += 1
@@ -611,7 +611,7 @@ def write_review(data, category, asin, force=False):
         if m:
             short = short[:m.end()]
         else:
-            # No sentence end — find last comma as natural break
+            # No sentence end - find last comma as natural break
             m = re.search(r',[^,]*$', short)
             if m:
                 short = short[:m.start() if m.start() > 15 else len(short)]
@@ -682,8 +682,8 @@ def write_review(data, category, asin, force=False):
     title_parts = re.split(r'\s*[|]\s*', title)
     brand_product = title_parts[0].strip() if title_parts else title
     # Strip trailing color/size/spec suffixes like " - Black" or " - 60oz"
-    clean_brand = re.sub(r'\s*[-–]\s*(Black|White|Stainless|Silver|Gray|Red|Blue|Green|Brown|Gold|Pink|Purple).*$', '', brand_product, flags=re.IGNORECASE)
-    clean_brand = re.sub(r'\s*[-–]\s*\d+.*$', '', clean_brand)  # strip " - 60oz Water..."
+    clean_brand = re.sub(r'\s*[--]\s*(Black|White|Stainless|Silver|Gray|Red|Blue|Green|Brown|Gold|Pink|Purple).*$', '', brand_product, flags=re.IGNORECASE)
+    clean_brand = re.sub(r'\s*[--]\s*\d+.*$', '', clean_brand)  # strip " - 60oz Water..."
     # Remove trailing commas, semicolons
     clean_brand = re.sub(r'[;,:]+\s*$', '', clean_brand)
     words = clean_brand.split()
@@ -700,12 +700,19 @@ def write_review(data, category, asin, force=False):
 
     # Meta description
     total_review_count = max(rc, analysis['total_reviews_analyzed'])
-    meta_desc_parts = []
-    if p_phrases := analysis['praise_phrases']:
-        meta_desc_parts.append(p_phrases[0][:70].strip())
+    # Meta description: first line from review quote (or brand), then stats
+    meta_lead = ''
+    if analysis['praise_phrases']:
+        meta_lead = analysis['praise_phrases'][0].strip()
+        # Take up to first sentence or 80 chars
+        m = re.search(r'^[^.!?]*[.!?]', meta_lead)
+        if m and m.end() < 90:
+            meta_lead = meta_lead[:m.end()]
+        else:
+            meta_lead = ' '.join(meta_lead[:80].split()[:-1]) if meta_lead[:80].split() else meta_lead[:80]
     else:
-        meta_desc_parts.append(f'Honest {clean_brand[:30].lower()} review')
-    meta_desc = '. '.join(meta_desc_parts) + f'. {total_review_count:,}+ Amazon reviews analyzed. Real pros, cons, and our verdict.'
+        meta_lead = f'Honest {clean_brand[:30].lower()} review'
+    meta_desc = f'{meta_lead} {total_review_count:,}+ Amazon reviews analyzed. Real pros, cons, and our verdict.'
     if len(meta_desc) > 160:
         meta_desc = meta_desc[:157] + '...'
 
@@ -824,7 +831,11 @@ def main():
             except json.JSONDecodeError as e:
                 print(f'  Invalid JSON: {basename} - {e}')
                 continue
-
+        
+        if not isinstance(data, dict):
+            print(f'  Invalid data format (not a dict): {basename} - got {type(data).__name__}')
+            continue
+        
         result = write_review(data, category, asin, force=force)
         if result:
             mark_used(asin)
