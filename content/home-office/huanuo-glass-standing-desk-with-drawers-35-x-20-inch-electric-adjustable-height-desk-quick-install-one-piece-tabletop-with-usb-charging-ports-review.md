@@ -10,7 +10,7 @@ price: 179.99
 review_count: 84
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G48RMMJY/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71M6KMjv5-L._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61AaMC2HYQL._AC_SL1500_.jpg"
 pros:
   - "Assembly in under 20 minutes — multiple buyers confirm the quickest desk build they've experienced"
   - "Glass top is genuinely sturdy and supports dual monitor setups without wobble"
@@ -30,13 +30,7 @@ faq:
   - question: "Is this a good gift idea?"
     answer: "Many buyers purchase this as a gift. Its strong ratings and positive reviews make it a safe choice for most recipients."
 
-faq:
-  - question: "Is the HUANUO Glass Standing Desk with Drawers worth buying?"
-    answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
-  - question: "What do customers say about it?"
-    answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
-  - question: "How does this compare to alternatives?"
-    answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 84 people have reviewed the HUANUO Glass Standing Desk on Amazon, and the consensus is striking. *"I'm obsessed with the quality and the look of this desk. Easy assembly, sturdy, and you get exactly what you paid for."*

@@ -10,7 +10,7 @@ price: 37.01
 review_count: 4082
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZT7H8CN/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61Fo45DhCRL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/717iDw6uFlL._AC_SL1500_.jpg"
 pros:
   - "Beautiful display piece — looks like real decorative stems in a vase"
   - "Build is quick and satisfying, around 20-30 minutes"
@@ -29,13 +29,7 @@ faq:
   - question: "Is this a good gift idea?"
     answer: "Many buyers purchase this as a gift. Its strong ratings and positive reviews make it a safe choice for most recipients."
 
-faq:
-  - question: "Is the LEGO Lotus Flower 40647 worth buying?"
-    answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
-  - question: "What do customers say about it?"
-    answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
-  - question: "How does this compare to alternatives?"
-    answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 The LEGO Lotus Flower 40647 is part of the Botanicals collection, and it's one of the best entry points into that line. At 369 pieces and $37, it's a quick build that produces a surprisingly elegant display piece.

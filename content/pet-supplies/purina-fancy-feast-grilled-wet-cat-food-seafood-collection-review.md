@@ -10,7 +10,7 @@ price: 11.43
 review_count: 47059
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001STX13U/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71C1FhwrdEL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81K7YvcfLpL._AC_SL1500_.jpg"
 pros:
   - "Picky cats actually eat it — the most common praise across 47,000+ reviews"
   - "Good gravy texture works for cats with dental issues or missing teeth"
@@ -29,13 +29,6 @@ faq:
   - question: "Is this a good gift idea?"
     answer: "Many buyers purchase this as a gift. Its strong ratings and positive reviews make it a safe choice for most recipients."
 
-faq:
-  - question: "Is the Purina Fancy Feast Grilled Wet Cat Food Seafood Collection worth buying?"
-    answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
-  - question: "What do customers say about it?"
-    answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
-  - question: "How does this compare to alternatives?"
-    answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
 ---
 
 47,059 Amazon reviews and a 4.7-star average. That's not just a popular cat food — it's one of the most-reviewed pet products on the entire platform. The Fancy Feast Grilled Seafood Collection is comfort food for cats who think they deserve better.

@@ -10,7 +10,7 @@ price: 31.93
 review_count: 16763
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08WYXNVQ7/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61zJLK0B6QL._SX522_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/51ZgUfRut6L._SL1500_.jpg"
 pros:
   - "Santal & Vetiver scent is genuinely pleasant — smells like a subtle cologne, not deodorant"
   - "Works for heavy sweaters and workouts where most natural deodorants fail"
@@ -29,13 +29,7 @@ faq:
   - question: "Is this a good gift idea?"
     answer: "Many buyers purchase this as a gift. Its strong ratings and positive reviews make it a safe choice for most recipients."
 
-faq:
-  - question: "Is the Salt & Stone Aluminum Free Deodorant worth buying?"
-    answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
-  - question: "What do customers say about it?"
-    answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
-  - question: "How does this compare to alternatives?"
-    answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 Natural deodorant has a reputation problem: most of it doesn't work. The Salt & Stone Aluminum Free Deodorant is one of the few exceptions that has earned 16,763 reviews on Amazon with a 4.1-star average. The Santal & Vetiver scent has developed something of a cult following.
