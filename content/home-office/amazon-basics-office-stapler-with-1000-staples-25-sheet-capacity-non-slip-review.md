@@ -9,7 +9,7 @@ faq:
   - question: "Can the Amazon Basics stapler actually handle 25 sheets?"
     answer: "Reviewers confirm it handles 25 sheets and sometimes more. One reviewer successfully stapled 29 sheets with sufficient crimp to hold them together. It's reliable within its rated capacity."
   - question: "Does the stapler jam frequently?"
-    answer: "No. Jamming is rarely mentioned in reviews. The mechanism is straightforward and feeds staples reliably. One reviewer specifically notes it 'doesn't jam.'
+    answer: "No. Jamming is rarely mentioned in reviews. The mechanism is straightforward and feeds staples reliably. One reviewer specifically notes it doesn't jam."
 date: 2026-07-09
 price: 6.31
 review_count: 52636
