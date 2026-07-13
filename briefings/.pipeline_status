@@ -1,7 +1,1 @@
-08:47:52 Starting orchestrator (seeds bestsellers + scrapes)...
-08:53:11 Orchestrator failed — checking for partial scrapes
-08:53:11 Orchestrator done
-08:53:11 No new reviews — all ASINs in today's yield already published
-08:54:00 Orchestrator failed — checking for partial scrapes
-08:54:00 Orchestrator done
-08:54:00 No new reviews — all ASINs in today's yield already published
+08:00:01 Starting orchestrator (seeds bestsellers + scrapes)...

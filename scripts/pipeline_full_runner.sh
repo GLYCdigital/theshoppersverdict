@@ -8,6 +8,15 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$SCRIPT_DIR/.."
 export PATH="/opt/homebrew/bin:$PATH"
 
+TODAY=$(date '+%Y-%m-%d')
+
+# ─── Guard: skip if today's pipeline already completed ───
+# Check git log for a batch commit already made today
+if git log --after="$TODAY 00:00" --before="$TODAY 23:59" --oneline --grep="batch" 2>/dev/null | grep -q .; then
+  echo "⏭️  $TODAY: Pipeline already ran today (batch commit found). Skipping."
+  exit 0
+fi
+
 STATUS_FILE="briefings/.pipeline_status"
 > "$STATUS_FILE"
 
@@ -29,7 +38,7 @@ run_with_timeout() {
 
 # ─── Orchestrator ──────────
 log "Starting orchestrator (seeds bestsellers + scrapes)..."
-# No inner timeout — cron's 1800s outer timeout handles hangs
+# No inner timeout — cron's 2700s outer timeout handles hangs
 ORCH_OUT=$(python3 scripts/pipeline_orchestrator.py 2>&1) || {
   log "Orchestrator failed — checking for partial scrapes"
 }
@@ -72,7 +81,7 @@ if git diff --cached --quiet 2>/dev/null; then
   exit 0
 fi
 
-git commit -m "$(date +%Y-%m-%d): Daily batch ($YIELD reviews)" 2>&1 | tail -1
+git commit -m "$TODAY: Daily batch ($YIELD reviews)" 2>&1 | tail -1
 git push 2>&1 | tail -1
 echo "✅ $YIELD reviews written and pushed (Cloudflare CI builds)."
 log "Complete: $YIELD reviews pushed to main"

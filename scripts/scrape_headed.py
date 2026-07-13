@@ -64,8 +64,9 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
         
         with sync_playwright() as p:
             
-            browser = p.chromium.launch_persistent_context(user_data_dir='/tmp/amz-scrape-' + os.urandom(4).hex(), headless=False, viewport={'width': 1280, 'height': 900})
+            browser = p.chromium.launch_persistent_context(user_data_dir='/tmp/amz-scrape-' + os.urandom(4).hex(), headless=False, channel='chrome', viewport={'width': 1280, 'height': 900}, locale='en-US', timezone_id='America/New_York')
             page = browser.new_page()
+            page.set_extra_http_headers({'Accept-Language': 'en-US,en;q=0.9'})
             
             # Random pre-nav delay — human doesn't browse instantly
             hrs = 1 + random.uniform(0.5, 3.0)
@@ -83,55 +84,15 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             
             # ── 1b. Load product page ──
             print(f"  → Loading product page...")
-            page.goto(url, timeout=60000, wait_until='load')
+            page.goto(url, timeout=60000, wait_until='networkidle')
             page.wait_for_timeout(int((6 + random.uniform(2, 5)) * 1000))
             
-            # ── 1c. Force-switch if we landed on .sg despite cookies ──
+            # ── 1c. Host check — locale+headers should keep us on .com
             current_host = page.evaluate('() => window.location.hostname')
             if 'amazon.sg' in current_host:
-                print(f"  → Still on Amazon.sg! Force-switching via customer preferences...")
-                page.goto('https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=/&marketplaceId=ATVPDKIKX0DER',
-                         timeout=30000, wait_until='load')
-                page.wait_for_timeout(int((3 + random.uniform(1, 3)) * 1000))
-                # Look for United States option and select it
-                clicked = page.evaluate('''() => {
-                    const radios = document.querySelectorAll('input[type="radio"]');
-                    for (const r of radios) {
-                        const label = document.querySelector('label[for="' + r.id + '"]');
-                        if (label && label.textContent.toLowerCase().includes('united states')) {
-                            r.click();
-                            return 'clicked_us';
-                        }
-                    }
-                    // Try buttons that say "Go to Amazon.com" or "United States"
-                    const all = document.querySelectorAll('a, button, span, div');
-                    for (const el of all) {
-                        const t = el.textContent?.toLowerCase() || '';
-                        if ((t.includes('united states') || t.includes('go to amazon.com')) &&
-                            (el.tagName === 'A' || el.tagName === 'BUTTON' || el.onclick)) {
-                            el.click();
-                            return 'clicked_link';
-                        }
-                    }
-                    // Submit button
-                    const submit = document.querySelector('input[type="submit"], button[type="submit"]');
-                    if (submit) { submit.click(); return 'submitted'; }
-                    return 'no_option_found';
-                }''')
-                if clicked == 'clicked_us':
-                    print(f"  → Selected United States radio, submitting...")
-                    page.wait_for_timeout(1000)
-                    page.evaluate('() => { const btn = document.querySelector("input[type=\"submit\"], button[type=\"submit\"]"); if(btn) btn.click(); }')
-                print(f"  → Preferences action: {clicked}, waiting for redirect...")
-                page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
-                # Now navigate to the product
-                page.goto(url, timeout=60000, wait_until='load')
-                page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
-                current_host = page.evaluate('() => window.location.hostname')
-                if 'amazon.sg' in current_host:
-                    print(f"  ⚠️  Still on Amazon.sg after force-switch. Scraping from .sg (limited).")
-                else:
-                    print(f"  ✅ Now on {current_host}")
+                print(f"  ⚠️  Still on .sg — route blocker missed it. Retrying...")
+                page.goto(url, timeout=60000, wait_until='networkidle')
+                page.wait_for_timeout(5000)
             
             # ── 1d. Handle Amazon bot check interstitial ──
             bot_check = page.evaluate('''() => {
@@ -178,18 +139,25 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
                     page.wait_for_timeout(int((2 + random.uniform(1, 3)) * 1000))
                 else:
                     print(f"  → No button found to click, trying page reload...")
-                    page.goto(url, timeout=60000, wait_until='load')
+                    page.goto(url, timeout=60000, wait_until='networkidle')
                     page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
             
 
             
-            # ── 1e. Wait for reviews section to load ──
+            # ── 1e. Wait for reviews to load (lazy-loaded on .com) ──
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight * 0.6)')
+            page.wait_for_timeout(2000)
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight * 0.9)')
+            page.wait_for_timeout(2000)
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+            page.wait_for_timeout(3000)
+            page.evaluate('window.scrollTo(0, 0)')
+            page.wait_for_timeout(1000)
             try:
-                page.wait_for_selector('#customerReviews', timeout=15000)
-                print(f"  → Reviews section loaded")
+                page.wait_for_selector('[data-hook="review"]', timeout=20000)
+                print(f"  → Review cards loaded")
             except:
-                print(f"  → Reviews section not found, proceeding anyway")
-            page.wait_for_timeout(int((2 + random.uniform(1, 2)) * 1000))
+                print(f"  → Review cards not found, proceeding anyway")
             
             # ── 2. Extract product data ──
             product = page.evaluate('''() => {
