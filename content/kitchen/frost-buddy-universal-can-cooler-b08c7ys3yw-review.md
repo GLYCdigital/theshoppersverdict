@@ -10,7 +10,7 @@ price: 51.64
 review_count: 10560
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08C7YS3YW/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71FBZj9tisL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81kGfGTdlVL._AC_SL1500_.jpg"
 pros:
   - "Universal fit — works with standard 12oz, slim cans, bottles, and more"
   - "Keeps drinks cold for 24+ hours with no condensation on the outside"

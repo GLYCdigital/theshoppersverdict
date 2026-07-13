@@ -10,7 +10,7 @@ price: 297.60
 review_count: 9956
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01H7R1EJY/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71FBZj9tisL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81aZxs6FBPL._AC_SL1500_.jpg"
 pros:
   - "500-watt motor that handles heavy dough without straining or overheating"
   - "Die-cast metal construction with tilt-back head — feels built for life"

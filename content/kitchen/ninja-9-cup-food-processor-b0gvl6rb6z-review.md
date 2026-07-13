@@ -10,7 +10,7 @@ price: 129.99
 review_count: 12222
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVL6RB6Z/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71FBZj9tisL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61QfIEz6s8L._AC_SL1152_.jpg"
 pros:
   - "1000-watt motor shreds, chops, and purees faster than units twice the price"
   - "Dual-tier blade system stays clean — no gunk trapped inside hollow shafts"

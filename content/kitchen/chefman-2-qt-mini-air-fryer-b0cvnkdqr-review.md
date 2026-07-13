@@ -10,7 +10,7 @@ price: 49.99
 review_count: 29179
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVNK5DQR/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71FBZj9tisL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/717RT0khBAL._AC_SL1500_.jpg"
 pros:
   - "Compact 2-quart size fits anywhere — tiny footprint for small kitchens"
   - "Digital controls with presets for fries, chicken, steak, and fish"

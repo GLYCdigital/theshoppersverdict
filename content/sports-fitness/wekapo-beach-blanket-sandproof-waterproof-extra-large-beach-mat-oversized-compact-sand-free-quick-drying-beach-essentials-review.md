@@ -10,7 +10,7 @@ price: 32.26
 review_count: 14673
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08X6VQBGJ/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/81mNOgzGdsL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71JKPyUX-RL._AC_SL1500_.jpg"
 pros:
   - "Sand genuinely shakes right off — no more bringing the beach home in your blanket"
   - "Waterproof backing keeps the blanket dry on damp sand or wet grass"

@@ -6,7 +6,7 @@ date: 2026-06-17
 slug: ultrean-food-scale-review
 asin: B08CZDYNF7
 amazon_url: "https://www.amazon.com/dp/B08CZDYNF7/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61c-0mF4CjL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71TV+iWbGlL._SL1500_.jpg"
 image_alt: "Ultrean Digital Food Scale with stainless steel platform and LCD display"
 amazon_rating: 4.6
 review_count: 21000

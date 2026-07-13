@@ -10,7 +10,7 @@ price: 78.99
 review_count: 13886
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08BR9HBZ3/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71FBZj9tisL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71H+hPWNagL._AC_SL1500_.jpg"
 pros:
   - "Oven-safe glass bases up to 450°F — use as bakeware and serveware"
   - "Universal lids fit across all Brilliance containers regardless of material"

@@ -10,7 +10,7 @@ price: 24.99
 review_count: 58959
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B079M8FPTW/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71FBZj9tisL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81Ap89R-ajL._AC_SL1500_.jpg"
 pros:
   - "100% leak-proof seal with secure latches — no more bagged leftovers"
   - "Crystal-clear Tritan material resists stains and odors permanently"

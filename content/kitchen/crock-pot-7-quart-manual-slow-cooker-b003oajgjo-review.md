@@ -10,7 +10,7 @@ price: 58.20
 review_count: 61497
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B003OAJGJO/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71FBZj9tisL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71pKe7+88ZL._AC_SL1500_.jpg"
 pros:
   - "Set-it-and-forget-it simplicity with High, Low, and Warm settings"
   - "Removable stoneware insert is oven-safe up to 400°F and dishwasher safe"
