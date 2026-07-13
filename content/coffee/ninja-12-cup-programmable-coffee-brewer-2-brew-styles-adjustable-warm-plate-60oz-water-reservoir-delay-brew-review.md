@@ -10,7 +10,7 @@ price: 185.71
 review_count: 28709
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S98411N/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/81kGfGTdlVL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81+HcYgDo1L._AC_SL1500_.jpg"
 pros:
   - "Two brew styles — Classic and Rich — genuinely produce different-tasting coffee"
   - "Removable water reservoir makes filling and cleaning noticeably easier"
