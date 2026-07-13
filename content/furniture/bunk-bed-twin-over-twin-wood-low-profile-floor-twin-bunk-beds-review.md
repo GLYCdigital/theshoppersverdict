@@ -1,7 +1,7 @@
 ---
 title: "Bunk Bed Twin Over Twin, Wood Low Profile Floor Twin Bunk Beds with Headboard Ladder Guardrails for Kids Boys and Girls, No Box Spring Needed"
 seo_title: "Bunk Bed Twin Review: Verdict (4.3/5) | TSV"
-meta_description: "This was easy to assemble, affordable, and great quality overall. 96+ Amazon reviews analyzed. Real pros, cons, and our verdict."
+meta_description: "This was easy to assemble, affordable, and great quality 96+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "bunk-bed-twin-over-twin-wood-low-profile-floor-twin-bunk-beds-review"
 image_alt: "Bunk Bed Twin Over Twin, Wood Low Profile Floor Twin Bunk Beds with Headboard Ladder Guardrails for Kids Boys and Girls,"
 keywords:
