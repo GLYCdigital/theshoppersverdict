@@ -115,3 +115,6 @@
 [12:33 SGT] Killed stale pipeline_orchestrator.py (PID 71151) — had been running since 10:35AM cycling headed Chrome for 2h with only 1 briefing produced. Chrome cleaned up.
 [16:10 SGT] Heartbeat poll — no TASK files, no pending work. Silent.
 [08:00 SGT] Daily work: 10 briefings ready. Writing reviews now...
+[08:02 SGT] ✅ 10 reviews written, committed (fd3556f), pushed to main. Stats: 26,909 verdicts.
+
+[08:00 SGT] Daily pipeline start: 10 briefings to write, commit, push. 169 unprocessed candidates with review data. Selecting best 10 diverse reviews.

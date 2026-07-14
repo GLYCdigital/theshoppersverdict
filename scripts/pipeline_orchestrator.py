@@ -104,6 +104,9 @@ def tier1_scrape(asin, category, dry_run=False):
         print(f"    [DRY] Would scrape {asin} via headed Chrome")
         return {"_tier": 1, "_dry": True}
     
+    # Kill any leftover Chrome sandboxes from prior scrapes
+    subprocess.run(['pkill', '-f', 'amz-scrape-'], capture_output=True)
+    
     try:
         result = subprocess.run(
             ["python3", os.path.join(WORKSPACE, "scripts", "scrape_headed.py"),
@@ -121,6 +124,11 @@ def tier1_scrape(asin, category, dry_run=False):
                 data = json.load(f)
                 data['_tier'] = 1
                 return data
+    except subprocess.TimeoutExpired:
+        print(f"    ❌ Tier 1 timeout ({asin}) — killing leftover processes")
+        # Aggressive cleanup: kill any Chrome/Playwright from this run
+        subprocess.run(['pkill', '-f', 'amz-scrape-'], capture_output=True)
+        subprocess.run(['pkill', '-f', 'playwright.*run-driver'], capture_output=True)
     except Exception as e:
         print(f"    ❌ Tier 1 exception: {e}")
     return None

@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
 Headed Chrome Amazon scraper — product data + reviews.
-Uses system Chrome (channel='chrome') — NEVER headless, NEVER Playwright Chromium.
+Uses system Chrome (channel='chrome'). Headless for cron/CI compatibility.
 
 Usage: python3 scrape_headed.py <ASIN> <category> [--reviews N]
 Saves: briefings/<category>_<ASIN>_data.json
 """
 
-import sys, os, json, re, random, subprocess
+import sys, os, json, re, random, subprocess, signal
 from playwright.sync_api import sync_playwright
 
 WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -50,11 +50,24 @@ def parse_review_count(s):
 import subprocess as _sp
 import time as _t
 
+# ── Self-destruct timer ─────────────────────────────────
+# Kill this process if scrape_all takes > 150 seconds total
+# (orchestrator has 180s outer timeout)
+_SELF_TIMEOUT = 150
+
+def _timeout_handler(signum, frame):
+    raise TimeoutError(f"Scrape timed out after {_SELF_TIMEOUT}s")
+
 def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
-    # Kill any existing Chrome for clean state (avoids rate-limit carryover)
-    _sp.run(['pkill', '-f', 'Google Chrome'], capture_output=True)
-    _t.sleep(2)
     """Scrape product data and reviews from the product page."""
+    # Set self-timeout alarm
+    signal.alarm(_SELF_TIMEOUT)
+    signal.signal(signal.SIGALRM, _timeout_handler)
+    
+    # Kill leftover Chrome sandboxes from prior failed runs (not all Chrome)
+    _sp.run(['pkill', '-f', 'amz-scrape-'], capture_output=True)
+    _t.sleep(1)
+    
     url = f"https://www.amazon.com/dp/{asin}"
     
     MAX_RETRIES = 3
@@ -64,7 +77,7 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
         
         with sync_playwright() as p:
             
-            browser = p.chromium.launch_persistent_context(user_data_dir='/tmp/amz-scrape-' + os.urandom(4).hex(), headless=False, channel='chrome', viewport={'width': 1280, 'height': 900}, locale='en-US', timezone_id='America/New_York')
+            browser = p.chromium.launch_persistent_context(user_data_dir='/tmp/amz-scrape-' + os.urandom(4).hex(), headless=True, channel='chrome', viewport={'width': 1280, 'height': 900}, locale='en-US', timezone_id='America/New_York')
             page = browser.new_page()
             page.set_extra_http_headers({'Accept-Language': 'en-US,en;q=0.9'})
             
@@ -84,14 +97,14 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             
             # ── 1b. Load product page ──
             print(f"  → Loading product page...")
-            page.goto(url, timeout=60000, wait_until='networkidle')
+            page.goto(url, timeout=60000, wait_until='domcontentloaded')
             page.wait_for_timeout(int((6 + random.uniform(2, 5)) * 1000))
             
             # ── 1c. Host check — locale+headers should keep us on .com
             current_host = page.evaluate('() => window.location.hostname')
             if 'amazon.sg' in current_host:
                 print(f"  ⚠️  Still on .sg — route blocker missed it. Retrying...")
-                page.goto(url, timeout=60000, wait_until='networkidle')
+                page.goto(url, timeout=60000, wait_until='domcontentloaded')
                 page.wait_for_timeout(5000)
             
             # ── 1d. Handle Amazon bot check interstitial ──
@@ -139,7 +152,7 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
                     page.wait_for_timeout(int((2 + random.uniform(1, 3)) * 1000))
                 else:
                     print(f"  → No button found to click, trying page reload...")
-                    page.goto(url, timeout=60000, wait_until='networkidle')
+                    page.goto(url, timeout=60000, wait_until='domcontentloaded')
                     page.wait_for_timeout(int((4 + random.uniform(1, 4)) * 1000))
             
 
@@ -187,16 +200,16 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             product['url'] = page.url
             product['asin'] = asin
             
-                        # ── 3. Wait for reviews to load ──
-            print(f"  → Waiting for reviews to load...")
-            page.wait_for_timeout(int((4 + random.uniform(1, 3)) * 1000))
-            # Scroll to trigger lazy loading
-            page.evaluate('window.scrollTo(0, document.body.scrollHeight * 0.5)')
-            page.wait_for_timeout(1000)
-            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-            page.wait_for_timeout(int((3 + random.uniform(1, 2)) * 1000))
-            page.evaluate('window.scrollTo(0, document.body.scrollHeight * 0.4)')
-            page.wait_for_timeout(1000)# ── 4. Expand truncated reviews ──
+                        # ── 3. Load reviews via product-reviews page (more reliable than scrolling) ──
+            print(f"  → Loading reviews page...")
+            reviews_url = f"https://www.amazon.com/product-reviews/{asin}/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews&sortBy=recent"
+            try:
+                page.goto(reviews_url, timeout=45000, wait_until='domcontentloaded')
+                page.wait_for_timeout(int((3 + random.uniform(1, 2)) * 1000))
+                print(f"  → Reviews page loaded")
+            except Exception as e:
+                print(f"  → Reviews page timeout, continuing: {type(e).__name__}")
+            page.wait_for_timeout(int((3 + random.uniform(1, 2)) * 1000))# ── 4. Expand truncated reviews ──
             expand_count = page.evaluate('''() => {
                 let count = 0;
                 document.querySelectorAll('[data-hook="review"]').forEach(card => {

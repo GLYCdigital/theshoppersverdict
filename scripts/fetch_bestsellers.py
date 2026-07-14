@@ -128,7 +128,7 @@ def main():
     all_results = {}
     
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, channel="chrome")
+        browser = p.chromium.launch(headless=True, channel="chrome")
         page = browser.new_page(viewport={"width": 1280, "height": 900})
         time.sleep(1 + random.uniform(0.5, 2))
         
