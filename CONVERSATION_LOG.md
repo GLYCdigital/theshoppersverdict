@@ -118,3 +118,13 @@
 [08:02 SGT] ✅ 10 reviews written, committed (fd3556f), pushed to main. Stats: 26,909 verdicts.
 
 [08:00 SGT] Daily pipeline start: 10 briefings to write, commit, push. 169 unprocessed candidates with review data. Selecting best 10 diverse reviews.
+
+[08:00-09:30 SGT] Daily pipeline: 10 reviews written, QA passed, committed, pushed (2fc78544d). Categories: coffee(2), home-office(3), home-improvement(2), pet-supplies(1), toys-games(2). Reported via Ops group.
+[15:11 SGT] Heartbeat poll: no pending tasks. All clear.
+
+## [21:50 SGT] Ink — Daily Umami Stats Report (Tue 14 Jul)
+- Ran umami_report_tsv.py — success
+- Stats: Mon 13 Jul — 40 pv • 5 uniques • 5 visits
+- 7-day: 87 pv • 39 uniques • 39 visits
+- Forwarded to Gabriel
+[08:00 SGT] Daily pipeline: 10 new briefings detected. Starting review writing session.
