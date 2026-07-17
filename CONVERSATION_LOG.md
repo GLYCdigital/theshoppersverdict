@@ -128,3 +128,18 @@
 - 7-day: 87 pv • 39 uniques • 39 visits
 - Forwarded to Gabriel
 [08:00 SGT] Daily pipeline: 10 new briefings detected. Starting review writing session.
+[08:00 SGT] Daily pipeline: 8 reviews written from 10 briefings. QA passed, committed (a387b0586), pushed to main. Skipped GE water filter (0 reviews) and ZARKL denim jacket (0 reviews, generic listing). Reported via Telegram.
+[07:10 SGT] Heartbeat poll: Thu 16 Jul — no pending tasks. Last pipeline: 8 reviews (Jul 15). Next 08:00 pipeline in ~50m.
+[08:00 SGT] Daily pipeline: starting review writing session. Checking pipeline status first.
+[08:19 SGT] Heartbeat poll: Thu 16 Jul — no pending tasks. Daily pipeline already ran at 08:00 (8 reviews).
+[13:10 SGT] Heartbeat poll: Thu 16 Jul — no pending tasks. Pipeline ran at 08:00 (8 reviews).
+[21:11 SGT] Heartbeat poll: Thu 16 Jul — no pending tasks. Pipeline ran at 08:00 (8 reviews). Nothing actionable.
+
+[21:50 SGT] Cron: Daily Umami stats report — script ran successfully. Forwarding to Gabriel.
+
+[04:28 SGT] Heartbeat poll: Fri 17 Jul — no TASK_*.md files, no pending tasks. Daily pipeline hasn't run yet (08:00). Nothing actionable.
+[05:10 SGT] Heartbeat poll: Fri 17 Jul — no TASK_*.md, no pending tasks. Daily pipeline at 08:00. Quiet.
+
+[08:00 SGT] Daily pipeline: Starting 10 reviews. Picking from latest briefings.
+
+[08:00 SGT] Daily pipeline: 10 reviews written. Committing and pushing...

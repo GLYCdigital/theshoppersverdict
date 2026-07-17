@@ -53,7 +53,7 @@ for MD in "$@"; do
         FILE_ERRORS=$((FILE_ERRORS + 1))
     else
         # ── Verify image URL resolves (not 404) ──────────────────
-        HTTP_STATUS=$(curl -sI --max-time 5 "$IMG" 2>/dev/null | head -1 | awk '{print $2}')
+        HTTP_STATUS=$(curl -sI --max-time 5 -A "Mozilla/5.0" "$IMG" 2>/dev/null | head -1 | awk '{print $2}')
         if [ -z "$HTTP_STATUS" ]; then
             echo "  ⚠️  $BASENAME: amazon_image unresolvable (timeout or DNS failure)"
             FILE_ERRORS=$((FILE_ERRORS + 1))
