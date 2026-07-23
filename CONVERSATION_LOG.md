@@ -143,3 +143,49 @@
 [08:00 SGT] Daily pipeline: Starting 10 reviews. Picking from latest briefings.
 
 [08:00 SGT] Daily pipeline: 10 reviews written. Committing and pushing...
+
+[08:00-08:45 SGT] Daily pipeline: 10 reviews written, committed (3561cf28a), pushed to main.
+
+✅ V8 Energy Peach Mango (coffee)
+✅ PUR Gum Spearmint (coffee)
+✅ Milk-Bone MaroSnacks Dog Treats (pet-supplies)
+✅ Roadbox UPF 50+ Sun Shirt (sports-fitness)
+✅ HUANUO FlowLift Monitor Mount (home-office)
+✅ Amazon Basics Hand Soap Refill (luxury-beauty)
+✅ Nutribullet Ultra Blender (kitchen)
+✅ Laird Superfood Mushroom Coffee (kitchen)
+✅ Zulay Kitchen Milk Frother (kitchen)
+✅ Bedsure Satin Pillowcase (furniture)
+
+Fixed qa_check.sh User-Agent for Amazon image validation.
+[04:28 SGT] Heartbeat poll: no TASK files, no action needed. Last session wrote: Laird Mushroom Coffee, Zulay Frother, Bedsure Pillowcase.
+[08:00 SGT] Starting daily review batch: 10 reviews
+[08:00 SGT] Wrote 10 reviews (4 coffee, 3 home-office, 3 kitchen), QA passed, committed ac2066267, pushed to main. Briefings archived.
+[18:14 SGT] Heartbeat poll: no TASK files, no pending work. Last session: 10 reviews written Jul 9.
+[02:10 SGT] Heartbeat poll: no TASK files, no pending work. Last known session: 10 reviews written Jul 9.
+[14:10 SGT] Heartbeat poll: no TASK files, no pending work. Last known work: 10 reviews Jul 9. No daily pipeline cron configured for this project.
+
+[18:25 SGT] Heartbeat poll: no TASK files, no pending work. Last known work: 10 reviews Jul 9.
+[20:11 SGT] Heartbeat poll: no TASK files, no pending work. Last known work: 10 reviews Jul 9.
+[21:50 SGT] Daily stats received: Sat 18 Jul - 14 pv, 14 uniques, 100% bounce. SEO traffic holding steady (all Google).
+[00:11 SGT] Heartbeat poll: no TASK files, no pending work. Last known work: 10 reviews Jul 9.
+[09:39 SGT] Heartbeat poll: no TASK files, no pending work. Last known work: 10 reviews Jul 9.
+[06:10 SGT] Heartbeat poll: no TASK files, no pending work. Queue: 974 processed / 488 briefings on hand.
+[07:12 SGT] Heartbeat poll: no TASK files, no pending work. Queue: 974 processed / 488 briefings on hand.
+[11:10 SGT] Heartbeat poll: no TASK files, no pending work. Queue: 974 processed / 488 briefings on hand.
+[21:50 SGT] Ran daily Umami stats: Mon 20 Jul = 7 pv/7 uniques/7 visits. Forwarded to Gabriel.
+[07:10 SGT] Heartbeat poll: no TASK files, no pending work. Queue: 522 briefings on hand. Stats: 26,909 verdicts. Last activity: Jul 20 Umami report.
+[21:10 SGT] Heartbeat poll: no TASK files, no pending work. Queue:      522 briefings on hand. Stats: ~26,959 verdicts. Last commit: Jul 18.
+
+[21:50 SGT] Cron: ran Umami daily stats report. Script OK. Sending to Gabriel.
+
+[~21:50 SGT] **Daily Umami Stats** — Tue 21 Jul:
+👁 20 pageviews • 15 uniques • 15 visits
+⏱ 1m 50s total • 55s avg engaged • 87% bounce
+📎 Referrers: 8× Google, 1× direct/local
+📈 7-day total: 90 pv • 83 uniques • 84 visits
+Sent to Ops group for visibility.
+
+[21:50 SGT] Daily Umami stats sent to Gabriel via Telegram. Tue stats: 20 pv, 15 uniques, 15 visits. 7-day: 90 pv. Google strong (8/9 refs).
+[06:10 SGT] Heartbeat poll: no TASK_*.md files, no pending work. Silent.
+[08:00 SGT] Daily pipeline start: 10 reviews to write.
