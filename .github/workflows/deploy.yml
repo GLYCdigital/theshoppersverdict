@@ -37,6 +37,6 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ecd6d8f6b5e56cccb482101a3ad6212d
         run: |
-          npx --yes wrangler pages deploy public \
+          npx --yes wrangler@4.113.0 pages deploy public \
             --project-name=theshoppersverdict \
             --branch=main
