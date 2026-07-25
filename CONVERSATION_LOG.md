@@ -1,5 +1,9 @@
 
 
+## [21:50 SGT] Ink — Daily Umami Stats Report (FAILED)
+- umami_report_tsv.py errored — Umami auth returned non-JSON (JSONDecodeError)
+- Reported failure to Gabriel via Telegram
+
 ## [21:50 SGT] Ink — Daily Umami Stats Report
 - Ran umami_report_tsv.py — success
 - Stats: Sun 05 Jul — 0 pv / 0 uniques / 0 visits
@@ -189,3 +193,21 @@ Sent to Ops group for visibility.
 [21:50 SGT] Daily Umami stats sent to Gabriel via Telegram. Tue stats: 20 pv, 15 uniques, 15 visits. 7-day: 90 pv. Google strong (8/9 refs).
 [06:10 SGT] Heartbeat poll: no TASK_*.md files, no pending work. Silent.
 [08:00 SGT] Daily pipeline start: 10 reviews to write.
+[08:00 SGT] Daily batch: 10 reviews written (8 coffee: ESPRO French Press, Starbucks Espresso K-Cups, Nespresso Kazaar, YETI Pour Over, OXO Pour-Over, Hamilton Beach 2-Way, Ninja 12-Cup, Nespresso Vertuo Barista | 2 home-office: Ticonderoga Pencils, EXPO Dry Erase Markers). Commit 0f0b1f958. Pushed to main.
+
+[08:00 SGT] Daily batch: 10 reviews written, QA passed, committed 9211282fb, pushed to main. Categories: coffee(2), home-improvement(2), home-office(2), pet-supplies(1), sports-fitness(1), toys-games(2).
+
+[15:25 SGT] Gabriel — Verify all schedules. Full audit provided.
+
+[15:27 SGT] Gabriel — No more review pipeline at 08:00? Confirmed: no 08:00 pipeline, only 01:00 + 04:00 retry. 08:45 is health-check only.
+
+[15:28 SGT] Gabriel — Asked about the 08:45 Deploy Health Check failure. Explained Cloudflare Pages 20K file limit blocking deploy.
+
+[15:34 SGT] Gabriel — Pin wrangler and try. Also asked about 55K file count from yesterday (duplicate reviews?). Explained: Hugo pages + Pagefind index. Pinned wrangler@4.113.0 in deploy.yml, committed, pushed, manual deploy triggered.
+
+[15:35 SGT] Cron — Daily Umami Stats FAILED: JSONDecodeError from Umami cloud API (empty/non-JSON response). Awaiting instructions.
+[22:11 SGT] Heartbeat poll — No TASK files, nothing pending.
+
+[07:16 SGT] Fixed daily stats cron (21:50) — agent was issuing ANNOUNCE_SKIP via sessions_send instead of letting announce deliver. Payload updated: strict instruction to produce output only, no routing. Target: 1493180026 (@glycDigital).
+
+[16:10 SGT] Heartbeat poll: found 7 unwritten reviews from today's pipeline (created 08:07-08:09 but never committed). 1 removed (atatix — template-ish, below quality bar). 6 good reviews committed: Keurig K-Mini, Nespresso Inissia, Philips 3200 LatteGo, Braun MultiServe Plus, Cuisinart Coffee Center, MANNKITCHEN Pepper Cannon. Push to main.
