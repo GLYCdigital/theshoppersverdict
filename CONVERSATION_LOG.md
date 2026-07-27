@@ -211,3 +211,34 @@ Sent to Ops group for visibility.
 [07:16 SGT] Fixed daily stats cron (21:50) — agent was issuing ANNOUNCE_SKIP via sessions_send instead of letting announce deliver. Payload updated: strict instruction to produce output only, no routing. Target: 1493180026 (@glycDigital).
 
 [16:10 SGT] Heartbeat poll: found 7 unwritten reviews from today's pipeline (created 08:07-08:09 but never committed). 1 removed (atatix — template-ish, below quality bar). 6 good reviews committed: Keurig K-Mini, Nespresso Inissia, Philips 3200 LatteGo, Braun MultiServe Plus, Cuisinart Coffee Center, MANNKITCHEN Pepper Cannon. Push to main.
+
+## [04:25 SGT] Ink — 04:00 Retry Pipeline Status
+- Received inter-session message from cron: 04:00 Retry Pipeline started at 04:01 SGT
+- Checked processes: pipeline_orchestrator.py running since 04:01, currently scraping B09XDVYCVW (patio-lawn-garden)
+- Pipeline automatically commits & pushes when done — monitoring passively
+
+## [04:26 SGT] Ink — Pipeline Update (2+ hrs)
+- Pipeline still running — progressed from B09XDVYCVW → now scraping B0CM9Z6HYF (coffee)
+- Orchestrator running since 04:01, no issues, just slow paced scraping
+- 647 briefings with data, queue intact
+- Normal operation
+
+## [04:28 SGT] Pipeline Update (2+ hrs) — Still Running
+- Orchestrator + Chrome headless scraper actively scraping B0CM9Z6HYF (coffee)
+- New briefings created: patio-lawn-garden (B09XDVYCVW, B079HCMQ8Y), pet-supplies (B083256F9B)
+- Pipeline progressing slowly as expected — pacing delays between ASINs
+- No stall or crash detected
+
+[06:10 SGT] Heartbeat poll — Sun 26 Jul. No TASK_*.md files. Pipeline ran at 04:00 & finished (33 new briefings across 10 categories). No pending tasks. Silent.
+
+## [08:00 SGT] Ink — Daily Batch
+- 10 briefings checked: 9 ASINs already have published reviews on the site
+- 1 new review written: SHARDOR Electric Burr Coffee Grinder 2.0 ($39.98, B087F8N6W3)
+- QA passed, committed (aebe8d6cb), pushed to main
+- Reported to @GemmaGLYC_bot
+
+## [04:29 SGT] Daily Batch Complete ✅
+- Pipeline ran at 04:00 → 33 new briefings across 10 categories
+- 9 ASINs already had published reviews (deduped)
+- 1 new review written: SHARDOR Electric Burr Coffee Grinder 2.0 ($39.98, 4.1★/5,509 reviews)
+- QA passed, committed (aebe8d6cb), pushed to main

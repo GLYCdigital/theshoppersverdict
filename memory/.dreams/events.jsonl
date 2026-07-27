@@ -705,3 +705,7 @@
 {"type":"memory.dream.completed","timestamp":"2026-07-20T19:00:02.847Z","phase":"light","outcome":"failed","error":"Plugin state for memory-core exceeds the 50000 live row limit.","lineCount":0,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-07-21T19:00:02.841Z","phase":"light","outcome":"failed","error":"Plugin state for memory-core exceeds the 50000 live row limit.","lineCount":0,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-07-22T19:00:03.199Z","phase":"light","outcome":"failed","error":"Plugin state for memory-core exceeds the 50000 live row limit.","lineCount":0,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-07-23T19:00:03.838Z","phase":"light","outcome":"failed","error":"Plugin state for memory-core exceeds the 50000 live row limit.","lineCount":0,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-07-24T19:00:02.961Z","phase":"light","outcome":"failed","error":"Plugin state for memory-core exceeds the 50000 live row limit.","lineCount":0,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-07-25T19:00:03.466Z","phase":"light","outcome":"failed","error":"Plugin state for memory-core exceeds the 50000 live row limit.","lineCount":0,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-07-26T19:00:02.641Z","phase":"light","outcome":"failed","error":"Plugin state for memory-core exceeds the 50000 live row limit.","lineCount":0,"storageMode":"separate"}
