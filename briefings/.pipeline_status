@@ -1,3 +1,1 @@
-04:00:46 Starting orchestrator (seeds bestsellers + scrapes)...
-04:36:48 Orchestrator done
-04:36:48 No new reviews — all ASINs in today's yield already published
+07:30:30 Daily batch: 9/10 reviews written (scraper fixed, 1 quality gate fail), QA passed

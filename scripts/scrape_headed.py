@@ -200,16 +200,16 @@ def scrape_all(asin, category, max_reviews=DEFAULT_MAX_REVIEWS):
             product['url'] = page.url
             product['asin'] = asin
             
-                        # ── 3. Load reviews via product-reviews page (more reliable than scrolling) ──
-            print(f"  → Loading reviews page...")
-            reviews_url = f"https://www.amazon.com/product-reviews/{asin}/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews&sortBy=recent"
-            try:
-                page.goto(reviews_url, timeout=45000, wait_until='domcontentloaded')
-                page.wait_for_timeout(int((3 + random.uniform(1, 2)) * 1000))
-                print(f"  → Reviews page loaded")
-            except Exception as e:
-                print(f"  → Reviews page timeout, continuing: {type(e).__name__}")
-            page.wait_for_timeout(int((3 + random.uniform(1, 2)) * 1000))# ── 4. Expand truncated reviews ──
+                        # ── 3. Skip reviews page navigation (Amazon redirects to sign-in for reviews page).
+            # Instead, extract reviews directly from the product page after scrolling.
+            print(f"  → Extracting reviews from product page...")
+            # Scroll to reviews section again to ensure lazy-loaded reviews are visible
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight * 0.4)')
+            page.wait_for_timeout(2000)
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight * 0.8)')
+            page.wait_for_timeout(3000)
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+            page.wait_for_timeout(2000)# ── 4. Expand truncated reviews ──
             expand_count = page.evaluate('''() => {
                 let count = 0;
                 document.querySelectorAll('[data-hook="review"]').forEach(card => {
