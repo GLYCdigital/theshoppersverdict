@@ -20,6 +20,12 @@ fi
 STATUS_FILE="briefings/.pipeline_status"
 > "$STATUS_FILE"
 
+# Snapshot run start time BEFORE any logging — the status file's mtime gets
+# bumped by every log() line, which made `find -newer $STATUS_FILE` always
+# return 0 (scraped files were older than the last log line). Use this marker
+# instead so the writer actually picks up today's yield.
+RUN_START=$(date '+%Y-%m-%d %H:%M:%S')
+
 log() { echo "$(date '+%H:%M:%S') $*" >> "$STATUS_FILE"; }
 
 # macOS doesn't ship with `timeout` — use subshell timer instead
@@ -46,7 +52,8 @@ echo "$ORCH_OUT" | tail -10
 log "Orchestrator done"
 
 # Count data files from this run (reliable — counts files, not text output)
-YIELD=$(find briefings -name "*_data.json" -newer "$STATUS_FILE" -size +100c 2>/dev/null | wc -l | tr -d ' ')
+# Uses RUN_START marker, NOT $STATUS_FILE mtime (see bug note above)
+YIELD=$(find briefings -name "*_data.json" -newermt "$RUN_START" -size +100c 2>/dev/null | wc -l | tr -d ' ')
 if [ -z "$YIELD" ] || [ "$YIELD" = "0" ]; then
   YIELD=0
 fi
@@ -60,7 +67,7 @@ fi
 # ─── Review Writer ─────────
 log "Starting review writer..."
 # Only process data files newer than pipeline start (partial yield safe)
-WRITER_FILES=$(find briefings -name "*_data.json" -newer "$STATUS_FILE" -size +100c 2>/dev/null || echo "")
+WRITER_FILES=$(find briefings -name "*_data.json" -newermt "$RUN_START" -size +100c 2>/dev/null || echo "")
 if [ -z "$WRITER_FILES" ]; then
   WRITER_FILES="briefings/*_data.json"
 fi
