@@ -265,3 +265,53 @@ Sent to Ops group for visibility.
 - No TASK_*.md files pending
 - Pipeline orchestrator ran at 05:02 — no new reviews (all ASINs already published)
 - 787 briefings available for writing
+
+## [08:00 SGT] Ink — Daily Batch Complete ✅
+- Fixed scrape_headed.py (extract reviews from product page not reviews page — Amazon redirects sign-in)
+- Scraped 10 ASINs fresh from Amazon.com with paced scraping
+- Written 9 reviews, QA passed, committed (f74064c66), pushed to main
+- 1 skipped: Victorinox Paring Knife (quality gate — insufficient themes)
+- Categories: coffee (5), kitchen (2), home-office (2)
+[08:00 SGT] Daily pipeline start — 10 briefings ready. Writing reviews now.
+[08:04 SGT] Daily pipeline: 10 reviews written, QA passed, committed & pushed (d790d7c4d). Briefings archived.
+[08:04 SGT] Daily pipeline: 10 reviews committed & pushed (d790d7c4d). Report sent.
+## [21:15 SGT] Heartbeat poll — 2026-07-31
+- No TASK_*.md files pending
+- Daily pipeline already completed today (d790d7c4d, 08:04)
+- 813 briefings available; nothing due this heartbeat
+[21:50 SGT] Daily Umami stats report generated (Thu 30 Jul: 2 pv / 7-day: 27 pv). Delivered via announce.
+[00:14 SGT] Heartbeat poll — 2026-08-01
+- No TASK_*.md files pending
+- Daily pipeline already completed yesterday (d790d7c4d, 08:04); next run 08:00 today
+- 813 briefings available; nothing due this heartbeat
+[01:30 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily pipeline next run 08:00; nothing due.
+[03:17 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily pipeline next run 08:00; nothing due.
+[06:04 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily pipeline next run 08:00; nothing due.
+[06:18 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily pipeline next run 08:00; nothing due.
+[07:18 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily pipeline next run 08:00; nothing due.
+[08:03 SGT] Daily batch: 13 reviews written (pipeline bug skipped writer at 07:52 — fixed manually), QA passed, committed 4df1d197, pushed to main. Reported done.
+[08:05 SGT] Fixed pipeline_full_runner.sh yield bug (RUN_START marker), committed 89acd8e28. 13 reviews + fix pushed to main.
+[09:24 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[10:16 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[11:13 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[13:10 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[14:10 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[15:12 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[16:15 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[17:15 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[18:13 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[19:10 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[20:14 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[21:14 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[22:20 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[23:14 SGT] Heartbeat poll — 2026-08-01: No TASK_*.md pending; daily batch already done (13 reviews, 4df1d197); nothing due.
+[00:11 SGT] Heartbeat poll — 2026-08-02: No TASK_*.md pending; daily batch done (13 reviews, 4df1d197); nothing due.
+[04:19 SGT] Heartbeat poll — 2026-08-02: No TASK_*.md pending; daily batch done (13 reviews, 4df1d197); nothing due.
+[05:12 SGT] Heartbeat poll — 2026-08-02: No TASK_*.md pending; daily batch done (13 reviews, 4df1d197); nothing due.
+[08:02 SGT] Daily batch 2026-08-02: pipeline already pushed 18 reviews (2 commits). Of 10 briefings: 8 have reviews, 2 missing (B0GV3X5T9T VIDI chair, B08TTHJTLL Laird coffee). Writing both now.
+[08:10 SGT] Daily batch done: 10/10 briefings covered. 8 pre-existing (Prime Day backfill), wrote 2 new (Laird coffee, VIDI chair, QA passed), committed 96ffe32bf, pushed to main. Today total: 20 reviews (18 by pipeline + 2 by hand).
+[09:21 SGT] Heartbeat poll — 2026-08-02: No TASK_*.md pending; daily batch done (20 reviews incl. 2 hand-written, 96ffe32bf); nothing due.
+[10:15 SGT] Heartbeat poll — 2026-08-02: No TASK_*.md pending; daily batch done (20 reviews, 96ffe32bf); nothing due.
+[11:02 SGT] Daily improvement idea generated (review freshness pipeline) for GLYC Digital Ops.
+[11:05 SGT] Improvement idea routed from main session (review freshness pipeline): re-scrape high-traffic reviews every 60-90d, diff price/rating/review_count vs frontmatter, auto-patch YAML + verdict when drift exceeds threshold, ship stale_reviews.py + last_verified field. Evaluating feasibility now.
+[11:30 SGT] Implemented review freshness pipeline (idea 2026-08-02): new scripts/stale_reviews.py (scan/diff/apply/stats/verify + last_verified stamping, price ±10% / rating ±0.3 thresholds, verdict recompute via shared VERDICT_THRESHOLDS). Wired last_verified into ink_review_writer.py frontmatter + dedup_check.py --fresh-days (exit 3 = fresh, skip re-scrape). Stats: 17,602 reviews, 0% freshness coverage, 4% have price. All smoke tests passed.

@@ -4,6 +4,7 @@ dedup_check.py — ROCK-SOLID ASIN deduplication for The Shopper's Verdict.
 
 Usage:
   python3 dedup_check.py <ASIN>          # Check single ASIN (exit 0=OK, 1=already exists)
+  python3 dedup_check.py <ASIN> --fresh-days 90   # exit 3 if reviewed AND fresh (skip re-scrape)
   python3 dedup_check.py --batch <file>   # Check all ASINs in a newline-separated file
   python3 dedup_check.py --sync           # Rebuild used list from all content files
 
@@ -11,12 +12,14 @@ Exit codes:
   0 — ASIN is NEW (not yet reviewed) or --sync completed
   1 — ASIN already reviewed (DUPLICATE)
   2 — Error (invalid args, file not found, etc.)
+  3 — Reviewed but FRESH (last_verified within --fresh-days) — skip re-scrape
 """
 
 import json
 import os
 import re
 import sys
+from datetime import date, datetime
 
 WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT_DIR = os.path.join(WORKSPACE, "content")
@@ -87,6 +90,37 @@ def save_used_set(asins):
     return True
 
 
+def last_verified(asin):
+    """Return the last_verified date (date object) of a review for ASIN, or None.
+    Searches content files (and _archive) for the ASIN and reads its frontmatter."""
+    asin = asin.strip().upper()
+    for root in (CONTENT_DIR, ARCHIVE_DIR):
+        if not os.path.isdir(root):
+            continue
+        for dirpath, dirs, files in os.walk(root):
+            if root == CONTENT_DIR:
+                dirs[:] = [d for d in dirs if not d.startswith("_")]
+            for f in files:
+                if not f.endswith(".md"):
+                    continue
+                path = os.path.join(dirpath, f)
+                try:
+                    with open(path, encoding="utf-8") as fh:
+                        text = fh.read()
+                except Exception:
+                    continue
+                if not re.search(rf"/dp/{asin}(/|\?|\")", text):
+                    continue
+                m = re.search(r"^last_verified:\s*(\d{4}-\d{2}-\d{2})", text, re.M)
+                if m:
+                    try:
+                        return datetime.strptime(m.group(1), "%Y-%m-%d").date()
+                    except ValueError:
+                        pass
+                return None  # reviewed but never verified
+    return None
+
+
 def is_already_reviewed(asin):
     """
     TWO-layer check:
@@ -111,10 +145,18 @@ def is_already_reviewed(asin):
 
 # ── CLI Commands ────────────────────────────────────────────────────────
 
-def cmd_check(asin):
-    """Check a single ASIN."""
+def cmd_check(asin, fresh_days=None):
+    """Check a single ASIN. With fresh_days, exit 3 when reviewed within window."""
     if is_already_reviewed(asin):
-        print(f"⛔ DUPLICATE: ASIN {asin} already has a published review.")
+        if fresh_days:
+            lv = last_verified(asin)
+            if lv is not None and (date.today() - lv).days < fresh_days:
+                print(f"🟢 FRESH: ASIN {asin} verified {lv} (<{fresh_days}d) — skip re-scrape.")
+                sys.exit(3)
+            age = f" (last verified {lv})" if lv else " (never verified)"
+            print(f"⛔ DUPLICATE: ASIN {asin} already has a published review{age}.")
+        else:
+            print(f"⛔ DUPLICATE: ASIN {asin} already has a published review.")
         sys.exit(1)
     else:
         print(f"✅ NEW: ASIN {asin} is not yet reviewed.")
@@ -202,6 +244,16 @@ if __name__ == "__main__":
 
     arg = sys.argv[1]
 
+    # Optional --fresh-days N flag for single-ASIN checks
+    fresh_days = None
+    if "--fresh-days" in sys.argv:
+        i = sys.argv.index("--fresh-days")
+        try:
+            fresh_days = int(sys.argv[i + 1])
+        except (IndexError, ValueError):
+            print("ERROR: --fresh-days requires an integer", file=sys.stderr)
+            sys.exit(2)
+
     if arg == "--sync":
         cmd_sync()
     elif arg == "--batch":
@@ -213,4 +265,4 @@ if __name__ == "__main__":
         print(f"ERROR: Unknown flag: {arg}", file=sys.stderr)
         sys.exit(2)
     else:
-        cmd_check(arg)
+        cmd_check(arg, fresh_days)

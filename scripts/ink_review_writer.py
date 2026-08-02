@@ -734,6 +734,7 @@ def write_review(data, category, asin, force=False):
         lines.append(f'  - question: "{yq(faq["question"])}"')
         lines.append(f'    answer: "{yq(faq["answer"])}"')
     lines.append(f'date: {datetime.now().strftime("%Y-%m-%d")}')
+    lines.append(f'last_verified: {datetime.now().strftime("%Y-%m-%d")}')
     lines.append(f'price: {price_str}' if price_str else 'price: null')
     lines.append(f'review_count: {rc}')
     lines.append(f'amazon_rating: {amazon_rating}')
