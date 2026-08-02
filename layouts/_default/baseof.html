@@ -7,7 +7,7 @@
   {{- /* SEO Title: use seo_title override if set, else page title */ -}}
   {{- $seoTitle := .Title -}}
   {{- with .Params.seo_title }}{{ $seoTitle = . }}{{ end -}}
-  <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ $seoTitle }} — {{ .Site.Title }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ $seoTitle }}{{ if not (strings.Contains $seoTitle .Site.Title) }} — {{ .Site.Title }}{{ end }}{{ end }}</title>
 
   {{- /* Meta Description: use meta_description param, then page Description, then first 30 words of content, then fallback */ -}}
   {{- $desc := "" -}}

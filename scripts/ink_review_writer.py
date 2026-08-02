@@ -14,6 +14,8 @@ from collections import Counter
 WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(WORKSPACE, "content")
 QUEUE = os.path.join(WORKSPACE, "data", "asin_queue.json")
+AFFILIATE_TAG = "tsvglyc-20"
+SITE_NAME = ""  # white-label: e.g. "DEWALT" — empty = The Shopper's Verdict
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -690,13 +692,15 @@ def write_review(data, category, asin, force=False):
     if len(words) > 8:
         clean_brand = ' '.join(words[:8])
     clean_brand = clean_brand.rstrip(',').strip()
-    seo_title = f'{clean_brand} Review: Verdict ({amazon_rating}/5) | The Shopper\'s Verdict'
+    site_suffix = SITE_NAME if SITE_NAME else "The Shopper's Verdict"
+    site_short = "TSV" if not SITE_NAME else SITE_NAME.split()[0]
+    seo_title = f'{clean_brand} Review: Verdict ({amazon_rating}/5) | {site_suffix}'
     if len(seo_title) > 65:
         short_brand = ' '.join(words[:3]).rstrip(',')
-        seo_title = f'{short_brand} Review: Verdict ({amazon_rating}/5) | TSV'
+        seo_title = f'{short_brand} Review: Verdict ({amazon_rating}/5) | {site_short}'
     if len(seo_title) > 65:
         short_brand = ' '.join(words[:2]).rstrip(',')
-        seo_title = f'{short_brand} Review | TSV'
+        seo_title = f'{short_brand} Review | {site_short}'
 
     # Meta description
     total_review_count = max(rc, analysis['total_reviews_analyzed'])
@@ -738,7 +742,7 @@ def write_review(data, category, asin, force=False):
     lines.append(f'price: {price_str}' if price_str else 'price: null')
     lines.append(f'review_count: {rc}')
     lines.append(f'amazon_rating: {amazon_rating}')
-    lines.append(f'amazon_url: "https://www.amazon.com/dp/{asin}/?tag=tsvglyc-20"')
+    lines.append(f'amazon_url: "https://www.amazon.com/dp/{asin}/?tag={AFFILIATE_TAG}"')
     lines.append(f'amazon_image: "{yq(image_url)}"')
     lines.append('pros:')
     for p in pro_list:
@@ -801,9 +805,27 @@ def main():
     data_files = [f for f in sys.argv[1:] if f.endswith('_data.json') and not f.startswith('--')]
     force = '--force' in sys.argv
 
+    # White-label / client-site support (whitelabel_site.py)
+    global CONTENT, QUEUE, AFFILIATE_TAG, SITE_NAME
+    if '--content-dir' in sys.argv:
+        i = sys.argv.index('--content-dir')
+        CONTENT = sys.argv[i + 1]
+    if '--tag' in sys.argv:
+        i = sys.argv.index('--tag')
+        AFFILIATE_TAG = sys.argv[i + 1]
+    if '--site-name' in sys.argv:
+        i = sys.argv.index('--site-name')
+        SITE_NAME = sys.argv[i + 1]
+    if '--no-mark-used' in sys.argv:
+        QUEUE = os.path.join(WORKSPACE, 'data', 'asin_queue_WHITELABEL_UNUSED.json')
+
     if not data_files:
         print('Usage: python3 scripts/ink_review_writer.py briefings/*_data.json [--force]')
-        print('  --force    Overwrite existing reviews')
+        print('  --force           Overwrite existing reviews')
+        print('  --content-dir DIR Write reviews into DIR (white-label client sites)')
+        print('  --tag TAG         Affiliate tag to use (default: tsvglyc-20)')
+        print('  --site-name NAME  Site name in SEO titles (default: The Shopper\'s Verdict)')
+        print('  --no-mark-used    Skip marking ASINs as used in the main queue')
         sys.exit(1)
 
     print(f"ink_review_writer - {'FORCE OVERWRITE' if force else 'NEW ONLY'}")
