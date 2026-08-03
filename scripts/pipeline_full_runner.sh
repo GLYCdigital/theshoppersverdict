@@ -79,6 +79,21 @@ WRITER_OUT=$(run_with_timeout 600 python3 scripts/ink_review_writer.py $WRITER_F
 echo "$WRITER_OUT" | tail -5
 log "Writer done"
 
+# ─── ShelfWatch snapshot ───
+# Append today's fresh scrape data to the price/rating history store (data/history/).
+# This accumulates the time-series that powers the ShelfWatch category-intelligence
+# product — without it, "movement" reports have no data. Runs on briefings + the
+# processed dir (writer may have moved files already).
+if [ -x scripts/shelfwatch.py ]; then
+    SNAP_IN="$WRITER_FILES"
+    if [ -d briefings/processed ] && [ -n "$(ls briefings/processed/*_data.json 2>/dev/null)" ]; then
+        SNAP_IN="$SNAP_IN briefings/processed"
+    fi
+    SNAP_OUT=$(python3 scripts/shelfwatch.py --snapshot $SNAP_IN 2>&1) || true
+    echo "$SNAP_OUT" | tail -1
+    log "ShelfWatch snapshot: $SNAP_OUT"
+fi
+
 # ─── Commit and Push ───────
 # Local build skipped — Cloudflare Pages CI handles it (Mac OOMs on 30K pages)
 git add content/ 2>/dev/null || true
