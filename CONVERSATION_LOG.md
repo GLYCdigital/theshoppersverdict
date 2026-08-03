@@ -320,3 +320,7 @@ Sent to Ops group for visibility.
 [14:03 SGT] Money-making idea generated (B2B SaaS recurring-affiliate comparison network) for ops group.
 [11:40 SGT] Money-making idea routed from main session: white-label "Verified Review Engine" B2B ($15k/mo, 10 × $1,500). Package scrape→write→QA→publish as branded microsite per client. Evaluating: my lane = white-label output mode + demo site generation.
 [11:55 SGT] Implemented white-label Verified Review Engine (idea 2026-08-02): scripts/whitelabel_site.py (new/publish/demo/list) + writer --content-dir/--tag/--site-name/--no-mark-used + baseof.html title de-dup. Demo: DEWALT client site (4 reviews, QA passed, 19 HTML pages, per-client git repo, 0 brand leaks — umami/GLYC/TSV scrubbed). clients/ gitignored. Verified main site still builds.
+[14:10 SGT] Whitelabel Verified Review Engine idea implemented (b305b1d50): whitelabel_site.py, writer --content-dir/--tag/--site-name/--no-mark-used, DEWALT demo microsite live (4 reviews, QA passed, 0 brand leaks). Report in ops group.
+
+[21:55 SGT] Daily Umami stats cron: script OK — Sat 01 Aug: 2 pv / 2 uniques; 7-day: 29 pv / 23 uniques. Summary delivered.
+[08:02 SGT] Daily batch 2026-08-03: pipeline pushed 8 at 02:00 (1c5eaeccd); 5 briefings missed (B087429FHR soda, B006E9RWL6 STASH latte, B0BLF3X7ZT Vital Proteins matcha, B07QYCJ1VV Kaytee birdseed, B081ZW77HM swim goggles). Wrote all 5 by hand (Laird-quality), QA passed, marked used + moved to processed/, committed 90c33b4a8, pushed to main. Today total: 13 reviews.
