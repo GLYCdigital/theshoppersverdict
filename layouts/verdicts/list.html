@@ -8,7 +8,7 @@
 
 {{ $all := where .Site.RegularPages "Section" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty" "pet-supplies" "furniture" "patio-lawn-garden" "sports-fitness" "toys-games") }}
 {{ $sorted := sort $all "Title" }}
-{{ $paginator := .Paginate $sorted 200 }}
+{{ $paginator := .Paginate $sorted 500 }}
 
 <section class="section-white">
   <div class="container">

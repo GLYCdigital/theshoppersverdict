@@ -29,8 +29,19 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Pagefind Index
-        run: npx --yes pagefind --site public
+      - name: Build search index (single-file JSON, replaces Pagefind)
+        run: python3 scripts/build_search_index.py
+
+      - name: Deploy budget gate (block if near 20K-file cap)
+        run: |
+          scripts/deploy_budget_check.sh || rc=$?
+          rc=${rc:-0}
+          if [ "$rc" -eq 2 ]; then
+            echo "::warning::Deploy budget warning — near 20K-file cap, plan a trim."
+          elif [ "$rc" -ge 1 ]; then
+            echo "::error::Deploy budget exceeded — trim taxonomy/archive pages or upgrade Cloudflare plan before pushing."
+            exit 1
+          fi
 
       - name: Deploy to Cloudflare Pages
         env:

@@ -4,6 +4,15 @@ title = "The Shopper's Verdict"
 enableRobotsTXT = true
 summaryLength = 25
 
+# Disable default tag/category taxonomies — only 17 files use tags, and the
+# generated taxonomy pages are orphaned (no template links to them) and count
+# against the 20K Cloudflare Pages file cap. Sections handle categorization.
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[taxonomies]
+  tag = ""
+  category = ""
+
 [params]
   brand = "The Shopper's Verdict"
   tagline = "The final word on what to buy."
@@ -32,10 +41,6 @@ summaryLength = 25
 [outputs]
   section = ["HTML", "RSS"]
   home = ["HTML", "RSS"]
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
 
 [menu]
   [[menu.main]]

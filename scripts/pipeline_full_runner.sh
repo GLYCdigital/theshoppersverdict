@@ -89,6 +89,27 @@ if git diff --cached --quiet 2>/dev/null; then
 fi
 
 git commit -m "$TODAY: Daily batch ($YIELD reviews)" 2>&1 | tail -1
+
+# ─── Deploy budget gate (pre-push) ───
+# Cloudflare Pages rejects >20K files. If the gate blocks, keep the commit
+# but alert ops — never push blind into a silent 404.
+if [ -x scripts/deploy_budget_check.sh ]; then
+    if [ -d public ]; then
+        GATE_RC=0
+        scripts/deploy_budget_check.sh || GATE_RC=$?
+        if [ "$GATE_RC" -ge 1 ]; then
+            echo "🚫 Deploy budget gate BLOCKED push — fix trim or plan upgrade first."
+            log "Deploy budget gate BLOCKED ($GATE_RC)"
+            exit 1
+        elif [ "$GATE_RC" -eq 2 ]; then
+            echo "⚠️ Deploy budget warning — pushing anyway, but plan a trim."
+            log "Deploy budget WARNING"
+        fi
+    else
+        echo "ℹ️ No local public/ build — skipping pre-push budget gate (CI will gate)."
+    fi
+fi
+
 git push 2>&1 | tail -1
 echo "✅ $YIELD reviews written and pushed (Cloudflare CI builds)."
 log "Complete: $YIELD reviews pushed to main"

@@ -9,31 +9,111 @@
 <section class="section-white search-section">
   <div class="container">
     <div class="search-wrapper">
-      <div id="search-ui"></div>
+      <input type="search" id="tsv-search-input" class="tsv-search-input" placeholder="Try &ldquo;espresso machine&rdquo; or &ldquo;robot vacuum&rdquo;&hellip;" aria-label="Search product verdicts" autocomplete="off" autofocus>
+      <div id="tsv-search-results" class="verdict-grid" style="margin-top:2rem;"></div>
+      <p id="tsv-search-status" class="tsv-search-status"></p>
     </div>
   </div>
 </section>
 
-<script src="/pagefind/pagefind-ui.js"></script>
 <script>
-  window.addEventListener('DOMContentLoaded', () => {
-    new PagefindUI({
-      element: "#search-ui",
-      showSubResults: false,
-      showImages: true,
-      excerptLength: 30,
-      baseUrl: "/",
-      processResult: function(result) {
-        // Hide empty-image results
-        if (result.meta && result.meta.image_alt === "None") {
-          result.meta.image = "";
-        }
-      },
-      processTerm: function(term) {
-        // Prioritize product brands/names
-        return term;
-      }
+(function () {
+  var INDEX_URL = "/search-index.json";
+  var input = document.getElementById("tsv-search-input");
+  var results = document.getElementById("tsv-search-results");
+  var status = document.getElementById("tsv-search-status");
+  var index = null;
+  var loaded = false;
+
+  function esc(s) {
+    var d = document.createElement("div");
+    d.textContent = s == null ? "" : String(s);
+    return d.innerHTML;
+  }
+
+  function fetchIndex() {
+    if (loaded) return Promise.resolve(index);
+    return fetch(INDEX_URL)
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function (d) { index = d.entries || []; loaded = true; return index; });
+  }
+
+  function score(entry, q) {
+    var s = 0;
+    var t = (entry.title || "").toLowerCase();
+    var m = (entry.summary || "").toLowerCase();
+    if (t === q) s += 100;
+    if (t.indexOf(q) === 0) s += 40;
+    if (t.indexOf(q) !== -1) s += 25;
+    var words = q.split(/\s+/).filter(Boolean);
+    for (var i = 0; i < words.length; i++) {
+      if (t.indexOf(words[i]) !== -1) s += 8;
+      if (m.indexOf(words[i]) !== -1) s += 2;
+    }
+    return s;
+  }
+
+  function render(list) {
+    results.innerHTML = "";
+    if (!list.length) {
+      status.textContent = "No verdicts found. Try a different term.";
+      return;
+    }
+    status.textContent = list.length + " verdict" + (list.length === 1 ? "" : "s") + " found";
+    list.forEach(function (e) {
+      var card = document.createElement("div");
+      card.className = "vg-card";
+      var img = e.amazon_image
+        ? '<div class="vg-image"><img src="' + esc(e.amazon_image.replace("_SL1500_", "_SL300_")) + '" alt="' + esc(e.title) + '" class="vg-img-fill" loading="lazy"></div>'
+        : '<div class="vg-image vg-image-placeholder"></div>';
+      var stars = e.amazon_rating
+        ? '<div class="vg-stars">' + "★".repeat(Math.max(1, Math.min(5, Math.round(Number(e.amazon_rating))))) + ' <span class="rating-inline">' + esc(e.amazon_rating) + '/5</span></div>'
+        : "";
+      card.innerHTML =
+        '<a href="' + esc(e.url) + '" class="vg-image-link">' + img + "</a>" +
+        '<div class="vg-body">' +
+          '<h4><a href="' + esc(e.url) + '" class="vg-title-link">' + esc(e.title) + "</a></h4>" +
+          stars +
+          '<p class="vg-summary">' + esc(e.summary) + "</p>" +
+        "</div>";
+      results.appendChild(card);
     });
+  }
+
+  function run() {
+    var q = input.value.trim().toLowerCase();
+    if (q.length < 2) {
+      status.textContent = "Type at least 2 characters to search.";
+      results.innerHTML = "";
+      return;
+    }
+    status.textContent = "Searching…";
+    fetchIndex().then(function () {
+      var hits = index
+        .map(function (e) { return { e: e, s: score(e, q) }; })
+        .filter(function (h) { return h.s > 0; })
+        .sort(function (a, b) { return b.s - a.s; })
+        .slice(0, 40)
+        .map(function (h) { return h.e; });
+      render(hits);
+    }).catch(function (err) {
+      status.textContent = "Search index unavailable (" + err.message + "). Please try again later.";
+    });
+  }
+
+  var debounce;
+  input.addEventListener("input", function () {
+    clearTimeout(debounce);
+    debounce = setTimeout(run, 150);
   });
+
+  // Preserve ?q= from header search form
+  var params = new URLSearchParams(window.location.search);
+  var q = params.get("q");
+  if (q) {
+    input.value = q;
+    run();
+  }
+})();
 </script>
 {{ end }}
