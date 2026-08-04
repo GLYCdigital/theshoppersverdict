@@ -351,3 +351,5 @@ Sent to Ops group for visibility.
 [22:47 SGT] Fixing 3 issues: today categories, duplicate The Verdict heading, homepage cache
 [22:47 SGT] Fixing: 1) today categories 2) dup Verdict heading 3) homepage cache+purge
 [22:48 SGT] Fixes done: today template + writer + _headers + deploy purge step + 210 files stripped. Pushing.
+[23:02 SGT] Deploy #30921837804 OK. Template fixes verified on new deployment. Purge step failed (zone lookup empty) - switching to wrangler pages purge-cache.
+[23:03 SGT] Purge switched to wrangler pages purge-cache (zone API lookup failed). Pushing.
