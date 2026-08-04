@@ -53,8 +53,6 @@ The difference likely comes down to preparation and wood condition. Heavily weat
 
 One seasoned restorer who knows the process shares their workflow: "Used to start refinishing my teak bench. First time I've ever attempted refinishing my old teak bench which has sat outside for 15 years. I did remove the accumulated debris first with Oxalic acid. If you are looking to restore an older teak piece, don't skip this step for best results!"
 
-## The Verdict
-
 STAR BRITE Marine Grade Teak Oil delivers exactly what it promises: a beautiful, protective finish for teak and other marine-grade woods. The application is forgiving, the results are consistent, and the UV protection is the real deal.
 
 The price is premium, but you're paying for a marine-specific formulation that general-purpose teak oils can't match. For boats, high-end outdoor furniture, and any teak surface that needs to look its best and last, STAR BRITE is the standard. Just don't skip the prep work and don't stop at one coat.

@@ -35,8 +35,6 @@ cons:
   - "Packaging is functional but not gift-box quality"
 ---
 
-## The Verdict
-
 If you have a preschooler who's obsessed with the NumberBlocks show (and let's be honest, millions of them are), the MathLink Cubes 1-10 Activity Set is the rare screen-to-hands-on toy that actually works.
 
 Rated 4.8 out of 5 stars from over 11,000 Amazon reviews, this 100-piece set turns the show's characters into physical objects your child can touch, stack, and rearrange. Each NumberBlock character (One through Ten) comes to life with face plates, number tops, and connecting cubes that lock together both vertically and horizontally.

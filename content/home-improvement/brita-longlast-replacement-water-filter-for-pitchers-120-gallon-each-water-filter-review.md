@@ -28,8 +28,6 @@ cons:
   - "It would drip slowly."
 ---
 
-## The Verdict
-
 The Brita Longlast Replacement Water Filter is a popular choice - with 37,212 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Fast delivery Good product and fast delivery"

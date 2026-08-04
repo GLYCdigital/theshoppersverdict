@@ -29,7 +29,6 @@ faq:
   - question: "Is this a good gift idea?"
     answer: "Many buyers purchase this as a gift. Its strong ratings and positive reviews make it a safe choice for most recipients."
 
-
 ---
 
 The LEGO Lotus Flower 40647 is part of the Botanicals collection, and it's one of the best entry points into that line. At 369 pieces and $37, it's a quick build that produces a surprisingly elegant display piece.
@@ -45,8 +44,6 @@ The instructions are clear, and the build is straightforward. The lotus flower i
 The finished piece looks like a decorative stem in a small vase. A builder who added it to an existing collection: *"A nice looking Lego flower to add to my vase. Just the right amount of pieces and it was easy to assemble."*
 
 The LEGO Botanicals line has become popular partly because the flowers look genuinely good as home decor. The lotus is one of the more elegant options — not overly blocky, with a natural curve to the petals.
-
-## The Verdict
 
 The LEGO Lotus Flower 40647 is a quick, satisfying build that produces a display-worthy piece. At $37, it's affordable enough as a gift or a personal treat. It's not a full bouquet — it's one stem. But it pairs well with other Botanicals sets for a larger arrangement.
 

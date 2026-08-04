@@ -36,8 +36,6 @@ cons:
   - "Premium price point compared to basic fire pits"
 ---
 
-## The Verdict
-
 The Breeo X Series 24 is the fire pit you buy when you're done buying fire pits. Made in the USA from heavy-gauge corten steel, it's built to outlast its owner. The patented X Airflow technology creates a secondary combustion that burns off smoke before it reaches your face, and the accessory ecosystem turns it into an outdoor cooking station capable of pizzas, steaks, paella, and s'mores.
 
 With 4.6 stars from 273 reviews, the consensus is clear: this is the heavy-duty choice for people who want one fire pit that does everything. It's not the cheapest option, and at 62 pounds it's not going anywhere — but that's exactly the point.

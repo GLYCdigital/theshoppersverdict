@@ -54,5 +54,4 @@ monTEK includes an important caveat: curved monitors with deep recessed mounting
 ## Early Verdict
 With only 90 reviews, the monTEK arm is still building its reputation. Early feedback is very positive — reviewers consistently praise the build quality, ease of installation, and value. The long-term durability question remains unanswered, but at $44.98, it's a low-risk bet.
 
-## The Verdict
 The monTEK Single Monitor Arm offers ultrawide capability at a budget price. If you have a 34-inch or smaller ultrawide and don't want to spend Ergotron money, this is a compelling option. Just double-check your VESA mount depth before ordering.

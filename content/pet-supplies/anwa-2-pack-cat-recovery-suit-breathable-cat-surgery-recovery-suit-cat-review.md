@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The ANWA 2 PACK Cat Recovery is a popular choice - with 978 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Quality seems good and it is so much more comfortable for her than a cone"

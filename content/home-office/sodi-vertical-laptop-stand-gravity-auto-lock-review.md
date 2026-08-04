@@ -35,8 +35,6 @@ cons:
   - "Requires USB-C dock for port access while standing"
 ---
 
-## The Verdict
-
 If your desk feels like a cluttered war zone of cables, coffee mugs, and an open laptop eating up half the real estate, the SODI Vertical Laptop Stand is a deceptively simple fix.
 
 Rated 4.8 out of 5 stars from over 660 Amazon reviews, this stand tackles one problem — reclaiming desk space — with an elegantly minimal solution. You drop your laptop in, gravity triggers the auto-lock mechanism, and your machine stands vertically, taking up about as much room as a hardcover book.

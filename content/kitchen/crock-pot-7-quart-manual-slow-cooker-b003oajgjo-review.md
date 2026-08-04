@@ -58,5 +58,4 @@ At $58.20, this slow cooker costs less than a dinner out for two and will delive
 
 "Simple to use, dependable, and a real classic," sums up one reviewer. "A great value for the price point."
 
-## The Verdict
 The Crock-Pot 7-Quart Manual Slow Cooker is the slow cooker to buy if you want a tool that works without needing a manual, an app, or a warranty claim. It won't text you when dinner is ready, but it will reliably turn tough cuts of meat into tender meals for years. Buy it, fill it, and forget about it until dinnertime.

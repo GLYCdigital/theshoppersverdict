@@ -34,8 +34,6 @@ cons:
   - "Some may find it strong as a regular coffee"
 ---
 
-## The Verdict
-
 Getting Starbucks-quality espresso at home without the machine or the drive-thru line used to be a compromise. With these Espresso Roast K-Cups, the gap is narrower than ever.
 
 Rated 4.8 out of 5 stars on Amazon, these pods deliver the signature Starbucks dark roast profile — bold, full-bodied, with subtle caramel sweetness — in a format that works with any Keurig brewer. One 63-year-old self-described coffee aficionado calls it *"the best I've ever had in all my 63 years"* and ditched their Folgers pods for good.

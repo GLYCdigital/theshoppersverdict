@@ -27,8 +27,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Keurig K-Iced Coffee Maker, Single has 6,819 Amazon reviews and averages **4.4/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

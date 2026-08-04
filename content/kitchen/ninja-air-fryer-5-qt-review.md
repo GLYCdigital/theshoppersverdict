@@ -66,8 +66,6 @@ Compared to the Ninja Air Fryer Pro or the Foodi series, the AF141 trades some c
 
 The 400°F max temperature is the most notable limitation. Dedicated air frying enthusiasts who crave the crispiest possible results may find themselves wanting that extra 25–50°F that premium models offer. A smaller number of users flagged the square basket's cleaning as slightly more involved than round alternatives.
 
-## The Verdict
-
 The Ninja Air Fryer AF141 proves that you don't need to spend $200+ for reliable, quiet, and versatile air frying. It's compact enough for small kitchens, powerful enough for daily cooking, and quiet enough that you'll forget it's running. If you want a proven workhorse without the premium price tag, this is it.
 
 **Verdict: 8.5/10** — Compact, quiet, and a killer value in the mid-range air fryer market.

@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Pocket Hose Ballistic 100 FT is a popular choice - with 2,232 Amazon reviews behind it. Here is what buyers actually say.
 
 > "It is sturdy and well made making it strong and prevents bursting at seems as others have done"

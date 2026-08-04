@@ -59,6 +59,4 @@ The verdict from real users is overwhelmingly positive. An IT professional worki
 
 The USB ports on the base are a welcome convenience for plugging in peripherals without reaching behind the desk. Cable management channels help clean up the visual clutter.
 
-## The Verdict
-
 At $149.99, the HUANUO Dual Monitor Stand is priced as a premium product and delivers accordingly. It's not the cheapest dual monitor mount on Amazon, but the build quality, weight capacity, and adjustment range justify the investment for anyone who spends their workday in front of dual screens. This is a buy-once, buy-right purchase.

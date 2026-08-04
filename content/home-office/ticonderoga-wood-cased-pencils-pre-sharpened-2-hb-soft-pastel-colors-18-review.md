@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Ticonderoga Wood-Cased Pencils, Pre-Sharpened, 2 is a popular choice - with 392 Amazon reviews behind it. Here is what buyers actually say.
 
 > "They’re pre-sharpened, great quality, and add a little personality to an everyday school supply"

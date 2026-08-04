@@ -24,8 +24,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Toidgy 144 Count Colored Pencils has 514 Amazon reviews and averages **4.7/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

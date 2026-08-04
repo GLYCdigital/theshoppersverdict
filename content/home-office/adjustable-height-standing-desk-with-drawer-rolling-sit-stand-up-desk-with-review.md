@@ -32,8 +32,6 @@ cons:
   - "It’s not worth the hassle to change the height."
 ---
 
-## The Verdict
-
 The Adjustable Height Standing Desk With is a popular choice - with 142 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Very simple and I love the cloth drawer attached to it"

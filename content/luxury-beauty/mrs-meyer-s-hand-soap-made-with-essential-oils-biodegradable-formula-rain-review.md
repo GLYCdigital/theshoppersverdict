@@ -30,8 +30,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Mrs. Meyer's Hand Soap, Made is a popular choice - with 16,155 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Nice Scent, light refreshing great value I’ve been using Mrs"

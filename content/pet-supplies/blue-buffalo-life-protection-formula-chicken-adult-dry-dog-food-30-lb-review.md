@@ -32,8 +32,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Blue Buffalo Life Protection Formula is a popular choice - with 29,471 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Great quality food that my dog loves"

@@ -26,8 +26,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Utopia Bedding Throw Pillows Insert is a popular choice - with 156,476 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Decent Arrived firm and look to be good quality"

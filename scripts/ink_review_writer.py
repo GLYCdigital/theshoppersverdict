@@ -333,18 +333,16 @@ def write_body(title, product_type, analysis, rc, amazon_rating):
 
     total_review_count = max(rc, analysis['total_reviews_analyzed'])
 
-    # The Verdict (opening)
+    # Opening (template renders the 'The Verdict' H2 once)
     if p_phrases:
         quote = truncate_sentence(p_phrases[0], 130)
         parts.append(
-            f"## The Verdict\n\n"
             f"The {clean_title} is a popular choice - with {total_review_count:,} "
             f"Amazon reviews behind it. Here is what buyers actually say.\n\n"
             f"> \"{quote}\""
         )
     else:
         parts.append(
-            f"## The Verdict\n\n"
             f"The {clean_title} has {total_review_count:,} Amazon reviews and "
             f"averages **{amazon_rating}/5 stars**. We analyzed the feedback to help you decide."
         )

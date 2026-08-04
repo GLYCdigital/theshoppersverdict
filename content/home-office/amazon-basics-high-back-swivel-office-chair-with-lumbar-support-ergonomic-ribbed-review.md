@@ -33,8 +33,6 @@ cons:
   - "Wheels are surprisingly cheap for the price point of this chair."
 ---
 
-## The Verdict
-
 The Amazon Basics High-Back Swivel Office is a popular choice - with 2,366 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Good chair, great value Very happy with this purchase"

@@ -35,8 +35,6 @@ cons:
   - "Heavier than standard combination pliers"
 ---
 
-## The Verdict
-
 In the trades, you don't buy cheap tools twice. You buy good tools once, and Klein Tools has been the default answer for generations of electricians. The D213-9NE-CR Lineman's Pliers are a textbook example of why.
 
 Rated 4.8 from over 1,300 Amazon reviews, these pliers deliver 46% more cutting and gripping power than standard designs thanks to a high-leverage configuration that positions the rivet closer to the cutting edge. Induction-hardened cutting knives mean they stay sharp through thousands of cuts, and the hot-riveted joint eliminates handle wobble from day one through year ten.

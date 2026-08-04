@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Pedigree Dentastix Large Breed Dog is a popular choice - with 11,328 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The bones have helped with my dogs' breath and mouth cleanliness, so I am pleased with the quality"

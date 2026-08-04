@@ -29,8 +29,6 @@ cons:
   - "I am disappointed in receiving a defective product - Brand New Arrow T50 Heavy Duty Staple Gun Kit."
 ---
 
-## The Verdict
-
 The Arrow Fastener T50 Heavy Duty is a popular choice - with 4,846 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Not once has it jammed and feels like a great quality item, of which it is"

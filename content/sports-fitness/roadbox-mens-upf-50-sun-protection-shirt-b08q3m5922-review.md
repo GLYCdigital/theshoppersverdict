@@ -48,6 +48,4 @@ Sizing is the main point of frustration. Roadbox seems to have slight variation 
 
 At roughly $20-$25, the Roadbox shirt costs about half what you'd pay for the equivalent Columbia or Magellan shirt. Is it as good? For most people, close enough. The fabric is slightly lighter weight than premium brands, and the finishes aren't as refined. But for UV protection and comfort in hot weather, it delivers where it counts.
 
-## The Verdict
-
 The Roadbox UPF 50+ sun shirt is proof that you don't need to spend premium money for real sun protection. The 4.6-star rating across 22K+ reviews tells a story of a product that works consistently and reliably. If you spend time outdoors and need UV protection without the premium price tag, this is the shirt to buy.

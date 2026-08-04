@@ -53,8 +53,6 @@ The rear-load magazine is intuitive and the jam-resistant mechanism genuinely wo
 
 The weight is the main compromise. At roughly 2 pounds, it's heavier than newer composite staple guns. Users with smaller hands or arthritis may find it tiring for extended overhead work. But that weight is also what makes it durable — there's a reason professional upholsterers and contractors have trusted this design for generations.
 
-## The Verdict
-
 The Arrow T50 is the staple gun to beat. It's not the lightest, not the cheapest, and not immune to the occasional quality control slip. But it is the most proven. The all-steel construction, jam-resistant design, and decades of field testing make it the tool you buy when you want it to work the first time and last for years.
 
 For $20, you're getting a tool that your grandchildren might still be using. That's value that's hard to argue with.

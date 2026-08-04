@@ -44,8 +44,6 @@ At $32.26, the WEKAPO isn't a luxury blanket. The material is thin — more of a
 
 The stakes are a surprisingly important feature. Beach wind is relentless, and a blanket that won't stay down is useless. A family reviewer noted: *"It was large enough for our family of 4, and the stakes held the blanket down with no issues even on very windy days!"*
 
-## The Verdict
-
 The WEKAPO Beach Blanket is a specialist tool, not a luxury blanket. If you want something soft to lie on at the beach, buy a thick towel. If you want something that won't turn your car, bag, and house into a sandbox, buy this. At $32, it's cheap enough to be worth trying.
 
 The trade-off is comfort. You feel the ground. But for a day at the beach where sand management is the priority, it's the right choice.

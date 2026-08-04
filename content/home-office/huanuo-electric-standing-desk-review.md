@@ -114,8 +114,6 @@ The two drawers are genuinely useful but modestly sized. Each drawer can hold:
 
 They're not deep enough for hanging files, binders, or a laptop. If you need serious drawer storage, this desk can't deliver it. But for daily desk essentials — the things that would otherwise clutter the desktop — they're perfect.
 
-## The Verdict
-
 The HUANUO 32 x 21 inch Small Electric Standing Desk delivers exactly what it promises: a genuinely compact, electric height-adjustable desk with built-in storage at a price that's hard to argue with.
 
 The **4.5-star average** is earned. Reviewers love the size, the ease of assembly, the sturdiness, and the value. The few complaints center on assembly patience and the occasional support hiccup — fair points, but not dealbreakers for most buyers.

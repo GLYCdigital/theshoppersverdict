@@ -31,8 +31,6 @@ cons:
   - "May not satisfy power users"
 ---
 
-## The Verdict
-
 The Potaroma Cat Toy: 3 Interactive is a popular choice - with 1,864 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The sound quality is great, and they are soft and sturdy, so my cat can bite and pull as much as she wants"

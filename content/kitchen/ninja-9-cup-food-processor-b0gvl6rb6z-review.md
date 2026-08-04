@@ -55,5 +55,4 @@ The bowl is BPA-free plastic rather than Tritan or glass. It's durable enough fo
 
 "The only thing bad about this is that it works so great that I can't use it longer!" sums up one delighted reviewer. "It gets the job done so fast and it's definitely worth the money."
 
-## The Verdict
 The Ninja 9-Cup Food Processor delivers Cuisinart-level performance at half the price. The 1000-watt motor, thoughtful blade design, and easy cleanup make it the best mid-size processor under $150. If you're replacing an aging processor or buying your first serious one, this is the sweet spot. It won't last 20 years, but it'll make those 20 years of cooking dramatically easier.

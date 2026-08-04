@@ -34,8 +34,6 @@ cons:
   - "pH must be balanced beforehand for best results"
 ---
 
-## The Verdict
-
 If your pool water looks like pea soup and nothing else has worked, BioGuard PowerFloc is the nuclear option. This flocculant grabs every microscopic particle floating in your pool and drags them to the bottom, leaving crystal-clear water above.
 
 The process is straightforward: add the recommended amount to your skimmer with the pump running, let it circulate for two hours, then shut everything off and wait. Within 8 to 24 hours, you'll see a layer of debris settled on the pool floor. Vacuum to waste, and you're done. With a 4.5-star average from 822 reviews, it's a proven solution for pools that clarifiers can't fix.

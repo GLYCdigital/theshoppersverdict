@@ -60,8 +60,6 @@ The glass dropper bottle is functional but not luxurious — expect a utilitaria
 
 And as with any active ingredient, patch testing is wise — a small percentage of sensitive-skin reviewers report initial redness that subsided as their skin adjusted.
 
-## The Verdict
-
 TruSkin Vitamin C Serum is the rare product that genuinely earns its cult status. It delivers on its core promises — brightening, evening, and protecting — at a price that makes consistent use financially sustainable. It's not a luxury experience, but it produces results that put many luxury brands to shame.
 
 **Verdict: 8.5/10** — The affordable vitamin C serum that actually works.

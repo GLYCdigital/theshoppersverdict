@@ -61,6 +61,4 @@ For its intended use — soups, smoothies, baby food, and general kitchen blendi
 
 The most consistent praise is about cleaning. Rinse the shaft under running water for a few seconds, and it's clean. No disassembly required, no hard-to-reach crevices where food gets trapped. For daily use, this convenience is the difference between reaching for the immersion blender or avoiding it.
 
-## The Verdict
-
 At $69.99, the Turelar Cordless Immersion Blender is a smart purchase for anyone who makes soup, smoothies, sauces, or baby food with any regularity. The cordless design is genuinely liberating, the build quality is solid, and the cleaning is effortless. It won't replace a full-sized blender for heavy-duty tasks, but for what it does — blending directly in the pot, at any angle, anywhere in the kitchen — it's excellent.

@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The XPIY Tricycle for Toddlers Age is a popular choice - with 726 Amazon reviews behind it. Here is what buyers actually say.
 
 > "It's light weight but durable and it FOLDS AWAY"

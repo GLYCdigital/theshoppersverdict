@@ -35,8 +35,6 @@ cons:
   - "Tub arrives without lid seal occasionally per reviews"
 ---
 
-## The Verdict
-
 There are cat treats that cats like. Then there's Temptations — the treat that turns dignified felines into four-legged addicts who *"knock the whole bucket down just to get to them, like a kid with a cookie jar."*
 
 With over 72,000 Amazon reviews and a 4.8-star rating, Temptations Classic Chicken isn't just popular. It's a cultural phenomenon in the cat world. The crunchy outside, soft inside texture seems to push every feline pleasure button, and the resealable 30-ounce tub means you're never more than a shake away from summoning your cat from anywhere in the house.

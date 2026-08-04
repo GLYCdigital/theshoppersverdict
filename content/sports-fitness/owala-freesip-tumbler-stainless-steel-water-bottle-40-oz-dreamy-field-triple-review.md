@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Owala FreeSip Tumbler Stainless Steel is a popular choice - with 10,561 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Even after being dropped, washed, and going through daily wear and tear, it still looks great with no signs of damage"

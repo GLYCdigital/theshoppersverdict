@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Keurig K Mini Single Serve is a popular choice - with 219 Amazon reviews behind it. Here is what buyers actually say.
 
 > "It is a quality coffeemaker and a good value"

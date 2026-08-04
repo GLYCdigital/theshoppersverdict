@@ -57,8 +57,6 @@ Alexa integration is a standout: Echo devices announce "Someone's at the front d
 
 The base functionality (live view, notifications, two-way talk) is free. But recording and reviewing footage requires Ring Protect ($4.99/month). Most reviewers consider this a fair trade-off given the $59 hardware price — even with two years of subscription, you're still under the cost of a Pro model.
 
-## The Verdict
-
 At $59, the Ring Video Doorbell Wired delivers 90% of the premium doorbell experience at 30% of the price. The wiring requirement is the only real gatekeeper. If your home qualifies, this is the simplest smart home upgrade you can make.
 
 **Verdict: 9/10** — The budget smart doorbell that makes you wonder why anyone pays more.

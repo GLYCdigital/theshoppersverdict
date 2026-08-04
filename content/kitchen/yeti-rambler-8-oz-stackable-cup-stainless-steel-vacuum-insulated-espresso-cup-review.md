@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The YETI Rambler 8 oz Stackable is a popular choice - with 3,236 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Would buy again (but hopefully wont have to) So I’m writing this in 2024 where it is now deemed reasonable to spend 20 quid on a t..."

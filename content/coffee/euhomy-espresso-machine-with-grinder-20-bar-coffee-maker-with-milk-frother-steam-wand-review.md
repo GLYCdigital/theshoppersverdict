@@ -35,8 +35,6 @@ cons:
   - "Auto-close mechanism on the steam wand can be finicky"
 ---
 
-## The Verdict
-
 The EUHOMY Espresso Machine with Grinder aims to deliver prosumer specs at a mid-range price point, and when it works, it delivers. The combination of a 20-bar Italian pump, PID temperature control, a 58mm portafilter, and an integrated grinder with 30 settings is genuinely impressive on paper.
 
 In practice, results are more mixed. Reviewers who took the time to dial in their grind setting, puck prep, and temperature reported excellent shots with thick crema. Others ran into frustrating quality issues — inconsistent extraction, a finicky steam wand, and even receiving used units. At 4.3 stars from 173 reviews, the signal is clear: great when it works, but there's some variance in quality control.

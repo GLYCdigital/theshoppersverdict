@@ -29,8 +29,6 @@ cons:
   - "It is cheap and the price is a damn scam."
 ---
 
-## The Verdict
-
 The CubicFun 3D Puzzles for Adults is a popular choice - with 429 Amazon reviews behind it. Here is what buyers actually say.
 
 > "It's lightweight but sturdy enough to pick up and turn around"

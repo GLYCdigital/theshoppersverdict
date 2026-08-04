@@ -36,8 +36,6 @@ cons:
   - "Requires separate keyboard and mouse for ideal setup"
 ---
 
-## The Verdict
-
 If you've been hunching over a laptop at a coffee shop desk and wondering why your neck hurts, the Lamicall Adjustable Laptop Stand is the $36 fix you've been looking for.
 
 Rated 4.8 out of 5 stars from over 10,000 Amazon reviews, this aluminum riser solves the fundamental ergonomic problem of laptop use: the screen and keyboard are attached to each other, so if you raise the screen to eye level, your arms have to reach up to type. Lamicall's solution is straightforward — raise the screen, then use a separate keyboard and mouse at desk height.

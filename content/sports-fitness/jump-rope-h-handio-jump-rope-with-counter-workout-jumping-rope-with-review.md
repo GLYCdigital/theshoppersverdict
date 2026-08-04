@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Jump Rope, H Handio Jump is a popular choice - with 2,993 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The rope feels sturdy, and it’s perfect for home workouts or quick exercise sessions"

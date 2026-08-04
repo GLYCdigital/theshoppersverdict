@@ -47,6 +47,4 @@ The realistic view: these mushroom extracts aren't drugs. They're adaptogens —
 
 At $35, this is a premium-priced coffee. Compare to standard specialty coffee at $12-18 per bag. The mushroom extracts are real ingredients that cost money, and the small-batch roasting process adds cost. Whether the functional benefits justify a 2x price premium is a personal decision.
 
-## The Verdict
-
 Laird Superfood Peruvian Dark Roast Mushroom Coffee is first a good cup of coffee, and second a functional wellness product. The dark roast is rich and smooth, the mushroom extracts are real and responsibly sourced, and the 4.6-star rating across 1,191 reviews suggests consistent quality. If you're curious about functional mushrooms and you appreciate good coffee, this is the best entry point in the category.

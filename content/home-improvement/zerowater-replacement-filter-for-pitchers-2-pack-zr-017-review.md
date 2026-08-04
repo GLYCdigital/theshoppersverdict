@@ -61,8 +61,6 @@ What stands out across the ZeroWater reviews is the loyalty. Multiple customers 
 
 The TDS meter that comes with every pitcher eliminates guesswork — when the reading creeps above zero, you change the filter. No counting days or guessing.
 
-## The Verdict
-
 The ZeroWater ZR-017 replacement filter is not the most economical water filter on Amazon. It is the most effective pitcher filter on Amazon. If you need zero-TDS water for coffee, tea, or health reasons, there's no pitcher-based alternative that matches it.
 
 If you just want tap water that tastes better, save your money and buy a standard carbon filter. If you want genuinely purified water without installing an RO system, ZeroWater is worth every penny of the premium.

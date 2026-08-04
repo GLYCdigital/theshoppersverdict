@@ -110,8 +110,6 @@ The return spring is notably strong when new. Some users report hand fatigue aft
 ### Awkward for Fine Wire (22 AWG+)
 While it's rated for 22 AWG, the stripping holes are clearly optimized for common household gauges (12–14 AWG). Very fine wire stripping feels less precise compared to dedicated electronics shears.
 
-## The Verdict
-
 The **Klein Tools 11055EP** earns every bit of its 4.8-star rating. It's not a flashy tool — it's a focused, purpose-built cutter and stripper that does two things exceptionally well. For the working electrician, it's an absolute no-brainer. For the DIY enthusiast building out a quality home toolkit, it's the last cutter and stripper you'll ever need to buy.
 
 Yes, you can find a four-function wire tool at Harbor Freight for six bucks. But that tool will dull, loosen, and frustrate you within months. The Klein 11055EP will still be snapping through copper decades from now.

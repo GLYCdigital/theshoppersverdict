@@ -26,8 +26,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Pro Grade Paint Brushes, 5-Piece has 71,126 Amazon reviews and averages **4.6/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

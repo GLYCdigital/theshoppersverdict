@@ -49,6 +49,4 @@ Reviewers with curly hair are the most enthusiastic audience. "My curls have nev
 
 The poly weave stays cool enough for most people, but true hot sleepers may prefer bamboo or percale cotton. The standard size fits regular pillows but won't accommodate deep-dish or king sizes without popping off.
 
-## The Verdict
-
 Bedsure Satin Pillowcases are the affordable way to test whether the satin pillowcase trend works for you. At $10 per pillowcase, the risk is minimal, and the potential benefits for hair and skin are real. They're not silk — if you want the genuine luxury experience, save up for real mulberry silk. But for everyone else who just wants smoother hair and fewer sleep creases, Bedsure delivers at a fraction of the price.

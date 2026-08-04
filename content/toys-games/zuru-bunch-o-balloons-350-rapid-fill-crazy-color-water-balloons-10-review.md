@@ -24,8 +24,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The ZURU BUNCH O BALLOONS - has 19,544 Amazon reviews and averages **4.6/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

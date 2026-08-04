@@ -51,5 +51,4 @@ The trade-off is that the material isn't as puncture-resistant as thick reinforc
 ## Drinking Water Safe
 The hybrid polymer is lead-free and drinking water safe. No rubber taste, no chemical smell, no metallic aftertaste from brass fittings. For filling pet bowls, watering vegetable gardens, or connecting to an RV, this matters.
 
-## The Verdict
 The Flexzilla HFZG550YW is the best-selling garden hose on Amazon for a reason. It solves the one problem that makes gardening frustrating — a hose that fights you. At $84.48, it's more than a standard hose, but it's the last hose you'll buy. 96,795 people can't be wrong.

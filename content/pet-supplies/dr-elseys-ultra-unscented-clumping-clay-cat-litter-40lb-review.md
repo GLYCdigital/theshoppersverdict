@@ -55,8 +55,6 @@ Dr. Elsey's clumps extremely hard — almost too hard sometimes. "It clumps EXTR
 
 One practical tip from a pro: "If you are like me and you scoop the litter-box once a day, all you have to do is just run your scooper across the bottom, below the surface, to loosen everything up before you start scooping."
 
-## The Verdict
-
 Dr. Elsey's Ultra is the cat litter that cat owners switch to and then never leave. The combination of genuine odor neutralization (not masking), low dust, hard clumping, and reasonable pricing makes it the standard-setter in its category.
 
 The 40lb bag at $22.99 works out to about $0.57 per pound — excellent value for premium litter. Yes, it's heavy. Yes, the clumps can be stubborn. But for odor control that actually works without artificial scents, it's the best in the business.

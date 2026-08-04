@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Lavazza Espresso Whole Bean Coffee is a popular choice - with 17,433 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Output is always a solid espresso, also when a bit out of the perfect brewing time window due to adjustments etc"

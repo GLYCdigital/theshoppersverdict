@@ -56,5 +56,4 @@ One feature reviewers consistently highlight: the included TDS meter isn't a gim
 ## Who Should Buy This
 If you're in an area with hard water, if you have concerns about lead from old pipes, or if you just want the cleanest possible water from a pitcher — ZeroWater delivers. If you're happy with Brita and don't think about TDS, you probably don't need to switch.
 
-## The Verdict
 The ZeroWater ZR-006 is the best filtration you can buy in a pitcher format. It costs more and needs more frequent replacement, but the measurable results make it the choice for people who care about what's actually in their water. 22,628 reviews don't lie — most people make the switch and stay.

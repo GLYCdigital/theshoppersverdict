@@ -29,8 +29,6 @@ cons:
   - "This is thin and flimsy like a cheap disposable picnic / ground sheet."
 ---
 
-## The Verdict
-
 The Mrs Awesome Clear Shower Curtain is a popular choice - with 40,052 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Works great for keeping the water in the shower like its meant to, and it looks alright"

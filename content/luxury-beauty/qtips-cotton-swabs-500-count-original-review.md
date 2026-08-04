@@ -51,8 +51,6 @@ There's also the material question. Many generic cotton swabs are manufactured f
 
 In an era of single-use plastic, Q-tips' paper sticks are a meaningful advantage. The sticks are biodegradable, and the paper comes from sustainably managed forests. For a disposable product, that's about as responsible as it gets without compromising on function.
 
-## The Verdict
-
 Q-tips are the cotton swab that every other cotton swab aspires to be. The 4.8-star average across 29,000 reviews is nearly perfect, and it reflects a product that hasn't just survived — it's dominated its category for a century.
 
 You can buy cheaper swabs and save a few cents. You can buy fancier swabs with extra features you don't need. Or you can buy Q-tips and know they'll work exactly as expected, every single time. At $17.93 for 500, that consistency is cheap at any price.

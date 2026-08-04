@@ -31,8 +31,6 @@ cons:
   - "Maybe have both options available to users."
 ---
 
-## The Verdict
-
 The Breville BES870BTR Barista Express Espresso is a popular choice - with 27,735 Amazon reviews behind it. Here is what buyers actually say.
 
 > "There's a lot of customization available to you and it is a very good quality machine"

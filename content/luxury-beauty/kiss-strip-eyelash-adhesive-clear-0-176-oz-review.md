@@ -35,8 +35,6 @@ cons:
   - "Small tube size (0.176 oz) for the price"
 ---
 
-## The Verdict
-
 With over 131,000 reviews and a 4.5-star average, KISS Strip Eyelash Adhesive is the undisputed king of drugstore lash glues. It's the benchmark that every other adhesive is measured against — and for good reason.
 
 The formula is latex-free and infused with aloe, making it gentle enough for sensitive eyes. It dries completely clear, holds lashes in place for a full day (users report 10–12 hours without lifting), and removes easily without pulling out your natural lashes. The brush-tip applicator lets you draw a thin, precise line of glue along the lash band — no gloopy mess. At roughly $12–13 for a tube that lasts months with regular use, it's exceptional value.

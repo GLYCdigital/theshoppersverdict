@@ -102,8 +102,6 @@ A 20g jar lasts approximately **6-8 months** with nightly use. At $14.90:
 
 Compare that to drugstore lip balms at $3-5 per tube that last 1-2 months. The LANEIGE is actually more cost-effective on a per-use basis, even though the upfront cost is higher.
 
-## The Verdict
-
 The LANEIGE Lip Sleeping Mask Berry has earned its viral status. It delivers **real, noticeable results** — softer, smoother, more hydrated lips with consistent overnight use. The formula is elegant, the berry scent is lovely, and the cost per use is surprisingly low.
 
 Is it essential? No. But if you struggle with dry lips and haven't found a solution that works overnight, this is the product to try.

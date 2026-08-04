@@ -34,8 +34,6 @@ cons:
   - "24-can case is a big commitment for a first taste"
 ---
 
-## The Verdict
-
 A' Siciliana Aranciata is the blood orange soda that makes American orange sodas taste like a compromise. With 226 Amazon reviews averaging 4.7/5, this Sicilian import earns near-universal praise for flavor — the only real friction is the price tag.
 
 > "It is imported from Italy and contains REAL Blood Orange juice. It is somewhat similar to the artificially flavored orange sodas you might buy at the supermarket, but WAY better in my opinion." — Wayne F., verified review

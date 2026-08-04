@@ -35,8 +35,6 @@ cons:
   - "May feel large for younger/smaller players"
 ---
 
-## The Verdict
-
 The Nxtrnd Two Pro Football Mouth Guard solves the two biggest annoyances of traditional mouth guards: the boil-and-fit ritual and the detachable strap that always seems to get lost. It fits perfectly straight out of the package, the permanent strap clips directly to the helmet facemask without extra hardware, and the oversized air hole design means your kid can actually breathe while playing.
 
 With a stunning 4.9-star average from 237 reviews, this is one of the highest-rated football mouth guards on Amazon. Players love the comfort, parents love the convenience, and coaches appreciate that there's no fitting fuss.

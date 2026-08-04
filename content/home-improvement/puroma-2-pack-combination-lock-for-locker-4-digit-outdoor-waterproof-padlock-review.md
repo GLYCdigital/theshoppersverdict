@@ -30,8 +30,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Puroma 2 Pack Combination Lock is a popular choice - with 32,170 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Cute Locks and Good Quality I really liked these combination locks because they actually look cute compared to regular plain locks"

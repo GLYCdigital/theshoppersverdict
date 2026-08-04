@@ -32,8 +32,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Mead Loose Leaf Paper, Wide is a popular choice - with 10,529 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Affordable fountain pen friendly loose-leaf paper I was looking for a cheap paper option which is fountain pen friendly"

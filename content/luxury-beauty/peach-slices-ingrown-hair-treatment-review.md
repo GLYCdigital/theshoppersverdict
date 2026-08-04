@@ -111,8 +111,6 @@ The roller is more hygienic than a pot or tub and allows targeted application wi
 
 At **$17.88 for 50ml**, the cost per ounce is about $10.50 — premium for a body treatment. But the small bottle lasts **3-6 months** with consistent use, according to multiple reviews. That works out to roughly $3-6 per month, which is reasonable for a product that solves a persistent skincare issue.
 
-## The Verdict
-
 The Peach Slices Smoothing Solution Ingrown Hair Treatment is a **genuinely effective product** that delivers on its TikTok-fueled promise. The acid blend is well-formulated, the roller applicator is convenient, and the results are visible within days. It's not a miracle cure for existing ingrowns, but as a **preventive treatment** that calms irritation and stops bumps before they form, it's exceptional.
 
 **Score: 8.5/10**

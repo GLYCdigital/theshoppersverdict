@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Ticonderoga Dixon Wood-Cased #2 HB is a popular choice - with 16,601 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Quality Good quality, best seller"

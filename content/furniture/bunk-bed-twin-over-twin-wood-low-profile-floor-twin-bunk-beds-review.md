@@ -28,8 +28,6 @@ cons:
   - "Beware of lost hardware Wood broke putting together and half the hardware wasn’t there."
 ---
 
-## The Verdict
-
 The Bunk Bed Twin Over Twin is a popular choice - with 96 Amazon reviews behind it. Here is what buyers actually say.
 
 > "This was easy to assemble, affordable, and great quality overall"

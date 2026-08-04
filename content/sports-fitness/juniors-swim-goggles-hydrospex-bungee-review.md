@@ -34,8 +34,6 @@ cons:
   - "Designed for juniors — not a fit for adult swimmers"
 ---
 
-## The Verdict
-
 The Juniors Hydrospex Bungee goggles are the kids' swim goggles that solve the classic problem: kids who hate goggles. With 4,483 Amazon reviews averaging 4.6/5, they pair a comfortable, larger eye seal with an easy-adjust bungee strap — and parents say the kids actually keep them on.
 
 > "My 2.5 year old loves these goggles. Gone are the days of 'oww! Mine eyes!' He keeps them on for the entire pool session, keeping his eyes chlorine and pain free." — Starr Dhillon, verified review

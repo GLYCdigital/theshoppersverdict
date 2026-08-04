@@ -98,8 +98,6 @@ Another reviewer summed it up: *"This is the perfect drip coffee maker for those
 
 **Fingerprint magnet.** The black plastic body, while functional, shows fingerprints and water spots easily. Minor, but worth noting if aesthetics matter to you.
 
-## The Verdict
-
 The Mr. Coffee 12-Cup Coffee Maker is a throwback — and that's exactly its appeal. In a market flooded with over-engineered brewers that beep, blink, and require smartphone setup, this machine does one thing and does it well: make a full pot of hot coffee with no fuss.
 
 The lack of auto shut-off is a real drawback — especially in households where someone might walk away after starting a pot. But at $40, with proven durability and Brewed-in-America simplicity, it's hard to beat.

@@ -33,8 +33,6 @@ cons:
   - "At ~$0.90/pod, pricier than drip coffee"
 ---
 
-## The Verdict
-
 If you like your espresso like you like your mornings — strong, dark, and no-nonsense — the Nespresso Kazaar Intenso is about as good as it gets in a capsule.
 
 Rated 4.8 out of 5 stars from over 3,600 Amazon reviews, this is Nespresso's highest-intensity offering in the OriginalLine at Level 13. And unlike some "ultra-strong" coffees that compensate with ashiness or burnt notes, Kazaar pulls off something rare: it's powerful without being punishing.

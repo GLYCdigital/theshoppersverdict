@@ -28,8 +28,6 @@ cons:
   - "Cheap looking The board itself is a stick on over plywood."
 ---
 
-## The Verdict
-
 The Chess Set Magnetic, Board Games is a popular choice - with 655 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The wood feels solid and well made, and the pieces have a nice weight to them, which makes playing even more enjoyable"

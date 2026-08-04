@@ -34,8 +34,6 @@ cons:
   - "Organic claim lacks visible third-party credentials, per one reviewer"
 ---
 
-## The Verdict
-
 Laird Superfood Focus Coffee is the functional coffee for people who don't want their coffee to taste functional. With 336 Amazon reviews averaging 4.4/5, it blends Peruvian medium-roast beans with lion's mane extract, rhodiola rosea, and coffee cherry powder — and the most common thing buyers say is that it simply tastes like coffee.
 
 > "No mushroom take, smooth coffee flavor." — Sabine, verified review

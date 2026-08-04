@@ -29,7 +29,6 @@ faq:
   - question: "Is this a good gift idea?"
     answer: "Many buyers purchase this as a gift. Its strong ratings and positive reviews make it a safe choice for most recipients."
 
-
 ---
 
 Natural deodorant has a reputation problem: most of it doesn't work. The Salt & Stone Aluminum Free Deodorant is one of the few exceptions that has earned 16,763 reviews on Amazon with a 4.1-star average. The Santal & Vetiver scent has developed something of a cult following.
@@ -47,7 +46,5 @@ The formula uses seaweed extracts, niacinamide, and prebiotics instead of alumin
 The 48-hour claim is optimistic for most people. Those who are moderately active get a full day reliably. Heavy activity requires reapplication. But compared to other natural deodorants that fail within a few hours, this is a clear step up.
 
 Some reviewers experienced skin irritation during the first week of use. This is common when switching from antiperspirant to natural deodorant — the body adjusts. But it's worth knowing before committing to a $32 stick.
-
-## The Verdict
 
 Salt & Stone is the natural deodorant for people who've tried natural deodorants and been disappointed. It's expensive, it's not a 48-hour miracle, and it might irritate your skin during the transition. But it smells great and it works better than the alternatives in its category. If you're looking for an aluminum-free option that doesn't smell like baking soda and essential oils, this is the one.

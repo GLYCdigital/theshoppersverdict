@@ -48,8 +48,6 @@ That's the honest assessment. This is not the stapler you buy for a busy office 
 
 One reviewer who bought the 3-pack version noted: "These 3-pack of Amazon Basics Desktop Staplers is an excellent product that offers essential functionality and fantastic value. The staplers are lightweight, easy to use, and reliably handle their 25 sheet capacity."
 
-## The Verdict
-
 The Amazon Basics stapler is the definitive budget office purchase. It's cheap enough that you can buy one for every desk in the house, reliable enough that you'll never think about it, and backed by enough reviews that there are no surprises.
 
 If you need a heavy-duty stapler for daily professional use, spend more on a metal Swingline. If you need a stapler that works and costs less than a sandwich, this is the one.

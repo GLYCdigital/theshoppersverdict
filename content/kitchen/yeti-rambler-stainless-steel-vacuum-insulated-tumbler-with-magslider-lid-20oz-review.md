@@ -30,8 +30,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The YETI Rambler Stainless Steel Vacuum is a popular choice - with 90,442 Amazon reviews behind it. Here is what buyers actually say.
 
 > "I like the solid body, no condensation, easy to use magnetic lid"

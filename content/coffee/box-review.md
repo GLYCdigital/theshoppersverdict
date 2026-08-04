@@ -30,8 +30,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Box is a popular choice - with 1,930 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The instructions are clear even if they are in a different language, and the steps are simple enough"

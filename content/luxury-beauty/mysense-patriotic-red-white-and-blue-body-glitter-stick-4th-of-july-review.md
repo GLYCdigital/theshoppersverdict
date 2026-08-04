@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Mysense Patriotic Red White and is a popular choice - with 521 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Fun, Bright, and Easy to Use This glitter stick works great and is super easy to apply without making a mess"

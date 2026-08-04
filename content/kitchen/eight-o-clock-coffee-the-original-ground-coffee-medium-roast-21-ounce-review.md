@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Eight O'Clock Coffee The Original is a popular choice - with 10,809 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Good coffee, good price"

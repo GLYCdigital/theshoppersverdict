@@ -34,8 +34,6 @@ cons:
   - "Premium pricing versus third-party Vertuo pods"
 ---
 
-## The Verdict
-
 The Starbucks Sunsera Blend is the light-roast option that Blonde Roast fans have been waiting for in Nespresso Vertuo format. At intensity level 4, it delivers a gentle, approachable cup with bright citrus notes and a toasted almond finish — without the bitterness that turns some people away from coffee altogether.
 
 From 121 reviews averaging 4.7 stars, the feedback is overwhelmingly positive. It's smooth, versatile (hot or iced), and consistent, batch to batch. If your daily driver has been Melozio or Odacio, Sunsera offers a lighter alternative that still has enough body to feel like real coffee.

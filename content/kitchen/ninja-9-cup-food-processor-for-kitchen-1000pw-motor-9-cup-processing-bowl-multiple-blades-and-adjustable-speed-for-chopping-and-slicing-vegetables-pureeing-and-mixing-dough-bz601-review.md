@@ -20,6 +20,15 @@ pros:
 cons:
   - "Dough blade handles pizza dough but can't knead heavy bread doughs"
   - "9 cups is generous but won't fit whole heads of cabbage or large batches of sauce"
+faq:
+  - question: "Is the Ninja 9-Cup Food Processor BZ601 powerful enough for tough ingredients?"
+    answer: "Yes. The 1000W peak motor powers through carrots, nuts, ice, and frozen ingredients without stalling — a common complaint with smaller processors. The four Auto-iQ presets (chop, slice, shred, puree) handle the timing and speed automatically."
+  - question: "Can it knead bread dough?"
+    answer: "The included dough blade handles pizza dough, pastry, and cookie batter well, but it cannot knead heavy bread doughs. For serious bread making you'll still want a stand mixer."
+  - question: "Is the 9-cup capacity big enough for a family?"
+    answer: "For most households, yes. It handles a full meal prep — chopping onions, shredding cheese, slicing cucumbers, and mixing dough — without constant emptying. The feed chute fits whole potatoes and medium onions."
+  - question: "How does it compare to a Cuisinart food processor?"
+    answer: "At roughly $130 it delivers about 90% of the capability of a $250 Cuisinart Custom 14. The motor is powerful, the presets genuinely work, and it saves counter space with the reversible slicing/shredding disc."
 ---
 
 The Ninja 9-Cup Food Processor BZ601 enters a category dominated by KitchenAid and Cuisinart at a significantly lower price. 12,343 Amazon reviews and a 4.7-star average suggest Ninja has disrupted the segment.
@@ -39,7 +48,5 @@ The feed chute is large enough for whole potatoes and medium onions. You won't n
 ## The Dough Question
 
 The included dough blade handles pizza dough, pastry, and cookie batter well. Multiple 5-star reviews confirm it mixes dough evenly without straining the motor. It won't knead heavy bread doughs — that's what a stand mixer is for. For pizza night and pie crusts, it's more than adequate.
-
-## The Verdict
 
 At $130, the Ninja 9-Cup Food Processor offers 90% of the capability of a $250 Cuisinart Custom 14 for half the price. The motor is powerful, the Auto-iQ presets are genuinely useful (not gimmicks), and the 9-cup capacity is right for most households. If you're making dough for two pizzas or prepping vegetables for a week of lunches, this processor will handle it.

@@ -33,8 +33,6 @@ cons:
   - "Some characters may not appeal to non-fans of the show"
 ---
 
-## The Verdict
-
 The Gabby's Dollhouse Sticker Book Set is exactly what every Gabby fan wants: a massive stash of stickers featuring all their favorite characters — Gabby, Mericat, Cakey, Pandy Paws, Catrat Baby Box, Pillow Cat, and more — at a price that feels almost too good to be true.
 
 For under $8, you get 12 full sheets (including 2 sheets of puffy stickers) totaling over 1,000 stickers. The quality is solid: bright, vibrant colors, clear character art, and stickers that peel easily without tearing. They stick well to paper, notebooks, water bottles, and plastic surfaces, and can be repositioned without losing their grip. With a 4.8-star average from 931 reviews, this is a fan favorite for good reason.

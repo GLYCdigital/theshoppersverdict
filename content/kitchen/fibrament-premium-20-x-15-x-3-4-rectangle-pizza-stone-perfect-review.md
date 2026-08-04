@@ -30,8 +30,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The FibraMent® Premium 20" x 15" is a popular choice - with 33 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Fully baked bottom crusts I’ve been baking with this stone for six weeks now and can attest to greatly improved bottom crust quali..."

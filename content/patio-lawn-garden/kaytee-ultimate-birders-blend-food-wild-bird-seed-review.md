@@ -35,8 +35,6 @@ cons:
   - "Some birds ignore the white seeds in the mix"
 ---
 
-## The Verdict
-
 Kaytee Ultimate Birder's Blend is the bird seed that turns your backyard into a wildlife channel. With 5,114 Amazon reviews averaging 4.5/5, this 10-pound mix of seeds is designed to pull in everything from cardinals to woodpeckers — and reviewers confirm it delivers on the variety.
 
 > "I never thought I'd have opinions about bird seed, but here we are. 😂 This mix has been a huge hit in our backyard! The cardinals, finches, chickadees, woodpeckers, and even our three faithful hummingbirds keep the yard busy all day." — Charlotte L., verified review

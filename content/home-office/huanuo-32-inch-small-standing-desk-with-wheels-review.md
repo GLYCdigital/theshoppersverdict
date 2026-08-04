@@ -52,5 +52,4 @@ The unique selling point is the Y-shaped base design. Standard square-base rolli
 ## Who This Desk Is For
 This desk is for people who want to walk while they work. If you have a walking pad and want a stable surface for your laptop, this is the best option. If you just want a small rolling desk without the treadmill use case, it still works great — but there are cheaper options.
 
-## The Verdict
 The HUANUO 32-inch mobile standing desk hits the sweet spot for walk-and-work setups. Compact, stable, mobile, and height-adjustable. It's a niche product, but for that niche, it's excellent.

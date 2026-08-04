@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The NEO CHAIR Office Desk Gaming is a popular choice - with 2,602 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The whole chair feels well made and sturdy, and it's rated to support up to 300lbs, so unless I really let myself go, it should la..."

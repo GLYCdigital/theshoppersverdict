@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The WALI Computer Monitor Stand for is a popular choice - with 15,805 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The legs screw on (easily by hand- no tools needed) in under a minute and adjusting the height is simple as well"

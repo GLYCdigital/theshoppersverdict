@@ -36,8 +36,6 @@ cons:
   - "Potential over-grinding if you are not careful with fast output"
 ---
 
-## The Verdict
-
 The MANNKITCHEN Pepper Cannon is not just a pepper mill — it is a mechanical marvel that redefines what a pepper grinder can do. With a near-perfect 4.8 out of 5 from over 800 Amazon reviews, it is one of the most universally praised kitchen tools on the market. But at over $100, it is also the most expensive pepper mill most people have ever considered.
 
 ## What Buyers Love

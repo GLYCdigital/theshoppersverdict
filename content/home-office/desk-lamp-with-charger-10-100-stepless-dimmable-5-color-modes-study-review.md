@@ -27,8 +27,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Desk Lamp with Charger, 10%-100% has 166 Amazon reviews and averages **4.2/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

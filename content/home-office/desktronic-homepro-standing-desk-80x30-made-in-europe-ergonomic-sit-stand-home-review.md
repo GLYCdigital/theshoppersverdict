@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Desktronic HomePro Standing Desk 80x30 is a popular choice - with 909 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Overall appears to be very sturdy"

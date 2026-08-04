@@ -53,5 +53,4 @@ Advion is labeled for commercial food-handling areas, restaurants, and industria
 
 "I spent hundreds on sprays and exterminators," a reviewer writes. "This $10 pack solved the problem in a week. Should have started here."
 
-## The Verdict
 Syngenta Advion is the cockroach gel bait that professionals would rather you didn't know about. At $9.99 for four tubes, it's the most effective DIY pest control product on Amazon. If you have roaches and you're tired of them, stop buying sprays. Buy this.

@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The VIVO Height Adjustable 32 inch is a popular choice - with 600 Amazon reviews behind it. Here is what buyers actually say.
 
 > "This standing desk is the PERFECT size for my unorthodox desk"

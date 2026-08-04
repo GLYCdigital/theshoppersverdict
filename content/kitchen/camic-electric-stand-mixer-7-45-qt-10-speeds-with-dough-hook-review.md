@@ -26,8 +26,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Camic Electric Stand Mixer,7.45 QT,10 has 35 Amazon reviews and averages **4.6/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

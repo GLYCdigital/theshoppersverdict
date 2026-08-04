@@ -103,8 +103,6 @@ Finally, these are **lineman's pliers, not compound cutters**. They're optimized
 
 ---
 
-## The Verdict
-
 The Klein Tools D213-9NE-CR Lineman's Crimping Pliers earn our **Verdict Score of 4.6/5**. They're beautifully made in the USA, deliver exceptional leverage, and hold up for years under professional use. The minor drawbacks — eventual dulling and a premium price — are inherent to any top-tier cutting tool.
 
 If you're an electrician, tradesperson, or serious DIYer, this is the pair of pliers you'll reach for first. And probably keep reaching for for the next decade.

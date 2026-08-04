@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Amazon Basics Neoprene Dumbbell Hand is a popular choice - with 15,517 Amazon reviews behind it. Here is what buyers actually say.
 
 > "You're basically getting gym-quality equipment for a fraction of the price"

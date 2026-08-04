@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The PartyWoo Metallic Gold Balloons, 140 is a popular choice - with 6,155 Amazon reviews behind it. Here is what buyers actually say.
 
 > "I have purchased a lot of different balloon arch kits with varying degrees of quality"

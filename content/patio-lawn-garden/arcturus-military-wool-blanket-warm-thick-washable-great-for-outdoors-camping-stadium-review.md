@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Arcturus Military Wool Blanket - is a popular choice - with 17,723 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Great value for great blanket This blanket is a perfect size to use around the house, in the car, camping, wherever"

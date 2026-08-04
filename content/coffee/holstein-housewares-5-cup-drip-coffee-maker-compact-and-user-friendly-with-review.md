@@ -31,8 +31,6 @@ cons:
   - "Get what you pay for Had it 5 months then the button broke."
 ---
 
-## The Verdict
-
 The Holstein Housewares 5 Cup Drip is a popular choice - with 13,338 Amazon reviews behind it. Here is what buyers actually say.
 
 > "really pretty teal color brews quickly and hot cute compact size I received my coffee pot yesterday and went ahead and set it up b..."

@@ -36,8 +36,6 @@ cons:
   - "At $250, it competes with dedicated machines in each category"
 ---
 
-## The Verdict
-
 The Cuisinart Coffee Center Barista Bar tries to be everything to everyone — and largely succeeds. It combines a full 12-cup drip coffee maker, a single-serve K-Cup brewer, and Nespresso OriginalLine capsule compatibility into one machine. With 1,184 reviews averaging 4.1 out of 5, it clearly fills a need for households that cannot agree on a single brewing method.
 
 ## What Buyers Love

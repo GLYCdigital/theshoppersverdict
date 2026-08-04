@@ -123,8 +123,6 @@ SeoulCeuticals packages the serum in an **amber dropper bottle**, which helps wi
 
 The SeoulCeuticals serum has actually **more** active ingredients (added hyaluronic acid, botanical extracts) and a higher Vitamin C concentration than the original. The main differences are in packaging quality (airless pump is better), cosmetic feel, and brand. Whether those differences are worth 8x the price is your call.
 
-## The Verdict
-
 The SeoulCeuticals 20% Vitamin C + Hyaluronic Acid Serum is one of the best **budget CE Ferulic alternatives** on the market. The formula is solid — 20% L-Ascorbic Acid with Vitamin E, Ferulic Acid, and Hyaluronic Acid at $20. Real users report genuine brightening and texture improvement with consistent use.
 
 It's not as cosmetically elegant as the $169 option, and the dropper packaging means you need to store it carefully. But for 1/8th the price, it delivers 85-90% of the results.

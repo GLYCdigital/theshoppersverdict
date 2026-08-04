@@ -49,6 +49,4 @@ One reviewer sums up the value proposition: *"This is the best basic coffee mach
 
 The 60oz carafe has a pouring issue. The design makes it drip down the side if you pour too slowly or at the wrong angle. It's not a dealbreaker but it's a recurring mention in critical reviews. Also worth noting: there's no grinder. If you want fresh-ground coffee, you need a separate machine.
 
-## The Verdict
-
 The Ninja 12-Cup is the best drip coffee maker under $200 for someone who wants consistent coffee, reliable programmability, and a machine that lasts. It's not for espresso drinkers or single-serve users. But for a household that drinks a pot a day, it hits every mark.

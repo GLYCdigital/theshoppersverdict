@@ -55,5 +55,4 @@ The optional drinking lid — which transforms the cooler into a full travel mug
 
 One detailed reviewer gives 3.5 stars for what they consider minor annoyances: "If you are looking for an honest review... it's a solid product, just understand the limitations going in. The fit on taller bottles is snug, and if you want the full mug experience, budget another $10 for the lid."
 
-## The Verdict
 The Frost Buddy Universal Can Cooler is the most versatile insulated can cooler on the market. If you drink multiple types of canned or bottled beverages — or if your household does — the universal fit saves you from buying a dozen single-purpose koozies. It keeps drinks cold, your hands dry, and fits in your cup holder. Buy it, keep track of the insert, and your drinks will stay cold from the first pitch to the ninth inning.

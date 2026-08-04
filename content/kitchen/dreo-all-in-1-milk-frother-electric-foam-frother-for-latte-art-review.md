@@ -31,8 +31,6 @@ cons:
   - "This time, the frother stopped working, the base became extremely hot."
 ---
 
-## The Verdict
-
 The DREO All-in-1 Milk Frother, Electric is a popular choice - with 764 Amazon reviews behind it. Here is what buyers actually say.
 
 > "It is very high quality micro foam that is smooth and silky"

@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Blu Track PS - 18 is a popular choice - with 123 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The cars that come with the track aren’t the most durable in the wheels, but they are fast"

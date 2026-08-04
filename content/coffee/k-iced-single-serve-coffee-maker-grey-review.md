@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The K-Iced Single Serve Coffee Maker is a popular choice - with 9,229 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Design and Build Quality:The sleek gray design fits perfectly on our kitchen counter, adding a modern touch to our space"

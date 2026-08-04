@@ -34,8 +34,6 @@ cons:
   - "Some questions about long-term durability of auto mechanism"
 ---
 
-## The Verdict
-
 The Bluinzi 46-inch compact umbrella does something rare in the umbrella world: it's genuinely sturdy without being annoyingly heavy. The double 10-rib construction gives it the backbone to handle gusty conditions, while the automatic open/close system keeps things convenient when you're juggling bags and keys.
 
 With a 4.6-star rating from over 1,100 reviews, it's clearly hitting the mark for most buyers. The 46-inch arc provides noticeably more coverage than a typical compact umbrella, and the price point — typically under $20 — makes it an easy buy.

@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Burr Coffee Grinder with Anti-Static is a popular choice - with 73 Amazon reviews behind it. Here is what buyers actually say.
 
 > "It's easy to use, quiet, and offers many grind size settings, making it perfect for different brewing methods"

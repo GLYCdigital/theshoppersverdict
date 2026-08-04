@@ -30,7 +30,6 @@ faq:
   - question: "Is this a good gift idea?"
     answer: "Many buyers purchase this as a gift. Its strong ratings and positive reviews make it a safe choice for most recipients."
 
-
 ---
 
 The Jackery Explorer 1000 v2 is the upgrade nobody asked for but everybody needed. The original Explorer 1000 was already a top seller, but Jackery swapped in LiFePO4 chemistry, dropped the charging time to one hour, and kept the weight manageable at 23.8 lbs. 3,352 Amazon reviews and a 4.7-star average suggest they got it right.
@@ -68,8 +67,6 @@ The Explorer 1000 v2 hits three use cases equally well:
 **Camping and van life.** At 23.8 lbs, it's portable enough to carry but substantial enough to power real appliances. The foldable handle and compact form factor make it practical for vehicle-based trips.
 
 **Mobile work.** Vendor fairs, outdoor events, job sites — anywhere you need 120V power without a generator's noise and fumes. The pure sine wave output means sensitive electronics are safe.
-
-## The Verdict
 
 The Jackery Explorer 1000 v2 is the portable power station to beat in its class. The combination of LiFePO4 longevity, one-hour charging, and proven reliability make it the default recommendation for anyone needing portable 120V power. It's not the cheapest option, but it's the one you'll trust.
 

@@ -56,5 +56,4 @@ One thing to know: Beta-Alanine causes a harmless tingling sensation on your ski
 ## NSF Certification Matters
 For serious athletes, the NSF Certified for Sport seal is the important part. It means every batch is tested for banned substances. No surprises on competition day.
 
-## The Verdict
 C4 Performance Energy Drink Strawberry Blast delivers what it promises: clean, tested, performance-oriented energy without the junk. At $26.99 for a 12-pack, it's about $2.25 per can — competitive for a premium energy drink and cheaper than most pre-workout powders per serving.

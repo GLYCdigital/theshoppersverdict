@@ -60,8 +60,6 @@ These are no-frills notebooks. No pockets, no dividers, no elastic closure. What
 
 One buyer called them "perfect for organizing" with paper "thick and high quality" that "got me through note taking in class." A Mexican reviewer praised their durability: "Very good quality and durable notebooks. True to the image. Excellent purchase."
 
-## The Verdict
-
 At $25.64 for six notebooks — roughly $4.27 each — the Oxford Spiral 6-Pack is the best-value notebook package on Amazon. The paper quality punches above its price, the binding holds, and the perforation works. For students, office workers, or anyone who burns through notebooks, this is the pack to buy.
 
 The only reason not to buy these is if you need premium features like hard covers or numbered pages. For everyday note-taking — the kind where you fill a notebook every few weeks — these are the standard.

@@ -59,8 +59,6 @@ While many owners report years of trouble-free use, a concerning pattern emerges
 
 At $355, a four-month lifespan is unacceptable. The K155 should outlast its cheaper cousins, not fail faster. To be fair, most users report years of service, but the failure rate deserves consideration — especially for a commercial machine.
 
-## The Verdict
-
 The Keurig K155 Office Pro is a solid choice for offices that go through serious coffee volume. The large reservoir, quick brew cycle, and commercial build quality serve high-traffic environments well. But for home use, the value proposition gets complicated — especially given the missing 12 oz setting and the reliability concerns that surface more than they should at this price point.
 
 It's the right machine for the right setting. If you're equipping an office break room, the K155 is probably your best bet. If you're buying for your kitchen counter, consider whether you really need commercial capacity.

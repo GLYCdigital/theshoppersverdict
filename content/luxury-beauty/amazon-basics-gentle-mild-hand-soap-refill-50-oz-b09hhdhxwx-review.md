@@ -47,6 +47,4 @@ The texture is a clear, runny liquid — not the thick, opaque gel that branded 
 
 With 44,666 ratings and a 4.6 average, this is one of the highest-rated Amazon Basics products. The recurring review theme is "works exactly like Softsoap for half the price." The fragrance-free formula receives mixed feedback — some love the neutrality, others wish for a light scent.
 
-## The Verdict
-
 Amazon Basics Gentle & Mild Hand Soap Refill is the ultimate back-of-the-bathroom-cabinet product. It's not exciting. It's not scented. It's not going to match your aesthetic. But it cleans your hands effectively, costs 7.6 cents per ounce, and you'll never run out because the 50 oz bottle lasts for months. That's the kind of boring product excellence that saves real money.

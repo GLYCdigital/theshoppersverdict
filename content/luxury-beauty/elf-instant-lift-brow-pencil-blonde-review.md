@@ -51,5 +51,4 @@ The pencil is creamy enough to glide on without tugging, but firm enough to defi
 
 "After about 6 hours, I notice it starting to fade slightly," one review reads. "But for the price, I just touch up and keep going. Not a dealbreaker."
 
-## The Verdict
 At $9.57, the e.l.f. Instant Lift Brow Pencil delivers results that belong at a higher price point. The fine tip, built-in spoolie, and natural finish make it the best value brow pencil on the market. If you're looking for a no-regret everyday brow product, this is it.

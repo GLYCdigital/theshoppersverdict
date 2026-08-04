@@ -55,8 +55,6 @@ For new players, this is a non-issue. "Great core book to dive into the 40k worl
 
 At $66, Games Workshop books are never cheap. The production quality is excellent — full-color art, glossy pages, lore sections, and clearly laid-out rules. But several reviewers note shipping damage: "Arrived with some damage on the front cover." Another reports "a gouge right through the Kriegsman's gasmask." The thin softcover is vulnerable in transit, and Amazon's packaging isn't always kind to books.
 
-## The Verdict
-
 The Codex: Astra Militarum for 10th Edition is a solid army book that does what it needs to do: consolidates multiple Guard factions into a playable, balanced ruleset. New Guard players will love it. Veteran players will find plenty to work with, even if they mourn the loss of their specific regiment's bespoke rules.
 
 At 4.7 stars across 70 reviews, the buyers are happy. But for the old Guard — the real Guard — the codex represents a trade-off between playability and flavor. Whether that trade-off is worth $66 depends on how much you value rules over nostalgia.

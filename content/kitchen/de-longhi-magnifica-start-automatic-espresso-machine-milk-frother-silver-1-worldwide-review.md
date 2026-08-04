@@ -31,8 +31,6 @@ cons:
   - "That means that your 12 oz cup of coffee is weaker than the 8 oz."
 ---
 
-## The Verdict
-
 The De'Longhi Magnifica Start Automatic Espresso is a popular choice - with 566 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Fast, clean, very littleMaintenance needed, and the quality and taste are excellent"

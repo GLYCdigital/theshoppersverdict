@@ -53,8 +53,6 @@ The tell: look for the green-white stamp that says "100% American CEDAR WOOD." R
 
 Encouragingly, reviewers note that the latest batches hitting stores are excellent. "The latest batch of pencils that are hitting the shelves in big office retailers like Office Depot or Staples are of FANTASTIC quality," one long-time observer reports. The Chinese-made versions now feature well-centered lead cores, incense-cedar barrels, and evenly painted ferrules.
 
-## The Verdict
-
 Ticonderoga remains the gold standard for wooden pencils, and the data backs it up. 68,338 reviewers can't all be wrong. The 4.8-star average is virtually unheard of for any product, let alone something as simple as a pencil.
 
 The quality variance between production runs is real, but manageable — buy from reputable sellers, check for the cedar stamp, and avoid the gold banner batches. For $5.63 for 12 pre-sharpened pencils, the value is undeniable.

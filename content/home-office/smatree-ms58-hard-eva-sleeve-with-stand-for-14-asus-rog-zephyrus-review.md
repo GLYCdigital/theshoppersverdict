@@ -32,8 +32,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Smatree MS58 Hard EVA Sleeve is a popular choice - with 146 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Well made, durable, fits laptop perfectly Great case so far"

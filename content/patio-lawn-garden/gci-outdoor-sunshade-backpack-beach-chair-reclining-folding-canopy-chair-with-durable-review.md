@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The GCI Outdoor Sunshade Backpack Beach is a popular choice - with 1,876 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Very good quality"

@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The eos Cashmere Shave Oil – is a popular choice - with 7,664 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The second this hit my skin I felt how soft it was and tried not to get too excited but this was the fastest I had ever shaved my..."

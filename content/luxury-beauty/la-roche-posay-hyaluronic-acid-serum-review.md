@@ -58,8 +58,6 @@ This serum is ideal for anyone with dehydrated, dry, or sensitive skin. The vita
 
 If you're in your 20s with oily, non-dehydrated skin, a simpler (and cheaper) HA serum may suffice. For everyone else, the Hyalu B5 earns its price tag.
 
-## The Verdict
-
 The Hyalu B5 is the kind of product that turns skeptics into evangelists. It doesn't promise miracles — it promises hydrated, plump, calm skin, and it delivers that reliably for the vast majority of users. If your skincare routine is missing a hydration step that actually works, this is it.
 
 **Verdict: 9/10** — The hyaluronic acid serum that deserves its French pharmacy reputation.

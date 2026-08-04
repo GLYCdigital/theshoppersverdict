@@ -51,6 +51,4 @@ The cable management is just okay — a few plastic clips that keep cables from 
 
 But for the price, these are forgivable compromises.
 
-## The Verdict
-
 At $8.69, the HUANUO FlowLift is the best ergonomic upgrade you can make to a desk for under $10. The gas spring is smooth, the build is sturdier than expected, and the range of motion covers everything most users need. It's the monitor arm that proves you don't need to spend $150 for a quality ergonomic setup.

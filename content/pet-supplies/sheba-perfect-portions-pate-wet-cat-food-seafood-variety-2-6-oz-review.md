@@ -30,8 +30,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Sheba Perfect Portions Pate Wet is a popular choice - with 24,850 Amazon reviews behind it. Here is what buyers actually say.
 
 > "As a proud care taker of 2 cats, I'm always on the lookout for high-quality cat food that my feline friend will love"

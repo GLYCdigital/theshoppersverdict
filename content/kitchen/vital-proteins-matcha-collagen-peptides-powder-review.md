@@ -36,8 +36,6 @@ cons:
   - "Premium price for 21 servings"
 ---
 
-## The Verdict
-
 Vital Proteins Matcha Collagen Peptides is the 2-in-1 wellness drink that actually tastes like matcha. With 5,923 Amazon reviews averaging 4.3/5, it pairs real green tea with collagen peptides — and the most consistent feedback is that both halves deliver.
 
 > "Absolutely love this matcha powder... The Matcha flavor isn't too strong, but actually taste like Matcha and not some other green tea plant infused powder. The texture is great too. It dissolves easily in my hot water and there's no clumping at all." — Dani B., verified review

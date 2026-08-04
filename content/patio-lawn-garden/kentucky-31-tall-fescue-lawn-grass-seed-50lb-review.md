@@ -55,8 +55,6 @@ Where Kentucky 31 shines is after it's established. Tall fescue has deep root sy
 
 One reviewer sums it up pragmatically: "Seemed to help." Not glowing, not damning — just honest testimony that the seed did its job.
 
-## The Verdict
-
 Kentucky 31 Tall Fescue is not the grass seed you buy for a manicured lawn that looks like a golf course. It's the grass seed you buy for a lawn that needs to survive kids, dogs, drought, and neglect. The 4.3-star average across 179 reviews reflects that trade-off honestly.
 
 If you're willing to put in the prep work — proper soil prep, consistent watering during germination, patience — this seed delivers tough, resilient grass that keeps going when other varieties call it quits. For $53 for 50 pounds, that's a deal on durability.

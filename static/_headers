@@ -1,0 +1,9 @@
+# Force no-cache on HTML so new reviews show immediately after deploy
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+/images/*
+  Cache-Control: public, max-age=86400
+/css/*
+  Cache-Control: public, max-age=86400
+/js/*
+  Cache-Control: public, max-age=86400

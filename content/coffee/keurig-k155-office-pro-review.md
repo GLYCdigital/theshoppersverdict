@@ -98,8 +98,6 @@ This is exacerbated by the "water film" issue mentioned by a number of long-term
 
 That said, for offices that do stay on top of maintenance, the K155 can run reliably for years. Several five-star reviews describe machines that have survived heavy daily use without incident. The commercial-grade components are genuinely more durable than their home-model counterparts — but they still need care.
 
-## The Verdict
-
 The Keurig K155 Office Pro earns a **8.0 out of 10** — a score that reflects its strengths in its intended niche while acknowledging meaningful trade-offs.
 
 For its core audience — an office manager equipping a medium-traffic break room — this machine makes sense. The 35-cup reservoir, fast brewing, and sturdy construction are real assets. At $355, it is not cheap, but it is cheaper than the steady stream of takeout coffee that fills the gap when a budget brewer breaks down every six months.

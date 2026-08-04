@@ -53,5 +53,4 @@ Glass is heavy. A fully loaded 8-cup container weighs several pounds. These are 
 
 The lid durability concern is echoed by others. The plastic lids are noticeably thinner than the heavy glass bases, creating a mismatch in build quality. Some users recommend hand-washing the lids even though they're labeled dishwasher-safe to extend their life.
 
-## The Verdict
 The Rubbermaid Brilliance Glass set is the best glass food storage system for people who cook real meals and want to store, reheat, and serve from the same container. The oven-safe glass, universal lids, and airtight seal justify the price — but only if you're ready to deal with the weight. If you're meal-prepping for the office, stick with plastic Brilliance. If you're cooking for your family and want one container to do it all, this set earns its spot.

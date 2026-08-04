@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The XIXUBX Compact Espresso & Cappuccino is a popular choice - with 924 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Easy to use, heats up fast, and the steam wand does the job for milk foam"

@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Rust-Oleum Painter's Touch 2X Ultra is a popular choice - with 15,525 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Overall, this is a high-quality spray paint that’s easy to use, durable, and offers excellent value"

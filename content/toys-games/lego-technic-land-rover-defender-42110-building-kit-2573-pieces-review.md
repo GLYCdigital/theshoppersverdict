@@ -34,8 +34,6 @@ cons:
   - "Challenging build for younger teens under 16"
 ---
 
-## The Verdict
-
 The LEGO Technic Land Rover Defender 42110 is one of the most satisfying Technic builds LEGO has ever produced. Developed in partnership with Land Rover, this 2,573-piece set captures the 2019 Defender's clean lines and sculpted surfaces with remarkable authenticity. But what really sets it apart is the mechanical depth — a working 4-speed gearbox, all-wheel drive with three differentials, independent suspension, and a detailed inline 6-cylinder engine that actually fires pistons as you roll it along.
 
 With a 4.8-star average across 3,713 reviews, this is a consensus masterpiece. It's also retired now, so if you find one at a reasonable price, grab it.

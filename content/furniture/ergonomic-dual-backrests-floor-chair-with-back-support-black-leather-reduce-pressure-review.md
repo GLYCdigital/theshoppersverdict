@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Ergonomic Dual-Backrests Floor Chair with is a popular choice - with 155 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Sturdy Construction: The build quality is impressive"

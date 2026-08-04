@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Bento Box Adult Lunch Box is a popular choice - with 6,119 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Great quality, practical design, and well worth the purchase"

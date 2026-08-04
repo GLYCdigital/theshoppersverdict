@@ -65,6 +65,4 @@ The 4.0 rating reflects genuine concerns. Some users have experienced issues req
 
 The AquaClean filter support is another point of friction. The machine can use it to reduce descaling, but the filter must be purchased separately, which some buyers discover only after receiving the machine.
 
-## The Verdict
-
 For $348, the Philips 1200 Series delivers what matters most: excellent espresso from freshly ground beans at the touch of a button. The ceramic grinder, intuitive touch display, and versatile milk frother offer real value. The reliability concerns are real but not dominant — most users are drinking coffee five times a day, fully satisfied. If you want automatic espresso without stretching to $500+, this is the machine.

@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The goodr OG Polarized Sunglasses Women is a popular choice - with 9,689 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The quality is impressive for the price point, and they’re durable enough that I don’t panic about bringing them on trips, hikes,..."

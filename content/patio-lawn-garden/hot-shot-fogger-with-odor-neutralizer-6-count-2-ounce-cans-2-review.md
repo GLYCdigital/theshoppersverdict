@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Hot Shot Fogger With Odor is a popular choice - with 27,248 Amazon reviews behind it. Here is what buyers actually say.
 
 > "It is incredibly effective, easy to use, and provides the heavy-duty, multi-room coverage needed to handle a widespread infestatio..."

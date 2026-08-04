@@ -36,8 +36,6 @@ cons:
   - "Not dishwasher safe — requires hand washing to maintain edge"
 ---
 
-## The Verdict
-
 The DiiHAUZZ 7-Inch Santoku Knife delivers professional-grade sharpness at a decidedly unprofessional price. With a 4.8 out of 5 from 96 Amazon reviews, it has the kind of near-perfect rating that usually flags either a cult classic or a paid-review farm. In this case, the reviews tell the story of a genuine value play — a forged, full-tang Santoku that punches well above its $25 price point. It is not flawless, but for the money, it redefines what "budget kitchen knife" can mean.
 
 ## What Buyers Love

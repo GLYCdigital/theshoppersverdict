@@ -61,8 +61,6 @@ The key points:
 
 Follow these rules, and the blender works great. Ignore them, and you'll have a mess.
 
-## The Verdict
-
 The Hamilton Beach 51101V is a paradox. It's a cheap blender with a short lifespan, and yet it's one of the best-reviewed products in its category. The resolution is simple: for $25, it makes excellent single-serving smoothies with minimal cleanup. When it dies in a couple of years, you buy another one and you're still ahead of the game versus a $100+ premium option.
 
 If you want a smoothie maker that will last a decade, look elsewhere. If you want one that works great today and costs less than a tank of gas, this is your blender.

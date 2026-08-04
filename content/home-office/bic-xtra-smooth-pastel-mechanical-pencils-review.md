@@ -35,8 +35,6 @@ cons:
   - "Some may prefer a finer 0.5 mm point"
 ---
 
-## The Verdict
-
 It's a mechanical pencil — how much can there really be to say? As it turns out, quite a bit. The BIC Xtra-Smooth Pastel pack has quietly become one of the highest-rated office supply products on Amazon at 4.9 stars from over 3,300 reviews, and after reading through the feedback, the near-perfect score makes sense.
 
 The "Xtra-Smooth" claim holds up. Reviewers consistently praise the 0.7 mm lead for gliding across paper without catching or scratching. One homeschool parent calls them *"hands down, my favorite lead pencils of all time"* — citing long-lasting lead that's *"very difficult to break with its thickness."* Another reviewer notes they've been using them for daily note-taking, sketching, and grading with no jams or breakage.

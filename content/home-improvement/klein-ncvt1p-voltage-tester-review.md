@@ -99,8 +99,6 @@ A non-contact voltage tester is a **screening tool, not a certification**. Alway
 
 The NCVT1P includes a **self-test button** that confirms the batteries and circuitry are working. Get in the habit of testing before every use.
 
-## The Verdict
-
 The Klein Tools NCVT1P is the right choice for anyone who values **reliability and accuracy** in a safety-critical tool. The dual-range detection makes it more versatile than cheaper alternatives, and the Klein build quality means it will last for years. At $30, it's a small price for peace of mind every time you do electrical work.
 
 **Score: 9.0/10**

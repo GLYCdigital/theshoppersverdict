@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The STANLEY IceFlow 2.0 Flip Straw is a popular choice - with 72,939 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The color is even more beautiful in person, and the quality is exactly what I expected"

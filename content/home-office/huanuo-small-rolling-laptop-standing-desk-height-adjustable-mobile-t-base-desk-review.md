@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The HUANUO Small Rolling Laptop Standing is a popular choice - with 125 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Pretty Good Easy to assemble and adjust the height, reasonably priced, seems sturdy, very portable - casters glide smoothly and it..."

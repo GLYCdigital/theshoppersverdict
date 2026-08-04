@@ -34,8 +34,6 @@ cons:
   - "Leather upholstery comfort unverified for hot climates"
 ---
 
-## The Verdict
-
 The VIDI Fully Reclining Executive Leather chair is a new Amazon listing, which means the honest answer is upfront: there are no verified customer reviews yet to lean on. What we can evaluate is the spec sheet — and on paper, VIDI is aiming squarely at the long-hours desk worker with a feature set that usually costs more.
 
 The headline is the **seven vibration points** built into the seat — a massage-style feature you typically find on chairs $100+ higher. Combine that with a fully reclining backrest and you're looking at a rest-break chair, not just a sitting chair.

@@ -36,8 +36,6 @@ cons:
   - "Warming plate only, no thermal carafe option"
 ---
 
-## The Verdict
-
 The Braun MultiServe Plus is an ambitious coffee maker that tries to do more than just brew a pot. With cold brew in 13 minutes, 7 brew sizes, and a dedicated hot water dispenser, it packs a lot of functionality into a single machine. The 3.8 out of 5 from 745 Amazon reviews tells a more complicated story — a capable brewer that does not quite nail every feature.
 
 ## What Buyers Love

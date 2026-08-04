@@ -47,8 +47,6 @@ The "grilled" line uses a gravy formulation rather than the solid pate that many
 
 The 3 oz can size is small. A large cat or a cat that eats two meals from wet food will need two cans per serving. But the small size means less waste if your cat rejects a particular flavor. The variety pack of 24 lets you rotate through seafood options without committing to 24 cans of one flavor.
 
-## The Verdict
-
 At $11.43 for 24 cans, this is the most economical way to buy Fancy Feast Grilled. The price works out to about 48 cents per can. Individual cans at the grocery store are often double that.
 
 If your cat eats seafood flavors and you want wet food in gravy rather than pate, this is the safest bet on Amazon. 47,059 five-star reviews don't guarantee your cat will like it — but the odds are better than any alternative.

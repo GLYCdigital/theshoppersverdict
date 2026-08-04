@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Minties Dog Dental Bone Treats is a popular choice - with 36,607 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Solid Little Dental Chew Solid little dental chews for small dogs"

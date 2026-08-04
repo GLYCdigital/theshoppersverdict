@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Mead Primary Journal Creative Story is a popular choice - with 3,956 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Great quality for the price"

@@ -30,8 +30,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The BRITA 35503 Standard Replacement Water is a popular choice - with 235,732 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Brita standard replacement filter The replacement filter is easy to use and fits to standard Brita pitcher"

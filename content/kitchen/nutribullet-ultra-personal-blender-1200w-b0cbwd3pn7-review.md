@@ -48,6 +48,4 @@ The streamlined profile takes up less counter depth, which matters in small kitc
 
 At 1,972 ratings and 4.2 stars, the Ultra hasn't built the long-term reliability reputation of the original nutribullet (which has hundreds of thousands of reviews). Most early adopters are positive — the power increase is immediately noticeable. A few mention motor burning smell on first use (common with high-powered motors, usually dissipates). Some report seal issues with the new cup design.
 
-## The Verdict
-
 The nutribullet Ultra is the best personal blender nutribullet has ever made — on paper. The 1200W motor, titanium blade, and recycled material cups represent genuine upgrades. But at 4.2 stars with only 1,972 reviews, it's still proving its long-term reliability. If you're a current nutribullet owner who wants more power, upgrade. If you're buying your first personal blender, the Ultra is the best choice, but keep your receipt until the 5,000-review mark confirms the quality.

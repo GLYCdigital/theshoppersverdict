@@ -71,6 +71,4 @@ For the convenience and consistency, most users find the ongoing cost acceptable
 
 Most reviews span years of ownership, and the consensus is positive. The machine holds up well with regular descaling. The few negative reviews focus on unit defects or failures outside the warranty period — a reminder that any appliance can have issues.
 
-## The Verdict
-
 At $188.95 with the Aeroccino included, the Nespresso Vertuo by Breville in chrome is the default recommendation for anyone who wants café-quality coffee at home without turning their kitchen into a lab. It's fast, consistent, beautiful, and backed by nearly 8,300 reviews that overwhelmingly agree: this machine delivers.

@@ -30,8 +30,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The INVENHO Small Medium Dog Bed is a popular choice - with 4,501 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Great quality, good size"

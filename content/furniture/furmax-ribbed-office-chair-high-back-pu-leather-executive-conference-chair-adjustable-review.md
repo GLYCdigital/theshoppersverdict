@@ -29,8 +29,6 @@ cons:
   - "With that said, the chair is cheap and worth the price."
 ---
 
-## The Verdict
-
 The Furmax Ribbed Office Chair High is a popular choice - with 1,061 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Excellent Comfort and Great Quality I am very pleased with this office chair"

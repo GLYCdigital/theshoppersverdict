@@ -34,8 +34,6 @@ cons:
   - "Tastes flat with non-dairy milk, per one reviewer"
 ---
 
-## The Verdict
-
 STASH Earl's Delight Latte is a tea concentrate that splits the room. With 131 Amazon reviews averaging 3.9/5, it delivers a genuinely convenient London-fog-style latte at home — but the sweetness and the almond flavoring are deal-breakers for a loud minority.
 
 > "Delicious tea. Other tea concentrates i've purchased are usually syrupy sweet with a one dimensional flavor profile. This tea concentrate is like a symphony in the mouth, various flavors come out to play." — Slightly Dazed, Very Confused, verified review

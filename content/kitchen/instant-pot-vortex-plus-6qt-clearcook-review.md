@@ -63,6 +63,4 @@ The reports from long-term users are encouraging. Several mention their previous
 
 The minority of negative reviews focus on units that failed prematurely. It's worth noting that Instant Pot's customer service gets mixed marks from the small percentage of users who need it.
 
-## The Verdict
-
 At $89.99 with 7,887 glowing reviews, the Instant Pot Vortex Plus 6QT ClearCook is the air fryer to beat. The ClearCook window, even cooking, and easy cleaning make it a genuinely useful kitchen appliance rather than another countertop gadget. It earned America's Test Kitchen's top spot for good reason.

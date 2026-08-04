@@ -27,8 +27,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Pour Over Ceramic - Coffee has 1,021 Amazon reviews and averages **4.5/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

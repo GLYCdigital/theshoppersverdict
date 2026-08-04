@@ -32,8 +32,6 @@ cons:
   - "2 broken in one year."
 ---
 
-## The Verdict
-
 The Hamilton Beach FlexBrew Trio 2-Way is a popular choice - with 12,574 Amazon reviews behind it. Here is what buyers actually say.
 
 > "I’m expecting it to last as many years as previous models over the years; if they kept the same quality of parts"

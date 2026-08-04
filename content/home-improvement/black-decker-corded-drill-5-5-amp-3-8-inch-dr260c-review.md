@@ -26,8 +26,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The BLACK+DECKER Corded Drill, 5.5-Amp, 3/8-Inch has 7,727 Amazon reviews and averages **4.6/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

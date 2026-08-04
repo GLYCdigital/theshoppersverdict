@@ -54,7 +54,6 @@ Not everything is perfect. Packaging is hit-or-miss — one reviewer noted the "
 
 It's worth noting that while the G2 is beloved globally, some international orders through Amazon may not arrive in the advertised packaging. Buy from the Pilot storefront directly if packaging condition matters to you.
 
-## The Verdict
 At $19.89 for a 12-pack of fine-point black gel pens, the Pilot G2 is one of the best values in the stationery world. They write smoothly, last long, refill easily, and scan beautifully. The 4.8-star rating across 32,711 reviews is earned.
 
 The only real question is whether you need 12 pens or just one. If you're a student, an office worker, or someone who just enjoys writing with a pen that doesn't fight you, this 12-pack is the right answer. Keep one in your bag, one on your desk, one in your car — and give the rest to colleagues who keep borrowing yours.

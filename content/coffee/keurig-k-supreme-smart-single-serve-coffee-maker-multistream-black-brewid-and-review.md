@@ -27,8 +27,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Keurig K Supreme Smart Single has 2,012 Amazon reviews and averages **3.9/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

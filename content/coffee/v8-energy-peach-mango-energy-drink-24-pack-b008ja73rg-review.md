@@ -50,6 +50,4 @@ At 50 calories and 12g of carbs per can, this isn't a keto-friendly option. The 
 
 The value proposition is reasonable: a 24-pack at $31.90 works out to about $1.33 per can. That's cheaper than most specialty energy drinks and about on par with premium juices.
 
-## The Verdict
-
 V8 Energy Peach Mango is the energy drink for people who don't like energy drinks. It's fruit juice with a functional caffeine kick — no weird aftertaste, no carbonation burn, no artificial anything. The 80mg caffeine is enough for a solid lift but won't send you through the ceiling. At 4.7 stars across 18K+ ratings, the consensus is clear: this is the energy drink that tastes like it should be good for you, and in many ways, it actually is.

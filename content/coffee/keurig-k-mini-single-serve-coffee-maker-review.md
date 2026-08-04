@@ -36,8 +36,6 @@ cons:
   - "Limited to K-Cup pods unless you buy reusable filter separately"
 ---
 
-## The Verdict
-
 The Keurig K-Mini is exactly what it says on the box: a small, single-serve coffee maker that takes up almost no space and makes a cup of coffee in about two minutes. As a Certified Refurbished unit, it comes at a discount off the retail price — and with a rating of 4.2 out of 5 from over 600 reviews, most buyers are very happy with what they get.
 
 ## What Buyers Love

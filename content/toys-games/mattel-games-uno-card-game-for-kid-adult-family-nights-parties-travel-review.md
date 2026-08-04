@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Mattel Games UNO Card Game is a popular choice - with 60,456 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Otherwise, the quality of the cards and tin are both great"

@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The medicube Facial Cleanser Zero Pore is a popular choice - with 3,336 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Great value and a little dab goes a long way"

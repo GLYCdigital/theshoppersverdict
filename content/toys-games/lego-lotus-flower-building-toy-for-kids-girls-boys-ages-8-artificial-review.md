@@ -27,8 +27,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The LEGO Lotus Flower - Building is a popular choice - with 4,082 Amazon reviews behind it. Here is what buyers actually say.
 
 > "They don't take long to build, the instructions are clear, and they are simple"

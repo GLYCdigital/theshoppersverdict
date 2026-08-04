@@ -57,5 +57,4 @@ The lack of a preheat indicator means you'll need to develop a feel for timing. 
 
 The nonstick coating works well but is not indestructible. Abrasive scrub pads or metal utensils will damage it. Stick to silicone or nylon tools and gentle washing.
 
-## The Verdict
 The CHEFMAN 2 Qt Mini Air Fryer is the best entry-level air fryer for solo cooks, seniors, and anyone who thought air fryers were too big or too complicated. At $49.99, it costs less than a dinner out and will replace your oven for most single-serving meals. It won't feed a family, but it will make your weeknight dinners faster, crispier, and easier. Buy it, preheat it, and get ready for the best frozen fries of your life.

@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The HUANUO Dual Monitor Stand, Fully is a popular choice - with 32,155 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Overall, it is a great value if you want a sturdy, flexible dual-monitor arm that is easy to put together and adjust"

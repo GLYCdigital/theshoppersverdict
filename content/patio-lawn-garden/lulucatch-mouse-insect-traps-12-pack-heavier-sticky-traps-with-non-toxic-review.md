@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The LULUCATCH Mouse & Insect Traps is a popular choice - with 4,887 Amazon reviews behind it. Here is what buyers actually say.
 
 > "It is easy to use and setup"

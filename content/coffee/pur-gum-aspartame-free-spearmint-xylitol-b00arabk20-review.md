@@ -53,6 +53,4 @@ The most common criticism is the price point. At about $5 for a 55-piece bottle,
 
 Xylitol is highly toxic to dogs. Even a single piece of PUR Gum can cause rapid insulin release in dogs, leading to hypoglycemia, seizures, and liver failure. This warning appears in reviews frequently, and it's serious enough that pet owners should consider whether this gum belongs in their home.
 
-## The Verdict
-
 PUR Gum Spearmint is what happens when you take a commodity product and actually think about what goes into it. The flavor doesn't last as long as Orbit, and it costs more. But the ingredient quality is undeniable, the spearmint taste is genuinely pleasant, and your dentist will approve. For anyone trying to reduce artificial sweetener intake without giving up gum, this is the standard.

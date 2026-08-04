@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The CEVING World's First 60g Large is a popular choice - with 590 Amazon reviews behind it. Here is what buyers actually say.
 
 > "The build quality feels solid, it produces a consistent grind, and the larger capacity is a nice bonus if you’re brewing multiple..."

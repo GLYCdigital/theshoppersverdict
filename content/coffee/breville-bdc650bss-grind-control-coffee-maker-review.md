@@ -40,8 +40,6 @@ cons:
   - "$400 is premium money for a machine with reliability complaints"
 ---
 
-## The Verdict
-
 The Breville BDC650BSS Grind Control is the most ambitious drip coffee maker Breville sells — and one of the most polarizing. Six thousand five hundred and forty Amazon reviews average out to just **3.5 out of 5**, a number that should stop any buyer cold, because Breville machines rarely score below 4.3.
 
 That low score is not a lie, and it is not the whole truth either. The Grind Control does something almost no other drip machine does: it grinds whole beans fresh, steeps the grounds like a French press, then releases the coffee — all from one countertop appliance. When it works, the cup is genuinely better than anything from a standard $100 brewer. When it doesn't — and the reviews are clear that it sometimes doesn't — you are left staring at a $400 paperweight with a jammed grinder.

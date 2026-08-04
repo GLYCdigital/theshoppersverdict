@@ -36,8 +36,6 @@ cons:
   - "No adjustable brew temperature settings"
 ---
 
-## The Verdict
-
 The Nespresso Inissia by De'Longhi is the definition of no-fuss espresso. With 5,937 Amazon reviews and a solid 4.2 out of 5 stars, it has earned its reputation as the go-to entry point for capsule espresso. It does one thing — pull a consistent shot of espresso — and does it well, in a package small enough to fit anywhere.
 
 ## What Buyers Love

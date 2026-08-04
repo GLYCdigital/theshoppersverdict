@@ -38,8 +38,6 @@ cons:
   - "Some vibration at higher speeds with heavy doughs"
 ---
 
-## The Verdict
-
 The Cuisinart SM-50NAS occupies the sweet spot in the stand mixer market: serious enough for a bread baker who grinds their own flour, affordable enough for someone who just wants better cookies. With 9,956 Amazon reviews averaging 4.7 stars, it is one of the best-reviewed consumer stand mixers at any price. The consensus after thousands of owners is clear — this mixer competes directly with KitchenAid at roughly half the cost.
 
 ## What Buyers Love

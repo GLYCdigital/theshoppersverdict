@@ -28,8 +28,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Xtremeclear 3" Swimming Pool Chlorine is a popular choice - with 3,652 Amazon reviews behind it. Here is what buyers actually say.
 
 > "However the bucket it comes in is very sturdy and nice"

@@ -30,8 +30,6 @@ cons:
   - "That or I want them to take the brewer back because it's apparently defective."
 ---
 
-## The Verdict
-
 The Fellow Aiden Precision Smart Drip is a popular choice - with 949 Amazon reviews behind it. Here is what buyers actually say.
 
 > "In addition to the other features that make the Aiden great (stylish looks on the counter, extremely well made and thought out com..."

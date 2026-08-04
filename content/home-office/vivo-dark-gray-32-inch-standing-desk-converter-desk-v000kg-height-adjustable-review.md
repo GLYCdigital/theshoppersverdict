@@ -32,8 +32,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The VIVO Dark Gray 32 inch is a popular choice - with 15,578 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Excellent quality & sturdy after 2 years"

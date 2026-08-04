@@ -27,8 +27,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Hint Infused Bottled, Best Sellers has 33,615 Amazon reviews and averages **4.3/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short

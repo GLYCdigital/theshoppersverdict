@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Nespresso VertuoPlus Coffee and Espresso is a popular choice - with 8,461 Amazon reviews behind it. Here is what buyers actually say.
 
 > "I've only owned the machine for a month, but the build and overall experience lends itself to belief this is a very high-quality u..."

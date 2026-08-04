@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Indoor Kids Baby Couch Slide is a popular choice - with 363 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Lots of fun for a toddler, safe height from a couch, sturdy material, highly recommend"

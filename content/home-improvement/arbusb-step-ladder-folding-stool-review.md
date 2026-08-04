@@ -35,8 +35,6 @@ cons:
   - "Plastic construction may not suit industrial use"
 ---
 
-## The Verdict
-
 A step ladder is one of those things you don't think about until you're wobbling on a dining chair trying to change a light bulb. The Arbusb 3-Step Ladder is the right answer to that problem, and with a 4.8-star rating from over 1,000 Amazon buyers, it's clearly striking a chord.
 
 The headline feature is how thin it folds — just 2.1 inches when collapsed. That's barely thicker than a laptop. You can stash it behind a door, between appliances, or flat against a closet wall without sacrificing usable storage space. When opened, it stands 40.9 inches tall with a handrail for extra stability.

@@ -29,8 +29,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The BALEINE Non Slip Rug Pad is a popular choice - with 2,964 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Great value and worth it"

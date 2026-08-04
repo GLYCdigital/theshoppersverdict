@@ -51,6 +51,4 @@ The criticism comes mostly from owners of senior dogs or small breeds with denta
 
 Milk-Bone's Buffalo, New York facility is a selling point that comes up in reviews. In an era where pet food recalls are common, knowing where your dog's treats come from matters. The calcium fortification is another plus — these aren't empty-calorie snacks.
 
-## The Verdict
-
 Milk-Bone MaroSnacks are the gold standard for small-dog training treats at this price point. The dual texture is genuinely innovative, the calorie count is training-friendly, and the 4.7-star rating across 16K reviews speaks for itself. If your dog is a picky eater or you're going through training treats faster than you'd like, this 40 oz canister is the answer.

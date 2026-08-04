@@ -44,5 +44,4 @@ The 360° gooseneck is the star. It stays exactly where you bend it, doesn't dro
 
 The only minor limitation: "It doesn't have as many color/brightness options as some, so read the description carefully." Three colors and smooth dimming cover most needs, but if you want granular control, you'll need a pricier lamp.
 
-## The Verdict
 The SUPERDANNY clamp lamp is the best sub- desk lamp on Amazon. The build quality is genuinely impressive for the price, the light output is excellent, and the clamp + gooseneck design solves the "taking up desk space" problem that plagues traditional desk lamps. At .98, there's no reason not to buy one. Or two.

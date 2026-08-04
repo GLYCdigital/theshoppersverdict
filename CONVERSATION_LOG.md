@@ -336,3 +336,18 @@ Sent to Ops group for visibility.
 [00:13 SGT] Heartbeat: no TASK_*.md files pending. No action needed.
 [07:19 SGT] Heartbeat: no TASK_*.md files pending. No action needed.
 [08:00 SGT] Daily batch: 10 briefings ready. 9 already published (tracked). Wrote 1 missing review (Breville BDC650BSS Grind Control, B00VGGVQCI, 3.5★/6540). QA passed. Task files moved to done.
+[08:45 SGT] Health check: pipeline OK (1 review Breville Grind Control, deploy success, images OK, no placeholders)
+[09:42 SGT] Heartbeat: no TASK_*.md files pending. No action needed.
+[21:20 SGT] Gabriel DM: run daily processes + report DeepSeek token spend avg
+[21:22 SGT] Daily process run-through complete: pipeline OK (16 reviews today), queue healthy, 14 pending briefings for tomorrow. Token spend report: 14d avg $0.84/day, 7d avg $1.07/day. FLAG: DeepSeek balance $1.89 - billing cooldown errors on email monitor, top-up needed.
+[22:12 SGT] Gabriel DM: check all jobs + models used (flash vs pro)
+[22:14 SGT] Reported: all 5 jobs use deepseek-v4-flash (default), none on pro. Email monitor 6 consecutive errors (timeout).
+[22:15 SGT] Gabriel DM: confirm 01:00 pipeline review writing is LLM-driven
+[22:16 SGT] Confirmed: 01:00 batch is SCRIPT-generated (ink_review_writer.py, zero LLM calls). Only hand-written reviews (Breville Grind Control @08:00) are LLM-authored.
+[22:22 SGT] Gabriel DM: 3 site issues - main vs today page mismatch, latest additions quality, repeated 'The Verdict' heading
+[22:47 SGT] Gabriel: 'Fix' — executing 3 fixes (homepage cache, today page categories, duplicate Verdict heading)
+[22:47 SGT] Fixing 3 issues: today categories, duplicate The Verdict heading, homepage cache
+[22:47 SGT] Fixing 3 issues: today categories, duplicate The Verdict heading, homepage cache
+[22:47 SGT] Fixing 3 issues: today categories, duplicate The Verdict heading, homepage cache
+[22:47 SGT] Fixing: 1) today categories 2) dup Verdict heading 3) homepage cache+purge
+[22:48 SGT] Fixes done: today template + writer + _headers + deploy purge step + 210 files stripped. Pushing.

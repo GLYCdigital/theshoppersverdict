@@ -36,8 +36,6 @@ cons:
   - "Some users report variability in crema quality"
 ---
 
-## The Verdict
-
 The Philips 3200 Series with LatteGo is the smart middle ground in the fully automatic espresso market. It is cheaper than a Jura or Miele, but significantly more capable than entry-level bean-to-cup machines. With 6,190 Amazon reviews averaging a solid 4.0 out of 5, it is one of the most popular automatic machines at this price tier — and for good reason.
 
 ## What Buyers Love

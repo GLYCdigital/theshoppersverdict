@@ -31,8 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The MUELLER HOME 12-Cup Red Coffee is a popular choice - with 9,033 Amazon reviews behind it. Here is what buyers actually say.
 
 > "Just solid performance"

@@ -26,8 +26,6 @@ cons:
   - "Minor drawbacks noted by some users"
 ---
 
-## The Verdict
-
 The Hamilton Beach Portable Blender for has 70,156 Amazon reviews and averages **4.2/5 stars**. We analyzed the feedback to help you decide.
 
 ## Where It Falls Short
