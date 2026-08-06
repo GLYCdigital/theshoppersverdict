@@ -64,20 +64,45 @@ if [ "$YIELD" = "0" ]; then
   exit 0
 fi
 
-# ─── Review Writer ─────────
-log "Starting review writer..."
+# Source API keys (gitignored)
+export $(grep -v '^#' scripts/.env | xargs) 2>/dev/null
+
+# ─── Review Writer (LLM) ─────────
+log "Starting LLM review writer..."
 # Only process data files newer than pipeline start (partial yield safe)
 WRITER_FILES=$(find briefings -name "*_data.json" -newermt "$RUN_START" -size +100c 2>/dev/null || echo "")
 if [ -z "$WRITER_FILES" ]; then
   WRITER_FILES="briefings/*_data.json"
 fi
-WRITER_OUT=$(run_with_timeout 600 python3 scripts/ink_review_writer.py $WRITER_FILES 2>&1) || {
-  log "Review writer failed"
-  echo "⚠️ Review writer failed. Pipeline: $YIELD briefings ready. Check $STATUS_FILE"
-  exit 1
-}
-echo "$WRITER_OUT" | tail -5
-log "Writer done"
+
+WRITTEN=0
+FAILED=0
+for bf in $WRITER_FILES; do
+  [ -f "$bf" ] || continue
+  # Skip files that don't match our category pattern
+  case "$(basename "$bf")" in
+    *_data.json) ;;
+    *) continue ;;
+  esac
+  log "  Writing review for: $(basename "$bf")"
+  if python3 scripts/ink_llm_writer.py "$bf" 2>&1; then
+    WRITTEN=$((WRITTEN + 1))
+    log "  ✅ $bf"
+  else
+    FAILED=$((FAILED + 1))
+    log "  ❌ $bf (failed, continuing)"
+  fi
+done
+
+echo "📝 LLM Writer: $WRITTEN written, $FAILED failed"
+log "LLM writer done ($WRITTEN/$((WRITTEN+FAILED)))"
+YIELD=$WRITTEN
+
+if [ "$YIELD" = "0" ]; then
+  log "No reviews written — nothing to commit"
+  echo "⚠️ No reviews generated. Pipeline done."
+  exit 0
+fi
 
 # ─── ShelfWatch snapshot ───
 # Append today's fresh scrape data to the price/rating history store (data/history/).
