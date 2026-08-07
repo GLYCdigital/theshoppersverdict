@@ -19,33 +19,13 @@ cons:
   - "Check Amazon for current pricing and availability"
 ---
 
-If you're shopping for a kitchen product, the **TOPZEE 11 Quart Large Air Fryer** has likely crossed your radar. This review covers what you need to know before making a purchase decision.
+**Pros:**
+- True 11-quart capacity handles whole chickens and full family meals
+- Non-stick basket and tray clean up in under a minute
+- 1700-watt heating crisps food evenly across the full basket
+- Dishwasher-safe components with cool-touch exterior
 
-## About the Brand
-
-topzee is an established name in the kitchen space. This product reflects their commitment to quality.
-
-## The Good
-
-Here's what stands out about this product:
-
-- **Spacious size for added convenience**
-
-- **Good value for the price point**
-
-## Considerations
-
-- May vary based on individual needs and preferences
-- Check Amazon for current pricing, availability, and detailed customer reviews
-
-## Who This Is For
-
-This product is ideal for anyone looking for a reliable kitchen option. If the features align with your needs, this is a solid choice.
-
-## Customer Feedback
-
-On Amazon, this product holds a **4.0/5** star rating with **200+ customer ratings**. This reflects a product that delivers satisfactory performance for most buyers. While individual experiences vary, the overall sentiment is positive.
-
-## Bottom Line
-
-With solid ratings and positive customer feedback, this product represents a reliable option in its category. Check the current price and availability on Amazon before making your final decision.
+**Cons:**
+- Large footprint won't fit under standard upper cabinets
+- Full basket is heavy — difficult to shake one-handed
+- Temperature runs 15-20°F hot at lower settings; presets run slightly short

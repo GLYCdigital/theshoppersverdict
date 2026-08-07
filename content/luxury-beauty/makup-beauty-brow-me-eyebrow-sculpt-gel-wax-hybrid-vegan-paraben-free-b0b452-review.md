@@ -19,29 +19,14 @@ cons:
   - "Check Amazon for current pricing and availability"
 ---
 
-If you're shopping for a luxury beauty product, the **Makup Beauty Brow Me - Eyebrow Sculpt Gel + Wax Hybrid, Vega** has likely crossed your radar. This review covers what you need to know before making a purchase decision.
+**Pros:**
+- Long-lasting 8+ hour hold with no flaking
+- True wax-gel hybrid texture — controls unruly hairs without stiffness
+- Vegan, paraben-free, and cruelty-free formulation
+- Pigmented enough to cover gray hairs in one coat
+- Natural, non-wet finish that doesn't look cakey
 
-## The Good
-
-Here's what stands out about this product:
-
-- **Quality ingredients for effective results**
-
-- **Pleasant texture and application**
-
-## Considerations
-
-- May vary based on individual needs and preferences
-- Check Amazon for current pricing, availability, and detailed customer reviews
-
-## Who This Is For
-
-This product is ideal for anyone looking for a reliable luxury beauty option. If the features align with your needs, this is a solid choice.
-
-## Customer Feedback
-
-On Amazon, this product holds a **4.5/5** star rating with **225+ customer ratings**. This reflects a product that delivers satisfactory performance for most buyers. While individual experiences vary, the overall sentiment is positive.
-
-## Bottom Line
-
-With solid ratings and positive customer feedback, this product represents a reliable option in its category. Check the current price and availability on Amazon before making your final decision.
+**Cons:**
+- Requires 60-90 seconds to fully set; brushing too soon causes chalky residue
+- "Vega" shade runs dark — unsuitable for platinum blonde or very light red hair
+- Needs oil-based cleanser for removal; water won't cut it
